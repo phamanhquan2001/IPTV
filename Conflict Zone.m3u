@@ -100,6 +100,44 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://ythls.armelin.one/channel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://paradoxlive.jp/matome/assets/siteinfo/og_image.jpg", CGTN - Paradox Live (Youtube Live Feed by Lanzhu Zhong)
 https://ythls.armelin.one/channel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
+https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="RT.ru",Russia Today
+https://epg.pw/stream/8487685c62acef947b812fd56054696a38cc39c32a9696bf7f93d4d254625940.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNNTurk.tr",CNN Turk
+https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNews.gb",SkyNews
+http://free.cvmtv.site/SkyN?token=live
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNN.us",CNN
+http://free.cvmtv.site/CNN?token=live
+#EXTINF:-1 group-title="🌏| News Update",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
+http://free.cvmtv.site/PhxInfo?token=live
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
+https://edge.taghtia.com/sa/4.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
+https://epg.pw/stream/ea349724c460335fd9ef12d8ca1e113842385406b7a93bdc74c27fe39b9b60ff.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
@@ -152,44 +190,6 @@ https://epg.pw/stream/1b367756caa7fe6230bafd68f00974d872054283a702768f34c8a0f8af
 https://epg.pw/stream/dd9ca4aa547e3832c8c7008acf9ff3c3cd05ce90584d01a406afdeba3f143b00.ctv
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ 1
 https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
-https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="RT.ru",Russia Today
-https://epg.pw/stream/8487685c62acef947b812fd56054696a38cc39c32a9696bf7f93d4d254625940.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNNTurk.tr",CNN Turk
-https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNews.gb",SkyNews
-http://free.cvmtv.site/SkyN?token=live
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNN.us",CNN
-http://free.cvmtv.site/CNN?token=live
-#EXTINF:-1 group-title="🌏| News Update",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
-http://free.cvmtv.site/PhxInfo?token=live
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
-https://edge.taghtia.com/sa/4.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Arabiya Al Hadath (1080p) [Not 24/7]
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
-https://epg.pw/stream/ea349724c460335fd9ef12d8ca1e113842385406b7a93bdc74c27fe39b9b60ff.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视)
 http://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV (上海东方卫视)
