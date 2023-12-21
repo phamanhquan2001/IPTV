@@ -32,7 +32,7 @@ https://live2.alalam.ir/alalam.m3u8
 https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 group-title="🇮🇷/Iran" tvg-id="PressTV.ir",Press TV (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax - KurdistanTV (Main Feed from Erbil)
+#EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
 https://epg.pw/stream/bad5ee70df909cc76d1e1aabbbe9737082f86dd08c32dc6700e65835bb8b33a9.m3u8
@@ -44,9 +44,11 @@ https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0
 http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK-E (NHK教育テレビジョン)
 http://asia.vthanhtivi.pw/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV (日本テレビ)
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV - Nghệ An/Ninh Thuận (日本テレビ/日テレ)
 http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV News24 TV - Nghệ An/Ninh Thuận (日テレNEWS24)
+https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS / Tokyo Broadcasting System
 http://asia.vthanhtivi.pw/TBS/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  (フジテレビ)
 http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
@@ -101,26 +103,28 @@ https://ythls.armelin.one/channel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
-http://fpt.vthanhtivi.pw/Bloomberg/mpegts
+https://epg.pw/stream/b7d744e4ed6acdceaed1044b65193a04312fb41dc7453fd1f4a95e3b5d6d7d84.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
-http://fpt.vthanhtivi.pw/BBC_News/mpegts
+https://epg.pw/stream/3ff9144f6dcba9eb1bde65774014dbe98ad583e5d953ec3399cde3aa2ea14e61.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
-http://fpt.vthanhtivi.pw/CNBC/mpegts
+https://epg.pw/stream/62a93999e7f3b655444ff047ffe82d27a6fce8f0485a78e07401292b8949f738.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+https://epg.pw/stream/95f8bf0332c5206cd91decbcd04347d306bbb9a315a610180f05a050bae0a9c7.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://epg.pw/stream/c18f59a96ee50db73284a03a2e25bc4ffd9eb5b51d9924d6c31e92362f0546e4.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
-http://103.130.141.67:81/live/3/playlist.m3u8
+https://epg.pw/stream/78b5f95a56e6da209d5526a6a296ced51b24d5cb721150f27946987584e919e9.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+https://epg.pw/stream/fb806d58f6cd329186ae8f20480c5f6f3948d5df05624db916d08a02b0419aab.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://epg.pw/stream/8d3f4feb344b4a771e4e606b990b1008d380a92f5d74855889d39d940c347c27.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
+https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8
@@ -184,6 +188,8 @@ https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
+https://epg.pw/stream/ea349724c460335fd9ef12d8ca1e113842385406b7a93bdc74c27fe39b9b60ff.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视)
 http://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV (上海东方卫视)
