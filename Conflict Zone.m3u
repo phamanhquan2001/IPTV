@@ -781,3 +781,5 @@ ttp://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index
 http://free.cvmtv.site/ZJTV?token=live
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://www.tv-tokyo.co.jp/anime/idolypride/images/teaserlogo.png",宁夏卫视 - Truyền Hình Ninh Hạ / Idoly Pride Channel (アイプラチャンネル)
 https://epg.pw/stream/24fcf990dd79a2ade1131cec40c3431ff661b6295d7ad2c2dcc01c290a0eb222.m3u8
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",吉林卫视 - Truyền Hình Cát Lâm / LoveLive School Idol Project
+https://epg.pw/stream/357009448ccaa3488c35033cc23be9be91a5707b82e3707f6170795700b08735.m3u8
