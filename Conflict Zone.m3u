@@ -35,7 +35,7 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
-http://vthanhtivi.pw:5000/animax/index.m3u8
+https://epg.pw/stream/bad5ee70df909cc76d1e1aabbbe9737082f86dd08c32dc6700e65835bb8b33a9.m3u8
 #EXTINF:-1 tvg-id="" group-title="Anime Chọn Lọc" group-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS-Asia TV / Al Mayadeen TV (Phụ Đề Tiếng Anh)
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Anime Chọn Lọc" group-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS-Asia TV / Al Mayadeen TV (Phụ Đề Tiếng Indonesia)
@@ -170,7 +170,7 @@ https://ythls.armelin.one/channel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8
 https://ythls.armelin.one/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Jilin_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20231104095340",LoveLive School Idol Project / Jilin Television (Broadcast Live from Studio S24 from Otonokizaka High School)
 https://ythls.armelin.one/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8
-#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://www.xhzb.tw/uploads/18/1-1P51G91250538.jpg“,LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道)
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://bkimg.cdn.bcebos.com/pic/71cf3bc79f3df8dc7a24ade3cd11728b471028a2?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxMTY=,g_7,xp_5,yp_5/format,f_auto“,LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道)
 https://ythls.armelin.one/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://cdn.hqth.me/logo/category/thietyeu.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV HD - Truyền Hình CAND
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
