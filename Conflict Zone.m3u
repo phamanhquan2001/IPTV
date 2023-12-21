@@ -40,9 +40,9 @@ https://epg.pw/stream/bad5ee70df909cc76d1e1aabbbe9737082f86dd08c32dc6700e65835bb
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Anime Chọn Lọc" group-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS-Asia TV / Al Mayadeen TV (Phụ Đề Tiếng Indonesia)
 https://epg.pw/stream/41ca91e711a2c5e9994ff6785028af59ab808a7e85f8eeeefd91c60ba0f9e93a.ctv
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK General TV (NHK総合テレビ)
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK General TV / NHK-G (NHK総合テレビ)
 http://asia.vthanhtivi.pw/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK-E (NHK教育テレビジョン)
 http://asia.vthanhtivi.pw/NHK_E/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV (日本テレビ)
 http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
@@ -146,7 +146,7 @@ https://epg.pw/stream/926858ce8fec7123b081832a0f1a99fcb90a0635ccbd66ee4db51f9071
 https://epg.pw/stream/1b367756caa7fe6230bafd68f00974d872054283a702768f34c8a0f8afaac799.ctv
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 https://epg.pw/stream/dd9ca4aa547e3832c8c7008acf9ff3c3cd05ce90584d01a406afdeba3f143b00.ctv
-#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ 1
 https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
 https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
@@ -160,6 +160,30 @@ http://free.cvmtv.site/SkyN?token=live
 http://free.cvmtv.site/CNN?token=live
 #EXTINF:-1 group-title="🌏| News Update",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
 http://free.cvmtv.site/PhxInfo?token=live
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
+https://edge.taghtia.com/sa/4.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视)
 http://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV (上海东方卫视)
