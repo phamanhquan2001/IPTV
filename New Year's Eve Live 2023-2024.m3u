@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",TVNZ-1
-https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b8cacd1f8/TVNZ_1/master.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",NHK-G
 http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",ABC News TV
@@ -20,19 +18,17 @@ https://ythls.armelin.one/video/3kPH7kTphnE.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",TVB Jade
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",VTV1 (Việt Nam 2023 - Hành Trình Rạng Rỡ
-https://epg.pw/stream/ac6816744352e3bec7e849be5f800325704b9a52180af11c6ad720687a9e9bf4.ctv
+http://vtv.cvmtv.site/VTV1HD?token=live
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",VTV3 (Đêm chung kết HHHV Việt Nam 2023)
-https://epg.pw/stream/c0cecfeed0365032b0978681d37072ddcab8d231698f804113d0514b9a87222b.ctv
-#EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",VTV Cần Thơ 1
-https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.m3u8
+http://vtv.cvmtv.site/VTV3HD?token=live
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",THTPCT - Đài PT-TH TP. Cần Thơ
-https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.ctv
+https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",HTTV - Truyền Hình Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",THP - Truyền Hình Hải Phòng
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.ctv
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",VTC1 - Đài TH KTS
-https://epg.pw/stream/abd974315dda7d16b2e5894ef79f450133a04774edcc3b86eda3dc4b4d9336a8.ctv
+https://epg.pw/stream/abd974315dda7d16b2e5894ef79f450133a04774edcc3b86eda3dc4b4d9336a8.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",HTV9 - Đài TH TP HCM (Không khí đêm giao thừa và bắn pháo hoa)
 http://vtv.cvmtv.site/HTV9?token=live
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",SkyNews Live
