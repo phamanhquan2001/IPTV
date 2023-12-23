@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",NHK-G
 http://asia.vthanhtivi.pw/NHK_G/index.m3u8
+#EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",TBS
+http://asia.vthanhtivi.pw/TBS/index.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",ABC News TV
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",Arirang News
