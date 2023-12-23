@@ -5,12 +5,6 @@ https://d2ce82tpc3p734.cloudfront.net/v1/master/b1f4432f8f95be9e629d97baabfed15b
 http://asia.vthanhtivi.pw/NHK_G/index.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",ABC News TV
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",KBS-1
-https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
-#EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",MBC
-http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",Arirang News
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",YTN News
