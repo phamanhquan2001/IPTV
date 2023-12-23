@@ -823,3 +823,15 @@ http://free.cvmtv.site/ZJTV?token=live
 https://epg.pw/stream/24fcf990dd79a2ade1131cec40c3431ff661b6295d7ad2c2dcc01c290a0eb222.m3u8
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",吉林卫视 - Truyền Hình Cát Lâm / LoveLive School Idol Project
 https://epg.pw/stream/357009448ccaa3488c35033cc23be9be91a5707b82e3707f6170795700b08735.m3u8
+#EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
+https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
+https://ythls.armelin.one/channel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
+https://ythls.armelin.one/channel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
+https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican
+http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
+https://ythls.armelin.one/channel/UC4HqQT1uH3dzz_ZSR_mVUEw.m3u8
