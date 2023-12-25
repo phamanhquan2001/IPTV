@@ -22,9 +22,11 @@ https://epg.pw/stream/233634ce77c8164e38f9fa13237275a55972ae5a7880f474d37f6e16f6
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",TVB Jade
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",VTV1 (Việt Nam 2023 - Hành Trình Rạng Rỡ)
-http://vtv.cvmtv.site/VTV1HD?token=live
+https://epg.pw/stream/ac6816744352e3bec7e849be5f800325704b9a52180af11c6ad720687a9e9bf4.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",VTV3 (Đêm chung kết HHHV Việt Nam 2023)
-http://vtv.cvmtv.site/VTV3HD?token=live
+https://epg.pw/stream/c0cecfeed0365032b0978681d37072ddcab8d231698f804113d0514b9a87222b.m3u8
+#EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",VTV Cần Thơ 1
+https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",THTPCT - Đài PT-TH TP. Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 group-title="New Year's Eve 2023-2024 Live",HTTV - Truyền Hình Hà Tĩnh
