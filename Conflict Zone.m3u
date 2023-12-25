@@ -152,6 +152,14 @@ https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNewsPortrait.sa",Asharq News Portrait (1280p)
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
 https://epg.pw/stream/ea349724c460335fd9ef12d8ca1e113842385406b7a93bdc74c27fe39b9b60ff.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
