@@ -75,13 +75,17 @@ http://asia.vthanhtivi.pw/AT-X/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="MetroTV.id",METROTV
-https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+https://epg.pw/stream/b04c8243a27bdd51b8ebcd099c2d04dbdc9498b1b2062d05b03e5a65a77e20a0.ctv
+#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/67/Logo_The_Idolmaster_2.png",KOMPAS-TV / The iDOLM@STER 2-TV
+https://epg.pw/stream/ebb9ff07e7a8b7712c3f54ab28039c7b734cc9ebd383d3812768f60e525212ec.ctv
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="TVOne.id" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",VIVA TVOne / Weathernews LiVE (ウェザーニュースLiVE)
 https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="NET.id",.NET TV
-https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/67/Logo_The_Idolmaster_2.png",KOMPAS-TV / The iDOLM@STER 2-TV
-https://ythls.armelin.one/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
+https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
+#EXTINF:-1 group-title="Saudi Live Cam" tvg-id="NET.id",Makkah Live
+https://epg.pw/stream/82e4869cdd3533f9a40bb8e32ea46e5c897d1fcd5b5d0734cf6b62bdf403f2a5.m3u8
+#EXTINF:-1 group-title="Saudi Live Cam" tvg-id="NET.id",Makkah Live
+https://epg.pw/stream/6a889dcf3118dfb2946fcd4409f4efc79b5aff75dbcf96e605225b194b4c4672.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.1
 https://ythls.armelin.one/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.2
