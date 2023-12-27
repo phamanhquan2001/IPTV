@@ -224,8 +224,10 @@ https://ythls.armelin.one/channel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8
 https://ythls.armelin.one/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Jilin_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20231104095340",LoveLive School Idol Project / Jilin Television (Broadcast Live from Studio S24 from Otonokizaka High School)
 https://ythls.armelin.one/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8
-#EXTINF:-1 group-title="Youtube Live",LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道)
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.nximg.cn/file/20190510/27790005_133331887691_2.jpg",LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道)
 https://ythls.armelin.one/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://bpic.51yuansu.com/pic3/cover/03/44/46/5ba2270c69684_610.jpg",Uma Musume Paka Chubu TV (ウマ娘 ぱかチューブっ!) / Fujian Longyan TV (福建龙岩市广播电视台)
+https://ythls.armelin.one/channel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://cdn.hqth.me/logo/category/thietyeu.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV HD - Truyền Hình CAND
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews - Truyền Hình TTXVN
@@ -815,7 +817,7 @@ http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",深圳卫视 - Truyền Hình Thâm Quyến, tỉnh Quảng Đông / PRSK-TV Domestic Channel
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",常州新闻综合 / PRSK-TV
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",常州新闻综合 / PRSK-TV - Truyền Hình Thường Tín, tỉnh Hồ Nam
 https://epg.pw/stream/9dd156fc5ed111b839c499edfcbee0340f039b04769215210690a284f6510bb1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",洛阳新闻综合频道 - Truyền Hình Lạc Dương, tỉnh Hà Nam / Hasunosora Girls' School Idol Club Channel TV1 (蓮ノ空女学院スクールアイドルクラブ)
 http://live1.lytv.com.cn:1935/live/LYTV1-2/playlist.m3u8
@@ -837,6 +839,8 @@ http://free.cvmtv.site/ZJTV?token=live
 https://epg.pw/stream/24fcf990dd79a2ade1131cec40c3431ff661b6295d7ad2c2dcc01c290a0eb222.m3u8
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",吉林卫视 - Truyền Hình Cát Lâm / LoveLive School Idol Project
 https://epg.pw/stream/357009448ccaa3488c35033cc23be9be91a5707b82e3707f6170795700b08735.m3u8
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/678375.jpg?zoom=spacing",济南新闻综合频道 / Triggerheart Exelica Channel - Truyền Hình Tế Nam, tỉnh Sơn Đông
+rtmp://tv.qntv.net/channellive/ch1
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
 https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
