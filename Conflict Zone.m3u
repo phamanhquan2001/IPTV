@@ -839,8 +839,8 @@ http://free.cvmtv.site/ZJTV?token=live
 https://epg.pw/stream/24fcf990dd79a2ade1131cec40c3431ff661b6295d7ad2c2dcc01c290a0eb222.m3u8
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",吉林卫视 - Truyền Hình Cát Lâm / LoveLive School Idol Project
 https://epg.pw/stream/357009448ccaa3488c35033cc23be9be91a5707b82e3707f6170795700b08735.m3u8
-#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/678375.jpg?zoom=spacing",济南新闻综合频道 / Triggerheart Exelica Channel - Truyền Hình Tế Nam, tỉnh Sơn Đông
-rtmp://tv.qntv.net/channellive/ch1
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/678375.jpg?zoom=spacing",济南历下频道 / Triggerheart Exelica Channel - Camera từ Lịch Hạ, Tế Nam, tỉnh Sơn Đông
+https://epg.pw/stream/3921fb4eeed2c5a68038e652fdf517d86a4e303c32e8b71a424a9748b6eeed89.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
 https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
