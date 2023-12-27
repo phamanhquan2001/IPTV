@@ -84,9 +84,9 @@ https://epg.pw/stream/ebb9ff07e7a8b7712c3f54ab28039c7b734cc9ebd383d3812768f60e52
 https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="NET.id",.NET TV
 https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
-#EXTINF:-1 group-title="Saudi Live Cam" tvg-id="NET.id",Makkah Live
+#EXTINF:-1 group-title="Saudi Live Cam" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-quran-al-kareem-tv-logo.png",Al Quran Al Kareem TV - Live Camera from Masjid Al Haram of Mecca, Saudi Arabia
 https://epg.pw/stream/82e4869cdd3533f9a40bb8e32ea46e5c897d1fcd5b5d0734cf6b62bdf403f2a5.m3u8
-#EXTINF:-1 group-title="Saudi Live Cam" tvg-id="NET.id",Makkah Live
+#EXTINF:-1 group-title="Saudi Live Cam" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-sunnah-al-nabawiyah-tv-logo.png",Al Sunnah Al Nabawiyah - Live Camera from Masjid Al Nabawi of Medina, Saudi Arabia
 https://epg.pw/stream/6a889dcf3118dfb2946fcd4409f4efc79b5aff75dbcf96e605225b194b4c4672.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.1
 https://ythls.armelin.one/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
