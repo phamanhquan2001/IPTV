@@ -73,7 +73,7 @@ http://asia.vthanhtivi.pw/BS11/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (アニメシアターX)
 http://asia.vthanhtivi.pw/AT-X/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+https://epg.pw/stream/0cf0120f7e30d48181a59c493ca9c540280027bccd530ecae51486fcfd81c606.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="greench" tvg-logo="https://d23iyfk1a359di.cloudfront.net/files/topics/25885_ext_03_en_0.jpg?version=1614819492&width=824&height=464", Green Channel (グリーンチャンネル) / Uma Musume Pretty Derby Channel (ウマ娘プリティーダービーチャンネル) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="MetroTV.id",METROTV
