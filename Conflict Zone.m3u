@@ -50,28 +50,16 @@ http://vthanhtivi.pw:5000/animax/index.m3u8
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Anime Chọn Lọc" group-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS-Asia TV / Al Mayadeen TV (Phụ Đề Tiếng Indonesia)
 https://epg.pw/stream/1759bdd02564ae4c4d3f63ca23af333bdfc7cf18a813f716db22a4a4136f6259.ctv
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK General TV / NHK-G (NHK総合テレビ)
-http://asia.vthanhtivi.pw/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK-E (NHK教育テレビジョン)
-http://asia.vthanhtivi.pw/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV - Nghệ An/Ninh Thuận (日本テレビ/日テレ)
-http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png", Yomiuri TV  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV News24 TV - Nghệ An/Ninh Thuận (日テレNEWS24)
-https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS / Tokyo Broadcasting System
-http://asia.vthanhtivi.pw/TBS/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  (フジテレビ)
-http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi (テレビ朝日) 
-http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo (テレ東)
-http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
-http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://asia.vthanhtivi.pw/BS11/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X (アニメシアターX)
-http://asia.vthanhtivi.pw/AT-X/index.m3u8
+https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.ctv
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
 https://epg.pw/stream/443d555a1303d82424886987126b174cf90f17ac067835bff79e386dcc2833b8.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="greench" tvg-logo="https://d23iyfk1a359di.cloudfront.net/files/topics/25885_ext_03_en_0.jpg?version=1614819492&width=824&height=464", Green Channel (グリーンチャンネル) / Uma Musume Pretty Derby Channel (ウマ娘プリティーダービーチャンネル) 
