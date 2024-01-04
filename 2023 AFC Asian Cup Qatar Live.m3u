@@ -47,3 +47,14 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/spotv2.m3u8
 https://epg.pw/stream/cb0504cd74ec9aff8b6368fe189b4470de124eb1675ce150839d2050de43f051.ctv
 #EXTINF:-1 tvg-id="inews",iNews TV
 https://epg.pw/stream/8921fe2e170707193374849b7edb471d150831b6ab6e53ccf95706bf6cbe5fd2.ctv
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
+http://free.cvmtv.site/vtv5?token=live
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://cdn.antmediatv.xyz/2.png" , VTV2
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/47e621dd77943c68bac6eb531b6c438287a3406c8d97b5833ab3e82086f0344c2a/tv360/3/2.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://cdn.antmediatv.xyz/6.png" , VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn tvg-logo="https://cdn.antmediatv.xyz/7.png" , VTV5 Tây Nguyên
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/47e621dd77943c68bac6eb531b6c438287a3406c8d97b5833ab3e82086f0344c2a/tv360/207/2.m3u8
