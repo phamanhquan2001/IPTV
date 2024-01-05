@@ -841,6 +841,14 @@ https://epg.pw/stream/24fcf990dd79a2ade1131cec40c3431ff661b6295d7ad2c2dcc01c290a
 https://epg.pw/stream/357009448ccaa3488c35033cc23be9be91a5707b82e3707f6170795700b08735.m3u8
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/678375.jpg?zoom=spacing",济南历下频道 / Triggerheart Exelica Channel - Camera từ Lịch Hạ, Tế Nam, tỉnh Sơn Đông
 https://epg.pw/stream/3921fb4eeed2c5a68038e652fdf517d86a4e303c32e8b71a424a9748b6eeed89.m3u8
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",QNBTV 黔南新闻综合频道 / Photon Maiden Channel (フォトンメイデンチャンネル) - Truyền Hình Kiến Nam, tỉnh Quý Châu
+rtmp://tv.qntv.net/channellive/ch1
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://cdn.akamai.steamstatic.com/steam/apps/1046480/capsule_616x353.jpg?t=1703662641",贵州卫视 / The iDOLM@STER Starlit Season - Truyền Hình Quý Châu
+https://epg.pw/stream/9fe32e48234ad98fdd614f3321501089d9e748f02c19bf1528b23785b3b71279.m3u8
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",LNTV辽宁卫视 / More More Jump - Truyền Hình Liêu Ninh
+https://epg.pw/stream/d3e6313d20b5df123b2919cb7cf9810dbd3ca26ebc41700e8ddf13d3c978492d.m3u8
+#EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",山东卫视 / Wonderlands x Showtime - Truyền Hình Sơn Đông
+https://epg.pw/stream/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
 https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
