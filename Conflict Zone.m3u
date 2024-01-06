@@ -12,35 +12,35 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="NablusTV.ps",Nablus TV from SDRT (720p) [Not 24/7]
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 group-title="🇮🇱/Israel" tvg-id="Kan11.il",KAN 11 Israel (1080p)
+#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (1080p)
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1 group-title="🇮🇱/Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
+#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:-1 group-title="🇮🇱/Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
+#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
-#EXTINF:-1 group-title="🇮🇱/Israel" tvg-id="Makan33.il",Makan 33 (1080p)
+#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Makan33.il",Makan 33 (1080p)
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1 group-title="🇮🇱/Israel" tvg-id="Channel13.il",Reshet 13 (1080p)
+#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Channel13.il",Reshet 13 (1080p)
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:-1 group-title="🇮🇱/Israel" tvg-id="Channel13.il",Reshet 13 (720p)
+#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Channel13.il",Reshet 13 (720p)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 group-title="🇮🇱/Israel" tvg-id="I24NewsEnglish.il",i24News English (720p)
+#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="I24NewsEnglish.il",i24News English (720p)
 https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" tvg-id="IRIB1.ir",IRIB1 (720p)
+#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB1.ir",IRIB1 (720p)
 https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" tvg-id="IRIB2.ir",IRIB2 (540p)
+#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB2.ir",IRIB2 (540p)
 https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" tvg-id="IRIB3.ir",IRIB3 (480p)
+#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB3.ir",IRIB3 (480p)
 https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" tvg-id="IRIB4.ir",IRIB4 (540p)
+#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB4.ir",IRIB4 (540p)
 https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" tvg-id="IRIB5.ir",IRIB5 (540p)
+#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB5.ir",IRIB5 (540p)
 https://live.aionet.ir/hls/tv5/tv5.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" group-title="🇮🇷/Iran" tvg-id="AlAlam.ir",Al Alam (360p) [Not 24/7]
+#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="AlAlam.ir",Al Alam (360p) [Not 24/7]
 https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" group-title="🇮🇷/Iran" tvg-id="IRINN.ir",IRINN (540p)
+#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN.ir",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
-#EXTINF:-1 group-title="🇮🇷/Iran" tvg-id="PressTV.ir",Press TV (720p)
+#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="PressTV.ir",Press TV (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
