@@ -1,11 +1,4 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" tvg-shift=0 m3uautoload=1
-
-#EXTINF:-1 group-title="Information" ,paypal.me/Tieptran1970 | Donate
-http://google.com
-#EXTINF:-1 group-title="Information" ,TEST LIST! report issue in github
-https://google.com
-
-
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G No Delay
 http://for-testonly.ra1n.lol:80/nhkg/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G No Delay 2
@@ -212,13 +205,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV News24 TV - Nghệ An/Ninh Thuận (日テレNEWS24)
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV News24 (日テレNEWS24)
 https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.ctv
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
+#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
 https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.ctv
 #EXTINF:-1 tvg-id="JOABDTV.jp",NHK E (Tokyo) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
@@ -238,10 +231,14 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="NTVNEWS24.jp",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="Live Cam from Haneda",Feed No.1
-https://ythls.armelin.one/video/S6rUzRk3dLI.m3u8
-#EXTINF:-1 group-title="Live Cam from Haneda",Feed No.2
-https://ythls.armelin.one/video/zkiCWWO6-l4.m3u8
+#EXTINF:-1 tvg-id="ANNNewsCH.jp",ANNNewsCH
+https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+#EXTINF:-1 tvg-id="tbsnewsdig.jp",TBS News Dig
+https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+#EXTINF:-1 tvg-id="fnnprimeonline.jp",FNNプライムオンライン
+https://ythls.armelin.one/channel/UCoQBJMzcwmXrRSHBFAlTsIw.m3u8
+#EXTINF:-1 tvg-id="hab.jp",HAB
+https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
 #EXTINF:-1 group-title="Earthquake Warning",Feed No.1
 https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
 #EXTINF:-1 group-title="Earthquake Warning",Feed No.2
@@ -256,23 +253,23 @@ https://ythls.armelin.one/channel/UCUVWoy_rGPdZeUp7jjRHOaQ.m3u8
 https://ythls.armelin.one/channel/UCeEkbpBLgTEHy9NP-JHnPYQ.m3u8
 #EXTINF:-1 group-title="Earthquake Warning",Feed No.7
 https://ythls.armelin.one/channel/UCyMW-_pfjsTG76c9tP5SErg.m3u8
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.1
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.1
 https://www.liveatc.net/play/rjtt_app_dep.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.2
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.2
 https://www.liveatc.net/play/rjtt_app.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.2 (ATIS Comms Live from Blue Archive)
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.2 (ATIS Comms Live from Blue Archive)
 https://www.liveatc.net/play/rjtt_atis.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.3
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.3
 https://www.liveatc.net/play/rjtt2.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.4
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.4
 https://www.liveatc.net/play/rjtt_gnd.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.5
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.5
 https://www.liveatc.net/play/rjtt_twr_tca.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.6
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.6
 https://www.liveatc.net/play/rjtt_dep.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.7
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.7
 https://www.liveatc.net/play/rjtt_control.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda after collision incident",Feed No.8
+#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.8
 https://www.liveatc.net/play/rjtt_twr.pls
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
