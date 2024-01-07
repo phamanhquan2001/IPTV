@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Main Update Feed)
+https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Chirihama Sunset (千里浜サンセット)
+https://ythls.armelin.one/video/mrdsIr8dyTs.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Hokuriku Asahi Broadcasting - HAB北陸朝日放送) TV Station Headquarters
+https://ythls.armelin.one/video/a3fsiU6ilHU.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Chirihama (能登千里浜)
+https://ythls.armelin.one/video/GcVWo1DOeGc.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Kanazawa Train Station (金沢駅)
+https://ythls.armelin.one/video/i5ZEjaFK-II.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Ishikawa Prefectural Offices HQ (石川県庁)
+https://ythls.armelin.one/video/oVXflCdHug4.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Wajima Live Cam (能登輪島)
+https://ythls.armelin.one/video/5TJDnxNZRgg.m3u8
+
+#EEW
+#EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
+https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
+#EXTINF:-1 tvg-id="EEW.jp",Sub Channel 1
+https://ythls.armelin.one/video/f4oTtah7k5Q.m3u8
+#EXTINF:-1 tvg-id="EEW.jp",Sub Channel 2
+https://ythls.armelin.one/video/MhiLrPjBbMw.m3u8
