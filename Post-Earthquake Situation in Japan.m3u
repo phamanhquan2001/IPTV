@@ -2,6 +2,8 @@
 
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Main Update Feed)
 https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Main Update Feed #2)
+https://ythls.armelin.one/video/ztYNoOp1bOU.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Chirihama Sunset (千里浜サンセット)
 https://ythls.armelin.one/video/mrdsIr8dyTs.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Hokuriku Asahi Broadcasting - HAB北陸朝日放送) TV Station Headquarters
@@ -14,6 +16,8 @@ https://ythls.armelin.one/video/i5ZEjaFK-II.m3u8
 https://ythls.armelin.one/video/oVXflCdHug4.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Wajima Live Cam (能登輪島)
 https://ythls.armelin.one/video/5TJDnxNZRgg.m3u8
+#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Suzu Live Cam (能登珠洲)
+https://ythls.armelin.one/video/vEJRUn85kZw.m3u8
 
 #EEW
 #EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
@@ -98,38 +102,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&b
 #EXTINF:-1 group-title="BS" tvg-id="nihoneiga" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg", BS Japan Movie Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://jp.vthanhnetwork.com/BS11/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-http://jp.vthanhnetwork.com/AT-X/index.m3u8
-
-#EXTINF:-1 group-title="Test" tvg-id="teletama" tvg-logo="https://www.teletama-app.jp/view/images/tvs.png", TVS
-http://for-testonly.ra1n.lol/teletama/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11 HD (Test)
-http://for-testonly.ra1n.lol/bs11/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
-http://for-testonly.ra1n.lol/at-x/index.m3u8
-
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-http://jp.vthanhnetwork.com/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
-http://jp.vthanhnetwork.com/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
-http://jp.vthanhnetwork.com/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
-http://jp.vthanhnetwork.com/TBS/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
-http://jp.vthanhnetwork.com/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
-http://jp.vthanhnetwork.com/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
-http://jp.vthanhnetwork.com/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
-http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://jp.vthanhnetwork.com/BS11/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-http://jp.vthanhnetwork.com/AT-X/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png", MBS
