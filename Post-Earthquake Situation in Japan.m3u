@@ -218,54 +218,8 @@ https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 https://ythls.armelin.one/channel/UCoQBJMzcwmXrRSHBFAlTsIw.m3u8
 #EXTINF:-1 tvg-id="hab.jp",HAB
 https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
-#EXTINF:-1 group-title="Earthquake Warning",Feed No.1
-https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
-#EXTINF:-1 group-title="Earthquake Warning",Feed No.2
-https://ythls.armelin.one/channel/UCuHYTHRIbJB-HQhWIs4lJ2g.m3u8
-#EXTINF:-1 group-title="Earthquake Warning",Feed No.3
-https://ythls.armelin.one/channel/UCCSz3WLwOm3bHDwxZNjO-_Q.m3u8
-#EXTINF:-1 group-title="Earthquake Warning",Feed No.4
-https://ythls.armelin.one/channel/UCd7sx-LjU_Xi6UKy12m1qxA.m3u8
-#EXTINF:-1 group-title="Earthquake Warning",Feed No.5
-https://ythls.armelin.one/channel/UCUVWoy_rGPdZeUp7jjRHOaQ.m3u8
-#EXTINF:-1 group-title="Earthquake Warning",Feed No.6
-https://ythls.armelin.one/channel/UCeEkbpBLgTEHy9NP-JHnPYQ.m3u8
-#EXTINF:-1 group-title="Earthquake Warning",Feed No.7
-https://ythls.armelin.one/channel/UCyMW-_pfjsTG76c9tP5SErg.m3u8
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.1
-https://www.liveatc.net/play/rjtt_app_dep.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.2
-https://www.liveatc.net/play/rjtt_app.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.2 (ATIS Comms Live from Blue Archive)
-https://www.liveatc.net/play/rjtt_atis.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.3
-https://www.liveatc.net/play/rjtt2.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.4
-https://www.liveatc.net/play/rjtt_gnd.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.5
-https://www.liveatc.net/play/rjtt_twr_tca.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.6
-https://www.liveatc.net/play/rjtt_dep.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.7
-https://www.liveatc.net/play/rjtt_control.pls
-#EXTINF:-1 group-title="Audio Feed from Tokyo Haneda",Feed No.8
-https://www.liveatc.net/play/rjtt_twr.pls
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
-http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
-http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Bắc
-https://stream.vovmedia.vn/vov4tb
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Đông Bắc
-https://stream.vovmedia.vn/vov4db
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 Tây Nguyên
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 ĐBSCL
-https://stream.vovmedia.vn/vov4dbscl
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 TPHCM
-https://stream.vovmedia.vn/vov4hcm
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV5
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV5 24/7
