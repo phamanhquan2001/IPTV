@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-1tvg-id="olympics.id",Olympics
 https://ythls.armelin.one/channel/UCTl3QQTvqHFjurroKxexy2Q.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/bandori/images/3/37/Ave_Mujica_logo.png/revision/latest?cb=20230918112823",Ave Mujica Channel / VTV5
+http://free.cvmtv.site/vtv5?token=live
+#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",Photon Maiden Channel / VTV5 TNB
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://anime-precure.com/import/images/precure20th_logo.webp",Precure 20th Anniversary Special Edition Channel for AFC Asian Cup 2023 / VTV Cần Thơ 1
+#EXTVLCOPT:http-user-agent=ANTmedia
+https://code.antmediatv.xyz/getplay/efe8761ba3fff6c95eb30b41740cd14338adf486d756e0d6e5d3be93863ccb080a/tv360/98/2.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" group-logo="https://cdn.hqth.me/logo/category/kr.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png", KBS1
 https://code.vthanhtivi.pw/getlink/kbs/11/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/640px-KBS_2_logo.svg.png", KBS2
@@ -72,14 +80,3 @@ http://tv.vnoo.net/direct_tv/vthanh/tv/spotv2.m3u8
 https://epg.pw/stream/cb0504cd74ec9aff8b6368fe189b4470de124eb1675ce150839d2050de43f051.ctv
 #EXTINF:-1 tvg-id="inews",iNews TV
 https://epg.pw/stream/8921fe2e170707193374849b7edb471d150831b6ab6e53ccf95706bf6cbe5fd2.ctv
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv5.png",VTV5 HD
-http://free.cvmtv.site/vtv5?token=live
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://cdn.antmediatv.xyz/2.png" , VTV2
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/47e621dd77943c68bac6eb531b6c438287a3406c8d97b5833ab3e82086f0344c2a/tv360/3/2.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" tvg-logo="https://cdn.antmediatv.xyz/6.png" , VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn tvg-logo="https://cdn.antmediatv.xyz/7.png" , VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/47e621dd77943c68bac6eb531b6c438287a3406c8d97b5833ab3e82086f0344c2a/tv360/207/2.m3u8
