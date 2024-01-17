@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" tvg-shift=0 m3uautoload=1
 
 #LiveCam
-#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",Live Cam from Shizuoka and Numazu by SA-TV (Bangladesh), Home of LoveLive Sunshine and Gejitsu no Yohane (Representatives of Shanxi Television SXTV - 山西卫视)
+#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",Live Cam from Shizuoka and Numazu by SA-TV (Bangladesh), Home of LoveLive Sunshine and Genjitsu no Yohane (Representatives of Shanxi Television SXTV - 山西卫视)
 https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://www.ishikawa-tv.com/outline/syaoku.jpg" tvg-id="hab.jp",Ishikawa Television / 石川テレビ (Main Update Feed)
 https://ythls.armelin.one/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
