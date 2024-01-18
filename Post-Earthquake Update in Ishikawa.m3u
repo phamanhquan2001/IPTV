@@ -2,35 +2,35 @@
 
 #LiveCam
 #EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",SA-TV / Shizuoka Asahi Television (SA-TV静岡朝日テレビ) (Bangladesh)
-https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+https://ythls-v2.onrender.com/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
 #EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",Live Camera from Shizuoka and Numazu produced by SA-TV Bangaldesh, Home of LoveLive Sunshine and Genjitsu no Yohane (Representatives of Shanxi Television SXTV - 山西卫视)
-https://ythls.armelin.one/video/emf8I1z-uso.m3u8
+https://ythls-v2.onrender.com/video/emf8I1z-uso.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://www.ishikawa-tv.com/outline/syaoku.jpg" tvg-id="hab.jp",Ishikawa Television / 石川テレビ (Main Update Feed)
-https://ythls.armelin.one/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
+https://ythls-v2.onrender.com/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Main Update Feed #2)
-https://ythls.armelin.one/video/ztYNoOp1bOU.m3u8
+https://ythls-v2.onrender.com/video/ztYNoOp1bOU.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Chirihama Sunset (千里浜サンセット)
-https://ythls.armelin.one/video/mrdsIr8dyTs.m3u8
+https://ythls-v2.onrender.com/video/mrdsIr8dyTs.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Hokuriku Asahi Broadcasting - HAB北陸朝日放送) TV Station Headquarters
-https://ythls.armelin.one/video/a3fsiU6ilHU.m3u8
+https://ythls-v2.onrender.com/video/a3fsiU6ilHU.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Chirihama (能登千里浜)
-https://ythls.armelin.one/video/GcVWo1DOeGc.m3u8
+https://ythls-v2.onrender.com/video/GcVWo1DOeGc.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Kanazawa Train Station (金沢駅)
-https://ythls.armelin.one/video/i5ZEjaFK-II.m3u8
+https://ythls-v2.onrender.com/video/i5ZEjaFK-II.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Ishikawa Prefectural Offices HQ (石川県庁)
-https://ythls.armelin.one/video/oVXflCdHug4.m3u8
+https://ythls-v2.onrender.com/video/oVXflCdHug4.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Wajima Live Cam (能登輪島)
-https://ythls.armelin.one/video/5TJDnxNZRgg.m3u8
+https://ythls-v2.onrender.com/video/5TJDnxNZRgg.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Suzu Live Cam (能登珠洲)
-https://ythls.armelin.one/video/yKqkDYU4jDo.m3u8
+https://ythls-v2.onrender.com/video/yKqkDYU4jDo.m3u8
 
 #EEW
 #EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
-https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
+https://ythls-v2.onrender.com/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
 #EXTINF:-1 tvg-id="EEW.jp",Sub Channel 1
-https://ythls.armelin.one/video/f4oTtah7k5Q.m3u8
+https://ythls-v2.onrender.com/video/f4oTtah7k5Q.m3u8
 #EXTINF:-1 tvg-id="EEW.jp",Sub Channel 2
-https://ythls.armelin.one/video/MhiLrPjBbMw.m3u8
+https://ythls-v2.onrender.com/video/MhiLrPjBbMw.m3u8
 
 #Tokyo1
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
@@ -234,13 +234,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="NTVNEWS24.jp",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="ANNNewsCH.jp",ANNNewsCH
-https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
+https://ythls-v2.onrender.com/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:-1 tvg-id="tbsnewsdig.jp",TBS News Dig
-https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+https://ythls-v2.onrender.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
 #EXTINF:-1 tvg-id="fnnprimeonline.jp",FNNプライムオンライン
-https://ythls.armelin.one/channel/UCoQBJMzcwmXrRSHBFAlTsIw.m3u8
+https://ythls-v2.onrender.com/channel/UCoQBJMzcwmXrRSHBFAlTsIw.m3u8
 #EXTINF:-1 tvg-id="hab.jp",HAB
-https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
+https://ythls-v2.onrender.com/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV5
