@@ -33,4 +33,4 @@ http://vthanhtivi.pw/vthanhevent1/mpegts
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://cdn.hqth.me/vthanhevent2_thumb.png", VThanh Event 2
 http://vthanhtivi.pw/vthanhevent2/mpegts	
 #EXTINF:-1tvg-id="olympics.kr",Olympics Feed
-https://ythls.armelin.one/channel/UCTl3QQTvqHFjurroKxexy2Q.m3u8
+https://ythls-v2.onrender.com/channel/UCTl3QQTvqHFjurroKxexy2Q.m3u8
