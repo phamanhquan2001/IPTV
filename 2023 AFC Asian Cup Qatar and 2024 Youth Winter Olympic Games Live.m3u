@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://d4dj.bushimo.jp/wordpress/wp-content/themes/d4dj/assets/images/common/unit/logo_lyrical-lily.png",Peaky P Key Feed - VTV2 (Truyền Hình Việt Nam) (VLC)
+#EXTVLCOPT:http-user-agent=ANTmedia
+http://code.vthanhtivi.pw/ytlive/get2.php?id=AFCAsianCup
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv2hd" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/peakyp_key.png",Peaky P Key Feed - VTV2 (Truyền Hình Việt Nam) (VLC)
 #EXTVLCOPT:http-user-agent=ANTmedia
 http://free.cvmtv.site/vtv2?token=live
@@ -9,10 +12,7 @@ http://free.cvmtv.site/vtv5?token=live
 http://free.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv6hd" tvg-logo="https://anime-precure.com/import/images/precure20th_logo.webp",Precure 20th Anniversary Special Edition Channel for AFC Asian Cup 2023 Feed - VTV Cần Thơ 1
 #EXTVLCOPT:http-user-agent=ANTmedia
-https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.m3u8
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv6hd" tvg-logo="https://anime-precure.com/import/images/precure20th_logo.webp",Precure 20th Anniversary Special Edition Channel for AFC Asian Cup 2023 Feed - VTV Cần Thơ 1 (VLC)
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.ctv
+https://code.antmediatv.xyz/getplay/livetv/tv360/MjcuMy44OC43NHwxNzA2MDk1NTMyfEFOVG1lZGlhLVBhcnRuZXItYnktVlRoYW5oLU5ldFdvcms=/1706102732/98/2.m3u8
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv2hd" tvg-logo="https://d4dj-pj.com/wordpress/wp-content/uploads/2021/12/BVIU8721.png",Peaky P Key Feed / VTV2 - Low-Delay Mode
 http://afc.cvmtv.site/vtv2?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/bandori/images/c/c8/Ave_Mujica_Live.jpg/revision/latest?cb=20230918111554",Ave Mujica Feed / VTV5 - Low-Delay Mode
