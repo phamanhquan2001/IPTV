@@ -232,11 +232,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1 tvg-id="JOTXDTV.jp",TV Tokyo (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 tvg-id="NTVNEWS24.jp",NTV News24 (480p)
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="ANNNewsCH.jp",ANNNewsCH
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
-#EXTINF:-1 tvg-id="tbsnewsdig.jp",TBS News Dig
-https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+#EXTINF:-1 tvg-id="tbsnewsdig.jp",TBS News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="fnnprimeonline.jp",FNNプライムオンライン
 https://ythls.armelin.one/channel/UCoQBJMzcwmXrRSHBFAlTsIw.m3u8
 #EXTINF:-1 tvg-id="hab.jp",HAB
