@@ -1,15 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv2hd" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/peakyp_key.png",Peaky P Key Feed - VTV2 (Truyền Hình Việt Nam) (VLC)
 #EXTVLCOPT:http-user-agent=ANTmedia
-https://epg.pw/stream/c022a424843c81b23f50e9a3a9de4f604a50c114e2f1b405035d69809d71eb29.ctv
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv2hd" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/peakyp_key.png",Peaky P Key Feed - VTV2 (Truyền Hình Việt Nam) (VLC)
-#EXTVLCOPT:http-user-agent=ANTmedia
-https://epg.pw/stream/c022a424843c81b23f50e9a3a9de4f604a50c114e2f1b405035d69809d71eb29.m3u8
+http://free.cvmtv.site/vtv2?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/bandori/images/3/37/Ave_Mujica_logo.png/revision/latest?cb=20230918112823",Ave Mujica Feed - VTV5 (Truyền Hình Việt Nam)
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+http://free.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv5hdtnb" tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",Photon Maiden Feed - VTV5 TNB
 #EXTVLCOPT:http-user-agent=ANTmedia
-https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+http://free.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv6hd" tvg-logo="https://anime-precure.com/import/images/precure20th_logo.webp",Precure 20th Anniversary Special Edition Channel for AFC Asian Cup 2023 Feed - VTV Cần Thơ 1
 #EXTVLCOPT:http-user-agent=ANTmedia
 https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.m3u8
@@ -17,20 +14,25 @@ https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e
 #EXTVLCOPT:http-user-agent=ANTmedia
 https://epg.pw/stream/4437a90d9139dc3ab10db3affb4623cb4d03824e5441d58837bbcae28e37d6e6.ctv
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv2hd" tvg-logo="https://d4dj-pj.com/wordpress/wp-content/uploads/2021/12/BVIU8721.png",Peaky P Key Feed / VTV2 - Low-Delay Mode
-http://fpt.vthanhtivi.pw/VTV2/mpegts
+http://afc.cvmtv.site/vtv2?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/bandori/images/c/c8/Ave_Mujica_Live.jpg/revision/latest?cb=20230918111554",Ave Mujica Feed / VTV5 - Low-Delay Mode
-http://fpt.vthanhtivi.pw/VTV5/mpegts
+http://afc.cvmtv.site/vtv5?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv5hdtnb" tvg-logo="https://static.wikia.nocookie.net/jpop/images/d/d0/PhotonMaiden.jpg/revision/latest?cb=20200502152737",Photon Maiden Feed / VTV5 Tây Nam Bộ - Low-Delay Mode
-http://fpt.vthanhtivi.pw/VTV5TNB/mpegts
+http://afc.cvmtv.site/vtv5tnb?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv6hd" tvg-logo="https://cos.guide/upload/full/2021/03/Dtdz0YPVAAAr35S.jpg",Precure 20th Anniversary Special Feed- VTV Cần Thơ 1 / Low-Delay Mode
-http://fpt.vthanhtivi.pw/VTVCT/mpegts
-#EXTINF:-1 tvg-id="vthanhsp1" group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
-http://vthanhtivi.pw/vthanhsports1/mpegts
-#EXTINF:-1 tvg-id="vthanhsp2" group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
-http://vthanhtivi.pw/vthanhsports2/mpegts
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://cdn.hqth.me/vthanhevent1_thumb.png", VThanh Event 1
-http://vthanhtivi.pw/vthanhevent1/mpegts
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://cdn.hqth.me/vthanhevent2_thumb.png", VThanh Event 2
-http://vthanhtivi.pw/vthanhevent2/mpegts	
+http://fpt.vthanhtivi.pw/VTVCT/mpegts#EXTINF:-1 group-title="ASIAN CUP 2023" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv1.png",BallViet 1 Server 1
+http://free.cvmtv.site/BV1?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv1.png",BallViet 1 Server 2
+http://afc.cvmtv.site/BV1?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 76
+http://afc.cvmtv.site/HOY76?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 77
+http://afc.cvmtv.site/HOY?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png",SporSmart Server 1
+http://free.cvmtv.site/SD?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png",SporSmart Server 2
+http://afc.cvmtv.site/SD?token=live
+#EXTINF:-1 group-title="AFCON 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png",AFCON 2024 - TV8.5
+http://free.cvmtv.site/TV8?token=live
 #EXTINF:-1tvg-id="olympics.kr",Olympics Feed
-https://ythls-v2.onrender.com/channel/UCTl3QQTvqHFjurroKxexy2Q.m3u8
+http://code.vthanhtivi.pw/ytlive/get2.php?id=Olympics
