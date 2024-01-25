@@ -1,14 +1,12 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" tvg-shift=0 m3uautoload=1
 
 #LiveCam
-#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",SA-TV / Shizuoka Asahi Television (SA-TV静岡朝日テレビ) (Bangladesh)
-https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
-#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",Live Camera from Shizuoka and Numazu produced by SA-TV Bangaldesh, Home of LoveLive Sunshine and Genjitsu no Yohane (Representatives of Shanxi Television SXTV - 山西卫视)
-https://ythls.armelin.one/video/emf8I1z-uso.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://www.ishikawa-tv.com/outline/syaoku.jpg" tvg-id="hab.jp",Ishikawa Television / 石川テレビ (Main Update Feed)
 https://ythls.armelin.one/channel/UCA5dBoYZe7dgvk4cTl5PLSg.m3u8
+#EXTINF:-1 tvg-id="NHKKishouSaigai.jp",NHK Kishou Saigai (360p) [Not 24/7]
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Main Update Feed #2)
-https://ythls.armelin.one/video/ztYNoOp1bOU.m3u8
+https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Chirihama Sunset (千里浜サンセット)
 https://ythls.armelin.one/video/mrdsIr8dyTs.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Hokuriku Asahi Broadcasting - HAB北陸朝日放送) TV Station Headquarters
@@ -23,6 +21,10 @@ https://ythls.armelin.one/video/oVXflCdHug4.m3u8
 https://ythls.armelin.one/video/5TJDnxNZRgg.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Suzu Live Cam (能登珠洲)
 https://ythls.armelin.one/video/yKqkDYU4jDo.m3u8
+#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",SA-TV / Shizuoka Asahi Television (SA-TV静岡朝日テレビ) (Bangladesh)
+https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",Live Camera from Shizuoka and Numazu produced by SA-TV Bangaldesh, Home of LoveLive Sunshine and Genjitsu no Yohane (Representatives of Shanxi Television SXTV - 山西卫视)
+https://ythls.armelin.one/video/emf8I1z-uso.m3u8
 
 #EEW
 #EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
@@ -207,14 +209,26 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV News24 (日テレNEWS24)
-https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.ctv
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
-https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
-https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.ctv
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (720p)
+http://203.162.235.41:13092
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (720p)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (720p)
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 tvg-id="",NHK World News (French Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
+#EXTINF:-1 tvg-id="",NHK World News (Portuguese Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+#EXTINF:-1 tvg-id="",NHK World News (Spanish Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (720p) [Not 24/7]
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="JOABDTV.jp",NHK E (Tokyo) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 tvg-id="JOBKDTV.jp",NHK G (Osaka) (544p)
@@ -239,8 +253,6 @@ https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="fnnprimeonline.jp",FNNプライムオンライン
 https://ythls.armelin.one/channel/UCoQBJMzcwmXrRSHBFAlTsIw.m3u8
-#EXTINF:-1 tvg-id="hab.jp",HAB
-https://ythls.armelin.one/channel/UCt6LB-BvEmDm-oWbe_TO7mw.m3u8
 #EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV5
