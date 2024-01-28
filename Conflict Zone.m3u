@@ -83,7 +83,7 @@ https://epg.pw/stream/b04c8243a27bdd51b8ebcd099c2d04dbdc9498b1b2062d05b03e5a65a7
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/67/Logo_The_Idolmaster_2.png",KOMPAS-TV / The iDOLM@STER 2-TV
 https://epg.pw/stream/ebb9ff07e7a8b7712c3f54ab28039c7b734cc9ebd383d3812768f60e525212ec.ctv
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="TVOne.id" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",VIVA TVOne / Weathernews LiVE (ウェザーニュースLiVE)
-https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
+https://ythls-v2.onrender.comchannel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="NET.id",.NET TV
 https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
 #EXTINF:-1 group-title="Saudi Live Cam" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-quran-al-kareem-tv-logo.png",Al Quran Al Kareem TV - Live Camera from Masjid Al Haram of Mecca, Saudi Arabia
@@ -91,17 +91,17 @@ https://epg.pw/stream/82e4869cdd3533f9a40bb8e32ea46e5c897d1fcd5b5d0734cf6b62bdf4
 #EXTINF:-1 group-title="Saudi Live Cam" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/al-sunnah-al-nabawiyah-tv-logo.png",Al Sunnah Al Nabawiyah - Live Camera from Masjid Al Nabawi of Medina, Saudi Arabia
 https://epg.pw/stream/6a889dcf3118dfb2946fcd4409f4efc79b5aff75dbcf96e605225b194b4c4672.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.1
-https://ythls.armelin.one/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
+https://ythls-v2.onrender.comchannel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.2
-https://ythls.armelin.one/channel/UCuyLmOJb7PVCvx8zbRT9_GQ.m3u8
+https://ythls-v2.onrender.comchannel/UCuyLmOJb7PVCvx8zbRT9_GQ.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.3
-https://ythls.armelin.one/channel/UCzOMM5fm593lJ3QaDkuiESg.m3u8
+https://ythls-v2.onrender.comchannel/UCzOMM5fm593lJ3QaDkuiESg.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.4
-https://ythls.armelin.one/channel/UCJqILop8glYhyfPjBpxiyLw.m3u8
+https://ythls-v2.onrender.comchannel/UCJqILop8glYhyfPjBpxiyLw.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.5
-https://ythls.armelin.one/channel/UCm7oBwzfRBp6kX8jhWhlaSg.m3u8
+https://ythls-v2.onrender.comchannel/UCm7oBwzfRBp6kX8jhWhlaSg.m3u8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.6
-https://ythls.armelin.one/channel/UCq1xihNfMHU_Ekmqs_382Sg.m3u8
+https://ythls-v2.onrender.comchannel/UCq1xihNfMHU_Ekmqs_382Sg.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
@@ -115,9 +115,9 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="🌏| News Update"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/love-live/images/5/52/LL-SIFAS-Lanzhu.png/revision/latest?cb=20230907072128", CGTN - Paradox Live (Youtube Live Feed by Lanzhu Zhong)
-https://ythls.armelin.one/channel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
+https://ythls-v2.onrender.comchannel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://paradoxlive.jp/matome/assets/siteinfo/og_image.jpg", CGTN - Paradox Live (Youtube Live Feed by Lanzhu Zhong)
-https://ythls.armelin.one/channel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
+https://ythls-v2.onrender.comchannel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
 https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="RT.ru",Russia Today
@@ -221,15 +221,15 @@ http://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV (上海东方卫视)
 http://ythls.armelin.one/channel/UCNWWdKniJyzQA3RiJ5LMoVw.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",Bandori / Hunan Television (湖南卫视)
-https://ythls.armelin.one/channel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8
+https://ythls-v2.onrender.comchannel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/be/Xizang_Satellite_Chinese_Channel.png/revision/latest/scale-to-width-down/393?cb=20231208094558&path-prefix=vi",iDOLM@STER / Xizang - Tibet Television
-https://ythls.armelin.one/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8
+https://ythls-v2.onrender.comchannel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Jilin_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20231104095340",LoveLive School Idol Project / Jilin Television (Broadcast Live from Studio S24 from Otonokizaka High School)
-https://ythls.armelin.one/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8
+https://ythls-v2.onrender.comchannel/UCTkyJbRhal4voLZxmdRSssQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.nximg.cn/file/20190510/27790005_133331887691_2.jpg",LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道)
-https://ythls.armelin.one/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
+https://ythls-v2.onrender.comchannel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://bpic.51yuansu.com/pic3/cover/03/44/46/5ba2270c69684_610.jpg",Uma Musume Paka Chubu TV (ウマ娘 ぱかチューブっ!) / Fujian Longyan TV (福建龙岩市广播电视台)
-https://ythls.armelin.one/channel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8
+https://ythls-v2.onrender.comchannel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://cdn.hqth.me/logo/category/thietyeu.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV HD - Truyền Hình CAND
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews - Truyền Hình TTXVN
@@ -852,14 +852,14 @@ https://epg.pw/stream/d3e6313d20b5df123b2919cb7cf9810dbd3ca26ebc41700e8ddf13d3c9
 #EXTINF:-1 group-title="iDOLM@STER and Idol Game Channel" tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",山东卫视 / Wonderlands x Showtime - Truyền Hình Sơn Đông
 https://epg.pw/stream/3b97ca6daa3a8451a385b7db783b1c5622e979ec500532a2ff7145e99e78fab5.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
-https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
+https://ythls-v2.onrender.comchannel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
-https://ythls.armelin.one/channel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8
+https://ythls-v2.onrender.comchannel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
-https://ythls.armelin.one/channel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8
+https://ythls-v2.onrender.comchannel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
-https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
+https://ythls-v2.onrender.comchannel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican
 http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
-https://ythls.armelin.one/channel/UC4HqQT1uH3dzz_ZSR_mVUEw.m3u8
+https://ythls-v2.onrender.comchannel/UC4HqQT1uH3dzz_ZSR_mVUEw.m3u8
