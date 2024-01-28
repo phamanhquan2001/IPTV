@@ -2,8 +2,8 @@
 
 #EEW
 #EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
-https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
+https://ythls-v2.onrender.comchannel/UCArz15aqhp4UXuUVYYEY43g.m3u8
 #EXTINF:-1 tvg-id="EEW.jp",Sub Channel 1
-https://ythls.armelin.one/video/f4oTtah7k5Q.m3u8
+https://ythls-v2.onrender.comvideo/f4oTtah7k5Q.m3u8
 #EXTINF:-1 tvg-id="EEW.jp",Sub Channel 2
-https://ythls.armelin.one/video/MhiLrPjBbMw.m3u8
+https://ythls-v2.onrender.comvideo/MhiLrPjBbMw.m3u8
