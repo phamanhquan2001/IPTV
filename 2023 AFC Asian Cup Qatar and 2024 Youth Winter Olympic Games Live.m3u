@@ -5,9 +5,9 @@ http://code.vthanhtivi.pw/ytlive/get2.php?id=AFCAsianCup
 http://code.vthanhtivi.pw/ytlive/get2.php?id=FPTBongdaviet
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv2hd" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/peakyp_key.png",Peaky P Key Feed - VTV2 (Truyền Hình Việt Nam) (VLC)
 #EXTVLCOPT:http-user-agent=ANTmedia
-https://code.antmediatv.xyz/getplay/livetv/tv360/MjcuMy44OC43NHwxNzA2MTgyNDE4fEFOVG1lZGlhLVBhcnRuZXItYnktVlRoYW5oLU5ldFdvcms=/1706189618/3/2.m3u8
+http://str1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv5hd" tvg-logo="https://static.wikia.nocookie.net/bandori/images/3/37/Ave_Mujica_logo.png/revision/latest?cb=20230918112823",Ave Mujica Feed - VTV5 (Truyền Hình Việt Nam)
-https://code.antmediatv.xyz/getplay/livetv/tv360/MjcuMy44OC43NHwxNzA2MTgyNDE4fEFOVG1lZGlhLVBhcnRuZXItYnktVlRoYW5oLU5ldFdvcms=/1706189618/110/playlist.m3u8
+http://str1.cvtv.xyz/vtv5?token=live
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv5hdtnb" tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",Photon Maiden Feed - VTV5 TNB
 #EXTVLCOPT:http-user-agent=ANTmedia
 https://code.antmediatv.xyz/getplay/livetv/tv360/MjcuMy44OC43NHwxNzA2MTgyNDE4fEFOVG1lZGlhLVBhcnRuZXItYnktVlRoYW5oLU5ldFdvcms=/1706189618/157/2.m3u8
@@ -22,19 +22,17 @@ http://live.antmediatv.xyz/VTV5/mpegts?token=2P_DvyXvUZvTZ3
 http://live.antmediatv.xyz/VTV5TNB/mpegts
 #EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="vtv6hd" tvg-logo="https://cos.guide/upload/full/2021/03/Dtdz0YPVAAAr35S.jpg",Precure 20th Anniversary Special Feed- VTV Cần Thơ 1 / Low-Delay Mode
 http://live.antmediatv.xyz/VTVCT/mpegts
-#EXTINF:-1 group-title="ASIAN CUP 2023" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv1.png",BallViet 1 Server 1
-http://free.cvmtv.site/BV1?token=live
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv1.png",BallViet 1 Server 2
-http://afc.cvmtv.site/BV1?token=live
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 76
-http://afc.cvmtv.site/HOY76?token=live
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 77
-http://afc.cvmtv.site/HOY?token=live
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png",SporSmart Server 1
-http://free.cvmtv.site/SD?token=live
-#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png",SporSmart Server 2
-http://afc.cvmtv.site/SD?token=live
-#EXTINF:-1 group-title="AFCON 2023" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png",AFCON 2024 - TV8.5
-http://free.cvmtv.site/TV8?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/bv1.png",BallViet 1
+http://str2.cvtv.xyz/BV1?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="hoy76" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 76
+http://str1.cvtv.xyz/ibc?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="hoy77" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY TV 77
+http://str1.cvtv.xyz/hoy?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="sm1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png",SPORSMART
+http://str2.cvtv.xyz/SD?token=live
+#EXTINF:-1 group-title="AFC Asian Cup 2023 Qatar" tvg-id="sm2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png",SPORSMART2
+http://str2.cvtv.xyz/SM2?token=live
+#EXTINF:-1 group-title="AFCON 2023" tvg-id="tv85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/TV_8.5logo.png",AFCON 2024 / TV8.5 Türkiye
+http://str2.cvtv.xyz/TV8?token=live
 #EXTINF:-1tvg-id="olympics.kr",Olympics Feed
 http://code.vthanhtivi.pw/ytlive/get2.php?id=Olympics
