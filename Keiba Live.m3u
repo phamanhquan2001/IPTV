@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1 group-title="JRA / Main Feed" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BS Green Channel (BSグリーンチャンネル)
+#EXTINF:-1 group-title="JRA / Main Feed" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="JRA / Kanto Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TVTokyo / テレビ東 (ウイニング競馬)
+#EXTINF:-1 group-title="JRA / Kanto Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png", TVT / TVTokyo / テレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 group-title="JRA / NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 540
+#EXTINF:-1 group-title="JRA / NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK General Channel / NHK総合テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="JRA / NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png", NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="JRA / Kanto Region" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV / フジテレビ(みんなの競馬)
+#EXTINF:-1 group-title="JRA / Kanto Region" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", FujiTV / フジテレビ(みんなのＫＥＩＢＡ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 group-title="JRA / Kinki Region" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV (競馬BEAT)
+#EXTINF:-1 group-title="JRA / Kinki Region" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV / 関西テレビ (競馬BEAT)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-#EXTINF:-1 group-title="JRA / Kinki Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV (うまDOKI)
+#EXTINF:-1 group-title="JRA / Kinki Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV / サンテレビ (うまDOKI)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#EXTINF:-1 group-title="JRA / BS Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png", BS TVTokyo / BSテレビ東
+#EXTINF:-1 group-title="JRA / BS Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png", BS TVTokyo / BSテレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / BS Channel" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
 http://jp.vthanhnetwork.com/BS11/index.m3u8
-#EXTINF:-1 group-title="JRA / BS Channel", tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD
+#EXTINF:-1 group-title="JRA / BS Channel", tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD (みんなのＫＥＩＢＡ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="NAR",Obihiro
+#EXTINF:-1 group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場)
 https://ythls-v2.onrender.com/channel/UCyjlxPcoYAbpwlr5wjUA_5g.m3u8
-#EXTINF:-1 group-title="NAR",Monbetsu
+#EXTINF:-1 group-title="NAR",Monbetsu (北海道/門別競馬場）
 https://ythls-v2.onrender.com/channel/UC6tQosgNJOmZUGmtkSvI6zA.m3u8
-#EXTINF:-1 group-title="NAR",Morioka
+#EXTINF:-1 group-title="NAR",Morioka (岩手県/盛岡競馬場)
 https://ythls-v2.onrender.com/channel/UCVMhQ20_Y0vseUV7doOotwg.m3u8
-#EXTINF:-1 group-title="NAR",Urawa
+#EXTINF:-1 group-title="NAR",Urawa (埼玉県/浦和競馬場)
 https://ythls-v2.onrender.com/channel/UCdtB0m4BIjadiqV3C0Vi9SQ.m3u8
-#EXTINF:-1 group-title="NAR",Funabashi
-https://ythls-v2.onrender.com/channel/UCdtB0m4BIjadiqV3C0Vi9SQ.m3u8
-#EXTINF:-1 group-title="NAR",Oi (Tokyo City Keiba - TCK)
+#EXTINF:-1 group-title="NAR",Funabashi (千葉県/船橋競馬場)
+https://ythls-v2.onrender.com/channel/UCfnIcvhLkVVCTd86yemmGnQ.m3u8
+#EXTINF:-1 group-title="NAR",Oi (Tokyo City Keiba - TCK) (東京シティ競馬TCK/大井競馬場)
 https://ythls-v2.onrender.com/channel/UCPSZn8iMXln9o89SpmeJ6wg.m3u8
-#EXTINF:-1 group-title="NAR",Kawasaki
+#EXTINF:-1 group-title="NAR",Kawasaki (神奈川県/川崎競馬場)
 https://ythls-v2.onrender.com/channel/UCF7v-dGy_jQ_7bOi7oab2PA.m3u8
-#EXTINF:-1 group-title="NAR",Kanazawa
+#EXTINF:-1 group-title="NAR",Kanazawa (石川県/金沢競馬場)
 https://ythls-v2.onrender.com/channel/UCMRX5ABMJWPR6aWlyZYeKog.m3u8
-#EXTINF:-1 group-title="NAR",Kasamatsu
+#EXTINF:-1 group-title="NAR",Kasamatsu (岐阜県/笠松競馬場)
 https://ythls-v2.onrender.com/channel/UCmPuLUWCwfAW99ezdCj6ayQ.m3u8
-#EXTINF:-1 group-title="NAR",Nagoya
+#EXTINF:-1 group-title="NAR",Nagoya (愛知県/名古屋競馬場) (Home of the annual World Cosplay Summit event and also upcoming 20th Asian Games in 2026)
 https://ythls-v2.onrender.com/channel/UCuAGB0_QDb68etl8v-JcSzA.m3u8
-#EXTINF:-1 group-title="NAR",Sonoda
+#EXTINF:-1 group-title="NAR",Sonoda and Himeji (兵庫県/園田と姫路競馬場)
 https://ythls-v2.onrender.com/channel/UCo3pBlg2U4Bu-n7UefYI45g.m3u8
-#EXTINF:-1 group-title="NAR",Kochi
+#EXTINF:-1 group-title="NAR",Kochi (高知県/高知競馬場)
 https://ythls-v2.onrender.com/channel/UCwGgMN7UlYobxOzIpknGo-A.m3u8
-#EXTINF:-1 group-title="NAR",Saga
+#EXTINF:-1 group-title="NAR",Saga (佐賀県/佐賀競馬場)
 https://ythls-v2.onrender.com/channel/UCzsYglP_Q86IKATJ0cU-XDw.m3u8
