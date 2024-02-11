@@ -71,11 +71,11 @@ http://jp.vthanhnetwork.com/BS11/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
 http://jp.vthanhnetwork.com/AT-X/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV News24 TV - Nghệ An/Ninh Thuận (日テレNEWS24)
-https://epg.pw/stream/4234397cc543f65c4766c647e3a386d452249c491522997e093504f12a1ed999.ctv
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE) (VLC)
-https://epg.pw/stream/443d555a1303d82424886987126b174cf90f17ac067835bff79e386dcc2833b8.ctv
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
-https://epg.pw/stream/443d555a1303d82424886987126b174cf90f17ac067835bff79e386dcc2833b8.m3u8
+https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE) (Youtube Feed)
+https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="greench" tvg-logo="https://d23iyfk1a359di.cloudfront.net/files/topics/25885_ext_03_en_0.jpg?version=1614819492&width=824&height=464", Green Channel (グリーンチャンネル) / Uma Musume Pretty Derby Channel (ウマ娘プリティーダービーチャンネル) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="MetroTV.id",METROTV
