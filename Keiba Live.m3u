@@ -19,6 +19,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&b
 http://jp.vthanhnetwork.com/BS11/index.m3u8
 #EXTINF:-1 group-title="JRA / BS Channel", tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png", BS Fuji HD (みんなのＫＥＩＢＡ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+#EXTINF:-1 group-title="NAR",Live Broadcast with AI Voice Implemented
+http://code.vthanhtivi.pw/ytlive/get2.php?id=aiweb9747
 #EXTINF:-1 group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場)
 https://ythls.arnelin.one/channel/UCyjlxPcoYAbpwlr5wjUA_5g.m3u8
 #EXTINF:-1 group-title="NAR",Monbetsu (北海道/門別競馬場）
