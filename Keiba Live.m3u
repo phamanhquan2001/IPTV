@@ -20,7 +20,7 @@ http://for-testonly.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="JRA / BS Channel", tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (みんなのＫＥＩＢＡ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed", tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Finance, Sports and Info Channel (無綫財經體育資訊台)
-http://1.65.195.85:9981/stream/channelid/1781676223?ticket=5ceccf7a8d3group-title="PHÁP"7461740c1eb46447e5efd1400a2&profile=pass
+http://1.65.195.85:9981/stream/channelid/1781676223?ticket=5ceccf7a8d3
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
