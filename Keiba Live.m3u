@@ -29,6 +29,12 @@ https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing3.ae",Dubai Racing 3 (1080p)
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" tvg-id="SkyRacing1.au",Sky Racing 1 (720p) [Geo-blocked]
+https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" tvg-id="SkyRacing2.au",Sky Racing 2 (720p) [Geo-blocked]
+https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" tvg-id="SkyThoroughbredCentral.au",Sky Thoroughbred Central (720p) [Geo-blocked]
+https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 #EXTINF:-1 group-title="NAR",Live Broadcast with AI Voice Implemented
 http://code.vthanhtivi.pw/ytlive/get2.php?id=aiweb9747
 #EXTINF:-1 group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場)
