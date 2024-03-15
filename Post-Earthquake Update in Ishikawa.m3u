@@ -102,28 +102,32 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 https://ythls-v2.onrender.com/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (Youtube Feed)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (Youtube Feed)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=NHKWORLDJAPAN
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (1080p)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (720p)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (720p)
 http://203.162.235.41:13092
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (720p)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (720p)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World Japan (720p)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (720p)
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="",NHK World News (French Subs) (720p)
+#EXTINF:-1 tvg-id="",NHKWorld-Japan (French Subs) (720p)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHK World News (Portuguese Subs) (720p)
+#EXTINF:-1 tvg-id="",NHKWorld-Japan (Portuguese Subs) (720p)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHK World News (Spanish Subs) (720p)
+#EXTINF:-1 tvg-id="",NHKWorld-Japan (Spanish Subs) (720p)
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTINF:-1 tvg-id="",NHKWorld-Japan (Vietnamese Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/vi/playlist.m3u8
+#EXTINF:-1 tvg-id="",NHKWorld-Japan (Ukraine Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/ua/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (720p) [Not 24/7]
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 tvg-id="NTVNEWS24.jp",NTV News24 (480p)
-https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="ANNNewsCH.jp",ANNNewsCH
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:-1 tvg-id="fnnprimeonline.jp",FNNプライムオンライン
