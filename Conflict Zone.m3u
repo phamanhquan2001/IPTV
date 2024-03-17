@@ -166,6 +166,18 @@ https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/62
 https://epg.pw/stream/ea349724c460335fd9ef12d8ca1e113842385406b7a93bdc74c27fe39b9b60ff.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://preview.redd.it/t9ayxxd6rs091.png?width=400&format=png&auto=webp&s=ce53736e1a97b890c3bb78d35a929f7dfa845943",TVPWorld (Polandia) / Mihoyo Channel
 https://sdt-thinx4-184.tvp.pl/token/video/live/51656539/20240312/453204024/X-p-J9o9JdvMQ23QKoBld137otfijQPeYf5lVYlfs7QY853n3JSB8wf3iuKd54F0sYSTSkUOVZxPFMULf3IrUCbVnaPcdBTY4fhKhtxxXHttI50dz9CcD_CuQewugF6c-N7QvOXiUyAiTGqVi6-6pVs-aXaI8UZO3erH6DuCJDyTHKZ76skhMY0-bkW37QmL/156/TVP_World-audio_211682_pol=211200-video=636800.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",Aaj News / Revue Starlight RELIVE-FM Radio Channel 1
+http://code.vthanhtivi.pw/ytlive/get2.php?id=AajTVofficial
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ARYNews / Revue Starlight RELIVE-FM Radio Channel 2
+http://code.vthanhtivi.pw/ytlive/get2.php?id=arynewstvofficial
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",GeoNews / Revue Starlight RELIVE-FM Radio Channel 3
+http://code.vthanhtivi.pw/ytlive/get2.php?id=geonews
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",TOLONews / Revue Starlight RELIVE-FM Radio Channel 4
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ATNNews (Ariana News) / Revue Starlight RELIVE-FM Radio Channel 5
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ShamshadNews TV / Revue Starlight RELIVE-FM Radio Channel 6
+https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
