@@ -788,21 +788,21 @@ http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-https://epg.pw/stream/cfce8c7266926f66e4c9f1e47e1838772aba6fe9fc594f2b19456351b1f91126.ctv
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=20220806032832",YNTV云南卫视 (The iDOLM@STER Cinderella Girls / Truyền Hình Vệ Tinh Vân Nam)
-https://epg.pw/stream/80324c775b13adbad0757fcd5377e6a54ec9fce61d27cc0cba6c30ed22049c9f.ctv
+http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://dmg.cinderella-sl-stage.idolmaster-official.jp/_nuxt/images/logo_stage-14dc23a.png",东南卫视 / The iDOLM@STER Cinderella Girls Starlight Stage  (DERESUTE-TV/デレステテレビ) - Truyền Hình Đông Nam Phúc Kiến
-https://epg.pw/stream/82f4bc6e2712ff2c948830bc38f5527ed090c1c51d09be1655ecf465f4d7b669.ctv
-#EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",FZTV-1福州新闻 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
-https://epg.pw/stream/883dc9046ef860d402f67f3a897969d725700d25b8595635377877a9dbc86dab.ctv
+http://221.2.36.34:8888/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",HEBTV河北卫视 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình vệ tinh Hà Bắc)
+http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải
-https://epg.pw/stream/1fb919b559c35be3fc7bdae6013764419a118551db0248b110ed83df99a5744e.ctv
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海安多藏语卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải (Tibetan Language Edition)
 https://epg.pw/stream/64f8d4678019673ff347d3636f9aaa9cb5dcde274672e6d75a25aca77d453a12.ctv
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/The_iDOLM%40STER_Shiny_Colors_Logo.png/revision/latest?cb=20220806103138",GDTV广东卫视 (The iDOLM@STER Shiny Colors - Truyền Hình Vệ Tinh Quảng Đông)
-https://epg.pw/stream/0c3b6bc7749c21eab11b0cf4eebf6dfb129cb6019beed843f8fb9c8fbe2b0b74.ctv
+http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://cdn.wikiwiki.jp/to/w/songforprism/FrontPage/::attach/songforprism_logo.png?rev=fa0d409d47759fe4fa5cda956d0de9e5&t=20231115193921",三沙卫视 (The iDOLM@STER Shiny Colors Song for Prism - Truyền Hình Tam Sa, tỉnh đảo Hải Nam
-https://epg.pw/stream/875ba892cb8c8560d85b6e035501da80752a7fe72de435cee502efd9509187f1.ctv
+https://tv.iill.top/cqyx/sanshaSD
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",GSTV甘肃卫视 (学園アイドルマスター - Truyền Hình vệ tinh Cam Túc)
 https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://cdn.akamai.steamstatic.com/steam/apps/1046480/capsule_616x353.jpg?t=1703662641",贵州卫视 / The iDOLM@STER Project VA-LIV - Truyền Hình Vệ Tinh Quý Châu
