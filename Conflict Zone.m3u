@@ -786,69 +786,73 @@ https://tv.nknews.org/tvdash/stream.mpd
 http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 #EXTINF:-1 group-title="Lastation Channel" tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="http://gg.gg/15nn7",無綫財經體育資訊台 / 最新財經體育資訊台 - Lastation Finance/Sports/Information Channel
 http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="Quốc tế",TVB Satellite News Channel
+http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
+http://live.cooltv.top/tv/tvb.php?id=2
 
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+https://epg.pw/stream/e9b551911f75a12de9d10157ac98a47d34040438240edc0626e3a1d0dfe7b3d2.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=20220806032832",YNTV云南卫视 (The iDOLM@STER Cinderella Girls / Truyền Hình Vệ Tinh Vân Nam)
-http://221.213.43.82:8888/newlive/live/hls/27/live.m3u8
+https://epg.pw/stream/ec6460f3951bfbaef38cc68bfe9248e1a90afea1f9ff73dfcc3b93812a11b519.m3u8
+#EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://www.tv-tokyo.co.jp/anime/idolmaster-cinderella-u149/images/sp_logo.jpg",丽江古城大水车 (The iDOLM@STER Cinderella Girls U149-TV)
+https://epg.pw/stream/08287bae314540e783a35cc404209851db7cf1eb333e5a87adb4ede7153d2360.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://dmg.cinderella-sl-stage.idolmaster-official.jp/_nuxt/images/logo_stage-14dc23a.png",东南卫视 / The iDOLM@STER Cinderella Girls Starlight Stage  (DERESUTE-TV/デレステテレビ) - Truyền Hình Đông Nam Phúc Kiến
-http://221.2.36.34:8888/newlive/live/hls/44/live.m3u8
-#EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130"FZTV-1新闻综合频道 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",FZTV-1新闻综合频道 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
 https://epg.pw/stream/5c8905787fafc17844a71c58965af20d3abe2bf8a25ef54d828031c4406340bc.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",HEBTV河北卫视 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình vệ tinh Hà Bắc)
-http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải
-http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
+http://[2409:8087:7001:20:1000::93]:6610/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=3&IASHttpSessionId=RR1420220240313040119034374
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",安多卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải (Tibetan Language Edition)
 https://epg.pw/stream/089e83fa56489b878e760067ab179adc3c16258643ea8d55fc3318834fd8a3d3.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/The_iDOLM%40STER_Shiny_Colors_Logo.png/revision/latest?cb=20220806103138",GDTV广东卫视 (The iDOLM@STER Shiny Colors - Truyền Hình Vệ Tinh Quảng Đông)
-http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1 group-title="iDOLM@STER" tvg-id="广州南国都市" tvg-name="广州南国都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/TELEV/Grey/LOGO/广州南国都市.png" group-title="地方",南国都市
+http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://cdn.wikiwiki.jp/to/w/songforprism/FrontPage/::attach/songforprism_logo.png?rev=fa0d409d47759fe4fa5cda956d0de9e5&t=20231115193921",三沙卫视 (The iDOLM@STER Shiny Colors Song for Prism - Truyền Hình Tam Sa, tỉnh đảo Hải Nam
-https://tv.iill.top/cqyx/sanshaSD
+https://epg.pw/stream/417f94cbe06fbd0540f406e7f786f6a96447752e7da5fe51f204c039610ba11e.m3u8
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",GSTV甘肃卫视 (学園アイドルマスター - Truyền Hình vệ tinh Cam Túc)
-https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
+http://[2409:8087:7001:20:1000::87]:6610/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3&IASHttpSessionId=RR1420320240313044749874014
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://cdn.akamai.steamstatic.com/steam/apps/1046480/capsule_616x353.jpg?t=1703662641",贵州卫视 / The iDOLM@STER Project VA-LIV - Truyền Hình Vệ Tinh Quý Châu
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",JLTV吉林卫视 - Truyền Hình Vệ Tinh Cát Lâm / LoveLive School Idol Project
-https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-#EXTINF:-1 group-title="LoveLive" tvg-logo="https://cdn-ak.f.st-hatena.com/images/fotolife/K/KM_2nd/20181202/20181202231606.png",七台河新闻综合频道频道 (Truyền hình Thất Đài Hà, tỉnh Hắc Long Giang / Gulity Kiss)
-http://39.134.65.162/PLTV/88888888/224/3221225783/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aqours_logo.svg/1200px-Aqours_logo.svg.png",CQTV重庆卫视 (Truyền hình Vệ tinh Trùng Khánh / Aqours)
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",SXTV山西卫视 (Truyền Hình Vệ Tinh Sơn Tây / Genjitsu no Yohane Channel (幻日のヨハネ)
-https://tv.iill.top/cqyx/shanxiSD
+https://epg.pw/stream/2f71402c1668ecec87011a346d85b3ef21c971de5e66db75b51cc969ec88c40c.ctv
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",KBTV康巴卫视 / Saint Snow TV1
 https://epg.pw/stream/3b02b77b44cf0c37949e20d1ad1be4a9d247f6582edb6984bb3d77fcd137713b.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",XTTV邢台综合频道 / Saint Snow TV2
 https://epg.pw/stream/04f34f26174b0b14873da99d1234d7d94082d7579d613fde3753670555b0067b.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",HLJTV黑龙江卫视 - Truyền Hình Hắc Long Giang / Saint Snow TV3
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
-#EXTINF:-1 group-title="LoveLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",BTV/BRTV北京卫视 / Nijigasaki Channel (ニジガク) - Truyền Hình Bắc Kinh
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
+#EXTINF:-1 group-title="LoveLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",BTV/BRTV北京卫视 / Nijigasaki Channel (ニジガク) - Truyền Hình Vệ tinh Bắc Kinh
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",上海新闻综合频道频道 - Truyền Hình Thượng Hải / Hasunosora Girls' School Idol Club Channel (蓮ノ空女学院スクールアイドルクラブ)
-https://epg.pw/stream/41dacb1e5e4e31bf0a1dc383875778433344bddff0cbf07fb821e4cff2f88f89.m3u8
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nav_abyssmare_on.png",TJTV天津卫视 - Truyền Hình Vệ Tinh Thiên Tân / Abyssmare Channel
-http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
+https://epg.pw/stream/12bd529a4a4c275fc29906844719e95cac5107e284e27b33671bcf2f3c0a0ee6.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/photonmaiden.png",YBTV延边卫视 - Truyền Hình Vệ Tinh Diện Biên, tỉnh Cát Lâm / Photon Maiden
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
-#EXTINF:-1 group-title="LoveLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",偃师新闻频道 / Hasunosora Girls' School Idol Club Channel TV4 (蓮ノ空女学院スクールアイドルクラブ)
-https://epg.pw/stream/dc1e0accfd1f98dfeaa3166e523dbc58d13da4a7e401b71b0c9877118161e54a.ctv
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://lovelive-sif2.com/wordpress/wp-content/themes/sif2_gl_v1.2/assets/images/common/logo.png",НВК Саха / LLSIF-2 TV
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="LoveLive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Liella%21_Official_Logo.svg/1200px-Liella%21_Official_Logo.svg.png",海南卫视 / Liella Channel - Truyền Hình tỉnh Đảo Hải Nam
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="Symphogear" tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",兵团卫视 / Symphogear's S.O.N.G Channel
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 #EXTINF:-1 group-title="Symphogear" tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",CCTV-7 军事频道 / S.O.N.G Military National Defense Channel
-https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 #EXTINF:-1 group-title="Symphogear" tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/6/61/Symphogear_GX_key_art.png/revision/latest/scale-to-width-down/300?cb=20150704190700",GXTV广西卫视 / Symphogear GX-TV Channel / Truyền Hình Vệ Tinh Quảng Tây
-http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
+https://epg.pw/stream/51de45218ed4e74bc654ce5854cb6648fc94d02b5d3a5ce3bf6506ef9092dab4.m3u8
 #EXTINF:-1 group-title="Symphogear" tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/d/d6/Symphogear_AXZ.jpg/revision/latest/scale-to-width-down/304?cb=20170823181437",NBS南京新闻综合 / Symphogear AXZ-TV Channel (Truyền hình Nam Kinh, tỉnh Giang Tô)
 https://epg.pw/stream/b91a2f184d4562d381e6fee45b5bcdb6e90bdda92a8ab18bd0546b77456fdeff.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",广东大湾区卫视 / Project Sekai Colorful Stage feat. Hatsune Miku (プロジェクトセカイカラフルステージfeat.初音ミク)
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
-#EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://www.vocaloidnews.net/wp-content/uploads/2016/08/VNNFrench-A2.png",陕西卫视 / Vocaloid News Network - Truyền Hình Thểm Tây
-https://epg.pw/stream/9e3fb9ab48b92c15094f2bd804748c59a3abf8b3eb8cc6706fe35f0b748c1d01.ctv
+http://iptv.hiper25.com:42487/gdnanfang/video.m3u8?token=1710447330
+#EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://www.vocaloidnews.net/wp-content/uploads/2016/08/VNNFrench-A2.png",陕西卫视 / Vocaloid News Network - Truyền Hình Vệ Tinh Thểm Tây
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="HPNM-TV" tvg-logo="https://hypnosismic-anime.com/assets/2nd/img/common/logo.png",HRB-TV 哈尔滨新闻综合频道 / Hypnosis Mic TV (ヒプノシスマイクテレビ / Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang)
 https://epg.pw/stream/ebea13e7f60f83e6f259e4103b20549ed01871fdbbe4f8f783dd1ef0143ae296.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite03/logo.png.webp",SBS苏州新闻综合频道频道 / Project Sekai VBS-TV (Vivid Bad Squad / Truyền hình Tô Châu, tỉnh Giang Tô)
@@ -856,15 +860,17 @@ https://epg.pw/stream/8161058adb897274c61359249d6c8909159997699519a5cfe065f4e575
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-nightcode.png",徐州新闻综合频道频道 / Nightcord Channel (Truyền hình Từ Châu, tỉnh Giang Tô)
 https://epg.pw/stream/0b2456435363794b08bdc40acfe000bb1f5018ea6cc994f2c4db755e3e11fec6.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",深圳卫视 - Truyền Hình vệ tinh Thâm Quyến, tỉnh Quảng Đông / PRSK-TV Domestic Channel
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed)
-https://live.goodiptv.club/api/cqyx.php?id=neimengkuSD
+https://epg.pw/stream/d8f9ff5c9119264ea33e7afcff6170c744e0ac084a8777d472ce3171e6d5e31f.m3u8
+#EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed) (Mongolian Language)
+https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",LNTV辽宁卫视 (More More Jump - Truyền Hình Vệ Tinh Liêu Ninh)
-https://live.metshop.top/bestv.php?id=lnwshd8m/8000000
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",SDTV山东卫视 (Wonderlands x Showtime - Truyền Hình Vệ Tinh Sơn Đông)
-http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 #EXTINF:-1 group-title="D4DJ-TV" tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 (Truyền Hình Vệ Tinh Rồng Thượng Hải / D4DJ-TV Groovy Mix Channel)
-http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 group-title="Bandori" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",湖南卫视 (Truyền Hình Hồ Nam / Bang Dream TV)
 http://str1.cvtv.xyz:8000/hunan?token=live
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Tales_of_Arise_Box_Art.jpg",JSTV江苏卫视 (Truyền Hình Vệ Tinh Giang Tô / Tales of Arise Channel)
@@ -876,21 +882,33 @@ https://tv.iill.top/cqyx/ningxia
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",HBTV湖北卫视 (Truyền Hình Vệ Tinh Hồ Bắc/ Revue Starlight)
 http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",WHTV武汉新闻综合频道 (Truyền Hình Vũ Hán, tỉnh Hồ Bắc / Revue Starlight)
-https://epg.pw/stream/277c2b350a2b37b80dd8a4b766d55c7bf7b44e2b0cdfbe38024cf5803f80ace4.m3u8
-#EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/tfg.png",AHTV安徽卫视 (Truyền Hình Vệ tinh An Huy / Assault Lily)
-http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
+#EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",WHTV武汉新闻综合频道 (Truyền Hình Vũ Hán, tỉnh Hồ Bắc / Revue Starlight)
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 #EXTINF:-1 group-title="Hololive" group-logo="https://images.microcms-assets.io/assets/6368857617454c2591b02acff18e76bb/47cd6bc838a4460cac509335e445271b/cover_logo_0709.png" tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",SCTV四川卫视 (Truyền Hình Vệ tinh Tứ Xuyên / Hololive Cover Corp)
 http://221.2.36.34:8888/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 group-title="Nijisanji" group-logo="https://www.siliconera.com/wp-content/uploads/2023/09/nijisanji-sustainability-statement-09052023.png?fit=1200%2C675" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nijisanji_EN_logo.svg/560px-Nijisanji_EN_logo.svg.png?20240308190751",JXTV江西卫视 (Truyền Hình Vệ tinh Giang Tây /Nijisanji Cover Corp)
 http://221.2.36.34:8888/newlive/live/hls/32/live.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://www.gamespark.jp/imgs/p/XDbCbghKzVCeRs9WXItNCQoLUAcGBQQDAgEA/678375.jpg?zoom=spacing",济南历下频道 / Triggerheart Exelica Channel - Camera từ Lịch Hạ, Tế Nam, tỉnh Sơn Đông
-https://epg.pw/stream/3921fb4eeed2c5a68038e652fdf517d86a4e303c32e8b71a424a9748b6eeed89.ctv
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",QNBTV 黔南新闻综合频道频道 / Photon Maiden Channel (フォトンメイデンチャンネル) - Truyền Hình Kiềm Nam, tỉnh Quý Châu
 rtmp://tv.qntv.net/channellive/ch1
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",XMTV厦门卫视 / Uma Musume Pretty Derby Channel (Truyền hình vệ tinh Hạ Môn, tỉnh Phúc Kiến)
 https://epg.pw/stream/9a4ebbd2c0826beff2b9cf139260fece54ff0765a04b0754ab907d3c7233f007.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",厦门鼓浪屿 / Uma Musume Tracen Academy Live Cam
 https://epg.pw/stream/85f4c68636b6eebe462459b85c14ced8e8a71248e2aaf1e63a0431af6c409c49.ctv
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",山西文艺广播 / Genjitsu no Yohane Channel (幻日のヨハネ)
+http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",四川文艺广播 / Hololive Radio
+http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",上海故事广播 / Hasunosora Radio
+http://live.cooltv.top/tv/news1296.php?id=10
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Tales_of_Arise_Box_Art.jpg",江苏文艺广播 / Tales of Arise Radio
+http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",河北文艺广播 / The iDOLM@STER Million Live Radio
+http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",北京文艺广播 / LoveLive Nijigaku Radio
+http://ls.qingting.fm/live/333.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
 https://ythls-v2.onrender.com/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
