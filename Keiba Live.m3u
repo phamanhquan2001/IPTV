@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/fullregion.xml" tvg-shift=0 m3uautoload=1
 
 #EXTM3U
-#EXTINF:-1 group-title="JRA / Main Feed" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
+#EXTINF:-1 group-title="JRA - NAR / Main Feed" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="JRA / Kanto Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo / テレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
@@ -19,10 +19,12 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / BS Channel" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-11 (BSイレブン競馬中継)
 http://jp.vthanhnetwork.com/BS11/index.m3u8
-#EXTINF:-1 group-title="JRA / BS Channel", tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (みんなのＫＥＩＢＡ)
+#EXTINF:-1 group-title="JRA / BS Channel" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (みんなのＫＥＩＢＡ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed", tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Finance, Sports and Info Channel (無綫財經體育資訊台)
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Finance, Sports and Info Channel (無綫財經體育資訊台)
 http://1.65.195.85:9981/stream/channelid/1781676223?ticket=5ceccf7a8d3
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Satellite Finance-Sport-Info Channel (無綫財經體育資訊台)
+http://live.cooltv.top/tv/tvb.php?id=2
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
