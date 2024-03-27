@@ -248,8 +248,12 @@ https://ythls-v2.onrender.com/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
 https://ythls-v2.onrender.com/channel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/HBTV_logo.png/220px-HBTV_logo.png",Shoujo Kageki Revue Starlight / Hubei Television - Truyền hình vệ tinh Hồ Bắc (HBTV湖北卫视)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=starlight_ch
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png",Idoly Pride Channel / Truyền hình vệ tinh Ninh Hạ (NXTV宁夏电视台)
+http://code.vthanhtivi.pw/ytlive/get2.php?id=IDOLYPRIDE
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololive Productions / SCTV Sichuan Television - Truyền hình vệ tinh Tứ Xuyên (SCTV四川卫视)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=hololive
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololstars / SCTV Sichuan Television TV2 - Truyền hình vệ tinh Tứ Xuyên (SCTV四川卫视)
+http://code.vthanhtivi.pw/ytlive/get2.php?id=holostars
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/5638/cut-20210422123939-1293480061_jpg_978_652_37140.jpg/1284",Nijisanji / JXTV Jiangxi Television - Truyền hình Vệ tinh tỉnh Giang Tây (JXTV江西卫视)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=nijisanji
 #EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" group-logo="https://cdn.hqth.me/logo/category/thietyeu.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png", ANTV HD - Truyền Hình CAND
