@@ -19,7 +19,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / BS Channel" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-11 (BSイレブン競馬中継)
 http://jp.vthanhnetwork.com/BS11/index.m3u8
-#EXTINF:-1 group-title="JRA / BS Channel" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (みんなのＫＥＩＢＡ)
+#EXTINF:-1 group-title="JRA / BS Channel" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (BSスーパーKEIBA)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Finance, Sports and Info Channel (無綫財經體育資訊台)
 https://epg.pw/stream/0d8e62aba3d874002125398a84c732a0fd33072d3fe2c43857df08f918811e4e.ctv
