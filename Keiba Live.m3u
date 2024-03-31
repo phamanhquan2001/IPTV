@@ -1,67 +1,67 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/fullregion.xml" tvg-shift=0 m3uautoload=1
 
 #EXTM3U
-#EXTINF:-1 group-title="JRA - NAR / Main Feed" tvg-id="greench" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
+#EXTINF:-1 group-title="JRA - NAR / Main Feed" tvg-id="greench" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="JRA / Kanto Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo / テレビ東 (ウイニング競馬)
+#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo / テレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 group-title="JRA / NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
+#EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 group-title="JRA / NHK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS1
+#EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="JRA / Kanto Region" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ(みんなのＫＥＩＢＡ)
+#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ(みんなのＫＥＩＢＡ)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 group-title="JRA / Kinki Region" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",Kansai TV / 関西テレビ (競馬BEAT)
+#EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kansaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",Kansai TV / 関西テレビ (競馬BEAT)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-#EXTINF:-1 group-title="JRA / Kinki Region" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",SUN TV / サンテレビ (うまDOKI)
+#EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",SUN TV / サンテレビ (うまDOKI)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#EXTINF:-1 group-title="JRA / BS Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TVTokyo / BSテレビ東 (ウイニング競馬)
+#EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TVTokyo / BSテレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="JRA / BS Channel" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-11 (BSイレブン競馬中継)
+#EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-11 (BSイレブン競馬中継)
 http://jp.vthanhnetwork.com/BS11/index.m3u8
-#EXTINF:-1 group-title="JRA / BS Channel" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (BSスーパーKEIBA)
+#EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (BSスーパーKEIBA)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Finance, Sports and Info Channel (無綫財經體育資訊台)
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Finance, Sports and Info Channel (無綫財經體育資訊台)
 https://epg.pw/stream/2005e3e15b52db150d59cc95c4e979ef4d9b5c42f4ce9037c99e51a3ee31e9f0.ctv
-#EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
+#EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
+#EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 group-title="JRA /  English Commentary Feed" tvg-id="DubaiRacing3.ae",Dubai Racing 3 (1080p)
+#EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing3.ae",Dubai Racing 3 (1080p)
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" tvg-id="SkyRacing1.au",Sky Racing 1 (720p) [Geo-blocked]
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkyRacing1.au",Sky Racing 1 (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" tvg-id="SkyRacing2.au",Sky Racing 2 (720p) [Geo-blocked]
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkyRacing2.au",Sky Racing 2 (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" tvg-id="SkyThoroughbredCentral.au",Sky Thoroughbred Central (720p) [Geo-blocked]
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkyThoroughbredCentral.au",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 #EXTINF:-1 group-title="NAR",Live Broadcast with AI Voice Implemented
 http://code.vthanhtivi.pw/ytlive/get2.php?id=aiweb9747
-#EXTINF:-1 group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場)
+#EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_banei.png" group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=user-di2dh2dc4q
-#EXTINF:-1 group-title="NAR",Monbetsu (北海道/門別競馬場）
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_hokkaido.png" group-title="NAR",Monbetsu (北海道/門別競馬場）
 https://ythls.armelin.one/channel/UC6tQosgNJOmZUGmtkSvI6zA.m3u8
-#EXTINF:-1 group-title="NAR",Morioka and Mizusawa (岩手県/盛岡と水沢競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_iwate.png" group-title="NAR",Morioka and Mizusawa (岩手県/盛岡と水沢競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=IwateKeibaITV
-#EXTINF:-1 group-title="NAR",Urawa (埼玉県/浦和競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_urawa.png" group-title="NAR",Urawa (埼玉県/浦和競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=user-vh3fg5mt1c
-#EXTINF:-1 group-title="NAR",Funabashi (千葉県/船橋競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_funabashi.png" group-title="NAR",Funabashi (千葉県/船橋競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=funabashi-keiba
-#EXTINF:-1 group-title="NAR",Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_tokyocity.png" group-title="NAR",Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=tckkeiba
-#EXTINF:-1 group-title="NAR",Kawasaki (神奈川県/川崎競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kawasaki.png" group-title="NAR",Kawasaki (神奈川県/川崎競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=user-se7me6tw7q
-#EXTINF:-1 group-title="NAR",Kanazawa (石川県/金沢競馬場)
+#EXTINF:-1 tvg-logo="https://www.oddspark.com/club/keiba/static/img/meister/icon_kanazawa.png?20220601134042" group-title="NAR",Kanazawa (石川県/金沢競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=user-dx7rm6oz6r
-#EXTINF:-1 group-title="NAR",Kasamatsu (岐阜県/笠松競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kasamatsu.png" group-title="NAR",Kasamatsu (岐阜県/笠松競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=user-lm8ln1kk9j
-#EXTINF:-1 group-title="NAR",Nagoya (愛知県/名古屋競馬場) (Home of the annual World Cosplay Summit event and also upcoming 20th Asian Games in 2026)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nagoya.png" group-title="NAR",Nagoya (愛知県/名古屋競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=user-sx4xe4bs5r
-#EXTINF:-1 group-title="NAR",Sonoda and Himeji (兵庫県/園田と姫路競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_sonodahimeji.png" group-title="NAR",Sonoda and Himeji (兵庫県/園田と姫路競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=sonodahimejiweb
-#EXTINF:-1 group-title="NAR",Kochi (高知県/高知競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kochi.png" group-title="NAR",Kochi (高知県/高知競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=keibaorjp
-#EXTINF:-1 group-title="NAR",Saga (佐賀県/佐賀競馬場)
+#EXTINF:-1 tvg-logo="https://www.oddspark.com/member/beginner/enjoy/images_keiba/icon_saga.png?20231019104220" group-title="NAR",Saga (佐賀県/佐賀競馬場)
 http://code.vthanhtivi.pw/ytlive/get2.php?id=sagakeibaofficial
 #EXTINF:-1 group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場) (Geo-blocked)
 https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiroba1.m3u8
