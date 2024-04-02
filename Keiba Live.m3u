@@ -39,10 +39,12 @@ https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 http://code.vthanhtivi.pw/ytlive/get2.php?id=aiweb9747
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_banei.png" group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場)
 https://ythls.armelin.one/channel/UCyjlxPcoYAbpwlr5wjUA_5g.m3u8
+https://media.tencam.cyl.nhk.jp/703/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_hokkaido.png" group-title="NAR",Monbetsu (北海道/門別競馬場）
 https://ythls.armelin.one/channel/UC6tQosgNJOmZUGmtkSvI6zA.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_iwate.png" group-title="NAR",Morioka and Mizusawa (岩手県/盛岡と水沢競馬場)
 https://ythls.armelin.one/channel/UCVMhQ20_Y0vseUV7doOotwg.m3u8
+https://media.tencam.cyl.nhk.jp/604/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_urawa.png" group-title="NAR",Urawa (埼玉県/浦和競馬場)
 https://ythls.armelin.one/channel/UCdtB0m4BIjadiqV3C0Vi9SQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_funabashi.png" group-title="NAR",Funabashi (千葉県/船橋競馬場)
