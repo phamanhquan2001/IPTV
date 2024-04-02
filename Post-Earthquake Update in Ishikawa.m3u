@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml,https://epg.ra1n.lol/jpkansai.xml" tvg-shift=0 m3uautoload=1
 
 #LiveCam
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://www.ishikawa-tv.com/outline/syaoku.jpg" tvg-id="hab.jp",Ishikawa Television / 石川テレビ (Main Update Feed)
-http://code.vthanhtivi.pw/ytlive/get2.php?id=user-zl5kx2zy3p
+#EXTINF:-1 group-title="Ishikawa", Live Camera from Kanazawa
+https://media.tencam.cyl.nhk.jp/302/live_stream.m3u8
 #EXTINF:-1 tvg-id="NHKKishouSaigai.jp",NHK Kishou Saigai (360p) [Not 24/7]
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Main Update Feed #2)
