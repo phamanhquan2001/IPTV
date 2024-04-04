@@ -3,34 +3,14 @@
 #LiveCam
 #EXTINF:-1 group-title="Ishikawa", Live Camera from Kanazawa
 https://media.tencam.cyl.nhk.jp/302/live_stream.m3u8
-#EXTINF:-1 tvg-id="NHKKishouSaigai.jp",NHK Kishou Saigai (360p) [Not 24/7]
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Main Update Feed #2)
-http://code.vthanhtivi.pw/ytlive/get2.php?id=habmigochannel
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Chirihama Sunset (千里浜サンセット)
-https://ythls.armelin.one/video/mrdsIr8dyTs.m3u8
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",HAB (Hokuriku Asahi Broadcasting - HAB北陸朝日放送) TV Station Headquarters
-https://ythls.armelin.one/video/a3fsiU6ilHU.m3u8
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Chirihama (能登千里浜)
-https://ythls.armelin.one/video/GcVWo1DOeGc.m3u8
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Kanazawa Train Station (金沢駅)
-https://ythls.armelin.one/video/i5ZEjaFK-II.m3u8
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Ishikawa Prefectural Offices HQ (石川県庁)
-https://ythls.armelin.one/video/oVXflCdHug4.m3u8
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Wajima Live Cam (能登輪島)
-https://ythls.armelin.one/video/12_RuKQQsQo.m3u8
-#EXTINF:-1 group-title="Ishikawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hokuriku_Asahi_Broadcasting_2020.jpg/1500px-Hokuriku_Asahi_Broadcasting_2020.jpg" tvg-id="hab.jp",Noto Suzu Live Cam (能登珠洲)
-https://ythls.armelin.one/video/yKqkDYU4jDo.m3u8
-#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",SA-TV / Shizuoka Asahi Television (SA-TV静岡朝日テレビ) (Bangladesh)
-https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
-#EXTINF:-1 tvg-logo="https://chowdhuryit.com/newspro/wp-content/uploads/2023/10/org-640-c.png" tvg-id="satv.bd",Live Camera from Shizuoka and Numazu produced by SA-TV Bangaldesh, Home of LoveLive Sunshine and Genjitsu no Yohane (Representatives of Shanxi Television SXTV - 山西卫视)
-https://media.tencam.cyl.nhk.jp/303/live_stream.m3u8
 
 #EEW
 #EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
 https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
 
-#Tokyo2
+#Tokyo
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHKKishouSaigai.jp",NHK Kishou Saigai (360p) [Not 24/7]
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 540
@@ -39,7 +19,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-id="tbsnewsdig.jp",TBS News
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbsnewsdig.jp",TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Tokyo" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV 540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
