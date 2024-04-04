@@ -7,14 +7,26 @@ https://media.tencam.cyl.nhk.jp/302/live_stream.m3u8
 #EEW
 #EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
 https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
+#EXTINF:-1 tvg-id="EWRS.jp",EWRS
+https://ythls.armelin.one/channel/UC5Csms-03xrKK1pH2MK_WHQ.m3u8
+#EXTINF:-1 tvg-id="NDQInfo.jp",NDQInfo
+https://ythls.armelin.one/channel/UCxL3BtSK0JVsT4JW_MlB4Jg.m3u8
+#EXTINF:-1 tvg-id="BSC24.jp",Bousai Share
+https://ythls.armelin.one/channel/UCyMW-_pfjsTG76c9tP5SErg.m3u8
+#EXTINF:-1 tvg-id="EEW.tw",Taiwan Earthquake
+https://ythls.armelin.one/channel/UCa32OtZqhDqDqCHeWO477qg.m3u8
 
 #Tokyo
-#EXTINF:-1 group-title="Tokyo" tvg-id="NHKKishouSaigai.jp",NHK Kishou Saigai (360p) [Not 24/7]
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 tvg-id="",NHKWorld-Japan (Vietnamese Subs) (720p)
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/vi/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (720p) [Not 24/7]
+https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 540
@@ -29,7 +41,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1 540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-
+#EXTINF:-1 group-title="Tokyo" tvg-id="NHKKishouSaigai.jp",NHK Kishou Saigai (360p) [Not 24/7]
+https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
 
 #Kansai
 #EXTINF:-1 group-title="Osaka" tvg-id="nhkgosaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G Osaka
@@ -77,59 +90,59 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&b
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
+#TAIWAN
+#EXTINF:-1 tvg-id="EBC.tw",EBC NEWS
+https://epg.pw/stream/6ba779245d7cce247a2d52ccf40866c731947a6185f7ed61e7b28a877bbd5a18.ctv
+#EXTINF:-1 tvg-id="SET.tw",SET-INEWS TV
+https://epg.pw/stream/355445c29dfc6d7aeeab06dc831477945355890318886c5be26e7c221ef243d9.ctv
+#EXTINF:-1 tvg-id="FTV.tw",FORMOSA-NEWS
+https://epg.pw/stream/75e14c76b6bf52ae5f96e83d07ea3b69008f6b017d18a395b6c6346ef60bcb27.ctv
+
 #NEWS
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE) (Youtube Feed)
-https://ythls-v2.onrender.com/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (Youtube Feed)
-http://code.vthanhtivi.pw/ytlive/get2.php?id=NHKWORLDJAPAN
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (1080p)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (720p)
-http://203.162.235.41:13092
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (720p)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHKWorld-Japan (720p)
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="",NHKWorld-Japan (French Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHKWorld-Japan (Portuguese Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHKWorld-Japan (Spanish Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHKWorld-Japan (Vietnamese Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/vi/playlist.m3u8
-#EXTINF:-1 tvg-id="",NHKWorld-Japan (Ukraine Subs) (720p)
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/ua/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (720p) [Not 24/7]
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp",NHK World Premium (480p)
-https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE) (Youtube Feed)
+https://ythls-v2.onrender.com/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 tvg-id="NTVNEWS24.jp",NTV News24 (480p)
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="ANNNewsCH.jp",ANNNewsCH
 https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
 #EXTINF:-1 tvg-id="fnnprimeonline.jp",FNNプライムオンライン
 https://ythls.armelin.one/channel/UCoQBJMzcwmXrRSHBFAlTsIw.m3u8
-#EXTINF:-1 group-title="📻| Radio" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
-http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV5
-https://stream.vovmedia.vn/vov5
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV5 24/7
-https://stream.vovmedia.vn/vov247
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hà Nội
-http://media.kythuatvov.vn:7025/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", VOV Giao thông Hồ Chí Minh
-http://media.kythuatvov.vn:7023/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOVGT Mekong
-https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
 
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/247.png", VOH FM 99.9Mhz
+#RADIO
+
+#EXTINF:-1 group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
+http://media.kythuatvov.vn:7001/;stream/
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
+http://media.kythuatvov.vn:7003/;stream/
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
+http://media.kythuatvov.vn:7005/;stream/
+#EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE NORTH
+https://stream.vovmedia.vn/vov4tb
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png" radio="true", VOV MINORITIES SERVICE HIGHLANDS
+https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
+#EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE MEKONG
+https://stream.vovmedia.vn/vov4dbscl
+#EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE SAIGON
+https://stream.vovmedia.vn/vov4hcm
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/7XxWatS.png" radio="true", VOV WORLD SERVICE
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/jjfSOYm.png" radio="true", VOV ENGLISH SERVICE
+https://stream.vovmedia.vn/vov247
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/rllXbD6.png" radio="true", VOV TRAFFIC SERVICE HANOI
+https://hqth.me/vovtraffichan_dlk
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/SyQBB9I.png" radio="true", VOV TRAFFIC SERVICE SAIGON
+https://hqth.me/vovtrafficsg_dlk
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/2uTCy6B.png" radio="true", VOV TRAFFIC SERVICE MEKONG
+https://hqth.me/vovtrafficmekong_dlk
+
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/hBCG8yD.png" radio="true", VOH FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/248.png", VOH FM 95.6Mhz
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/ITTPjxo.png" radio="true", VOH FM 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/249.png", VOH FM 87.7Mhz
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/Kk7NnHq.png" radio="true", VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/aJA9Yyb.png" radio="true", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
