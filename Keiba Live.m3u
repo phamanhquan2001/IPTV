@@ -35,6 +35,26 @@ https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
 https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkyThoroughbredCentral.au",Sky Thoroughbred Central (720p) [Geo-blocked]
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Sapporo (北海道/札幌競馬場)
+https://media.tencam.cyl.nhk.jp/700/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Hakodate (北海道/函館競馬場)
+https://media.tencam.cyl.nhk.jp/701/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Fukushima (福島県/福島競馬場)
+https://media.tencam.cyl.nhk.jp/605/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Tokyo (東京都/東京競馬場)
+https://media.tencam.cyl.nhk.jp/100/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Nakayama (千葉県/中山競馬場)
+https://www.youtube.com/watch?v=TX23A1rJOrQ
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Niigata (新潟県/新潟競馬場)
+https://m3u8play.dev/?url=https://media.tencam.cyl.nhk.jp/103/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Chukyo (愛知県名古屋市/中京競馬場)
+https://media.tencam.cyl.nhk.jp/300/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Kyoto (京都/京都競馬場)
+https://media.tencam.cyl.nhk.jp/201/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Hanshin (兵庫県/阪神競馬場)
+https://media.tencam.cyl.nhk.jp/202/live_stream.m3u8
+#EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Kokura (福岡県/小倉競馬場)
+https://media.tencam.cyl.nhk.jp/501/live_stream.m3u8
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Voice Implemented
 https://ythls.armelin.one/channel/UCKz6vVzMrc_9ZDRNH7LnIxQ.m3u8
 https://ythls.armelin.one/channel/UC_NkTvrPvzS4i3POiMNi9Nw.m3u8
@@ -52,6 +72,7 @@ https://ythls.armelin.one/channel/UCdtB0m4BIjadiqV3C0Vi9SQ.m3u8
 https://ythls.armelin.one/channel/UCfnIcvhLkVVCTd86yemmGnQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_tokyocity.png" group-title="NAR",Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場)
 https://ythls.armelin.one/channel/UCPSZn8iMXln9o89SpmeJ6wg.m3u8
+https://media.tencam.cyl.nhk.jp/100/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kawasaki.png" group-title="NAR",Kawasaki (神奈川県/川崎競馬場)
 https://ythls.armelin.one/channel/UCF7v-dGy_jQ_7bOi7oab2PA.m3u8
 #EXTINF:-1 tvg-logo="https://www.oddspark.com/club/keiba/static/img/meister/icon_kanazawa.png?20220601134042" group-title="NAR",Kanazawa (石川県/金沢競馬場)
@@ -60,12 +81,15 @@ https://ythls.armelin.one/channel/UCMRX5ABMJWPR6aWlyZYeKog.m3u8
 https://ythls.armelin.one/channel/UCmPuLUWCwfAW99ezdCj6ayQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nagoya.png" group-title="NAR",Nagoya (愛知県/名古屋競馬場)
 https://ythls.armelin.one/channel/UCuAGB0_QDb68etl8v-JcSzA.m3u8
+https://media.tencam.cyl.nhk.jp/300/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_sonodahimeji.png" group-title="NAR",Sonoda and Himeji (兵庫県/園田と姫路競馬場)
 https://ythls.armelin.one/channel/UCo3pBlg2U4Bu-n7UefYI45g.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kochi.png" group-title="NAR",Kochi (高知県/高知競馬場)
 https://ythls.armelin.one/channel/UCwGgMN7UlYobxOzIpknGo-A.m3u8
+https://media.tencam.cyl.nhk.jp/801/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.oddspark.com/member/beginner/enjoy/images_keiba/icon_saga.png?20231019104220" group-title="NAR",Saga (佐賀県/佐賀競馬場)
 https://ythls.armelin.one/channel/UCzsYglP_Q86IKATJ0cU-XDw.m3u8
+https://media.tencam.cyl.nhk.jp/508/live_stream.m3u8
 #EXTINF:-1 group-title="NAR",Obihiro Banei (北海道/帯広ばんえい競馬場) (Geo-blocked)
 https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiroba1.m3u8
 #EXTINF:-1 group-title="NAR",Monbetsu (北海道/門別競馬場) (Geo-blocked)
