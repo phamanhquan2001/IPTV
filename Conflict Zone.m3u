@@ -53,11 +53,8 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
-http://vthanhtivi.pw:5000/animax/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Anime Chọn Lọc" group-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS-Asia TV / Al Mayadeen TV (Phụ Đề Tiếng Anh)
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="Anime Chọn Lọc" group-logo="https://cdn.hqth.me/logo/category/anime.png" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", ANIPLUS-Asia TV / Al Mayadeen TV (Phụ Đề Tiếng Indonesia)
-https://epg.pw/stream/1759bdd02564ae4c4d3f63ca23af333bdfc7cf18a813f716db22a4a4136f6259.ctv
+https://epg.pw/stream/72de9709d9a80649655470bab9a71ca53a6031064b8e866eb6be77e93c8c69b8.ctv
+
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
 http://jp.vthanhnetwork.com/NHK_G/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
@@ -1408,17 +1405,17 @@ https://epg.pw/stream/5449f2d57a27706d5b13071efab41c175da68c2cc31af7c2734df6d796
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古蒙语卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed) (Mongolian Language)
 https://epg.pw/stream/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",LNTV辽宁卫视 (More More Jump - Truyền Hình Vệ Tinh Liêu Ninh)
-https://epg.pw/stream/e0e6a6088fac2bb3e8dde1bd0ecf96325c3cf0a9617c1ce3dc41e2f2ac290ac7.ctv
+https://epg.pw/stream/2985dc2b5aec12576d81fb71dc406aed04cd0a46e1b25244a78a2bfdc7c21611.m3u8
 #EXTINF:-1 group-title="PJSK-TV" tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",SDTV山东卫视 (Wonderlands x Showtime - Truyền Hình Vệ Tinh Sơn Đông)
 https://epg.pw/stream/acd8f457797b8b2a60bf695905d0e3ad32a654d47a45b9bd4f91545c3f6a9aae.m3u8
 #EXTINF:-1 group-title="D4DJ-TV" tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 (Truyền Hình Vệ Tinh Rồng Thượng Hải / D4DJ-TV Groovy Mix Channel)
 https://epg.pw/stream/54fd2df108156256ff6d70932ea11599b10cad4b94f66d5a96eb50584d304d8c.m3u8
 #EXTINF:-1 group-title="Bandori" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",湖南卫视 (Truyền Hình Hồ Nam / Bang Dream TV)
-http://str1.cvtv.xyz:8000/hunan?token=live
+https://epg.pw/stream/e7f58bfffa8a66cd3748004a808a4720b78f5ae34d807016e86813d3e71c09b8.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Tales_of_Arise_Box_Art.jpg",JSTV江苏卫视 (Truyền Hình Vệ Tinh Giang Tô / Tales of Arise Channel)
-http://str1.cvtv.xyz:8000/JSTV?token=live
+https://epg.pw/stream/4b3a79c01c9ae45646cd792c7c7818c22a58ed5cb47262cfd65e9895464207bf.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://img.atwiki.jp/aniwotawiki/attach/18577/5385/8tnu01000001hiqc.jpg",ZJTV浙江卫视 (Truyền Hình Vệ Tinh Chiết Giang / Hyperdimension Neptunia Channel)
-http://str1.cvtv.xyz:8000/ZJTV?token=live
+https://epg.pw/stream/684376a6194a203a589e0d3507e50306093a681047673968c2bce8ff573f366a.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://www.tv-tokyo.co.jp/anime/idolypride/images/teaserlogo.png",NXTV宁夏卫视 (Truyền Hình Vệ Tinh Ninh Hạ / Idoly Pride Channel (アイプラチャンネル)
 https://epg.pw/stream/7c97987fabe18f3ac68fed41bc53ceffb58399ae248785798ba08e384728f027.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",HBTV湖北卫视 (Truyền Hình Vệ Tinh Hồ Bắc/ Revue Starlight)
