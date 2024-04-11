@@ -1,9 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Về bờ TV" group-logo="https://tchiphuong.github.io/iptv/images/background/live.png" tvg-id="vebomay00" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",ATP Masters 1000 Monte Carlo Open Day 3 (BLV Nhà Đài)
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179314182.thapcam.link/live/may6/chunklist.m3u8#|Referer=https://xem.bdhub.xyz
-
-#EXTINF:-1 group-title="Về bờ TV" group-logo="https://tchiphuong.github.io/iptv/images/background/live.png" tvg-id="vebomay00" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",China Badminton Championship (SD1)
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@longSD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz
