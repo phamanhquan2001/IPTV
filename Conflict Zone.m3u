@@ -119,10 +119,6 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="🌏| News Update"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/love-live/images/5/52/LL-SIFAS-Lanzhu.png/revision/latest?cb=20230907072128", CGTN - Paradox Live (Youtube Live Feed by Lanzhu Zhong)
-https://ythls.armelin.one/channel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://paradoxlive.jp/matome/assets/siteinfo/og_image.jpg", CGTN - Paradox Live (Youtube Live Feed by Lanzhu Zhong)
-https://ythls.armelin.one/channel/UCgrNz-aDmcr2uuto8_DL2jg.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
 https://epg.pw/stream/fc939113e81b8c3c09a430f2d5aecf985c98d73658e4314d70292b2f53d2e153.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="RT.ru",Russia Today
@@ -132,9 +128,9 @@ https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNews.gb",SkyNews
 http://free.cvmtv.site/SkyN?token=live
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="CNN.us",CNN
-http://free.cvmtv.site/CNN?token=live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 group-title="🌏| News Update",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
-http://free.cvmtv.site/PhxInfo?token=live
+https://epg.pw/stream/58b90e179939717b2c6501181658ae1f827155a248d59d77d84bd1910da50599.ctv
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
 https://edge.taghtia.com/sa/4.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
