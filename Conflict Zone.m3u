@@ -52,8 +52,12 @@ https://live.aionet.ir/hls/irinn/irinn.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
-https://epg.pw/stream/72de9709d9a80649655470bab9a71ca53a6031064b8e866eb6be77e93c8c69b8.ctv
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
+https://epg.pw/stream/8765e74ddbbdc8c31138b5817a0a37ed1632fa5e89354c46f840eb07d75ac291.ctv
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD Korea / KurdistanTV (Tiếng Hàn)
+https://epg.pw/stream/14e5ffa8c664f85c6958664f15bf5eadc1502fc6db7d35abc87bda562089f189.ctv
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://www.freeetv.com/images/01_logo/al_mayadeen_tv.jpg", Aniplus Asia / Al-Mayadeen TV
+https://epg.pw/stream/e7a8fab5e3cd5dce52a4a9404be1bbd64569060b8a75e937eb2d5209a20dffbd.ctv
 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
 http://jp.vthanhnetwork.com/NHK_G/index.m3u8
