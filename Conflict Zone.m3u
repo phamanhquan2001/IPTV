@@ -210,28 +210,28 @@ https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRTWorld (Thừa Thiên Huế)
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-http://str1.cvtv.xyz/VTV1HD?token=live
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://str1.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-http://str1.cvtv.xyz/VTV3HD?token=live
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://wintv.fun/360/108/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-http://str1.cvtv.xyz/vtv5?token=live
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://wintv.fun/360/157/index.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
-https://wintv.fun/360/207/index.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://wintv.fun/360/6/index.m3u8
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://wintv.fun/360/115/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png",VTV9
-https://wintv.fun/360/8/index.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" group-logo="https://i.imgur.com/Rd2Qkc4.png" tvg-logo="https://i.imgur.com/qv5erJg.png",VTV Cần Thơ
-https://wintv.fun/360/98/index.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv1-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv2-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv3-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv4-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+http://171.238.181.52:18080/194.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tnb-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên 
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv5tn-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/qv5erJg.png",VTV Cần Thơ
+http://171.238.181.52:18080/156.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv7-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv8-manifest.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+https://lms-vnetwork-vtv.swiftfederation.com/vtvgo/vtv9-manifest.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视) - Truyền hình vệ tinh Phương Nam Quảng Đông
 http://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
