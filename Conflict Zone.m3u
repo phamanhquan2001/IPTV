@@ -1,242 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",Shabab FM Radio (by Asticassia Radio Comitee and Satellite Receiver Studio and Monitoring Room) (720p)
-https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="PalestineMubasher.ps",Palestine Mubasher (404p)
-http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps",Palestine Today (480p) [Geo-blocked]
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AlNajahNews.ps",Al Najah News (by Project Sekai Television) (720p)
-https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="NablusTV.ps",Nablus TV from SDRT (720p) [Not 24/7]
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (1080p)
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Makan33.il",Makan 33 (1080p)
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Channel13.il",Reshet 13 (1080p)
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Channel13.il",Reshet 13 (720p)
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="I24NewsEnglish.il",i24News English (720p)
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB1.ir",IRIB1 (720p)
-https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB2.ir",IRIB2 (540p)
-https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB3.ir",IRIB3 (480p)
-https://af.ayas.ir/hls2/tv3.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB4.ir",IRIB4 (540p)
-https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB5.ir",IRIB5 (540p)
-https://live.aionet.ir/hls/tv5/tv5.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="AlAlam.ir",Al Alam (360p) [Not 24/7]
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN.ir",IRINN (540p)
-https://live.aionet.ir/hls/irinn/irinn.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="PressTV.ir",Press TV (720p)
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
-https://epg.pw/stream/8765e74ddbbdc8c31138b5817a0a37ed1632fa5e89354c46f840eb07d75ac291.ctv
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD Korea / KurdistanTV (Tiếng Hàn)
-https://epg.pw/stream/14e5ffa8c664f85c6958664f15bf5eadc1502fc6db7d35abc87bda562089f189.ctv
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://www.freeetv.com/images/01_logo/al_mayadeen_tv.jpg", Aniplus Asia / Al-Mayadeen TV
-https://epg.pw/stream/e7a8fab5e3cd5dce52a4a9404be1bbd64569060b8a75e937eb2d5209a20dffbd.ctv
-
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
-http://jp.vthanhnetwork.com/NHK_G/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhke" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png", NHK E 
-http://jp.vthanhnetwork.com/NHK_E/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV 
-http://jp.vthanhnetwork.com/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png", TBS 
-http://jp.vthanhnetwork.com/TBS/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="fujitv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png", Fuji TV  
-http://jp.vthanhnetwork.com/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvasahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png", TV Asahi  
-http://jp.vthanhnetwork.com/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png", TV Tokyo 
-http://jp.vthanhnetwork.com/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png", TOKYO MX1
-http://jp.vthanhnetwork.com/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png", BS11
-http://jp.vthanhnetwork.com/BS11/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X
-http://jp.vthanhnetwork.com/AT-X/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png", NTV News24 TV - Nghệ An/Ninh Thuận (日テレNEWS24)
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE) (Youtube Feed)
-https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
-#EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="greench" tvg-logo="https://d23iyfk1a359di.cloudfront.net/files/topics/25885_ext_03_en_0.jpg?version=1614819492&width=824&height=464", Green Channel (グリーンチャンネル) / Uma Musume Pretty Derby Channel (ウマ娘プリティーダービーチャンネル) 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="MetroTV.id",METROTV
-https://epg.pw/stream/b04c8243a27bdd51b8ebcd099c2d04dbdc9498b1b2062d05b03e5a65a77e20a0.ctv
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/67/Logo_The_Idolmaster_2.png",KOMPAS-TV / The iDOLM@STER 2-TV
-https://epg.pw/stream/ebb9ff07e7a8b7712c3f54ab28039c7b734cc9ebd383d3812768f60e525212ec.ctv
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="TVOne.id" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",VIVA TVOne / Weathernews LiVE (ウェザーニュースLiVE)
-https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
-#EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="NET.id",.NET TV
-https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.1
-https://ythls.armelin.one/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.2
-https://ythls.armelin.one/channel/UCuyLmOJb7PVCvx8zbRT9_GQ.m3u8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.3
-https://ythls.armelin.one/channel/UCzOMM5fm593lJ3QaDkuiESg.m3u8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.4
-https://ythls.armelin.one/channel/UCJqILop8glYhyfPjBpxiyLw.m3u8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.5
-https://ythls.armelin.one/channel/UCm7oBwzfRBp6kX8jhWhlaSg.m3u8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.6
-https://ythls.armelin.one/channel/UCq1xihNfMHU_Ekmqs_382Sg.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
-https://epg.pw/stream/d8d86dede808358d248bad6c290eba43f63be54e467ea3865a0140b3fb9e5f25.ctv
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="RT.ru",Russia Today
-https://epg.pw/stream/85a812d12967aa5310f0ef6b7d5f09c0a161ad6bad9df6dd5b9e16cd1ae0530b.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNNTurk.tr",CNN Turk
-https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNews.gb",SkyNews
-http://free.cvmtv.site/SkyN?token=live
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNN.us",CNN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="🌏| News Update",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
-https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
-https://edge.taghtia.com/sa/4.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Arabiya Al Hadath (1080p) [Not 24/7]
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNewsPortrait.sa",Asharq News Portrait (1280p)
-https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
-https://epg.pw/stream/ea349724c460335fd9ef12d8ca1e113842385406b7a93bdc74c27fe39b9b60ff.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://preview.redd.it/t9ayxxd6rs091.png?width=400&format=png&auto=webp&s=ce53736e1a97b890c3bb78d35a929f7dfa845943",TVPWorld (Polandia) / Mihoyo Channel
-https://sdt-thinx4-184.tvp.pl/token/video/live/51656539/20240312/453204024/X-p-J9o9JdvMQ23QKoBld137otfijQPeYf5lVYlfs7QY853n3JSB8wf3iuKd54F0sYSTSkUOVZxPFMULf3IrUCbVnaPcdBTY4fhKhtxxXHttI50dz9CcD_CuQewugF6c-N7QvOXiUyAiTGqVi6-6pVs-aXaI8UZO3erH6DuCJDyTHKZ76skhMY0-bkW37QmL/156/TVP_World-audio_211682_pol=211200-video=636800.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",Aaj News / Revue Starlight RELIVE-FM Radio Channel 1
-https://epg.pw/stream/f0f338ce1db8d60c93fa10fc95b164ef88c2d7887c19dd4ed8f4207e35fc2094.ctv
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ARYNews / Revue Starlight RELIVE-FM Radio Channel 2
-https://epg.pw/stream/b03d78204cfb6f058625ded4b53e64f643951479b6ba90d30424fba0c32c5fe8.ctv
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",GeoNews / Revue Starlight RELIVE-FM Radio Channel 3
-https://ythls.armelin.one/channel/UC_vt34wimdCzdkrzVejwX9g.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",TOLONews / Revue Starlight RELIVE-FM Radio Channel 4
-https://st2.mediabay.tv/ToloTV/playlist.m3u8?token=0ffd2b531dbcf1f5d16d34ab2f7493d4536f6be2-eb65aeb1c5be2f54ca0975ac3c07b259-1710698723-1710687923
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ATNNews (Ariana News) / Revue Starlight RELIVE-FM Radio Channel 5
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ShamshadNews TV / Revue Starlight RELIVE-FM Radio Channel 6
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
-https://epg.pw/stream/f17013d485da0ef3fd6316ecca0561a92b2cf33d07fec5c50260e21d93994ac3.ctv
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
-https://ctrl.laotv.la/live/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-https://epg.pw/stream/95f8bf0332c5206cd91decbcd04347d306bbb9a315a610180f05a050bae0a9c7.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
-http://103.130.141.67:81/live/3/playlist.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
-https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://epg.pw/stream/8d3f4feb344b4a771e4e606b990b1008d380a92f5d74855889d39d940c347c27.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
-https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
-https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.ctv
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRTWorld (Thừa Thiên Huế)
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-http://171.238.181.52:18080/154.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://118.107.85.4:1935/live/smil:VTV2.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-http://171.238.180.25:18080/155.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-http://s4.nihontv.net:21585/vtv4/index.m3u8
-#EXTINF:0 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-http://171.238.181.52:18080/194.m3u8
-#EXTINF:0 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-http://171.238.181.52:18080/156.m3u8
-#EXTINF:0 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?
-#EXTINF:0 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8?
-#EXTINF:0 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?
-
-#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
-https://htvc271120.cdn.vnns.io/05bc5bd6cfd5e31c3bd49cff615493811714006356/htv1.720p.nimble.tms/playlist.m3u8
-#EXTINF:-1 tvg-id="htv2" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?
-#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?
-#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
+ttps://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
@@ -1449,18 +1211,48 @@ rtmp://tv.qntv.net/channellive/ch1
 https://epg.pw/stream/00fa0928817c3047a3208f340c1296dfdf8dc52de94a66d849ed91719cce23a8.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",厦门鼓浪屿 / Uma Musume Tracen Academy Live Cam
 https://epg.pw/stream/bedf8acae5ca1362ff95957c0791d50b789b412c69f701bb640fe87e14436138.m3u8
-#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",山西文艺广播 / Genjitsu no Yohane Radio Channel (幻日のヨハネ)
-http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
-#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",四川文艺广播 / Hololive Radio
-http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",上海故事广播 / Hasunosora Radio
-http://live.cooltv.top/tv/news1296.php?id=10
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏藏语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Tibetan Language)
+http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏汉语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Chinese Language)
+http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=2022080603283",云南新闻广播 (The iDOLM@STER Cinderella Girls / Đài Phát Thanh Vân Nam)
+http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=2022080603283",河北综合广播 (The iDOLM@STER Million Live / Đài Phát Thanh Hà Bắc)
+http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://project-imas.wiki/images/7/75/DJCD_Vol.01_Regular.png",河北文艺广播 / The iDOLM@STER Million Radio
+http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.miraheze.org/sidemwiki/6/62/315Pro_Night.jpg",青海新闻综合广播 青海之声 / The iDOLM@STER SIDEM Radio 315Pro Night (Chinese Language)
+http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.miraheze.org/sidemwiki/6/62/315Pro_Night.jpg",青海藏语广播 / The iDOLM@STER SIDEM Radio 315Pro Night (Tibetan Language)
+http://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://project-imas.wiki/images/5/5f/HabatakiRadioLogo.png",广东新闻广播 / THE iDOLM@STER Shiny Colors Habataki Radio Station
+http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://project-imas.wiki/images/5/5d/876.png",贵州综合广播 / Project VALIV Radio by 876Pro
+http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",山西综合广播 / Genjitsu no Yohane Radio Channel (幻日のヨハネ)
+http://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",四川综合广播 / Hololive Radio
+http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",四川民族频率播 / Kazuno Leah's Kangba Radio Channel
+http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",吉林新闻综合广播 / LoveLive School Idol Project Radio
+http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aqours_logo.svg/1200px-Aqours_logo.svg.png",重庆音乐广播 / LoveLive Sunshine Radio by Aqours
+http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",黑龙江新闻广播 / The Kazuno's Sister Saint Snow Radio
+http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",海南新闻广播 / LoveLive Superstar's Radio
+http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",上海新闻广播 / Hasunosora Radio
+http://satellitepull.cnr.cn/live/wx32shrmgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Tales_of_Arise_Box_Art.jpg",江苏文艺广播 / Tales of Arise Radio
 http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",河北文艺广播 / The iDOLM@STER Million Live Radio
-http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
-#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",北京文艺广播 / LoveLive Nijigaku Radio
-http://ls.qingting.fm/live/333.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",北京新闻广播 / LoveLive Nijigaku Radio
+http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://www.tv-tokyo.co.jp/anime/idolypride/images/teaserlogo.png",宁夏新闻广播 / Idoly Pride Radio
+http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/d4dj/images/3/39/D4DJ_All_Mix_Logo.jpeg/revision/latest?cb=20220719184207",上海东方广播电台 / D4DJ All Mix Radio Channel
+http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
 https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
