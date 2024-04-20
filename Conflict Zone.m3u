@@ -1449,6 +1449,48 @@ rtmp://tv.qntv.net/channellive/ch1
 https://epg.pw/stream/00fa0928817c3047a3208f340c1296dfdf8dc52de94a66d849ed91719cce23a8.m3u8
 #EXTINF:-1 group-title="Idol Game Channel" tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",厦门鼓浪屿 / Uma Musume Tracen Academy Live Cam
 https://epg.pw/stream/bedf8acae5ca1362ff95957c0791d50b789b412c69f701bb640fe87e14436138.m3u8
+#EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg" group-title="Idol Radio Channel" radio="true",CNR-1 News Radio (Produced by Radio News Department of The iDOLM@STER)
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" group-title="Idol Radio Channel" radio="true",CNR-2 Business Radio
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" radio="true",CNR-3 Music Radio (Produced by Music Radio Department of The iDOLM@STER)
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" radio="true",CNR-4 Golden Radio
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-5-taiwan-service-1-cn.png" radio="true",CNR-5 Cross-Strait Radio
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-6-taiwan-service-2-cn.png" radio="true",CNR-6 Shenzhou Easy Radio
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-name="CNR7" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png" group-title="Idol Radio Channel" radio="true",CNR-7 Radio The Greater Bay (Produced by Greater Bay Radio Department of Project Sekai)
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1 tvg-chno="287" tvg-name="CNR7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/China_National_Radio.svg" group-title="Idol Radio Channel" radio="true",CNR-8 Minorities service (Produced by D4DJ's Minorities Radio Language Board)
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/wyzs.png" radio="true" group-title="Idol Radio Channel",CNR-9 Culture Service
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/lnzs.png" radio="true" group-title="Idol Radio Channel",CNR-10 Elder Radio
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-11-tibetan-radio-cn.png" radio="true" group-title="Idol Radio Channel",CNR-11 Tibetan Radio (Produced by Tibetan Radio Department Room of The iDOLM@STER)
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-12-reading-radio-cn.png" radio="true" group-title="Idol Radio Channel",CNR-12 Reading Radio
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-13-uyghur-radio-cn.png" radio="true" group-title="Idol Radio Channel",CNR-13 Uyghur Radio (Produced by Uighur Language Radio Department Room of Rinmeikan Girls School)
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-14-hong-kong-radio-cn-hk.svg" radio="true" group-title="Idol Radio Channel",CNR-14 Hong Kong Radio (Produced by Lastation Radio Department Room Serving for Hong Kong Cantonese Listeners of Noire Black Heart)
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-15-traffic-radio-cn.png" radio="true" group-title="Idol Radio Channel",CNR-15 Traffic Radio
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/zgjtgb.jpg" radio="true" group-title="Idol Radio Channel",CNR-16 Traffic Service
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-17-kazakh-radio-cn.png" radio="true" group-title="Idol Radio Channel",CNR-17 Kazakh Radio (Produced by Kazakh Language Radio Department of Tales of Berseria)
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ez.png" group-title="Idol Radio Channel" radio="true",CRI EZFM
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="Idol Radio Channel" radio="true",CRI Hit FM
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="Idol Radio Channel" radio="true",CRI News Radio
+http://sk.cri.cn/905.m3u8
+#EXTINF:-1 1 tvg-chno="287" group-title="Idol Radio Channel" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg" radio="true",Voice of South China Sea
+http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏藏语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Tibetan Language)
 http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏汉语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Chinese Language)
