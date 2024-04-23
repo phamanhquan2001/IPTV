@@ -21,8 +21,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&b
 http://pipe.ra1n.lol/bs11/index.m3u8
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (BSスーパーKEIBA)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="http://gg.gg/18vr6l",TVB FSI / Lastation Finance, Sports and Info Channel (無綫財經體育資訊台)
-https://epg.pw/stream/2005e3e15b52db150d59cc95c4e979ef4d9b5c42f4ce9037c99e51a3ee31e9f0.ctv
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",TVB Plus
+http://58.176.4.57:8800/play/a00c
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
