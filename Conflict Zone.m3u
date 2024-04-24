@@ -44,6 +44,8 @@ https://live.aionet.ir/hls/tv5/tv5.m3u8
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN.ir",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
+#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN2.ir",IRINN2 (540p)
+https://cdn-azd2056.telewebion.com/irinn2/live/240p/index.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="PressTV.ir",Press TV (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
