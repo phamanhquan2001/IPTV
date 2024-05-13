@@ -252,6 +252,8 @@ https://ythls.armelin.one/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8
 https://ythls.armelin.one/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
 #EXTINF:-1 group-title="Youtube Live",VCS
 https://ythls.armelin.one/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
+https://ythls.armelin.one/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",AN NINH TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
