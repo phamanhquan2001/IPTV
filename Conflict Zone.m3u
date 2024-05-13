@@ -208,50 +208,6 @@ https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRTWorld (Thừa Thiên Huế)
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/VTV.png" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://apps3.101vn.com/cl.php?id=1&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://apps3.101vn.com/cl.php?id=2&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://apps3.101vn.com/cl.php?id=3&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://apps3.101vn.com/cl.php?id=4&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://apps3.101vn.com/cl.php?id=5&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://apps3.101vn.com/cl.php?id=7&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
-https://apps3.101vn.com/cl.php?id=163&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://apps3.101vn.com/cl.php?id=6&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://apps3.101vn.com/cl.php?id=27&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://apps3.101vn.com/cl.php?id=36&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://apps3.101vn.com/cl.php?id=39&token=(*)TEzLjE5(*)S4x(*)zUu(*)Tk0&st=(*)9}B-v(*)jcv(*)j[gyN{O[gxNzox(*)[g&type=rd
-
-#EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
-https://vc.101vn.com/htv/htvcmb.php?id=2631
-#EXTINF:-1 tvg-id="htv2" group-title="🇻🇳| HTV" group-logo="https://phuhdtv.github.io/thumbs/Groups/HTV.png" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://vc.101vn.com/htv/htvcmb.php?id=2669
-#EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://vc.101vn.com/htv/htvcmb.php?id=2535
-#EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://vc.101vn.com/htv/htvcmb.php?id=2528
-#EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-https://vc.101vn.com/htv/htvcmb.php?id=256
-#EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-https://vc.101vn.com/htv/htvcmb.php?id=2667
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
-https://vc.101vn.com/htv/htvcmb.php?id=31973
-#EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
-http://171.238.180.25:18080/304.m3u8
-#EXTINF:0 tvg-id="htvthethaohd" group-title="⚽| Thể thao" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
-https://htvc271120.cdn.vnns.io/b71af310cdf2ddc2f496669f9b9b88f51713863297/htvthethao.adm.720p.tms/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
-https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
-
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视) - Truyền hình vệ tinh Phương Nam Quảng Đông
 http://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thượng Hải (上海东方卫视)
@@ -286,6 +242,16 @@ https://ythls.armelin.one/channel/UCmgf8DJrAXFnU7j3u0kklUQ.m3u8
 https://ythls.armelin.one/channel/UCsrnDYrkovQhCCE8kwKcvKQ.m3u8
 #EXTINF:-1 group-title="Youtube Live",Goddess of Victory NIKKE JP
 https://ythls.armelin.one/channel/UCvi81mltkpbF2UEvC_e864g.m3u8
+#EXTINF:-1 group-title="Youtube Live",Honkai Impact 3rd JP
+https://ythls.armelin.one/channel/UCRmYt_U1lxTwMVQsDl_MFcA.m3u8
+#EXTINF:-1 group-title="Youtube Live",Genshin JP
+https://ythls.armelin.one/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
+#EXTINF:-1 group-title="Youtube Live",VCT Valorant
+https://ythls.armelin.one/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8
+#EXTINF:-1 group-title="Youtube Live",LoL Esports
+https://ythls.armelin.one/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
+#EXTINF:-1 group-title="Youtube Live",VCS
+https://ythls.armelin.one/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" group-title="Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",AN NINH TV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
