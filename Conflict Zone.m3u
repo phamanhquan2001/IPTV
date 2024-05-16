@@ -1311,7 +1311,7 @@ http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇭|Campuchia" tvg-id="TVK2.kh",TVK 2 - Đài THQG Campuchia
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung Ương Triều Tiên (KCTV)
+#EXTINF:-1  tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television / Đài Truyền Hình Trung Ương Triều Tiên (KCTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
 
