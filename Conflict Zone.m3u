@@ -1311,17 +1311,18 @@ http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇭|Campuchia" tvg-id="TVK2.kh",TVK 2 - Đài THQG Campuchia
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1  tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://kfausa.org/wp-content/uploads/2013/07/Screen-Shot-2013-07-11-at-4.59.17-PM.png",Korean Central Television / Đài Truyền Hình Trung Ương Triều Tiên (KCTV) (576p)
+#EXTINF:-1  tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung Ương Triều Tiên (KCTV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 group-title="Lastation Channel" tvg-id="83" tvg-name="無綫新聞台" tvg-logo="http://gg.gg/15nn2h",最新新聞台 / 無綫新聞台 - Lastation News Channel
-http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-#EXTINF:-1 group-title="Lastation Channel" tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="http://gg.gg/15nn7",無綫財經體育資訊台 / 最新財經體育資訊台 - Lastation Finance/Sports/Information Channel
-http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
-#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/P5s3ymR/11.png" group-title="Quốc tế",TVB Satellite News Channel
-http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 tvg-id="130" tvg-logo="https://i.ibb.co/XzRJxcj/8.png" group-title="Quốc tế",TVB Satellite Finance-Sport-Info Channel
-http://live.cooltv.top/tv/tvb.php?id=1
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://info.hkanimal.com/png_logo/81.png" group-title="Lastation Channel", Jade 翡翠台
+https://live.hkdvb.com/hls/live/81.m3u8?token=680446446364583
+#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://info.hkanimal.com/png_logo/82.png" group-title="Lastation Channel", TVB PLUS
+https://live.hkdvb.com/hls/live/82.m3u8?token=680446446364583
+#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://info.hkanimal.com/png_logo/83.png" group-title="Lastation Channel", News 新聞台
+https://live.hkdvb.com/hls/live/83.m3u8?token=680446446364583
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://info.hkanimal.com/png_logo/84.png" group-title="Lastation Channel", Pearl 明珠台
+https://live.hkdvb.com/hls/live/84.m3u8?token=680446446364583
 
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
 https://epg.pw/stream/e9b551911f75a12de9d10157ac98a47d34040438240edc0626e3a1d0dfe7b3d2.m3u8
@@ -1475,21 +1476,25 @@ http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=2022080603283",河北综合广播 (The iDOLM@STER Million Live / Đài Phát Thanh Hà Bắc)
 http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
-#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://project-imas.wiki/images/7/75/DJCD_Vol.01_Regular.png",河北文艺广播 / The iDOLM@STER Million Radio
-http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://project-imas.wiki/images/7/75/DJCD_Vol.01_Regular.png",河北综合广播 / The iDOLM@STER Million Radio
+http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.miraheze.org/sidemwiki/6/62/315Pro_Night.jpg",青海新闻综合广播 青海之声 / The iDOLM@STER SIDEM Radio 315Pro Night (Chinese Language)
 http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.miraheze.org/sidemwiki/6/62/315Pro_Night.jpg",青海藏语广播 / The iDOLM@STER SIDEM Radio 315Pro Night (Tibetan Language)
 http://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://project-imas.wiki/images/5/5f/HabatakiRadioLogo.png",广东新闻广播 / THE iDOLM@STER Shiny Colors Habataki Radio Station
 http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",甘肃新闻综合广播 / THE iDOLM@STER Gakuen Radio
+http://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",甘肃交通广播 / THE iDOLM@STER Gakuen Traffic Radio
+http://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://project-imas.wiki/images/5/5d/876.png",贵州综合广播 / Project VALIV Radio by 876Pro
 http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",山西综合广播 / Genjitsu no Yohane Radio Channel (幻日のヨハネ)
 http://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",四川综合广播 / Hololive Radio
 http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
-#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",四川民族频率播 / Kazuno Leah's Kangba Radio Channel
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",四川民族频率播 / Kazuno Leah's Kangba Radio Channel
 http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",吉林新闻综合广播 / LoveLive School Idol Project Radio
 http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
@@ -1509,6 +1514,30 @@ http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/d4dj/images/3/39/D4DJ_All_Mix_Logo.jpeg/revision/latest?cb=20220719184207",上海东方广播电台 / D4DJ All Mix Radio Channel
 http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/d4dj/images/3/39/D4DJ_All_Mix_Logo.jpeg/revision/latest?cb=20220719184207",浙江交通之声 / Hyperdimension Neptunia Radio Channel
+http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/d4dj/images/3/39/D4DJ_All_Mix_Logo.jpeg/revision/latest?cb=20220719184207",浙江交通之声 / Hyperdimension Neptunia Radio Channel
+http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",山东交通广播 / Wonderlands x Showtime
+http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",辽宁综合广播 / More More Jump
+http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",内蒙古新闻综合广播 / LeoNeed
+http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",蒙古语综合广播 / LeoNeed (Mongol Language)
+http://satellitepull.cnr.cn/live/wx32nmgmyxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",内蒙古蒙古语广播 / LeoNeed (Mongol Language 2)
+http://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/photonmaiden.png",延边新闻广播 / Photon Maiden Radio
+http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/photonmaiden.png",延边文艺生活广播 / Photon Maiden Radio (Korean Language)
+http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+#EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio AM / Lao National Radio AM
+https://radio.lnr.org.la/am
+#EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio FM 103.7 / Lao National Radio FM 103.7
+https://radio.lnr.org.la/fm103
+#EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio FM 94.3 / Lao National Radio FM 94.3
+https://radio.lnr.org.la/fm94
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
 https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
