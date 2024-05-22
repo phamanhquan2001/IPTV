@@ -236,6 +236,10 @@ https://ythls.armelin.one/channel/UCWsfcksUUpoEvhia0_ut0bA.m3u8
 https://ythls.armelin.one/channel/UCX7YkU9nEeaoZbkVLVajcMg.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Hypnosis Mic / HRB-TV Harbin - Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang (HRB-TV哈尔滨新闻综合频道)
 https://ythls.armelin.one/channel/UCLQwZQHMTRqeeUSzZt5ii6g.m3u8
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",AniLeap Radio from King Amusement Creative
+https://ythls.armelin.one/channel/UCR61XV4ROXhkcfLO31hTGuw.m3u8
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Jpop Radio from Avex
+https://ythls.armelin.one/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive JP / UTRK Ala-Too 24
 https://ythls.armelin.one/channel/UCmgf8DJrAXFnU7j3u0kklUQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive Global / UTRK Ala-Too 24
@@ -1431,8 +1435,6 @@ http://radio99.servradio.com:9308/;
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://vayofm.com/images/vayofm.png" group-title="QUỐC TẾ" radio="true",Vayo FM
 http://50.21.176.38:8010/vayofm
 
-9xyFipgOj1fA.m3u8
-
 
 #EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://iptv36.my.to/logo/nbt.png" group-title="🇹🇭 Thái Lan",NBT
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt/index.m3u8
@@ -1713,6 +1715,8 @@ https://ythls.armelin.one/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 https://ythls.armelin.one/channel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
 https://ythls.armelin.one/channel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8
+#EXTINF:-1 group-title="⛪|Thánh Lễ",TGPHN
+https://ythls.armelin.one/channel/UCp3-ofQgc8PO5q3pS6jYsIw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
 https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican
