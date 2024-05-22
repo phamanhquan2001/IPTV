@@ -1,9 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 group-title="Thapcam" group-logo="https://tchiphuong.github.io/iptv/images/background/live.png" tvg-id="vebomay00" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",U23 Uzbekistan vs U23 Saudi Arabia (AFC U23 Asian Cup Championship 2024)
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://live-eu-ay5eg6kw5uliv.thapcam.link/live/may1HD/playlist.m3u8#|Referer=https://xem.bdhub.xyz
-
-#EXTINF:-1 group-title="Thapcam" group-logo="https://tchiphuong.github.io/iptv/images/background/live.png" tvg-id="vebomay00" tvg-logo="https://tchiphuong.github.io/iptv/images/background/vebotv.png",Mutua Madrid Open 2024 (BLV Nhà Đài)
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8
