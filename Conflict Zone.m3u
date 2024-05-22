@@ -94,17 +94,13 @@ https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="NET.id",.NET TV
 https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.1
-https://ythls.armelin.one/channel/UC9EIrbmaCF4DXoe5jb6MI0w.m3u8
+https://www.youtube.com/watch?v=dAT39T-N2JI
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.2
-https://ythls.armelin.one/channel/UCuyLmOJb7PVCvx8zbRT9_GQ.m3u8
+https://www.youtube.com/watch?v=ubP_w9xsNf8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.3
-https://ythls.armelin.one/channel/UCzOMM5fm593lJ3QaDkuiESg.m3u8
+https://www.youtube.com/watch?v=crOzExpzmu8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.4
-https://ythls.armelin.one/channel/UCJqILop8glYhyfPjBpxiyLw.m3u8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.5
-https://ythls.armelin.one/channel/UCm7oBwzfRBp6kX8jhWhlaSg.m3u8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.6
-https://ythls.armelin.one/channel/UCq1xihNfMHU_Ekmqs_382Sg.m3u8
+https://ythls.armelin.one/channel/UC9ivJE5pGfGzRVRfNobMSLA.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
@@ -208,6 +204,8 @@ https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRTWorld (Thừa Thiên Huế)
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Reuters Live Event
+http://ythls.armelin.one/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视) - Truyền hình vệ tinh Phương Nam Quảng Đông
 http://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thượng Hải (上海东方卫视)
