@@ -37,6 +37,8 @@ https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
 https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkySportsRacing.uk",Sky Sports Racing
 https://epg.pw/stream/2264f0d700519959c7acd3241bcc47df55ec5e6e0c2ef1885e3b645a9eca421f.ctv
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="Racingcom.uk",Racing.com TV
+https://stream.freetv.fun/7ba4ffcae9eecdcb7bd0b60c073dfcbe724c3c0aeee81570e28e15a37bf14c21.ctv
 #EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Sapporo (北海道/札幌競馬場)
 https://media.tencam.cyl.nhk.jp/700/live_stream.m3u8
 #EXTINF:-1 group-title="JRA Live Camera" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",Hakodate (北海道/函館競馬場)
