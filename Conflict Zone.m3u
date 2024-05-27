@@ -248,11 +248,13 @@ https://ythls.armelin.one/channel/UCvi81mltkpbF2UEvC_e864g.m3u8
 https://ythls.armelin.one/channel/UCRmYt_U1lxTwMVQsDl_MFcA.m3u8
 #EXTINF:-1 group-title="Youtube Live",Genshin JP
 https://ythls.armelin.one/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
-#EXTINF:-1 group-title="Youtube Live",VCT Valorant
+#EXTINF:-1 group-title="Youtube Live",VCT Valorant (VN)
 https://ythls.armelin.one/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8
-#EXTINF:-1 group-title="Youtube Live",LoL Esports
+#EXTINF:-1 group-title="Youtube Live",VCT Valorant (EN)
+https://ythls.armelin.one/channel/UCA1d3HFGFUmkKr2JIUA5Vlw.m3u8
+#EXTINF:-1 group-title="Youtube Live",LoL Esports (EN)
 https://ythls.armelin.one/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
-#EXTINF:-1 group-title="Youtube Live",VCS
+#EXTINF:-1 group-title="Youtube Live",VCS (VN)
 https://ythls.armelin.one/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
 https://ythls.armelin.one/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
