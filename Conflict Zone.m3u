@@ -35,7 +35,7 @@ https://live.aionet.ir/hls/tv1/tv1.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB2.ir",IRIB2 (540p)
 https://live.aionet.ir/hls/tv2/tv2.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB3.ir",IRIB3 (480p)
-https://af.ayas.ir/hls2/tv3.m3u8
+https://live.aionet.ir/hls/tv3/tv3.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB4.ir",IRIB4 (540p)
 https://live.aionet.ir/hls/tv4/tv4.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB5.ir",IRIB5 (540p)
