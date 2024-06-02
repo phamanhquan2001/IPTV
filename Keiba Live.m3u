@@ -3,6 +3,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="JRA - NAR / Main Feed" tvg-id="greench" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Saitama / テレ玉 (URA競馬中継 / ファンタスティックダート浦和競馬中継)
+http://pipe.ra1n.lol/tvs/index.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo / テレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
@@ -50,15 +52,18 @@ https://ythls.armelin.one/channel/UC6tQosgNJOmZUGmtkSvI6zA.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_iwate.png" group-title="NAR",Iwate / Morioka and Mizusawa (岩手県/盛岡・水沢競馬場 / 崩壊3rd杯・崩壊スターレイル杯)
 https://ythls.armelin.one/channel/UCVMhQ20_Y0vseUV7doOotwg.m3u8
 https://media.tencam.cyl.nhk.jp/604/live_stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_urawa.png" group-title="NAR",Saitama / Urawa (埼玉県/浦和競馬場)
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_urawa.png" group-title="NAR",Saitama / Urawa (埼玉県/浦和競馬場-ファンタスティックダート浦和競馬中継/テレ玉)
 https://ythls.armelin.one/channel/UCdtB0m4BIjadiqV3C0Vi9SQ.m3u8
+http://pipe.ra1n.lol/tvs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_funabashi.png" group-title="NAR",Chiba / Funabashi (千葉県/船橋競馬場・アークナイツ盃)
 https://ythls.armelin.one/channel/UCfnIcvhLkVVCTd86yemmGnQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_tokyocity.png" group-title="NAR",Tokyo / Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場)
 https://ythls.armelin.one/channel/UCPSZn8iMXln9o89SpmeJ6wg.m3u8
+http://pipe.ra1n.lol/mx2/index.m3u8
 https://media.tencam.cyl.nhk.jp/100/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kawasaki.png" group-title="NAR",Kanagawa / Kawasaki (神奈川県/川崎競馬場)
 https://ythls.armelin.one/channel/UCF7v-dGy_jQ_7bOi7oab2PA.m3u8
+http://pipe.ra1n.lol/tvk/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.oddspark.com/club/keiba/static/img/meister/icon_kanazawa.png?20220601134042" group-title="NAR",Ishikawa Kanazawa (石川県/金沢競馬場・アサルトリリィ杯)
 https://ythls.armelin.one/channel/UCMRX5ABMJWPR6aWlyZYeKog.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kasamatsu.png" group-title="NAR",Gifu / Kasamatsu (岐阜県/笠松競馬場)
