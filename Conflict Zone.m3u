@@ -48,10 +48,12 @@ https://live.aionet.ir/hls/irinn/irinn.m3u8
 https://cdn-azd2056.telewebion.com/irinn2/live/240p/index.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="PressTV.ir",Press TV (720p)
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
+https://manar.live/iptv/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
+https://manar.live/x.smil/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
-https://stream.freetv.fun/47d0622368ef1d872665ceba1b76565bcd326eafce6b1817e4b016d51b733327.ctv
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Philippines)
 https://stream.freetv.fun/61d3c4bf04ab822daf9199d415b6c3c0a274eeb0395029831495ed5c990cfa4b.ctv
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD Korea / KurdistanTV (Tiếng Hàn)
@@ -135,6 +137,8 @@ https://edge.taghtia.com/sa/4.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
