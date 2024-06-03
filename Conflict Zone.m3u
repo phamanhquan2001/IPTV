@@ -103,6 +103,8 @@ https://www.youtube.com/watch?v=ubP_w9xsNf8
 https://www.youtube.com/watch?v=crOzExpzmu8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.4
 https://ythls.armelin.one/channel/UC9ivJE5pGfGzRVRfNobMSLA.m3u8
+#EXTINF:-1 group-title="🌏| News Update" tvg-id="TBSNewsCS.jp",TBS News (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
