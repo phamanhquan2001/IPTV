@@ -52,6 +52,8 @@ https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
 https://manar.live/x.smil/playlist.m3u8
+#EXTINF:-1 group-title="Iraq" tvg-id="AlEtejah.iq",Al Etejah TV
+http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Philippines)
