@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (720p) [Not 24/7]
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
