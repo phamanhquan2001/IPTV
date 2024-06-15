@@ -62,12 +62,10 @@ https://manar.live/x.smil/playlist.m3u8
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Philippines)
-https://stream.freetv.fun/61d3c4bf04ab822daf9199d415b6c3c0a274eeb0395029831495ed5c990cfa4b.ctv
+#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
+https://khanggtivi.xyz/vuminhthanh/vmt2024/animax/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD Korea / KurdistanTV (Tiếng Hàn)
 https://epg.pw/stream/14e5ffa8c664f85c6958664f15bf5eadc1502fc6db7d35abc87bda562089f189.ctv
-#EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://www.freeetv.com/images/01_logo/al_mayadeen_tv.jpg", Aniplus Asia / Al-Mayadeen TV
-https://epg.pw/stream/e7a8fab5e3cd5dce52a4a9404be1bbd64569060b8a75e937eb2d5209a20dffbd.ctv
 
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHKG-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
