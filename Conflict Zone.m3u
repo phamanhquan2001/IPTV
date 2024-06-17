@@ -22,6 +22,8 @@ https://live.paltodaytv.com/paltv/live/playlist.m3u8
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="NablusTV.ps",Nablus TV from SDRT (720p) [Not 24/7]
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="vop.ps",Voice of Palestine Radio
+https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8
 #EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (1080p)
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 #EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
