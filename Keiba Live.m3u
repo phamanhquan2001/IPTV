@@ -59,13 +59,14 @@ http://pipe.ra1n.lol/tvs/index.m3u8
 https://ythls.armelin.one/channel/UCfnIcvhLkVVCTd86yemmGnQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_tokyocity.png" group-title="NAR",Tokyo / Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場)
 https://ythls.armelin.one/channel/UCPSZn8iMXln9o89SpmeJ6wg.m3u8
-http://pipe.ra1n.lol/mx2/index.m3u8
+http://csui.djtmewibu.com/mx2/index.m3u8
 https://media.tencam.cyl.nhk.jp/100/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kawasaki.png" group-title="NAR",Kanagawa / Kawasaki (神奈川県/川崎競馬場)
 https://ythls.armelin.one/channel/UCF7v-dGy_jQ_7bOi7oab2PA.m3u8
 http://pipe.ra1n.lol/tvk/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.oddspark.com/club/keiba/static/img/meister/icon_kanazawa.png?20220601134042" group-title="NAR",Ishikawa Kanazawa (石川県/金沢競馬場・アサルトリリィ杯)
+#EXTINF:-1 tvg-logo="https://www.oddspark.com/club/keiba/static/img/meister/icon_kanazawa.png?20220601134042" group-title="NAR",Ishikawa / Kanazawa (石川県/金沢競馬場・アサルトリリィ杯)
 https://ythls.armelin.one/channel/UCMRX5ABMJWPR6aWlyZYeKog.m3u8
+https://media.tencam.cyl.nhk.jp/302/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kasamatsu.png" group-title="NAR",Gifu / Kasamatsu (岐阜県/笠松競馬場)
 https://ythls.armelin.one/channel/UCmPuLUWCwfAW99ezdCj6ayQ.m3u8
 https://media.tencam.cyl.nhk.jp/308/live_stream.m3u8
