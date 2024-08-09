@@ -29,70 +29,70 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="2024 PARIS PARALYMPIC GAMES",2024 Paris Paralympic Games Live Feed
 https://ythls.armelin.one/channel/UCi8n36NkW2uCQSFZNiYtuMQ.m3u8
 
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1200px-Logo_La_1_UHD_2024.svg.png",La 1 UHD
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1200px-Logo_La_1_UHD_2024.svg.png",La 1 UHD
 http://p1.cvtv.xyz/1uhd?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://ia902703.us.archive.org/34/items/eurosport-4-k/Eurosport_4K.png",Eurosport 4K
-http://p2.cvtv.xyz/es4k?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://p2.cvtv.xyz/es1?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://p2.cvtv.xyz/es2?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 3
-http://p2.cvtv.xyz/es3?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 4
-http://p2.cvtv.xyz/es4?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 5
-http://p2.cvtv.xyz/es5?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 6
-http://p2.cvtv.xyz/es6?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://ia902703.us.archive.org/34/items/eurosport-4-k/Eurosport_4K.png",Eurosport 4K
+http://p1.cvtv.xyz/es4k?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://p1.cvtv.xyz/es1?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://p1.cvtv.xyz/es2?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 3
+http://p1.cvtv.xyz/es3?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 4
+http://p1.cvtv.xyz/es4?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 5
+http://p1.cvtv.xyz/es5?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 6
+http://p1.cvtv.xyz/es6?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png",BBC One
 http://p1.cvtv.xyz/bbc1?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/1200px-BBC_Red_Button_2021.svg.png",BBC RB 1
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/1200px-BBC_Red_Button_2021.svg.png",BBC RB 1
 http://p1.cvtv.xyz/bbcrb?token=live
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 http://p1.cvtv.xyz/nbc?token=live
-#EXTINF:-1 tvg-id="SKY.Sport.Popup.1.nz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/SkySportLogo2019.png/revision/latest?cb=20210619015201" group-title="2024 PARIS OLYMPIC GAMES", SkySport_PopUp1_NZ
-https://7pal.short.gy/skypu1nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="2024 PARIS OLYMPIC GAMES", SkySport3_NZ
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="CBC.Calgary.HDTV.(CBRTHD).ca" tvg-logo="https://i.cbc.ca/1.4066392.1541713557!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_1180/cbc-logo-horizontal.jpg" group-title="2024 PARIS OLYMPIC GAMES", CBC_CA
-https://7pal.short.gy/cbcca
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY IBC
+http://p1.cvtv.xyz/ibc?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
+http://p1.cvtv.xyz/jade?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | KÊNH CHÍNH" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/tvbplus.png",TVB Plus
+http://p1.cvtv.xyz/tvbp?token=live
 
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889570%27&EntityType=%27Item%27&EntityId=%27469467%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH01
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed1mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889550%27&EntityType=%27Item%27&EntityId=%27469475%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH02
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed2mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277889576%27&EntityType=%27Item%27&EntityId=%27469700%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH03
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed3mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904417%27&EntityType=%27Item%27&EntityId=%27471727%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH04
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed4mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904421%27&EntityType=%27Item%27&EntityId=%27471662%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH05
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed5mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904425%27&EntityType=%27Item%27&EntityId=%27471729%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH06
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed6mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904429%27&EntityType=%27Item%27&EntityId=%27471661%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH07
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed7mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904433%27&EntityType=%27Item%27&EntityId=%27471666%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH08
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed8mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904437%27&EntityType=%27Item%27&EntityId=%27471724%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH09
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed9mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904441%27&EntityType=%27Item%27&EntityId=%27471725%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH10
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed10mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904445%27&EntityType=%27Item%27&EntityId=%27471739%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH11
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed11mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904449%27&EntityType=%27Item%27&EntityId=%27471742%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH12
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed12mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904453%27&EntityType=%27Item%27&EntityId=%27471948%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH13
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed13mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904457%27&EntityType=%27Item%27&EntityId=%27471959%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH14
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed14mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904463%27&EntityType=%27Item%27&EntityId=%27471962%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH15
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed15mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904467%27&EntityType=%27Item%27&EntityId=%27472026%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH16
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed16mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904471%27&EntityType=%27Item%27&EntityId=%27472215%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH17
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed17mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904485%27&EntityType=%27Item%27&EntityId=%27472216%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH18
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed18mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
-#EXTINF:-1 group-title="2024 PARIS OLYMPIC GAMES" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%277904489%27&EntityType=%27Item%27&EntityId=%27472217%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27", Paris 2024 CH19
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed19mw/master.m3u8?u=vmttv&p=3accea4f53146cf085a6ebd4e0bb8125d2def47adc0d9ac6449bed998545905f
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live1.png",Paris Live 1
+http://p2.cvtv.xyz:82/olym1?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live2.png",Paris Live 2
+http://p2.cvtv.xyz:82/olym2?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live3.png",Paris Live 3
+http://p2.cvtv.xyz:82/olym3?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live4.png",Paris Live 4
+http://p2.cvtv.xyz:82/olym4?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live5.png",Paris Live 5
+http://p2.cvtv.xyz:82/olym5?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live6.png",Paris Live 6
+http://p2.cvtv.xyz:82/olym6?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live7.png",Paris Live 7
+http://p2.cvtv.xyz:82/olym7?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live8.png",Paris Live 8
+http://p2.cvtv.xyz:82/olym8?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live9.png",Paris Live 9
+http://p2.cvtv.xyz:82/olym9?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live10.png",Paris Live 10
+http://p2.cvtv.xyz:82/olym10?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live11.png",Paris Live 11
+http://p2.cvtv.xyz:82/olym11?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live12.png",Paris Live 12
+http://p2.cvtv.xyz:82/olym12?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live13.png",Paris Live 13
+http://p2.cvtv.xyz:82/olym13?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live14.png",Paris Live 14
+http://p2.cvtv.xyz:82/olym14?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live15.png",Paris Live 15
+http://p2.cvtv.xyz:82/olym15?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live16.png",Paris Live 16
+http://p2.cvtv.xyz:82/olym16?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live17.png",Paris Live 17
+http://p2.cvtv.xyz:82/olym17?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live18.png",Paris Live 18
+http://p2.cvtv.xyz:82/olym18?token=live
+#EXTINF:-1 group-title="OLYMPIC 2024 | SỰ KIỆN" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/2024/live19.png",Paris Live 19
+http://p2.cvtv.xyz:82/olym19?token=live
