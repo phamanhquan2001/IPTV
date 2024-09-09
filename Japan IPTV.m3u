@@ -3,15 +3,15 @@
 
 #EEW
 #EXTINF:-1 tvg-id="EEW.jp",EEW Live from SuRoot_EQ (with NHK feed)
-https://ythls.armelin.one/channel/UCArz15aqhp4UXuUVYYEY43g.m3u8
+https://ythls.kekikakademi.org/youtube/UCArz15aqhp4UXuUVYYEY43g.m3u8
 #EXTINF:-1 tvg-id="EWRS.jp",EWRS
-https://ythls.armelin.one/channel/UC5Csms-03xrKK1pH2MK_WHQ.m3u8
+https://ythls.kekikakademi.org/youtube/UC5Csms-03xrKK1pH2MK_WHQ.m3u8
 #EXTINF:-1 tvg-id="NDQInfo.jp",NDQInfo
-https://ythls.armelin.one/channel/UCxL3BtSK0JVsT4JW_MlB4Jg.m3u8
+https://ythls.kekikakademi.org/youtube/UCxL3BtSK0JVsT4JW_MlB4Jg.m3u8
 #EXTINF:-1 tvg-id="BSC24.jp",Bousai Share
-https://ythls.armelin.one/channel/UCyMW-_pfjsTG76c9tP5SErg.m3u8
+https://ythls.kekikakademi.org/youtube/UCyMW-_pfjsTG76c9tP5SErg.m3u8
 #EXTINF:-1 tvg-id="EEW.tw",Taiwan Earthquake
-https://ythls.armelin.one/channel/UCa32OtZqhDqDqCHeWO477qg.m3u8
+https://ythls.kekikakademi.org/youtube/UCa32OtZqhDqDqCHeWO477qg.m3u8
 
 #Tokyo1
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 
