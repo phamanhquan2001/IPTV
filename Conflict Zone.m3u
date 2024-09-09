@@ -5,8 +5,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
 https://ythls.kekikakademi.org/youtube/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (1080p) [Not 24/7]
-https://ythls.kekikakademi.org/youtube/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",FalastiniTV (Music)
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",Shabab FM Radio (by Asticassia Radio Comitee and Satellite Receiver Studio and Monitoring Room) (720p)
