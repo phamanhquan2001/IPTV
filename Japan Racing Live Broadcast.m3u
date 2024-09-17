@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="JRA - NAR / Main Feed" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/1-TOJIKISTON.jpg/revision/latest/scale-to-width-down/164?cb=20170415153823",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
+#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://static.wikia.nocookie.net/ovsc/images/d/d5/Tajik_broadcaster.png/revision/latest?cb=20180321202155",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
