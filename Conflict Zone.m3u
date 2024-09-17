@@ -2,13 +2,10 @@
 
 #EXTINF:-1 group-title="TOKYO GAME SHOW 2024 / Cúp Truyền Hình HTV 2024",Tokyo Game Show 2024 Live Stream Showcase
 https://ythls.kekikakademi.org/youtube/channel/UClFyIegrk4g6CFqGYCwTViA.m3u8
-
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina)
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca) (1080p) [Not 24/7]
-https://ythls.kekikakademi.org/youtube/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",FalastiniTV (Music)
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",Shabab FM Radio (by Asticassia Radio Comitee and Satellite Receiver Studio and Monitoring Room) (720p)
@@ -296,6 +293,10 @@ https://ythls.kekikakademi.org/youtube/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCkVXcyTRC0U0ItRVh9itBpQ.m3u8
 #EXTINF:-1 group-title="Youtube Live",Liên Quân Mobile
 https://ythls.kekikakademi.org/youtube/channel/UCpnQwjzvDm1MOMtZV2zkVpA.m3u8
+#EXTINF:-1 group-title="FPT SPORTS Live",FPT Bóng đá
+https://ythls.kekikakademi.org/youtube/channel/UC4LvrpNXujjbGOS4RDvr41g.m3u8
+#EXTINF:-1 group-title="FPT SPORTS Live",FPT Bóng đá Việt
+https://ythls.kekikakademi.org/youtube/channel/UCljFFNaQoJWeP91Bz4m_3bw.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
