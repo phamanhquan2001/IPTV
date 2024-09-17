@@ -49,8 +49,9 @@ http://r3jx.djtmewibu.com/tvs/index.m3u8
 #EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYOMX2 / TCK東京シティ競馬中継
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Voice Implemented
 https://ythls.kekikakademi.org/youtube/channel/UCKz6vVzMrc_9ZDRNH7LnIxQ.m3u8
+#EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Luppy Implemented
 https://ythls.kekikakademi.org/youtube/channel/UCLO6sG8DrTEE-NwUWAtU6Ng.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1366654752948297728/igIhYuCt_400x400.png" group-title="NAR",Hokkaido / Obihiro (北海道/帯広競馬場・CyGames プリンセスコネクトREDIVE杯)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1366654752948297728/igIhYuCt_400x400.png" group-title="NAR",Hokkaido / Obihiro (北海道/帯広競馬場「ばんえい十勝」・CyGames プリンセスコネクトREDIVE杯)
 https://ythls.kekikakademi.org/youtube/channel/UCyjlxPcoYAbpwlr5wjUA_5g.m3u8
 https://media.tencam.cyl.nhk.jp/703/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1687676464332976128/L8ZCKabj_400x400.jpg" group-title="NAR",Hokkaido / Monbetsu (北海道/門別競馬場「ホッカイドウ競馬」・Mihoyo 未定事件簿杯)
@@ -62,14 +63,11 @@ https://media.tencam.cyl.nhk.jp/604/live_stream.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCdtB0m4BIjadiqV3C0Vi9SQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260264885771890689/2KcWaF8a_400x400.jpg" group-title="NAR",Chiba / Funabashi (千葉県/船橋競馬場・YOSTAR アークナイツ盃)
 https://ythls.kekikakademi.org/youtube/channel/UCfnIcvhLkVVCTd86yemmGnQ.m3u8
-http://r3jx.djtmewibu.com/chibatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1811192470149189632/Al5DMmMW_400x400.jpg" group-title="NAR",Tokyo / Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場・BLUEPOCH 重返未来1999杯)
 https://ythls.kekikakademi.org/youtube/channel/UCPSZn8iMXln9o89SpmeJ6wg.m3u8
-http://r3jx.djtmewibu.com/mx2/index.m3u8
 https://media.tencam.cyl.nhk.jp/100/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1790985816271187968/B-MXdyFO_400x400.jpg" group-title="NAR",Kanagawa / Kawasaki (神奈川県/川崎競馬場-SHIFT UP 勝利の女神NIKKE杯)
 https://ythls.kekikakademi.org/youtube/channel/UCF7v-dGy_jQ_7bOi7oab2PA.m3u8
-http://r3jx.djtmewibu.com/tvk/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1241960175549857792/sDwdr8dR_400x400.jpg" group-title="NAR",Ishikawa / Kanazawa (石川県/金沢競馬場・ブシロード舞台版アサルトリリィ杯)
 https://ythls.kekikakademi.org/youtube/channel/UCMRX5ABMJWPR6aWlyZYeKog.m3u8
 https://media.tencam.cyl.nhk.jp/302/live_stream.m3u8
