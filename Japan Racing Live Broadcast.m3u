@@ -47,6 +47,7 @@ http://r3jx.djtmewibu.com/tvk/index.m3u8
 #EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="teletama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png",TVS / Teletama (TVSテレ玉/ファンタスティックダート浦和競馬中継)
 http://r3jx.djtmewibu.com/tvs/index.m3u8
 #EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYOMX2 / TCK東京シティ競馬中継
+http://r3jx.djtmewibu.com/mx2/index.m3u8
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Voice Implemented
 https://ythls.kekikakademi.org/youtube/channel/UCKz6vVzMrc_9ZDRNH7LnIxQ.m3u8
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Luppy Implemented
