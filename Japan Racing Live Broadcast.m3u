@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="JRA - NAR / Main Feed" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://static.wikia.nocookie.net/ovsc/images/d/d5/Tajik_broadcaster.png/revision/latest?cb=20180321202155",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
+#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
@@ -201,6 +201,16 @@ https://ythls.kekikakademi.org/youtube/channel/UCxUAWJYLRXK2GFl9Nz7lJXA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCuhDz3wM73NDTg4IPMNlKhQ.m3u8
 #EXTINF:-1 group-title="Autorace Live",Autofficial
 https://ythls.kekikakademi.org/youtube/channel/UCJAPqcMNYk3HMknRuPMNvKA.m3u8
+#EXTINF:-1 group-title="Autorace Live" tvg-logo="https://ih1.redbubble.net/image.2014814777.4767/st,small,845x845-pad,1000x1000,f8f8f8.jpg" group-logo="https://pbs.twimg.com/media/Ew8O_o5UcAUeiXX.png",Saitama / Kawaguchi #1 and #2 - Hyakkiyako Alliance Autorace Council and Arius School of Performing Autorace Arts (埼玉県/川口オートレース場 - 百花繚乱紛争調停委員会とアリウス分校盃)
+https://ythls.kekikakademi.org/youtube/channel/UCM3t31-x3BYX9s2xGkIqk8w.m3u8
+#EXTINF:-1 group-title="Autorace Live" tvg-logo="https://static.wikia.nocookie.net/blue-archive/images/9/9f/Millennium_Intro.png/revision/latest?cb=20210207075347", Gunma / Isesaki - Millennium Science Autorace School (群馬県/伊勢崎オートレース場 - ミレニアムサイエンスオートレーススクール盃 )
+https://ythls.kekikakademi.org/youtube/channel/UCVytM2dZnTp6oOfBpv7_jLg.m3u8
+#EXTINF:-1 group-title="Autorace Live" tvg-logo="https://i.imgur.com/WnnC3r5.png",Shizuoka / Hamamatsu - Abydos Student Autorace Council (静岡県/浜松オートレース場 - アビドス高等学校盃)
+https://ythls.kekikakademi.org/youtube/channel/UCyz8qHMrHB0lSSwoF4S0jsQ.m3u8
+#EXTINF:-1 group-title="Autorace Live" tvg-logo="https://bluearchive.wikiru.jp/attach2/696D67_5363686F6F6C5F49636F6E5F474548454E4E412E706E67.png",Fukuoka / Iizuka - Gehenna Autorace Academy (福岡県/飯塚オートレース場 - ゲヘナオートレース学園盃)
+https://ythls.kekikakademi.org/youtube/channel/UCUwiFvrK2oCwwSA-1SVtOLA.m3u8
+#EXTINF:-1 group-title="Autorace Live" tvg-logo="https://bluearchive-kivotostest.com/_nuxt/img/shanhaijing_logo_pc.9e1dabd.png",Yamaguchi / Sanyo - Shanhaijing Autorace School (山口県/山陽オートレース場 - 山海経高級中学校盃)
+https://ythls.kekikakademi.org/youtube/channel/UCGercgXIY9l1H5r45XqQPEA.m3u8
 #EXTINF:-1 group-title="Boatrace Live",JLC News Live
 https://ythls.kekikakademi.org/youtube/channel/UC35TRecEk9N5FAj2a--PAkg.m3u8
 #EXTINF:-1 group-title="Boatrace Live",Gunma / Kiryu (群馬県/桐生競艇場)
