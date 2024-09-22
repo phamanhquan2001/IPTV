@@ -42,6 +42,12 @@ https://stream1.freetv.fun/f37cbc5ea71b0fed3159c26d623830a7bc7a3e2b18966cffb49a8
 https://stream1.freetv.fun/7ba4ffcae9eecdcb7bd0b60c073dfcbe724c3c0aeee81570e28e15a37bf14c21.ctv
 #EXTINF:-1 group-title="Auction Sell Live" tvg-id="JBIS", JBIS Live
 https://ythls.kekikakademi.org/youtube/channel/UCUeiz4v2oAxzTTZZfjzbv-A.m3u8
+#EXTINF:-1 group-title="FORMULA 1 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
+http://p1.cvtv.xyz/f1?token=live
+#EXTINF:-1 group-title="FORMULA 1 LIVE" tvg-id="fujitv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV Next
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+#EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="gtasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TVK_Cambodian_Logos_%28%E1%9E%91%E1%9E%BC%E1%9E%9A%E1%9E%91%E1%9E%9F%E1%9F%92%E1%9E%9F%E1%9E%93%E1%9F%8D%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%29.jpg/640px-TVK_Cambodian_Logos_%28%E1%9E%91%E1%9E%BC%E1%9E%9A%E1%9E%91%E1%9E%9F%E1%9F%92%E1%9E%9F%E1%9E%93%E1%9F%8D%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%29.jpg",TVK / Television Kanagawa-Đài Truyền hình Quốc Gia Campuchia (TVKテレビ神奈川/川崎競馬中継・勝利の女神NIKKEテレビ)
 http://r3jx.djtmewibu.com/tvk/index.m3u8
 #EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="teletama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png",TVS / Teletama (TVSテレ玉/ファンタスティックダート浦和競馬中継)
