@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TOKYO GAME SHOW 2024 / Cúp Truyền Hình HTV 2024",Tokyo Game Show 2024 Live Stream Showcase
-https://ythls.kekikakademi.org/youtube/channel/UClFyIegrk4g6CFqGYCwTViA.m3u8
+https://ythls-v3.onrender.com/channel/UClFyIegrk4g6CFqGYCwTViA.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina)
@@ -93,7 +93,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE)
 https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="Weathernews.jp" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",Weathernews Live / VIVA TVOne (ウェザーニュースLiVE) (Youtube Feed)
-https://ythls.kekikakademi.org/youtube/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+https://ythls-v3.onrender.com/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1 group-title="🇯🇵| Nhật Bản" tvg-id="greench" tvg-logo="https://d23iyfk1a359di.cloudfront.net/files/topics/25885_ext_03_en_0.jpg?version=1614819492&width=824&height=464", Green Channel (グリーンチャンネル) / Uma Musume Pretty Derby Channel (ウマ娘プリティーダービーチャンネル) 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="MetroTV.id",METROTV
@@ -101,7 +101,7 @@ https://epg.pw/stream/b04c8243a27bdd51b8ebcd099c2d04dbdc9498b1b2062d05b03e5a65a7
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/it/6/67/Logo_The_Idolmaster_2.png",KOMPAS-TV / The iDOLM@STER 2-TV
 https://epg.pw/stream/ebb9ff07e7a8b7712c3f54ab28039c7b734cc9ebd383d3812768f60e525212ec.ctv
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="TVOne.id" tvg-logo="https://pbs.twimg.com/profile_images/1605175093818425344/BjwjK2yS_400x400.jpg",VIVA TVOne / Weathernews LiVE (ウェザーニュースLiVE)
-https://ythls.kekikakademi.org/youtube/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
+https://ythls-v3.onrender.com/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="NET.id",.NET TV
 https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.1
@@ -111,7 +111,7 @@ https://www.youtube.com/watch?v=ubP_w9xsNf8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.3
 https://www.youtube.com/watch?v=crOzExpzmu8
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.4
-https://ythls.kekikakademi.org/youtube/channel/UC9ivJE5pGfGzRVRfNobMSLA.m3u8
+https://ythls-v3.onrender.com/channel/UC9ivJE5pGfGzRVRfNobMSLA.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="TBSNewsCS.jp",TBS News (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
@@ -181,7 +181,7 @@ https://epg.pw/stream/f0f338ce1db8d60c93fa10fc95b164ef88c2d7887c19dd4ed8f4207e35
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ARYNews / Revue Starlight RELIVE-FM Radio Channel 2
 https://epg.pw/stream/b03d78204cfb6f058625ded4b53e64f643951479b6ba90d30424fba0c32c5fe8.ctv
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",GeoNews / Revue Starlight RELIVE-FM Radio Channel 3
-https://ythls.kekikakademi.org/youtube/channel/UC_vt34wimdCzdkrzVejwX9g.m3u8
+https://ythls-v3.onrender.com/channel/UC_vt34wimdCzdkrzVejwX9g.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",TOLONews / Revue Starlight RELIVE-FM Radio Channel 4
 https://st2.mediabay.tv/ToloTV/playlist.m3u8?token=0ffd2b531dbcf1f5d16d34ab2f7493d4536f6be2-eb65aeb1c5be2f54ca0975ac3c07b259-1710698723-1710687923
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ATNNews (Ariana News) / Revue Starlight RELIVE-FM Radio Channel 5
@@ -230,97 +230,97 @@ http://ythls.kekikakademi.org/youtube/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thượng Hải (上海东方卫视)
 http://ythls.kekikakademi.org/youtube/channel/UCNWWdKniJyzQA3RiJ5LMoVw.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",Bandori / Hunan Television (湖南卫视)
-https://ythls.kekikakademi.org/youtube/channel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8
+https://ythls-v3.onrender.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/XZTV_Chinese_%2816-9%29.png/revision/latest/scale-to-width-down/870?cb=20231225030133&path-prefix=vi",iDOLM@STER / Xizang Television - Truyền hình vệ tinh Tây Tạng (XZTV西藏卫视)
-https://ythls.kekikakademi.org/youtube/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8
+https://ythls-v3.onrender.com/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/GZTV_logo.png",PROJECT vα-liv / Guizhou Television - Truyền hình vệ tinh Quý Châu (贵州卫视)
-https://ythls.kekikakademi.org/youtube/channel/UC7r2U8wAxsXHCMz9XlMWo4w.m3u8
+https://ythls-v3.onrender.com/channel/UC7r2U8wAxsXHCMz9XlMWo4w.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Jilin_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20231104095340",LoveLive School Idol Project / Jilin Television - Truyền hình vệ tinh Cát Lâm (JLTV吉林卫视) (Broadcast Live from Studio S24 from Otonokizaka High School)
-https://ythls.kekikakademi.org/youtube/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8
+https://ythls-v3.onrender.com/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.nximg.cn/file/20190510/27790005_133331887691_2.jpg",LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道频道)
-https://ythls.kekikakademi.org/youtube/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
+https://ythls-v3.onrender.com/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://bpic.51yuansu.com/pic3/cover/03/44/46/5ba2270c69684_610.jpg",Uma Musume Paka Chubu TV (ウマ娘 ぱかチューブっ!) / Fujian Longyan TV (福建龙岩市广播电视台)
-https://ythls.kekikakademi.org/youtube/channel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8
+https://ythls-v3.onrender.com/channel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/HBTV_logo.png/220px-HBTV_logo.png",Shoujo Kageki Revue Starlight / Hubei Television - Truyền hình vệ tinh Hồ Bắc (HBTV湖北卫视)
-https://ythls.kekikakademi.org/youtube/channel/UCpcs9GP_NIBxzDfNTWolNPw.m3u8
+https://ythls-v3.onrender.com/channel/UCpcs9GP_NIBxzDfNTWolNPw.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png",Idoly Pride Channel / Truyền hình vệ tinh Ninh Hạ (NXTV宁夏电视台)
-https://ythls.kekikakademi.org/youtube/channel/UCOuzrlRFF7aSkooORw0XWRA.m3u8
+https://ythls-v3.onrender.com/channel/UCOuzrlRFF7aSkooORw0XWRA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololive Productions / SCTV Sichuan Television - Truyền hình vệ tinh Tứ Xuyên (SCTV四川卫视)
-https://ythls.kekikakademi.org/youtube/channel/UCJFZiqLMntJufDCHc6bQixg.m3u8
+https://ythls-v3.onrender.com/channel/UCJFZiqLMntJufDCHc6bQixg.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololstars / SCTV Sichuan Television TV2 - Truyền hình vệ tinh Tứ Xuyên (SCTV四川卫视)
-https://ythls.kekikakademi.org/youtube/channel/UCWsfcksUUpoEvhia0_ut0bA.m3u8
+https://ythls-v3.onrender.com/channel/UCWsfcksUUpoEvhia0_ut0bA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/5638/cut-20210422123939-1293480061_jpg_978_652_37140.jpg/1284",Nijisanji / JXTV Jiangxi Television - Truyền hình Vệ tinh tỉnh Giang Tây (JXTV江西卫视)
-https://ythls.kekikakademi.org/youtube/channel/UCX7YkU9nEeaoZbkVLVajcMg.m3u8
+https://ythls-v3.onrender.com/channel/UCX7YkU9nEeaoZbkVLVajcMg.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Hypnosis Mic / HRB-TV Harbin - Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang (HRB-TV哈尔滨新闻综合频道)
-https://ythls.kekikakademi.org/youtube/channel/UCLQwZQHMTRqeeUSzZt5ii6g.m3u8
+https://ythls-v3.onrender.com/channel/UCLQwZQHMTRqeeUSzZt5ii6g.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",AniLeap Radio from King Amusement Creative
-https://ythls.kekikakademi.org/youtube/channel/UCR61XV4ROXhkcfLO31hTGuw.m3u8
+https://ythls-v3.onrender.com/channel/UCR61XV4ROXhkcfLO31hTGuw.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Jpop Radio from Avex
-https://ythls.kekikakademi.org/youtube/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8
+https://ythls-v3.onrender.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive JP / UTRK Ala-Too 24
-https://ythls.kekikakademi.org/youtube/channel/UCmgf8DJrAXFnU7j3u0kklUQ.m3u8
+https://ythls-v3.onrender.com/channel/UCmgf8DJrAXFnU7j3u0kklUQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive Global / UTRK Ala-Too 24
-https://ythls.kekikakademi.org/youtube/channel/UCsrnDYrkovQhCCE8kwKcvKQ.m3u8
+https://ythls-v3.onrender.com/channel/UCsrnDYrkovQhCCE8kwKcvKQ.m3u8
 #EXTINF:-1 group-title="Youtube Live",Goddess of Victory NIKKE JP
-https://ythls.kekikakademi.org/youtube/channel/UCvi81mltkpbF2UEvC_e864g.m3u8
+https://ythls-v3.onrender.com/channel/UCvi81mltkpbF2UEvC_e864g.m3u8
 #EXTINF:-1 group-title="Youtube Live",Honkai StarRail JP
-https://ythls.kekikakademi.org/youtube/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
+https://ythls-v3.onrender.com/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
 #EXTINF:-1 group-title="Youtube Live",Honkai Impact 3rd JP
-https://ythls.kekikakademi.org/youtube/channel/UCRmYt_U1lxTwMVQsDl_MFcA.m3u8
+https://ythls-v3.onrender.com/channel/UCRmYt_U1lxTwMVQsDl_MFcA.m3u8
 #EXTINF:-1 group-title="Youtube Live",Genshin JP
-https://ythls.kekikakademi.org/youtube/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
+https://ythls-v3.onrender.com/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (VN)
-https://ythls.kekikakademi.org/youtube/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8
+https://ythls-v3.onrender.com/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EN)
-https://ythls.kekikakademi.org/youtube/channel/UCA1d3HFGFUmkKr2JIUA5Vlw.m3u8
+https://ythls-v3.onrender.com/channel/UCA1d3HFGFUmkKr2JIUA5Vlw.m3u8
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (JP)
-https://ythls.kekikakademi.org/youtube/channel/UCzVgCrOcBAWYEHTtVOMPAtw.m3u8
+https://ythls-v3.onrender.com/channel/UCzVgCrOcBAWYEHTtVOMPAtw.m3u8
 #EXTINF:-1 group-title="Valorant Live",LoL Esports (EN)
-https://ythls.kekikakademi.org/youtube/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
+https://ythls-v3.onrender.com/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
 #EXTINF:-1 group-title="Valorant Live",LoL Esports (EN)
-https://ythls.kekikakademi.org/youtube/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
+https://ythls-v3.onrender.com/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Rapid Lofi
-https://ythls.kekikakademi.org/youtube/channel/UCgnpfQmGDxXqXxHOIyNFELg.m3u8
+https://ythls-v3.onrender.com/channel/UCgnpfQmGDxXqXxHOIyNFELg.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",TheAnh96
-https://ythls.kekikakademi.org/youtube/channel/UCt4XxLTUgFozUL6VItIopXQ.m3u8
+https://ythls-v3.onrender.com/channel/UCt4XxLTUgFozUL6VItIopXQ.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Layla2k4
-https://ythls.kekikakademi.org/youtube/channel/UC6MUeh75uRZuumtfBP7O9EA.m3u8
+https://ythls-v3.onrender.com/channel/UC6MUeh75uRZuumtfBP7O9EA.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Mao Hie
-https://ythls.kekikakademi.org/youtube/channel/UCTDpRUCC9_U7oZ652ER3YOQ.m3u8
+https://ythls-v3.onrender.com/channel/UCTDpRUCC9_U7oZ652ER3YOQ.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Mao Hie
-https://ythls.kekikakademi.org/youtube/channel/UCTDpRUCC9_U7oZ652ER3YOQ.m3u8
+https://ythls-v3.onrender.com/channel/UCTDpRUCC9_U7oZ652ER3YOQ.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Coach Malix
-https://ythls.kekikakademi.org/youtube/channel/UCDAcs6V0H-53uz05NNz4LzQ.m3u8
+https://ythls-v3.onrender.com/channel/UCDAcs6V0H-53uz05NNz4LzQ.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Bomman - Mai Nam Hải
-https://ythls.kekikakademi.org/youtube/channel/UChRepe5ESkF7WtJ5YluB22g.m3u8
+https://ythls-v3.onrender.com/channel/UChRepe5ESkF7WtJ5YluB22g.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Crazyguy
-https://ythls.kekikakademi.org/youtube/channel/UCrniTXsYnuZsrK0I4YmFcCw.m3u8
+https://ythls-v3.onrender.com/channel/UCrniTXsYnuZsrK0I4YmFcCw.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Mazuong2k4
-https://ythls.kekikakademi.org/youtube/channel/UCeGVMQsWkqYO3mB_1bQuPkA.m3u8
+https://ythls-v3.onrender.com/channel/UCeGVMQsWkqYO3mB_1bQuPkA.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Brim Cánh Cụt
-https://ythls.kekikakademi.org/youtube/channel/UCoqLNg-swPt8EdcbqigMzYQ.m3u8
+https://ythls-v3.onrender.com/channel/UCoqLNg-swPt8EdcbqigMzYQ.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Ocleop
-https://ythls.kekikakademi.org/youtube/channel/UCqg13GTGnouYpH4c0F6AMIg.m3u8
+https://ythls-v3.onrender.com/channel/UCqg13GTGnouYpH4c0F6AMIg.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",TenZ
-https://ythls.kekikakademi.org/youtube/channel/UCckPYr9b_iVucz8ID1Q67sw.m3u8
+https://ythls-v3.onrender.com/channel/UCckPYr9b_iVucz8ID1Q67sw.m3u8
 #EXTINF:-1 group-title="Youtube Live",LJL (JP)
-https://ythls.kekikakademi.org/youtube/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
+https://ythls-v3.onrender.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
 #EXTINF:-1 group-title="Youtube Live",MCNEsports
-https://ythls.kekikakademi.org/youtube/channel/UC6jg4WQ1-avW7IMmku_rncQ.m3u8
+https://ythls-v3.onrender.com/channel/UC6jg4WQ1-avW7IMmku_rncQ.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
-https://ythls.kekikakademi.org/youtube/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
+https://ythls-v3.onrender.com/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
 #EXTINF:-1 group-title="Youtube Live",WCS Nagoya Live
-https://ythls.kekikakademi.org/youtube/channel/UC5VBrQEonivcMLx8krq-CwQ.m3u8
+https://ythls-v3.onrender.com/channel/UC5VBrQEonivcMLx8krq-CwQ.m3u8
 #EXTINF:-1 group-title="Youtube Live",VFF Channel Live
-https://ythls.kekikakademi.org/youtube/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
+https://ythls-v3.onrender.com/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
 #EXTINF:-1 group-title="Youtube Live",IMSPORTS TV
-https://ythls.kekikakademi.org/youtube/channel/UCkVXcyTRC0U0ItRVh9itBpQ.m3u8
+https://ythls-v3.onrender.com/channel/UCkVXcyTRC0U0ItRVh9itBpQ.m3u8
 #EXTINF:-1 group-title="Youtube Live",Liên Quân Mobile
-https://ythls.kekikakademi.org/youtube/channel/UCpnQwjzvDm1MOMtZV2zkVpA.m3u8
+https://ythls-v3.onrender.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA.m3u8
 #EXTINF:-1 group-title="FPT SPORTS Live",FPT Bóng đá
-https://ythls.kekikakademi.org/youtube/channel/UC4LvrpNXujjbGOS4RDvr41g.m3u8
+https://ythls-v3.onrender.com/channel/UC4LvrpNXujjbGOS4RDvr41g.m3u8
 #EXTINF:-1 group-title="FPT SPORTS Live",FPT Bóng đá Việt
-https://ythls.kekikakademi.org/youtube/channel/UCljFFNaQoJWeP91Bz4m_3bw.m3u8
+https://ythls-v3.onrender.com/channel/UCljFFNaQoJWeP91Bz4m_3bw.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -391,7 +391,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/lARtNRO.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://github.com/luongtamlong/Dak-Lak-IPTV/blob/main/VOVGTTV.png?raw=trueg",VOV-FM91 TV
-https://ythls.kekikakademi.org/youtube/channel/UCPeJU6XNeZMwaHYXE27Vgmg.m3u8
+https://ythls-v3.onrender.com/channel/UCPeJU6XNeZMwaHYXE27Vgmg.m3u8
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
@@ -1769,18 +1769,18 @@ https://radio.lnr.org.la/fm103
 #EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio FM 94.3 / Lao National Radio FM 94.3
 https://radio.lnr.org.la/fm94
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
-https://ythls.kekikakademi.org/youtube/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
+https://ythls-v3.onrender.com/channel/UCtoQh7mQikZsztA1OQRSFvw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
-https://ythls.kekikakademi.org/youtube/channel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8
+https://ythls-v3.onrender.com/channel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
-https://ythls.kekikakademi.org/youtube/channel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8
+https://ythls-v3.onrender.com/channel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPHN
-https://ythls.kekikakademi.org/youtube/channel/UCp3-ofQgc8PO5q3pS6jYsIw.m3u8
+https://ythls-v3.onrender.com/channel/UCp3-ofQgc8PO5q3pS6jYsIw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
-https://ythls.kekikakademi.org/youtube/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
+https://ythls-v3.onrender.com/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican
 http://www2.vaticanwebradio.org/webcasting/vietnamita_1.mp3
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
-https://ythls.kekikakademi.org/youtube/channel/UC4HqQT1uH3dzz_ZSR_mVUEw.m3u8
+https://ythls-v3.onrender.com/channel/UC4HqQT1uH3dzz_ZSR_mVUEw.m3u8
 #EXTINF:-1 group-title="⛪|Thánh Lễ",AnboliTV
-https://ythls.kekikakademi.org/youtube/channel/UCLaRapGrRHS0W5uyWnh-bpg.m3u8
+https://ythls-v3.onrender.com/channel/UCLaRapGrRHS0W5uyWnh-bpg.m3u8
