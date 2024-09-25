@@ -277,10 +277,6 @@ https://ythls.kekikakademi.org/youtube/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCA1d3HFGFUmkKr2JIUA5Vlw.m3u8
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (JP)
 https://ythls.kekikakademi.org/youtube/channel/UCzVgCrOcBAWYEHTtVOMPAtw.m3u8
-#EXTINF:-1 group-title="Valorant Live",LoL Esports (EN)
-https://ythls.kekikakademi.org/youtube/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
-#EXTINF:-1 group-title="Valorant Live",LoL Esports (JP)
-https://ythls.kekikakademi.org/youtube/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",Rapid Lofi
 https://ythls.kekikakademi.org/youtube/channel/UCgnpfQmGDxXqXxHOIyNFELg.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",TheAnh96
@@ -305,10 +301,20 @@ https://ythls.kekikakademi.org/youtube/channel/UCoqLNg-swPt8EdcbqigMzYQ.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCqg13GTGnouYpH4c0F6AMIg.m3u8
 #EXTINF:-1 group-title="VCT Ascension Pacific Jakarta 2024 Watchparty",TenZ
 https://ythls.kekikakademi.org/youtube/channel/UCckPYr9b_iVucz8ID1Q67sw.m3u8
-#EXTINF:-1 group-title="Youtube Live",LJL (JP)
+#EXTINF:-1 group-title="Worlds 2024 Live",VCS (VN)
+https://ythls.kekikakademi.org/youtube/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8
+#EXTINF:-1 group-title="Worlds 2024 Live",LoL Esports (EN)
+https://ythls.kekikakademi.org/youtube/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
+#EXTINF:-1 group-title="Worlds 2024 Live",LoL Esports (EN)
+https://ythls.kekikakademi.org/youtube/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
+#EXTINF:-1 group-title="Worlds 2024 Live",LoL Esports (JP)
 https://ythls.kekikakademi.org/youtube/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
-#EXTINF:-1 group-title="Youtube Live",MCNEsports
+#EXTINF:-1 group-title="Worlds 2024 Live",LJL (JP)
+https://ythls.kekikakademi.org/youtube/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
+#EXTINF:-1 group-title="eSports Live",MCNEsports
 https://ythls.kekikakademi.org/youtube/channel/UC6jg4WQ1-avW7IMmku_rncQ.m3u8
+#EXTINF:-1 group-title="eSports Live",ESL Counter Strike Live
+https://ythls.kekikakademi.org/youtube/channel/UCPq2ETz4aAGo2Z-8JisDPIA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
 https://ythls.kekikakademi.org/youtube/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
 #EXTINF:-1 group-title="Youtube Live",WCS Nagoya Live
