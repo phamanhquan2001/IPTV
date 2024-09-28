@@ -14,14 +14,16 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",FalastiniTV (Music)
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
+#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AlAqsaTV.ps",Al Aqsa Channel (416p) [Not 24/7]
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",Shabab FM Radio (by Asticassia Radio Comitee and Satellite Receiver Studio and Monitoring Room) (720p)
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
+#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="PalestineSatelliteChannel.ps" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="PalestineMubasher.ps",Palestine Mubasher (404p)
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
-#EXTINF:-1 tvg-id="PalestineToday.ps",Palestine Today (480p) [Geo-blocked]
+#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="PalestineToday.ps",Palestine Today (480p) [Geo-blocked]
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AlNajahNews.ps",Al Najah News (by Project Sekai Television) (720p)
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
@@ -60,11 +62,13 @@ https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN2.ir",IRINN2 (540p)
 https://cdn-azd2056.telewebion.com/irinn2/live/240p/index.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="PressTV.ir",Press TV (720p)
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+https://stream1.freetv.fun/56addcb34db22c028bb653498071875d166e692021e52b81ebe850ad38cde4cb.ctv
 #EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
 https://manar.live/iptv/playlist.m3u8
 #EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
 https://manar.live/x.smil/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon" tvg-id="AlMayadeen.lb",Al Mayadeen / Aniplus Asia
+https://stream1.freetv.fun/ef5eb5b91bad752577e2861fb00ea541b2406fe213386c20ce0f4cdecc8af285.ctv
 #EXTINF:-1 group-title="Iraq" tvg-id="AlEtejah.iq",Al Etejah TV
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
