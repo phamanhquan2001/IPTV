@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TOKYO GAME SHOW 2024 / Cúp Truyền Hình HTV 2024",Tokyo Game Show 2024 Live Stream Showcase
-https://ythls-v3.onrender.com/channel/UClFyIegrk4g6CFqGYCwTViA.m3u8
-#EXTINF:-1 group-title="TOKYO GAME SHOW 2024 / Cúp Truyền Hình HTV 2024",Live Camera from Tokyo Game Show 2024 (Day 3)
-https://www.youtube.com/watch?v=tFNkSXPT0CA
-#EXTINF:-1 group-title="TOKYO GAME SHOW 2024 / Cúp Truyền Hình HTV 2024",Tokyo Game Show 2024 Day 4 - Japan Game Awards 2024 Future Division
-https://www.youtube.com/watch?v=DrcOIa_WCf8
-#EXTINF:-1 group-title="TOKYO GAME SHOW 2024 / Cúp Truyền Hình HTV 2024",Tokyo Game Show 2024 Day 4 - Ending Program
-https://www.youtube.com/watch?v=pGOrn7H8YAI
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina)
