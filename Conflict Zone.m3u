@@ -63,6 +63,40 @@ https://manar.live/x.smil/playlist.m3u8
 https://stream1.freetv.fun/ef5eb5b91bad752577e2861fb00ea541b2406fe213386c20ce0f4cdecc8af285.ctv
 #EXTINF:-1 group-title="Iraq" tvg-id="AlEtejah.iq",Al Etejah TV
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Mrtvnews.png",MRTV News
+https://lb-as.cdn-perfprod.com/live/mrtvnewslive
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/440px-Myanmar_National_TV_Logo.jpg",MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4 HD
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",Channel 5Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1709015344NIHZWL.png",Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Channel9myanmarlogo.png",Channel 9
+https://hqth.me/umowSb
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/1200px-Channelk.png",Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://burmese.dvb.no/logo-with-letters.png",DVB - Democractic Voice of Burma TV (MYANMAR CHAMPIONS LEAGUE)
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Leanbox",Myanmar Radio National Service
+https://lb-as.cdn-perfprod.com/live/myanma_radio
+#EXTINF:-1 tvg-logo="" group-title="Leanbox",Tha Pyay Radio
+https://lb-as.cdn-perfprod.com/live/thapyaeradio
+#EXTINF:-1 tvg-logo="" group-title="Leanbox",Myanmar Radio International
+https://lb-as.cdn-perfprod.com/live/myanmaradionational
+#EXTINF:-1 tvg-logo="" group-title="Leanbox",Mayyu FM
+https://lb-as.cdn-perfprod.com/live/mayyufm
+#EXTINF:-1 tvg-logo="" group-title="Leanbox",CityFM
+https://stream.zeno.fm/rq4ux25pyeruv
+#EXTINF:-1 tvg-logo="" group-title="Leanbox",Mandalay FM
+https://edge.mixlr.com/channel/nmtev
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
@@ -1537,14 +1571,46 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
 https://tv.nknews.org/tvdash/stream.mpd
 
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://info.hkanimal.com/png_logo/81.png" group-title="Lastation Channel", Jade 翡翠台
-https://live.hkdvb.com/hls/live/81.m3u8?token=680446446364583
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://info.hkanimal.com/png_logo/82.png" group-title="Lastation Channel", TVB PLUS
-https://live.hkdvb.com/hls/live/82.m3u8?token=680446446364583
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://info.hkanimal.com/png_logo/83.png" group-title="Lastation Channel", News 新聞台
-https://live.hkdvb.com/hls/live/83.m3u8?token=680446446364583
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://info.hkanimal.com/png_logo/84.png" group-title="Lastation Channel", Pearl 明珠台
-https://live.hkdvb.com/hls/live/84.m3u8?token=680446446364583
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/RTHK_TV_31A.svg/revision/latest?cb=20210325175806" group-title="Lastation Channel", RTHK 31
+https://live.hkdvb.com/hls/live/31.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RTHK_TV_32.svg/revision/latest?cb=20200511233323" group-title="Lastation Channel", RTHK 32
+https://live.hkdvb.com/hls/live/32.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/RTHK_TV_33.svg/revision/latest?cb=20200511233655" group-title="Lastation Channel", RTHK 33
+https://live.hkdvb.com/hls/live/33.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/RTHK_TV_34.png/revision/latest?cb=20220815031856" group-title="Lastation Channel", RTHK 34
+https://live.hkdvb.com/hls/live/34.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/1024px-RTHK_TV_35.svg.png" group-title="Lastation Channel", RTHK 35
+https://live.hkdvb.com/hls/live/35.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://info.hkanimal.com/png_logo/76.png" group-title="Lastation Channel", HOY TV 76
+https://live.hkdvb.com/hls/live/76.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://info.hkanimal.com/png_logo/77.png" group-title="Lastation Channel", HOY TV
+https://live.hkdvb.com/hls/live/77.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://info.hkanimal.com/png_logo/78.png" group-title="Lastation Channel", HOY TV 78
+https://live.hkdvb.com/hls/live/78.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" group-title="Lastation Channel", TVB Jade
+http://1.36.224.224:9981/stream/channelid/1014712634?profile=pass
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true" group-title="Lastation Channel", TVB Jade UHD
+https://live.hkdvb.com/hls/live/800.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVBPlus.png?raw=true" group-title="Lastation Channel", TVB Plus
+http://124.244.149.194:65531/bysid/82
+#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true" group-title="Lastation Channel", TVB News
+http://124.244.149.194:65531/bysid/83
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png?raw=true" group-title="Lastation Channel", TVB Pearl
+http://124.244.149.194:65531/bysid/2
+#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Lastation Channel", Phoenix Hong Kong
+http://124.244.149.194:65531/bysid/85
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Lastation Channel", ViuTV Six
+http://1.36.224.224:9981/stream/channelid/1504751343?profile=pass
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Lastation Channel", ViuTV
+http://1.36.224.224:9981/stream/channelid/1531311901?profile=pass
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/NOW%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="Lastation Channel", NOW News
+https://live.hkdvb.com/hls/live/332.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png" group-title="Lastation Channel", NOW Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="Lastation Channel", NOW Sports Premier League
+https://live.hkdvb.com/hls/live/621.m3u8?token=680446446336548
+#EXTINF:-1 tvg-id="99" tvg-name="NOW新聞台" tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="Lastation Channel", NOW Sports 632 (La Liga)
+https://live.hkdvb.com/hls/live/632.m3u8?token=680446446336548
 
 #EXTINF:-1 group-title="iDOLM@STER" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
 https://epg.pw/stream/6813e053b70cb87f76e097e1fcc36d4cc3eae132496555134d0f98b3fb717629.ctv
