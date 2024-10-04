@@ -280,6 +280,8 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Reuters Live Event
 http://ythls.kekikakademi.org/youtube/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
+http://ythls.kekikakademi.org/youtube/channel/UCabsTV34JwALXKGMqHpvUiA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",NicoNicoDouga News Live Event
 http://ythls.kekikakademi.org/youtube/channel/UC28hcmMG3TJv60Byo528VVg.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
