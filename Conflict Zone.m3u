@@ -86,6 +86,10 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
 #EXTINF:-1 group-title="Iraq" tvg-id="AlEtejah.iq",Al Etejah TV
 http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
+#EXTINF:-1 group-title="Iraq" tvg-id="AlIraqia.iq",Al Iraqia (720p)
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 group-title="Iraq" tvg-id="AlIraqiaNews.iq",Al Iraqia News (720p)
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 group-title="Yêmen" tvg-id="SuhailTV.ye",Suhail TV (576p)
 http://82.212.74.98:8000/live/hls/7726.m3u8
 #EXTINF:-1 group-title="Yêmen" tvg-id="YemenShababChannel.ye",Yemen Shabab Channel (1080p) [Not 24/7]
@@ -98,6 +102,10 @@ https://ffs3.gulfsat.com/YEMENIA/video.m3u8
 https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 group-title="Yêmen" tvg-id="AlMasirahMubacher.ye",Al Masirah Mubacher (642p) [Not 24/7]
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1 group-title="Ôman" tvg-id="OmanTV.om",ÔmanTV (1080p)
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Ôman" tvg-id="OmanTVMubashir.om",ÔmanTV Mubasher (1080p)
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Mrtvnews.png",MRTV News
