@@ -184,13 +184,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 #EXTINF:-1 group-title="🇮🇩| Indonesia" tvg-id="NET.id",.NET TV
 https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
 #EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.1
-https://www.youtube.com/watch?v=dAT39T-N2JI
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.2
-https://www.youtube.com/watch?v=ubP_w9xsNf8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.3
-https://www.youtube.com/watch?v=crOzExpzmu8
-#EXTINF:-1 group-title="Live Cam from Palestine",Live Cam No.4
-https://ythls.kekikakademi.org/youtube/channel/UC9ivJE5pGfGzRVRfNobMSLA.m3u8
+https://ythls.kekikakademi.org/youtube/video/c05nbqhMbRU.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="TBSNewsCS.jp",TBS News (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
@@ -358,6 +352,10 @@ https://ythls.kekikakademi.org/youtube/channel/UCA1d3HFGFUmkKr2JIUA5Vlw.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCzVgCrOcBAWYEHTtVOMPAtw.m3u8
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (AR)
 https://ythls.kekikakademi.org/youtube/channel/UC4PtOhCMlWl5N8RKSRCXSMw.m3u8
+#EXTINF:-1 group-title="Valorant Live",VCT Valorant (CN)
+https://ythls.kekikakademi.org/youtube/channel/UCc1VJX_5Z2RdGi58XU4IfbA.m3u8
+#EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
+https://ythls.kekikakademi.org/youtube/channel/UCHwd3E6n7FGP4ZSIwFpMPuw.m3u8
 #EXTINF:-1 group-title="Worlds 2024 Live",VCS (VN)
 https://ythls.kekikakademi.org/youtube/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8
 #EXTINF:-1 group-title="Worlds 2024 Live",LoL Esports (EN)
@@ -366,7 +364,7 @@ https://ythls.kekikakademi.org/youtube/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
 #EXTINF:-1 group-title="Worlds 2024 Live",LCK (KR)
 https://ythls.kekikakademi.org/youtube/channel/UCw1DsweY9b2AKGjV4kGJP1A.m3u8
-#EXTINF:-1 group-title="Worlds 2024 Live"CBLOL (PT)
+#EXTINF:-1 group-title="Worlds 2024 Live",CBLOL (PT)
 https://ythls.kekikakademi.org/youtube/channel/UC48rkTlXjRd6pnqqBkdV0Mw.m3u8
 #EXTINF:-1 group-title="Worlds 2024 Live",LJL (JP)
 https://ythls.kekikakademi.org/youtube/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
@@ -396,10 +394,8 @@ https://ythls.kekikakademi.org/youtube/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
 https://ythls.kekikakademi.org/youtube/channel/UCkVXcyTRC0U0ItRVh9itBpQ.m3u8
 #EXTINF:-1 group-title="Youtube Live",Liên Quân Mobile
 https://ythls.kekikakademi.org/youtube/channel/UCpnQwjzvDm1MOMtZV2zkVpA.m3u8
-#EXTINF:-1 group-title="FPT SPORTS Live",FPT Bóng đá
-https://ythls.kekikakademi.org/youtube/channel/UC4LvrpNXujjbGOS4RDvr41g.m3u8
-#EXTINF:-1 group-title="FPT SPORTS Live",FPT Bóng đá Việt
-https://ythls.kekikakademi.org/youtube/channel/UCljFFNaQoJWeP91Bz4m_3bw.m3u8
+#EXTINF:-1 group-title="Youtube Live",PUBG
+https://ythls.kekikakademi.org/youtube/channel/UCeX2iXaH63w3BZ8Wae_JdEA.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
