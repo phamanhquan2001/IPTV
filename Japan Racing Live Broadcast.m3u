@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://epg.djtmewibu.com/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="JRA - NAR / Main Feed" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル ‐ 中央競馬全レース中継 / 地方競馬中継
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ(みんなのＫＥＩＢＡ)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",Kansai TV / 関西テレビ (競馬BEAT)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="sun_tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/SUN_TV_MNC-Group.svg/revision/latest/scale-to-width-down/1200?cb=20150420140705",SUN TV / サンテレビ (うまDOKI)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TVTokyo / BSテレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_fuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (BSスーパーKEIBA)
