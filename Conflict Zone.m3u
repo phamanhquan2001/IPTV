@@ -261,35 +261,35 @@ https://st2.mediabay.tv/ToloTV/playlist.m3u8?token=0ffd2b531dbcf1f5d16d34ab2f749
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ShamshadNews TV / Revue Starlight RELIVE-FM Radio Channel 6
 https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức RADIO" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức Quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
 https://epg.pw/stream/f17013d485da0ef3fd6316ecca0561a92b2cf33d07fec5c50260e21d93994ac3.ctv
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
 https://ctrl.laotv.la/live/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
 https://epg.pw/stream/95f8bf0332c5206cd91decbcd04347d306bbb9a315a610180f05a050bae0a9c7.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
 http://103.130.141.67:81/live/3/playlist.m3u8
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
+#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://epg.pw/stream/8d3f4feb344b4a771e4e606b990b1008d380a92f5d74855889d39d940c347c27.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
 https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.ctv
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRTWorld (Thừa Thiên Huế)
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRTWorld (Thừa Thiên Huế)
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Reuters Live Event
