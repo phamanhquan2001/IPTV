@@ -140,6 +140,10 @@ https://lb-as.cdn-perfprod.com/live/mayyufm
 https://stream.zeno.fm/rq4ux25pyeruv
 #EXTINF:-1 tvg-logo="" group-title="Leanbox",Mandalay FM
 https://edge.mixlr.com/channel/nmtev
+#EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", Aniplus Asia / Al Mayadeen TV
+http://xtv.ooo:8080/83212539/43153928/353980
+#EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ATX
+http://r3jx.djtmewibu.com/at-x/index.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-id="animaxhd" group-title="Anime Chọn Lọc" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
