@@ -297,7 +297,7 @@ https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 group-title="Youtube Live",BBS Bhutan
-https://ythls-v3.onrender.com/channel/UCzZIEQX2fWAmsvztJjIb7eA.m3u8?playlist=index
+https://ythls-v3.onrender.com/channel/UCzZIEQX2fWAmsvztJjIb7eA.m3u8
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Reuters Live Event
 https://ythls-v3.onrender.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
