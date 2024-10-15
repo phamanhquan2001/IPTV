@@ -350,6 +350,10 @@ https://ythls-v3.onrender.com/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
 https://ythls-v3.onrender.com/channel/UCRmYt_U1lxTwMVQsDl_MFcA.m3u8
 #EXTINF:-1 group-title="Youtube Live",Genshin JP
 https://ythls-v3.onrender.com/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
+#EXTINF:-1 group-title="Youtube Live",ZZZ JP
+https://ythls-v3.onrender.com/channel/UCt09C9DPSuOGpHoitbcyCIQ.m3u8
+#EXTINF:-1 group-title="Strinova Live",Strinova
+https://ythls-v3.onrender.com/channel/UCkM1U9GSsmsQImoiPovJvHA.m3u8
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (NA)
 https://ythls-v3.onrender.com/channel/UCifCesg-EUkjKyQedaB3hRg.m3u8
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (Pacific)
