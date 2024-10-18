@@ -8,8 +8,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=7
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=7
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=7
-#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ(みんなのＫＥＩＢＡ)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=7
+#EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ (みんなのＫＥＩＢＡ)
+https://fujitv4.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png",Kansai TV / 関西テレビ (競馬BEAT)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=7
 #EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="sun_tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/SUN_TV_MNC-Group.svg/revision/latest/scale-to-width-down/1200?cb=20150420140705",SUN TV / サンテレビ (うまDOKI)
@@ -126,6 +126,8 @@ https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/himej
 https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi5.m3u8
 #EXTINF:-1 group-title="NAR",Saga (佐賀県/佐賀競馬場) (Geo-blocked)
 https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga5.m3u8
+#EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Keirin/Autorace" ,ABEMA 競輪・オートレースチャンネル (Geo-Blocked)
+https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
 #EXTINF:-1 group-title="Keirin Live",Hokkaido / Hakodate (北海道/函館競輪場)
 https://ythls.armelin.one/channel/UC7Ehq9agmTeznt6XjZ5faLw.m3u8
 #EXTINF:-1 group-title="Keirin Live",Aomori (青森県/青森競輪場)
@@ -222,6 +224,8 @@ https://ythls.armelin.one/channel/UCyz8qHMrHB0lSSwoF4S0jsQ.m3u8
 https://ythls.armelin.one/channel/UCUwiFvrK2oCwwSA-1SVtOLA.m3u8
 #EXTINF:-1 group-title="Autorace Live" tvg-logo="https://bluearchive-kivotostest.com/_nuxt/img/shanhaijing_logo_pc.9e1dabd.png",Yamaguchi / Sanyo - Shanhaijing Autorace School (山口県/山陽オートレース場 - 山海経高級中学校盃)
 https://ythls.armelin.one/channel/UCGercgXIY9l1H5r45XqQPEA.m3u8
+#EXTINF:-1 tvg-id="boatrace" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/boatrace/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Boatrace Live" ,ABEMA-BOATRACEチャンネル (Geo-Blocked)
+https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
 #EXTINF:-1 group-title="Boatrace Live",JLC News Live
 https://ythls.armelin.one/channel/UC35TRecEk9N5FAj2a--PAkg.m3u8
 #EXTINF:-1 group-title="Boatrace Live",Gunma / Kiryu (群馬県/桐生競艇場)
