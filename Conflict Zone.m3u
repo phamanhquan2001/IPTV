@@ -430,11 +430,11 @@ https://ythls.armelin.one/channel/UCkVXcyTRC0U0ItRVh9itBpQ.m3u8
 https://ythls.armelin.one/channel/UCpnQwjzvDm1MOMtZV2zkVpA.m3u8
 #EXTINF:-1 group-title="Youtube Live",PUBG
 https://ythls.armelin.one/channel/UCeX2iXaH63w3BZ8Wae_JdEA.m3u8
-#EXTINF:-1 group-title="Youtube Live"FPT Bóng Rổ
+#EXTINF:-1 group-title="Youtube Live",FPT Bóng Rổ
 https://ythls.armelin.one/channel/UCtVG9Tb4tNRh-1Qz3LksCWg.m3u8
-#EXTINF:-1 group-title="Youtube Live"FPT Bóng Đá
+#EXTINF:-1 group-title="Youtube Live",FPT Bóng Đá
 https://ythls.armelin.one/channel/UC4LvrpNXujjbGOS4RDvr41g.m3u8
-#EXTINF:-1 group-title="Youtube Live"FPT Bóng Việt
+#EXTINF:-1 group-title="Youtube Live",FPT Bóng đá Việt
 https://ythls.armelin.one/channel/UCljFFNaQoJWeP91Bz4m_3bw.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
