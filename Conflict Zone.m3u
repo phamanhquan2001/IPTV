@@ -792,9 +792,9 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 group-title="RADIO",BBS1 BHUTAN
-http://radio.bbs.bt/mix-ch
+http://radio.bbs.bt:80/mix-ch
 #EXTINF:-1 group-title="RADIO",BBS2 BHUTAN
-http://radio.bbs.bt/dz-ch
+http://radio.bbs.bt:80/dz-ch
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
