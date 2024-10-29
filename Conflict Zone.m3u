@@ -643,7 +643,11 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV1
+#EXTINF:-1 group-title="RADIO".BBS 1 BHUTAN
+http://radio.bbs.bt:80/mix-ch
+#EXTINF:-1 group-title="RADIO".BBS 2 BHUTAN
+http://radio.bbs.bt:80/dz-ch
+#EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
 http://media.kythuatvov.vn:7003/;stream/
