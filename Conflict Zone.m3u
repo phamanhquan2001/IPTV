@@ -366,6 +366,8 @@ https://ythls-v3.onrender.com/channel/UC4PtOhCMlWl5N8RKSRCXSMw.m3u8?playlist=ind
 https://ythls-v3.onrender.com/channel/UCc1VJX_5Z2RdGi58XU4IfbA.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
 https://ythls-v3.onrender.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw.m3u8?playlist=index
+#EXTINF:-1 group-title="Worlds 2024 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Polsat_Games_2021_gradient.svg/1200px-Polsat_Games_2021_gradient.svg.png",Polsat Games
+http://p1.cvtv.xyz/psg?token=live
 #EXTINF:-1 group-title="Worlds 2024 Live",VCS (VN)
 https://ythls-v3.onrender.com/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Worlds 2024 Live",LoL Esports (EN)
@@ -382,6 +384,16 @@ https://ythls-v3.onrender.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8?playlist=ind
 https://ythls-v3.onrender.com/channel/UCYfC038eP_cm9WNo5Cv-tBg.m3u8?playlist=index
 #EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Hoang Luan
 https://ythls-v3.onrender.com/channel/UCxTYgnyy0sEoV3Ndr6XVdGQ.m3u8?playlist=index
+#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Raizin
+https://www.twitch.tv/alfrea
+#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Raizin
+https://www.twitch.tv/takayaspecial
+#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Raizin
+https://www.twitch.tv/syaruru3
+#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",SnowAR
+https://www.twitch.tv/snowar12
+#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Yoichi
+https://www.twitch.tv/yoiichiii
 #EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Van Tung
 https://ythls-v3.onrender.com/channel/UC8YW6FO4bJzh8IKJl3PtZqw.m3u8?playlist=index
 #EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",SofM
