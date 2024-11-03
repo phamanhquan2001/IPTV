@@ -366,55 +366,20 @@ https://ythls-v3.onrender.com/channel/UC4PtOhCMlWl5N8RKSRCXSMw.m3u8?playlist=ind
 https://ythls-v3.onrender.com/channel/UCc1VJX_5Z2RdGi58XU4IfbA.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
 https://ythls-v3.onrender.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Polsat_Games_2021_gradient.svg/1200px-Polsat_Games_2021_gradient.svg.png",Polsat Games
-http://p1.cvtv.xyz/psg?token=live
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Worlds 2024 Live" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthethao_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV Thể Thao 50fps
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://thvip.site/360/195/index.m3u8?htvtt
-#EXTINF:-1 tvg-id="htv1" group-title="Worlds 2024 Live" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}",HTV1
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vc.101vn.com/htv/htvcmb.php?id=2631
-#EXTINF:-1 tvg-id="htv4" group-title="Worlds 2024 Live" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}",HTVKeys
-#EXTVLCOPT:http-user-agent=VThanhTivi
-https://vc.101vn.com/htv/htvcmb.php?id=2528
-#EXTINF:-1 group-title="Worlds 2024 Live",VCS (VN)
+#EXTINF:-1 group-title="League of Legends Live",VCS (VN)
 https://ythls-v3.onrender.com/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live",LoL Esports (EN)
+#EXTINF:-1 group-title="League of Legends Live",LoL Esports (EN)
 https://ythls-v3.onrender.com/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live",LoL Esports (JP)
+#EXTINF:-1 group-title="League of Legends Live",LoL Esports (JP)
 https://ythls-v3.onrender.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live",LCK (KR)
+#EXTINF:-1 group-title="League of Legends Live",LCK (KR)
 https://ythls-v3.onrender.com/channel/UCw1DsweY9b2AKGjV4kGJP1A.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live",CBLOL (PT)
+#EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
 https://ythls-v3.onrender.com/channel/UC48rkTlXjRd6pnqqBkdV0Mw.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live",LJL (JP)
+#EXTINF:-1 group-title="League of Legends Live",LJL (JP)
 https://ythls-v3.onrender.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live",PCS (HK)
+#EXTINF:-1 group-title="League of Legends Live",PCS (HK)
 https://ythls-v3.onrender.com/channel/UCYfC038eP_cm9WNo5Cv-tBg.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Hoang Luan
-https://ythls-v3.onrender.com/channel/UCxTYgnyy0sEoV3Ndr6XVdGQ.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Raizin
-https://www.twitch.tv/alfrea
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Takaya
-https://www.twitch.tv/takayaspecial
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Syaruru
-https://www.twitch.tv/syaruru3
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",SnowAR
-https://www.twitch.tv/snowar12
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Yoichi
-https://www.twitch.tv/yoiichiii
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Van Tung
-https://ythls-v3.onrender.com/channel/UC8YW6FO4bJzh8IKJl3PtZqw.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",SofM
-https://ythls-v3.onrender.com/channel/UCH6EC9nvgACa3fnbifc4vtA.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Optimus
-https://ythls-v3.onrender.com/channel/UCj06sjVmkCDEapk8JwBg06A.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",Sendo Yuuhi
-https://ythls-v3.onrender.com/channel/UCuDY3ibSP2MFRgf7eo3cojg.m3u8?playlist=index
-#EXTINF:-1 group-title="Worlds 2024 Live - Costreaming Feed",S8UL SID
-https://ythls-v3.onrender.com/channel/UC5DKK8zzpG7dt8FLEzT_mnw.m3u8?playlist=index
-#EXTINF:-1 group-title="eSports Live",MCNEsports
-https://ythls-v3.onrender.com/channel/UC6jg4WQ1-avW7IMmku_rncQ.m3u8?playlist=index
 #EXTINF:-1 group-title="eSports Live",ESL Counter Strike Live
 https://ythls-v3.onrender.com/channel/UCPq2ETz4aAGo2Z-8JisDPIA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
