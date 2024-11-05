@@ -289,7 +289,7 @@ http://p1.cvtv.xyz:81/dw?token=live
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
 http://p1.cvtv.xyz:81/f24?token=live
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHKWorld-Japan
-https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+https://stream1.freetv.fun/3bc2b37a9ec089750ce9781f045cd523d05ae93b886d4abb09cc782751a736e9.ctv
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHKWorld-Premium
 https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.ctv
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png",TV5Monde
