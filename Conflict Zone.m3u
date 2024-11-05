@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1200px-American_Broadcasting_Company_Logo.svg.png",ABC
+http://p1.cvtv.xyz/abc?token=live
+#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1000px-FOX_wordmark-black.svg.png",FOX
+http://p1.cvtv.xyz/fox?token=live
+#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://images.nbcolympics.com/sites/default/files/networks-light/2024-06/NBC-Logo-Stacked-ColorBlack-318x300.png",NBC
+http://p1.cvtv.xyz/nbc?token=live
+#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1200px-CBS_logo_%282020%29.svg.png",CBS
+http://p1.cvtv.xyz/cbs?token=live
+#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1200px-CBS_logo_%282020%29.svg.png",CBS
+https://www.youtube.com/watch?v=dszl29JfIxE
+#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
+http://p1.cvtv.xyz:81/cnn?token=live
+#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-id="CNNInternational.uk",Live Camera from White House
+https://www.youtube.com/watch?v=dszl29JfIxE
+
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina)
@@ -177,112 +192,111 @@ https://ythls-v3.onrender.com/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
 https://epg.pw/stream/39f97dae7c53255910338494161e15ef8500fef98c1a8924b0f01c071d0a6c4e.ctv
 #EXTINF:-1 group-title="Live Cam",Selection Live Cam from Ukraine and Middle East
 https://ythls-v3.onrender.com/video/7bmDvL6OQfw.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="TBSNewsCS.jp",TBS News (544p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="TBSNewsCS.jp",TBS News (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
 https://epg.pw/stream/d8d86dede808358d248bad6c290eba43f63be54e467ea3865a0140b3fb9e5f25.ctv
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="RT.ru",Russia Today
-https://epg.pw/stream/85a812d12967aa5310f0ef6b7d5f09c0a161ad6bad9df6dd5b9e16cd1ae0530b.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNNTurk.tr",CNN Turk
-https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNews.gb",SkyNews
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="RT.ru",Russia Today
+https://epg.pw/stream/85a812d12967aa5310f0ef6b7d5f09c0a161ad6bad9df6dd5b9e16cd1ae0530b.ctv
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="CNNTurk.tr",CNN Turk
+https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.ctv
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="SkyNews.gb",SkyNews
 http://free.cvmtv.site/SkyN?token=live
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="CNN.us",CNN
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="CNN.us",CNN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="🌏| News Update",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
 https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
 https://edge.taghtia.com/sa/4.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
 https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlHadath.ae",Al Arabiya Al Hadath (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlHadath.ae",Al Arabiya Al Hadath (1080p) [Not 24/7]
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
 https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AsharqNews.sa",Asharq News (1080p)
 https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AsharqNews.sa",Asharq News (1080p)
 https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNews.sa",Asharq News (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AsharqNews.sa",Asharq News (1080p)
 https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-id="AsharqNewsPortrait.sa",Asharq News Portrait (1280p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="AsharqNewsPortrait.sa",Asharq News Portrait (1280p)
 https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
 https://epg.pw/stream/a83199437019e5db2c89953821abb874b2ef9bf3fcb97f4bd7229d94f38b64d5.ctv
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://preview.redd.it/t9ayxxd6rs091.png?width=400&format=png&auto=webp&s=ce53736e1a97b890c3bb78d35a929f7dfa845943",TVPWorld (Polandia) / Mihoyo Channel
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://preview.redd.it/t9ayxxd6rs091.png?width=400&format=png&auto=webp&s=ce53736e1a97b890c3bb78d35a929f7dfa845943",TVPWorld (Polandia) / Mihoyo Channel
 https://sdt-thinx4-184.tvp.pl/token/video/live/51656539/20240312/453204024/X-p-J9o9JdvMQ23QKoBld137otfijQPeYf5lVYlfs7QY853n3JSB8wf3iuKd54F0sYSTSkUOVZxPFMULf3IrUCbVnaPcdBTY4fhKhtxxXHttI50dz9CcD_CuQewugF6c-N7QvOXiUyAiTGqVi6-6pVs-aXaI8UZO3erH6DuCJDyTHKZ76skhMY0-bkW37QmL/156/TVP_World-audio_211682_pol=211200-video=636800.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",Aaj News / Revue Starlight RELIVE-FM Radio Channel 1
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",Aaj News / Revue Starlight RELIVE-FM Radio Channel 1
 https://epg.pw/stream/f0f338ce1db8d60c93fa10fc95b164ef88c2d7887c19dd4ed8f4207e35fc2094.ctv
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ARYNews / Revue Starlight RELIVE-FM Radio Channel 2
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ARYNews / Revue Starlight RELIVE-FM Radio Channel 2
 https://epg.pw/stream/b03d78204cfb6f058625ded4b53e64f643951479b6ba90d30424fba0c32c5fe8.ctv
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",GeoNews / Revue Starlight RELIVE-FM Radio Channel 3
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",GeoNews / Revue Starlight RELIVE-FM Radio Channel 3
 https://ythls-v3.onrender.com/channel/UC_vt34wimdCzdkrzVejwX9g.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",TOLONews / Revue Starlight RELIVE-FM Radio Channel 4
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",TOLONews / Revue Starlight RELIVE-FM Radio Channel 4
 https://st2.mediabay.tv/ToloTV/playlist.m3u8?token=0ffd2b531dbcf1f5d16d34ab2f7493d4536f6be2-eb65aeb1c5be2f54ca0975ac3c07b259-1710698723-1710687923
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ATNNews (Ariana News) / Revue Starlight RELIVE-FM Radio Channel 5
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ATNNews (Ariana News) / Revue Starlight RELIVE-FM Radio Channel 5
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="🌏| News Update" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ShamshadNews TV / Revue Starlight RELIVE-FM Radio Channel 6
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ShamshadNews TV / Revue Starlight RELIVE-FM Radio Channel 6
 https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức Quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png", Arirang
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức Quốc tế" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png", Bloomberg
-https://epg.pw/stream/f17013d485da0ef3fd6316ecca0561a92b2cf33d07fec5c50260e21d93994ac3.ctv
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png", BBC News
-https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png", CNBC
-https://ctrl.laotv.la/live/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
-https://epg.pw/stream/95f8bf0332c5206cd91decbcd04347d306bbb9a315a610180f05a050bae0a9c7.m3u8
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png", CNA
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png",Bloomberg
+http://p1.cvtv.xyz:81/bb?token=live
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
+http://p1.cvtv.xyz:81/bbcn?token=live
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png",CNBC
+http://p1.cvtv.xyz:81/cnbc?token=live
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-id="EuronewsEnglish.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
+http://p1.cvtv.xyz:81/euro?token=live
+#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN
+http://p1.cvtv.xyz:81/cnn?token=live
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
-http://103.130.141.67:81/live/3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png",CGTN
+http://p1.cvtv.xyz:81/cgtn?token=live
 #EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
-http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+http://p1.cvtv.xyz:81/dw?token=live
 #EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
-https://epg.pw/stream/17974cddcc3998fb78a274c78843a41844e9582c9eabac27c7a930eba1453427.m3u8
-#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/223.png", KBS World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://epg.pw/stream/8d3f4feb344b4a771e4e606b990b1008d380a92f5d74855889d39d940c347c27.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Japan
+http://p1.cvtv.xyz:81/f24?token=live
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHKWorld-Japan
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png", NHKWorld-Premium
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHKWorld-Premium
 https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.ctv
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png", TV5Monde
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png",TV5Monde
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png", TRTWorld (Thừa Thiên Huế)
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png",TRTWorld (Thừa Thiên Huế)
+http://p1.cvtv.xyz:81/trtw?token=live
 
 #EXTINF:-1 group-title="Youtube Live",BBS Bhutan
 https://ythls-v3.onrender.com/channel/UCzZIEQX2fWAmsvztJjIb7eA.m3u8?playlist=index
