@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/1200px-American_Broadcasting_Company_Logo.svg.png",ABC
-http://p1.cvtv.xyz/abc?token=live
-#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/FOX_wordmark-black.svg/1000px-FOX_wordmark-black.svg.png",FOX
-http://p1.cvtv.xyz/fox?token=live
-#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://images.nbcolympics.com/sites/default/files/networks-light/2024-06/NBC-Logo-Stacked-ColorBlack-318x300.png",NBC
-http://p1.cvtv.xyz/nbc?token=live
-#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1200px-CBS_logo_%282020%29.svg.png",CBS
-http://p1.cvtv.xyz/cbs?token=live
-#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1200px-CBS_logo_%282020%29.svg.png",CBS
-https://www.youtube.com/watch?v=dszl29JfIxE
-#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
-http://p1.cvtv.xyz:81/cnn?token=live
-#EXTINF:-1 group-title="BẦU CỬ TỔNG THỐNG MỸ 2024 / 2024 US PRESIDENTIAL ELECTION UPDATE" tvg-id="CNNInternational.uk",Live Camera from White House
-https://www.youtube.com/watch?v=dszl29JfIxE
-
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina)
