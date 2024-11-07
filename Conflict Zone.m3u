@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Phát Triển Đà Nẵng",BV Đà Nẵng
+https://www.youtube.com/watch?v=b6fkug3AmH4
+#EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cổng Trường Nguyễn Huệ
+https://www.youtube.com/watch?v=Fu3nDsqC1J0
+#EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cổng sau BV C
+https://www.youtube.com/watch?v=IXBTD4VgFF4
+#EXTINF:-1 group-title="Phát Triển Đà Nẵng",Trang phục biểu diễn Phương Trần
+https://www.youtube.com/watch?v=cB9Fs9UmcRU
+#EXTINF:-1 group-title="Phát Triển Đà Nẵng",Nút giao thông Cầu Rồng
+https://www.youtube.com/watch?v=F06HWCf22-Q
+#EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cầu Trần Thị Lý
+https://www.youtube.com/watch?v=DCDau8E-kYQ
+
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina)
