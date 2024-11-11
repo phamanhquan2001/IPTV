@@ -1,17 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",BV Đà Nẵng
-https://ythls.armelin.one/video/b6fkug3AmH4.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/b6fkug3AmH4.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cổng Truờng Nguyễn Huệ
-https://ythls.armelin.one/video/Fu3nDsqC1J0.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/Fu3nDsqC1J0.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cổng sau BV C
-https://ythls.armelin.one/video/IXBTD4VgFF4.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/IXBTD4VgFF4.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Trang phục biểu diễn Phuơng Trần
-https://ythls.armelin.one/video/cB9Fs9UmcRU.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/cB9Fs9UmcRU.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Nút giao thông Cầu Rồng
-https://ythls.armelin.one/video/F06HWCf22-Q.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/F06HWCf22-Q.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cầu Trần Thị Lý
-https://ythls.armelin.one/video/DCDau8E-kYQ.m3u8?playlist=index
+https://ythls-v3.onrender.com/video/DCDau8E-kYQ.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
@@ -383,9 +383,9 @@ https://ythls-v3.onrender.com/channel/UCTDpRUCC9_U7oZ652ER3YOQ.m3u8
 #EXTINF:-1 group-title="VCT Game Changers Championship 2024 Watch-Party",Damit2k
 https://ythls-v3.onrender.com/channel/UCkqWSqRGdLL5bpGbQbhgoDg.m3u8
 #EXTINF:-1 group-title="VCT Game Changers Championship 2024 Watch-Party",Live Cam from Berlin #1
-https://ythls.armelin.one/video/IRqboacDNFg
+https://ythls-v3.onrender.com/video/IRqboacDNFg
 #EXTINF:-1 group-title="VCT Game Changers Championship 2024 Watch-Party",Live Cam from Berlin #2
-https://ythls.armelin.one/video/LAJiFSw2ICc
+https://ythls-v3.onrender.com/video/LAJiFSw2ICc
 #EXTINF:-1 group-title="League of Legends Live",VCS (VN)
 https://ythls-v3.onrender.com/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8
 #EXTINF:-1 group-title="League of Legends Live",LoL Esports (EN)
