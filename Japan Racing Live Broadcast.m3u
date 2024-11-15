@@ -1,21 +1,23 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
-http://vthanh.utako.moe/6/index.m3u8
+http://tv.utako.moe/tvtokyo_testsignal/index.m3u8
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
-http://vthanh.utako.moe/1/index.m3u8
+http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://vthanh.utako.moe/8/index.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ (みんなのＫＥＩＢＡ)
-http://tv.utako.moe/fuji/index.m3u8
+http://tv.utako.moe/fuji_testsignal/index.m3u8
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TVTokyo / BSテレビ東 (ウイニング競馬)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_fuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD (BSスーパーKEIBA)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-11 (BSイレブン競馬中継)
-http://vthanh.utako.moe/12/index.m3u8
+http://tv.utako.moe/bs11/index.m3u8
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",TVBPlus
 https://stream1.freetv.fun/785f27e4ee269f8de435fac30565adc85cc1299db19bd302d289830072eaf195.ctv
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo=""https://www.nowtv.now.com/media/s-logo/630_e.png",NOW Sports Prime
+https://live.hkdvb.com/hls/live/630.m3u8?token=680446446315708
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
 https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
@@ -40,12 +42,8 @@ https://ythls-v3.onrender.com/channel/UCUeiz4v2oAxzTTZZfjzbv-A.m3u8
 http://p1.cvtv.xyz/f1?token=live
 #EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="gtasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="tvk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/TVK_Cambodian_Logos_%28%E1%9E%91%E1%9E%BC%E1%9E%9A%E1%9E%91%E1%9E%9F%E1%9F%92%E1%9E%9F%E1%9E%93%E1%9F%8D%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%29.jpg/640px-TVK_Cambodian_Logos_%28%E1%9E%91%E1%9E%BC%E1%9E%9A%E1%9E%91%E1%9E%9F%E1%9F%92%E1%9E%9F%E1%9E%93%E1%9F%8D%E1%9E%87%E1%9E%B6%E1%9E%8F%E1%9E%B7%E1%9E%80%E1%9E%98%E1%9F%92%E1%9E%96%E1%9E%BB%E1%9E%87%E1%9E%B6%29.jpg",TVK / Television Kanagawa-Đài Truyền hình Quốc Gia Campuchia (TVKテレビ神奈川/川崎競馬中継・勝利の女神NIKKEテレビ)
-http://tv.utako.moe/tvk/index.m3u8
-#EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="teletama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png",TVS / Teletama (TVSテレ玉/ファンタスティックダート浦和競馬中継)
-http://tv.utako.moe/tvs/index.m3u8
 #EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYOMX2 / TCK東京シティ競馬中継
-http://tv.utako.moe/mx2/index.m3u8
+http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Voice Implemented
 https://ythls-v3.onrender.com/channel/UCKz6vVzMrc_9ZDRNH7LnIxQ.m3u8
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Luppy Implemented
@@ -62,7 +60,7 @@ https://media.tencam.cyl.nhk.jp/604/live_stream.m3u8
 https://ythls-v3.onrender.com/channel/UCdtB0m4BIjadiqV3C0Vi9SQ.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1260264885771890689/2KcWaF8a_400x400.jpg" group-title="NAR",Chiba / Funabashi (千葉県/船橋競馬場・YOSTAR アークナイツ盃)
 https://ythls-v3.onrender.com/channel/UCfnIcvhLkVVCTd86yemmGnQ.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1836558459292258304/cOHNBz0E_400x400.jpg" group-title="NAR",Tokyo / Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場・BLUEPOCH 重返未来1999杯)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1851787408381218820/iMNIaIBj_400x400.jpg" group-title="NAR",Tokyo / Oi (Tokyo City Keiba aka TCK) (東京シティ競馬TCK/大井競馬場・BLUEPOCH 重返未来1999杯)
 https://ythls-v3.onrender.com/channel/UCPSZn8iMXln9o89SpmeJ6wg.m3u8
 https://media.tencam.cyl.nhk.jp/100/live_stream.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1790985816271187968/B-MXdyFO_400x400.jpg" group-title="NAR",Kanagawa / Kawasaki (神奈川県/川崎競馬場-SHIFT UP 勝利の女神NIKKE杯)
