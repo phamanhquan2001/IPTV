@@ -294,6 +294,8 @@ https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a
 #EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tuc Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png",TRTWorld (Thua Thiên Huế)
 http://p1.cvtv.xyz:81/trtw?token=live
 
+#EXTINF:-1 group-title="Youtube Live",LNTV1 Laos Live Event
+https://ythls.armelin.one/channel/UCh8r4Noa2sL6QjOiuAOzUvg.m3u8
 #EXTINF:-1 group-title="Youtube Live",BBS Bhutan
 https://ythls.armelin.one/channel/UCzZIEQX2fWAmsvztJjIb7eA.m3u8
 #EXTINF:-1 group-title="Youtube Live",BBS Channel 2 Bhutan
