@@ -643,9 +643,9 @@ http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="Địa phuơng" tvg-logo="https://i.imgur.com/WKneY2w.png",Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
-#EXTINF:-1 group-title="RADIO",BBS1 BHUTAN
+#EXTINF:-1 group-title="RADIO",BBS1 BHUTAN (Broadcast in English, Lhotshamkha and Tshangla)
 http://radio.bbs.bt/mix-ch
-#EXTINF:-1 group-title="RADIO",BBS2 BHUTAN
+#EXTINF:-1 group-title="RADIO",BBS2 BHUTAN (Broadcast in main Dzhongkha Language)
 http://radio.bbs.bt/dz-ch
 #EXTINF:-1 group-title="RADIO" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:7001/;stream/
