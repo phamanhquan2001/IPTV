@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
+#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",JRA Main Feed Live (Geo-blocked)
+https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/hls-live/1/7o9m416gor08x6ed/ARcFLyoZvHTzhYj2qJb8CSVa_1000_640x360.stream/chunklist.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
 http://vthanh.utako.moe/6/index.m3u8
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
