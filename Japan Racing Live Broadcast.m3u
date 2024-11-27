@@ -18,6 +18,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=FHD&ccode=JP&m=d0:2
 http://tv.utako.moe/bs11/index.m3u8
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",TVBPlus
 https://stream1.freetv.fun/0588a4627434f713ed54f5f3c49d0b4820136436b66cda56f8238b06306a20e6.ctv
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",WHR-LIVE
+https://ythls.armelin.one/channel/UCSuzEzGo0zIK0wcpr8j46QQ.m3u8
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo=""https://www.nowtv.now.com/media/s-logo/630_e.png",NOW Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=680446446315708
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
