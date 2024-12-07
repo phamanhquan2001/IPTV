@@ -1,5 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="ASEAN CUP 2024 by NIKKE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="ASEAN CUP 2024 by NIKKE" tvg-logo="https://i.ytimg.com/vi/LkeoKNW8YlU/hq720.jpg", VTV5 Tây Nam Bộ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://ott1.sgchill.io.vn/backend/vmttv/ancaplinklasucvat/source/tv360/157/index.m3u8
+#EXTINF:-1 group-title="ASEAN CUP 2024 by NIKKE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg/1200px-Logo_%C4%91%C3%A0i_VTV_C%E1%BA%A7n_Th%C6%A1.svg.png",VTV Cần Thơ
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+http://p1.cvtv.xyz/vtvct?token=live
+#EXTINF:-1 group-title="ASEAN CUP 2024 by NIKKE" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/aff1.png",ASEAN Cup Live 1
+http://p1.cvtv.xyz/fpt?token=live
+#EXTINF:-1 group-title="ASEAN CUP 2024 by NIKKE" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/aff2.png",ASEAN Cup Live 2
+http://p1.cvtv.xyz/fpt2?token=live
+
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",BV Đà Nẵng
 https://ythls.armelin.one/video/b6fkug3AmH4.m3u8
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cổng Truờng Nguyễn Huệ
