@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="JRA / NAR - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル (中央競馬全レース中継/地方競馬中継)
-https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/c11fb469352c429b9cbdea79b757739f/manifest_6.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE
+https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/c11fb469352c429b9cbdea79b757739f/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE
 #EXTINF:-1 group-title="JRA / NAR - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",BSグリーンチャンネル2 / Green Channel Kanal 2 (中央競馬パドック中継)
-
+https://variants.streaks.jp/v5/gch/5f311112835843c284e427c6739e7e9b/9ff5f38039d44ca49b98e87a004eda4c/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s
 #EXTINF:-1 group-title="JRA / NAR - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",Green Channel Web Kanal 3
-
+https://variants.streaks.jp/v5/gch/8c40532559e546af8a025a504fad5950/c0d6e0c763df436dbf1855969da8571b/manifest_3.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s
 #EXTINF:-1 group-title="JRA / NAR - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",Green Channel Web Kanal 4
-
+https://variants.streaks.jp/v5/gch/2a7c18c2036644e8bf158fe86a2ae0f7/429a36a816ad46a2bf2786c79e18c5cb/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE
 #EXTINF:-1 group-title="JRA / NAR - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png",Green Channel Web Kanal 5
-
+https://variants.streaks.jp/v5/gch/113b71b71ada4fea8b08d2583b3c6e7e/b0d2f230436343549cb65c56b655f434/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",JRA Main Feed Live
 https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/hls-live/1/7o9m416gor08x6ed/ARcFLyoZvHTzhYj2qJb8CSVa_1000_640x360.stream/chunklist.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
