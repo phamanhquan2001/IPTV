@@ -41,6 +41,12 @@ http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 https://ythls.armelin.one/channel/UCSuzEzGo0zIK0wcpr8j46QQ.m3u8
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo=""https://www.nowtv.now.com/media/s-logo/630_e.png",NOW Sports Prime
 https://live.hkdvb.com/hls/live/630.m3u8?token=680446446315708
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",HKJC Live Race Radio in Cantonese
+https://hkjclive-hls.akamaized.net/hls/live/2030947/can_hls/master.m3u8
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",HKJC Live Race Radio in Putonghua
+https://hkjclive-hls.akamaized.net/hls/live/2030947/pth_hls/master.m3u8
+#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",HKJC Live Race Radio in English
+https://hkjclive-hls.akamaized.net/hls/live/2030947/eng_hls/master.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
 https://dmisvthvllta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
