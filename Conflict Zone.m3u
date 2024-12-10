@@ -12,22 +12,22 @@ http://p1.cvtv.xyz/fpt?token=live
 http://p1.cvtv.xyz/fpt2?token=live
 
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",BV Đà Nẵng
-https://ythls.armelin.one/video/b6fkug3AmH4.m3u8
+https://ythls.armelin.one/video/b6fkug3AmH4.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cổng Truờng Nguyễn Huệ
-https://ythls.armelin.one/video/Fu3nDsqC1J0.m3u8
+https://ythls.armelin.one/video/Fu3nDsqC1J0.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cổng sau BV C
-https://ythls.armelin.one/video/IXBTD4VgFF4.m3u8
+https://ythls.armelin.one/video/IXBTD4VgFF4.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Trang phục biểu diễn Phuơng Trần
-https://ythls.armelin.one/video/cB9Fs9UmcRU.m3u8
+https://ythls.armelin.one/video/cB9Fs9UmcRU.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Nút giao thông Cầu Rồng
-https://ythls.armelin.one/video/F06HWCf22-Q.m3u8
+https://ythls.armelin.one/video/F06HWCf22-Q.m3u8?playlist=index
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",Cầu Trần Thị Lý
-https://ythls.armelin.one/video/DCDau8E-kYQ.m3u8
+https://ythls.armelin.one/video/DCDau8E-kYQ.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
-https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8
+https://ythls.armelin.one/channel/UCos52azQNBgW63_9uDJoPDA.m3u8?playlist=index
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (Medina)
-https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8
+https://ythls.armelin.one/channel/UCROKYPep-UuODNwyipe6JMw.m3u8?playlist=index
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",FalastiniTV (Music)
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AlAqsaTV.ps",Al Aqsa Channel (416p) [Not 24/7]
@@ -365,133 +365,133 @@ https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a
 http://p1.cvtv.xyz:81/trtw?token=live
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Live from Bhutan National Assembly by Missilis Industry Meeting Committee
-https://ythls.armelin.one/channel/UCPmoW3XMF3L5r7lJetO4UkQ.m3u8
+https://ythls.armelin.one/channel/UCPmoW3XMF3L5r7lJetO4UkQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",HTVTT (Live Sports Event)
-https://ythls.armelin.one/channel/UC_OBG47Y3PswSHnMWSlrgZA.m3u8
+https://ythls.armelin.one/channel/UC_OBG47Y3PswSHnMWSlrgZA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",LNTV1 Laos Live Event
-https://ythls.armelin.one/channel/UCh8r4Noa2sL6QjOiuAOzUvg.m3u8
+https://ythls.armelin.one/channel/UCh8r4Noa2sL6QjOiuAOzUvg.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Tetra_characters.PNG/revision/latest/scale-to-width-down/250?cb=20211209210108",BBS Bhutan (Live National Council of Bhutan by Tetra Line Meeting Commitee)
-https://ythls.armelin.one/channel/UCzZIEQX2fWAmsvztJjIb7eA.m3u8
+https://ythls.armelin.one/channel/UCzZIEQX2fWAmsvztJjIb7eA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",BBS Channel 2 Bhutan
-https://ythls.armelin.one/channel/UCWPola-KayVUJZstymaP4KQ.m3u8
+https://ythls.armelin.one/channel/UCWPola-KayVUJZstymaP4KQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",VFF Channel
-https://ythls.armelin.one/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
+https://ythls.armelin.one/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",HTV - Đài Hà Nội
-https://ythls.armelin.one/channel/UC7_mgS3z22z0WhR7COJ8E2w.m3u8
+https://ythls.armelin.one/channel/UC7_mgS3z22z0WhR7COJ8E2w.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",Sa Bàn Quân Su
-https://ythls.armelin.one/channelUCtB1cPy-OqJGozE_a8chlPw.m3u8
+https://ythls.armelin.one/channelUCtB1cPy-OqJGozE_a8chlPw.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Reuters Live Event
-https://ythls.armelin.one/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8
+https://ythls.armelin.one/channel/UChqUTb7kYRX8-EiaN3XFrSQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
-https://ythls.armelin.one/channel/UCabsTV34JwALXKGMqHpvUiA.m3u8
+https://ythls.armelin.one/channel/UCabsTV34JwALXKGMqHpvUiA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",NicoNicoDouga News Live Event
-https://ythls.armelin.one/channel/UC28hcmMG3TJv60Byo528VVg.m3u8
+https://ythls.armelin.one/channel/UC28hcmMG3TJv60Byo528VVg.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
-https://ythls.armelin.one/channel/UC47WI-kZXFf0H_f7pvaNCEQ.m3u8
+https://ythls.armelin.one/channel/UC47WI-kZXFf0H_f7pvaNCEQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视) - Truyền hình vệ tinh Phuơng Nam Quảng Đông
-https://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8
+https://ythls.armelin.one/channel/UCdMGYXL38w6htx6Yf9YJa-w.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thuợng Hải (上海东方卫视)
-https://ythls.armelin.one/channel/UCNWWdKniJyzQA3RiJ5LMoVw.m3u8
+https://ythls.armelin.one/channel/UCNWWdKniJyzQA3RiJ5LMoVw.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",Bandori / Hunan Television (湖南卫视)
-https://ythls.armelin.one/channel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8
+https://ythls.armelin.one/channel/UCN-bFIdJM0gQlgX7h6LKcZA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/XZTV_Chinese_%2816-9%29.png/revision/latest/scale-to-width-down/870?cb=20231225030133&path-prefix=vi",iDOLM@STER / Xizang Television - Truyền hình vệ tinh Tây Tạng (XZTV西藏卫视)
-https://ythls.armelin.one/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8
+https://ythls.armelin.one/channel/UCe3uJZIjfYwNNR0S6W3GvEA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/GZTV_logo.png",PROJECT vα-liv / Guizhou Television - Truyền hình vệ tinh Quý Châu (贵州卫视)
-https://ythls.armelin.one/channel/UC7r2U8wAxsXHCMz9XlMWo4w.m3u8
+https://ythls.armelin.one/channel/UC7r2U8wAxsXHCMz9XlMWo4w.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Jilin_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20231104095340",LoveLive School Idol Project / Jilin Television - Truyền hình vệ tinh Cát Lâm (JLTV吉林卫视) (Broadcast Live from Studio S24 from Otonokizaka High School)
-https://ythls.armelin.one/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8
+https://ythls.armelin.one/channel/UCTkyJbRhal4voLZxmdRSssQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.nximg.cn/file/20190510/27790005_133331887691_2.jpg",LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道频道)
-https://ythls.armelin.one/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8
+https://ythls.armelin.one/channel/UCxUgvwrVfqVpyak4cuKcevQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://bpic.51yuansu.com/pic3/cover/03/44/46/5ba2270c69684_610.jpg",Uma Musume Paka Chubu TV (ウマ娘 ぱかチューブっ!) / Fujian Longyan TV (福建龙岩市广播电视台)
-https://ythls.armelin.one/channel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8
+https://ythls.armelin.one/channel/UCAWxPGGuIfWME2KTLUmSCHw.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/HBTV_logo.png/220px-HBTV_logo.png",Shoujo Kageki Revue Starlight / Hubei Television - Truyền hình vệ tinh Hồ Bắc (HBTV湖北卫视)
-https://ythls.armelin.one/channel/UCpcs9GP_NIBxzDfNTWolNPw.m3u8
+https://ythls.armelin.one/channel/UCpcs9GP_NIBxzDfNTWolNPw.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png",Idoly Pride Channel / Truyền hình vệ tinh Ninh Hạ (NXTV宁夏电视台)
-https://ythls.armelin.one/channel/UCOuzrlRFF7aSkooORw0XWRA.m3u8
+https://ythls.armelin.one/channel/UCOuzrlRFF7aSkooORw0XWRA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololive Productions / SCTV Sichuan Television - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
-https://ythls.armelin.one/channel/UCJFZiqLMntJufDCHc6bQixg.m3u8
+https://ythls.armelin.one/channel/UCJFZiqLMntJufDCHc6bQixg.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololstars / SCTV Sichuan Television TV2 - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
-https://ythls.armelin.one/channel/UCWsfcksUUpoEvhia0_ut0bA.m3u8
+https://ythls.armelin.one/channel/UCWsfcksUUpoEvhia0_ut0bA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/5638/cut-20210422123939-1293480061_jpg_978_652_37140.jpg/1284",Nijisanji / JXTV Jiangxi Television - Truyền hình Vệ tinh tỉnh Giang Tây (JXTV江西卫视)
-https://ythls.armelin.one/channel/UCX7YkU9nEeaoZbkVLVajcMg.m3u8
+https://ythls.armelin.one/channel/UCX7YkU9nEeaoZbkVLVajcMg.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Hypnosis Mic / HRB-TV Harbin - Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang (HRB-TV哈尔滨新闻综合频道)
-https://ythls.armelin.one/channel/UCLQwZQHMTRqeeUSzZt5ii6g.m3u8
+https://ythls.armelin.one/channel/UCLQwZQHMTRqeeUSzZt5ii6g.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",AniLeap Radio from King Amusement Creative
-https://ythls.armelin.one/channel/UCR61XV4ROXhkcfLO31hTGuw.m3u8
+https://ythls.armelin.one/channel/UCR61XV4ROXhkcfLO31hTGuw.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Jpop Radio from Avex
-https://ythls.armelin.one/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8
+https://ythls.armelin.one/channel/UC1oPBUWifc0QOOY8DEKhLuQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive JP / UTRK Ala-Too 24
-https://ythls.armelin.one/channel/UCmgf8DJrAXFnU7j3u0kklUQ.m3u8
+https://ythls.armelin.one/channel/UCmgf8DJrAXFnU7j3u0kklUQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive Global / UTRK Ala-Too 24
-https://ythls.armelin.one/channel/UCsrnDYrkovQhCCE8kwKcvKQ.m3u8
+https://ythls.armelin.one/channel/UCsrnDYrkovQhCCE8kwKcvKQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",Goddess of Victory NIKKE JP
-https://ythls.armelin.one/channel/UCvi81mltkpbF2UEvC_e864g.m3u8
+https://ythls.armelin.one/channel/UCvi81mltkpbF2UEvC_e864g.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",Honkai StarRail JP
-https://ythls.armelin.one/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
+https://ythls.armelin.one/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",Honkai Impact 3rd JP
-https://ythls.armelin.one/channel/UCRmYt_U1lxTwMVQsDl_MFcA.m3u8
+https://ythls.armelin.one/channel/UCRmYt_U1lxTwMVQsDl_MFcA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",Genshin JP
-https://ythls.armelin.one/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
+https://ythls.armelin.one/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",ZZZ JP
-https://ythls.armelin.one/channel/UCt09C9DPSuOGpHoitbcyCIQ.m3u8
+https://ythls.armelin.one/channel/UCt09C9DPSuOGpHoitbcyCIQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Strinova Live",Strinova
-https://ythls.armelin.one/channel/UCkM1U9GSsmsQImoiPovJvHA.m3u8
+https://ythls.armelin.one/channel/UCkM1U9GSsmsQImoiPovJvHA.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (NA)
-https://ythls.armelin.one/channel/UCifCesg-EUkjKyQedaB3hRg.m3u8
+https://ythls.armelin.one/channel/UCifCesg-EUkjKyQedaB3hRg.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (Pacific)
-https://ythls.armelin.one/channel/UCp6n8d8Y8r3MwKNw_MMaouQ.m3u8
+https://ythls.armelin.one/channel/UCp6n8d8Y8r3MwKNw_MMaouQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EMEA)
-https://ythls.armelin.one/channel/UCp6n8d8Y8r3MwKNw_MMaouQ.m3u8
+https://ythls.armelin.one/channel/UCp6n8d8Y8r3MwKNw_MMaouQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (VN)
-https://ythls.armelin.one/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8
+https://ythls.armelin.one/channel/UCcr4x4DBzRD0871Vq9QyyaA.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EN)
-https://ythls.armelin.one/channel/UCA1d3HFGFUmkKr2JIUA5Vlw.m3u8
+https://ythls.armelin.one/channel/UCA1d3HFGFUmkKr2JIUA5Vlw.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (JP)
-https://ythls.armelin.one/channel/UCzVgCrOcBAWYEHTtVOMPAtw.m3u8
+https://ythls.armelin.one/channel/UCzVgCrOcBAWYEHTtVOMPAtw.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (AR)
-https://ythls.armelin.one/channel/UC4PtOhCMlWl5N8RKSRCXSMw.m3u8
+https://ythls.armelin.one/channel/UC4PtOhCMlWl5N8RKSRCXSMw.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (CN)
-https://ythls.armelin.one/channel/UCc1VJX_5Z2RdGi58XU4IfbA.m3u8
+https://ythls.armelin.one/channel/UCc1VJX_5Z2RdGi58XU4IfbA.m3u8?playlist=index
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
-https://ythls.armelin.one/channel/UCHwd3E6n7FGP4ZSIwFpMPuw.m3u8
+https://ythls.armelin.one/channel/UCHwd3E6n7FGP4ZSIwFpMPuw.m3u8?playlist=index
 #EXTINF:-1 group-title="League of Legends Live",VCS (VN)
-https://ythls.armelin.one/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8
+https://ythls.armelin.one/channel/UChG2EWuXoW7Tgof35WjbsnQ.m3u8?playlist=index
 #EXTINF:-1 group-title="League of Legends Live",LoL Esports (EN)
-https://ythls.armelin.one/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8
+https://ythls.armelin.one/channel/UCvqRdlKsE5Q8mf8YXbdIJLw.m3u8?playlist=index
 #EXTINF:-1 group-title="League of Legends Live",LoL Esports (JP)
-https://ythls.armelin.one/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
+https://ythls.armelin.one/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8?playlist=index
 #EXTINF:-1 group-title="League of Legends Live",LCK (KR)
-https://ythls.armelin.one/channel/UCw1DsweY9b2AKGjV4kGJP1A.m3u8
+https://ythls.armelin.one/channel/UCw1DsweY9b2AKGjV4kGJP1A.m3u8?playlist=index
 #EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
-https://ythls.armelin.one/channel/UC48rkTlXjRd6pnqqBkdV0Mw.m3u8
+https://ythls.armelin.one/channel/UC48rkTlXjRd6pnqqBkdV0Mw.m3u8?playlist=index
 #EXTINF:-1 group-title="League of Legends Live",LJL (JP)
-https://ythls.armelin.one/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8
+https://ythls.armelin.one/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ.m3u8?playlist=index
 #EXTINF:-1 group-title="League of Legends Live",PCS (HK)
-https://ythls.armelin.one/channel/UCYfC038eP_cm9WNo5Cv-tBg.m3u8
+https://ythls.armelin.one/channel/UCYfC038eP_cm9WNo5Cv-tBg.m3u8?playlist=index
 #EXTINF:-1 group-title="eSports Live",ESL Counter Strike Live
-https://ythls.armelin.one/channel/UCPq2ETz4aAGo2Z-8JisDPIA.m3u8
+https://ythls.armelin.one/channel/UCPq2ETz4aAGo2Z-8JisDPIA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
-https://ythls.armelin.one/channel/UC5O114-PQNYkurlTg6hekZw.m3u8
+https://ythls.armelin.one/channel/UC5O114-PQNYkurlTg6hekZw.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",WCS Nagoya Live
-https://ythls.armelin.one/channel/UC5VBrQEonivcMLx8krq-CwQ.m3u8
+https://ythls.armelin.one/channel/UC5VBrQEonivcMLx8krq-CwQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",VFF Channel Live
-https://ythls.armelin.one/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8
+https://ythls.armelin.one/channel/UCndcERoL9eG-XNljgUk1Gag.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",IMSPORTS TV
-https://ythls.armelin.one/channel/UCkVXcyTRC0U0ItRVh9itBpQ.m3u8
+https://ythls.armelin.one/channel/UCkVXcyTRC0U0ItRVh9itBpQ.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",Liên Quân Mobile
-https://ythls.armelin.one/channel/UCpnQwjzvDm1MOMtZV2zkVpA.m3u8
+https://ythls.armelin.one/channel/UCpnQwjzvDm1MOMtZV2zkVpA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",PUBG
-https://ythls.armelin.one/channel/UCeX2iXaH63w3BZ8Wae_JdEA.m3u8
+https://ythls.armelin.one/channel/UCeX2iXaH63w3BZ8Wae_JdEA.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng Rổ
-https://ythls.armelin.one/channel/UCtVG9Tb4tNRh-1Qz3LksCWg.m3u8
+https://ythls.armelin.one/channel/UCtVG9Tb4tNRh-1Qz3LksCWg.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng Đá
-https://ythls.armelin.one/channel/UC4LvrpNXujjbGOS4RDvr41g.m3u8
+https://ythls.armelin.one/channel/UC4LvrpNXujjbGOS4RDvr41g.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng đá Việt
-https://ythls.armelin.one/channel/UCljFFNaQoJWeP91Bz4m_3bw.m3u8
+https://ythls.armelin.one/channel/UCljFFNaQoJWeP91Bz4m_3bw.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",F eSports Live
-https://ythls.armelin.one/channel/UCYa7ZvUk0JmN2no62AXEf5w.m3u8
+https://ythls.armelin.one/channel/UCYa7ZvUk0JmN2no62AXEf5w.m3u8?playlist=index
 #EXTINF:-1 group-title="Youtube Live",VIRESA Live
-https://ythls.armelin.one/channel/UCG3Y40V4X4uSRM_O6w8Taig.m3u8
+https://ythls.armelin.one/channel/UCG3Y40V4X4uSRM_O6w8Taig.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
@@ -1825,16 +1825,16 @@ https://radio.lnr.org.la/fm103
 #EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio FM 94.3 / Lao National Radio FM 94.3
 https://radio.lnr.org.la/fm94
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
-https://ythls.armelin.one/channel/UCc7qu2cB-CzTt8CpWqLba-g.m3u8
+https://ythls.armelin.one/channel/UCc7qu2cB-CzTt8CpWqLba-g.m3u8?playlist=index
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
-https://ythls.armelin.one/channel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8
+https://ythls.armelin.one/channel/UCubpNIVpkSXrlwkaqHnjW6g.m3u8?playlist=index
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
-https://ythls.armelin.one/channel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8
+https://ythls.armelin.one/channel/UC1HD-fa3UnMgXhvL_e2Lx_A.m3u8?playlist=index
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPHN
-https://ythls.armelin.one/channel/UCp3-ofQgc8PO5q3pS6jYsIw.m3u8
+https://ythls.armelin.one/channel/UCp3-ofQgc8PO5q3pS6jYsIw.m3u8?playlist=index
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
-https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8
+https://ythls.armelin.one/channel/UC7E-LYc1wivk33iyt5bR5zQ.m3u8?playlist=index
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
-https://ythls.armelin.one/channel/UC4HqQT1uH3dzz_ZSR_mVUEw.m3u8
+https://ythls.armelin.one/channel/UC4HqQT1uH3dzz_ZSR_mVUEw.m3u8?playlist=index
 #EXTINF:-1 group-title="⛪|Thánh Lễ",AnboliTV
-https://ythls.armelin.one/channel/UCLaRapGrRHS0W5uyWnh-bpg.m3u8
+https://ythls.armelin.one/channel/UCLaRapGrRHS0W5uyWnh-bpg.m3u8?playlist=index
