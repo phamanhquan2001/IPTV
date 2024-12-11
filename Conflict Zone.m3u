@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="AFF CUP 2024 by NIKKE" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png",VTV2 HD
-https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
+https://cdn-live.vtv.vn/0IRlGVV5K89g9yuP2H2F6Q/1733912005/live/vtv2/vtv2-360p.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="AFF CUP 2024 by NIKKE" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_480_270.png",VTV5 HD
-https://tv.TruyenHinh.Click/CoBan/vtv5hd/TuyetDoiKhongKinhDoanh
+https://cdn-live.vtv.vn/d1sTJGNpv05x-JjLJulyCA/1733911967/live/vtv5/vtv5-360p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="AFF CUP 2024 by NIKKE" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2023/05/08/10/1683515328910/959609c1af01_480_270.png",VTV Cần Thơ HD
-https://tv.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh
+https://cdn-live.vtv.vn/g0FqLBONSEej7cpz5IJhUw/1733912030/live/vtv6/vtv6-360p.m3u8
 #EXTINF:-1 group-title="AFF CUP 2024 by NIKKE" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/aff1.png",AFF CUP Live 1
 http://p1.cvtv.xyz/fpt?token=live
 #EXTINF:-1 group-title="AFF CUP 2024 by NIKKE" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/aff2.png",AFF CUP Live 2
