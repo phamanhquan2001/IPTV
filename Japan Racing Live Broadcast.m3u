@@ -83,6 +83,46 @@ http://tv.utako.moe/mx2_testsignal/index.m3u8
 https://ythls.armelin.one/channel/UCKz6vVzMrc_9ZDRNH7LnIxQ.m3u8
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Luppy Implemented
 https://ythls.armelin.one/channel/UCLO6sG8DrTEE-NwUWAtU6Ng.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_banei.png" group-title="Special Program",Princess Connect / Obihiro (帯広競馬場「ばんえい十勝」・CyGames プリンセスコネクトREDIVE)
+https://ythls.armelin.one/channel/UCiPSajGFI4ja74nYPU1MexA.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_iwate.png" group-title="Special Program",Iwate Keiba / Honkai StarRail (EN Voice) (岩手競馬・崩壊スターレイル英語)
+https://ythls.armelin.one/channel/UC2PeMPA8PAOp-bynLoCeMLA.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_iwate.png" group-title="Special Program",Iwate Keiba / Honkai StarRail (JP Voice) (岩手競馬・崩壊スターレイル日本語)
+https://ythls.armelin.one/channel/UCrzCIt5o0X88G9bCdrdbv6g.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_urawa.png" group-title="Special Program",Urawa / Blue Archive (Global EN Voice) (浦和競馬・ブルーアーカイブ英語)
+https://ythls.armelin.one/channel/UCsrnDYrkovQhCCE8kwKcvKQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_urawa.png" group-title="Special Program",Urawa / Blue Archive (JP Voice) (浦和競馬・ブルーアーカイブ日本語)
+https://ythls.armelin.one/channel/UCmgf8DJrAXFnU7j3u0kklUQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_funabashi.png" group-title="Special Program",Funabashi / Arknights (Global) (船橋競馬・アークナイツ英語)
+https://ythls.armelin.one/channel/UCR0J2NYGuC8epsa1O4DMmXQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_funabashi.png" group-title="Special Program",Funabashi / Arknights (JP) (船橋競馬・アークナイツ日本語)
+https://ythls.armelin.one/channel/UCvoQlzEzqa6vQA8hq9GNNug.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_tokyocity.png" group-title="Special Program",Tokyo City Keiba / Reverse:1999 (Global) (東京シティ競馬・リバース1999英語)
+https://ythls.armelin.one/channel/UC-gzFGel4VJqZuIquAwoCmQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_tokyocity.png" group-title="Special Program",Tokyo City Keiba / Reverse:1999 (JP) (東京シティ競馬・リバース1999日本語)
+https://ythls.armelin.one/channel/UCCvWmzEdyZjGPOhfH9JtXhA.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kawasaki.png" group-title="Special Program",Kawasaki / NIKKE (Global) (川崎競馬・勝利の女神NIKKE英語)
+https://ythls.armelin.one/channel/UCmmgZwsqQRD6PKeo87uq1bA.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kawasaki.png" group-title="Special Program",Kawasaki / NIKKE (JP) (川崎競馬・勝利の女神NIKKE日本語)
+https://ythls.armelin.one/channel/UCvi81mltkpbF2UEvC_e864g.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nagoya.png" group-title="Special Program",Nagoya / World Cosplay Summit (金シャチ競馬名古屋・世界コスプレサミット)
+https://ythls.armelin.one/channel/UC5VBrQEonivcMLx8krq-CwQ.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kasamatsu.png" group-title="Special Program",Kasamatsu / Zenless Zone Zero (EN) (笠松競馬・ゼンレスゾーンゼロ英語)
+https://ythls.armelin.one/channel/UC2SpC8rL9LaeQriE4YNdyzA.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kasamatsu.png" group-title="Special Program",Kasamatsu / Zenless Zone Zero (JP) (笠松競馬・ゼンレスゾーンゼロ日本語)
+https://ythls.armelin.one/channel/UCt09C9DPSuOGpHoitbcyCIQ.m3u8
+#EXTINF:-1 tvg-logo="https://nicolive.cdn.nimg.jp/live/simg/img/202208/2446825.425bf2.jpg" group-title="Special Program",Kanazawa / Assault Lily (金沢競馬・アサルトリリィ)
+https://ythls.armelin.one/channel/UCBBWEbD8FflD5g3Ya_dRV-g.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_sonodahimeji.png" group-title="Special Program",Hyogo Sonoda / Revue Starlight (兵庫園田競馬・レヴュースタァライト)
+https://ythls.armelin.one/channel/UCpcs9GP_NIBxzDfNTWolNPw.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_sonodahimeji.png" group-title="Special Program",Hyogo Himeji / Genshin Impact (EN) (兵庫姫路競馬・原神英語)
+https://ythls.armelin.one/channel/UCiS882YPwZt1NfaM0gR0D9Q.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_sonodahimeji.png" group-title="Special Program",Hyogo Himeji / Genshin Impact (JP) (兵庫姫路競馬・原神日本語)
+https://ythls.armelin.one/channel/UCAVR6Q0YgYa8xwz8rdg9Mrg.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_kochi.png" group-title="Special Program",Kochi / Girls' Frontline (高知競馬・ドールズフロントライン)
+https://ythls.armelin.one/channel/UCKIdwu806-KocBJufLAeArA.m3u8
+#EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="Special Program",NAR Hoyofair Live
+https://ythls.armelin.one/channel/UCb7ve-ncnLh41F4sYpFTcXA.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1366654752948297728/igIhYuCt_400x400.png" group-title="NAR",Hokkaido / Obihiro (北海道/帯広競馬場「ばんえい十勝」・CyGames プリンセスコネクトREDIVE杯)
 https://ythls.armelin.one/channel/UCyjlxPcoYAbpwlr5wjUA_5g.m3u8
 https://media.tencam.cyl.nhk.jp/703/live_stream.m3u8
