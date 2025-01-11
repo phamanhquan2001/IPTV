@@ -1,4 +1,14 @@
-#EXTM3Ue
+#EXTM3U
+
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",Australian Open Radio 2025 by Arknights
+https://aoradio.out.airtime.pro/aoradio_a
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
+#EXTINF:-1 tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",WOWOWライブ (720p Willfon)
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",Live Camera from Melbourne (by Melbourne Luxury Accomodation)
+https://ythls.armelin.one/video/l_8DrACHpwY.m3u8
 
 #EXTINF:-1 group-title="Phát Triển Đà Nẵng",BV Đà Nẵng
 https://ythls.armelin.one/video/b6fkug3AmH4.m3u8
