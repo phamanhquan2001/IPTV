@@ -5,8 +5,28 @@ https://aoradio.out.airtime.pro/aoradio_a
 #EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" tvg-id="ksport2hd" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1882525202?profile=pass
-#EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",WOWOWライブ (720p Willfon)
+#EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" tvg-id="ＷＯＷＯＷライブ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png" group-title="Arknights 5th Anniversary Fes 2025 - Arknights 5th Anniversary Fes 2025 - Australian Open 2025",WOWOWライブ (720p Willfon)
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",SKYSPORTS 1 NZ
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/808732.ts
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",SKYSPORTS 2 NZ
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/808733.ts
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",Eurosport 1
+http://p1.cvtv.xyz/es1?token=live
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",Eurosport 2
+http://kstv.us:8080/live/Wzt43zDP8x/2355011455/47855.ts
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",Supersport Grandstand
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/326562.ts
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",Supersport Tennis
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/316482.ts
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",Supersport Variety 1
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/252093.ts
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",Sony Ten 2
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052690.ts
+#EXTINF:-1 group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png",Sony Ten 3
+http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052691.ts
+#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",USA:ESPN2-HD
+https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",Live Camera from Melbourne (by Melbourne Luxury Accomodation)
 https://ythls.armelin.one/video/l_8DrACHpwY.m3u8
 
