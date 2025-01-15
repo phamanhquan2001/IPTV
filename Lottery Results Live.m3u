@@ -54,10 +54,12 @@ https://ythls.armelin.one/channel/UCblRMKzykUsOCztfffoOVlQ.m3u8
 https://ythls.armelin.one/channel/UCncIan-xLq8WE3Jn8tSIDPQ.m3u8
 #EXTINF:-1 tvg-id="ninhthuan" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Ninh Thuận
 https://ythls.armelin.one/channel/UCksLkdTeS3lrr2oMQmxqmLQ.m3u8
-#EXTINF:-1 tvg-id="vtc9hd" group-title="VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
-https://api.wintv.me/360/203/index.m3u8
-#EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
-https://api.wintv.me/360/197/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="Miền Bắc / Vietlott" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD - TodayTV
+#EXTVLCOPT:http-referrer=http://sctvonline.vn/
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8?token=AD6P2n4gG5dCApa8tdcwsw&e=1720251034
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="Miền Bắc / Vietlott" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV4.png",ON Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab4/index.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png" radio="true", BA RIA VUNG TAU
 http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png" radio="true", BAC LIEU
