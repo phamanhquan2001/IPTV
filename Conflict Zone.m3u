@@ -1,5 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
+http://p1.cvtv.xyz/vtv1?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
+http://aff.cvtv.xyz/vtv2?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
+http://p1.cvtv.xyz/vtv3?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",VTV5
+http://p1.cvtv.xyz/vtv5?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/htv7.png",HTV7
+http://p1.cvtv.xyz/htv7?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="hanoi1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/hanoi1.png",Hà Nội 1
+http://p1.cvtv.xyz/hn1?token=live
+
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="1" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1综合频道
+http://p1.cvtv.xyz:81/c1?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="4" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4国际频道
+http://p1.cvtv.xyz:81/c4?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13新闻频道
+http://p1.cvtv.xyz:81/c13?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",HNTV湖南卫视 / Bandori TV (バンドリTV) - Truyền Hình Vệ Tinh Hồ Nam
+http://p1.cvtv.xyz:81/hn?token=live
+#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="31" tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 / D4DJ Groovy Mix TV - Truyền hình vệ tinh Đông Phương Thượng Hải
+http://p1.cvtv.xyz:81/df?token=live
+
 #EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",Australian Open Radio 2025 by Arknights
 https://aoradio.out.airtime.pro/aoradio_a
 #EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" tvg-id="ksport2hd" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/01/14/1677655028546/6226fc34a55f_640_360.png", K+SPORT2 HD
