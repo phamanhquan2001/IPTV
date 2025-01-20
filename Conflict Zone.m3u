@@ -1,27 +1,274 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
+#Live Camera from Vietnam
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Đầu cầu Vĩnh Tuy 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea20c/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea206" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao đầu Cầu Chương Dương 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea206/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea209" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Điểm Cầu Long Biên 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea209/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f8" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_TD_Phạm Văn Bạch - Báo Lao Động
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f8/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f2" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_Hoàng Quán Chi - ĐSQ Mỹ
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f2/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1fa" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_VPGT_Hoàng Quán Chi - ĐSQ Mỹ
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1fa/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1fb" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_VPGT_Phạm Văn Bạch - Báo Lao Động
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1fb/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f0" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_FPT
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f0/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1ec" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_Bưởi - Hoàng Quốc Việt
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1ec/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea20d" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Đầu cầu Vĩnh Tuy 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea20d/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f3" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_Ngân hàng Á Châu
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f3/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f1" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_Hoàng Quán Chi - PVI
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f1/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea202" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao Ngô Gia Tự - Nguyễn Văn Linh 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea202/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea201" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao Ngô Gia Tự - Nguyễn Văn Linh 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea201/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f7" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_Phạm Văn Bạch - Vòng xuyến
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f7/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1fc" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_VPGT_Phạm Văn Bạch - Viện Huyết Học
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1fc/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea20a" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Điểm Cầu Long Biên 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea20a/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f6" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_Phạm Văn Bạch - Viện Kiểm Sát
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f6/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f9" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_TD_Phạm Văn Bạch - Viện Huyết Học
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f9/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea207" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao đầu Cầu Chương Dương 4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea207/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea208" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Phúc Lợi - CT Hà Nội Bắc Giang 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea208/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1ef" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_BDH_Đầu ngõ 192 Kim Mã
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1ef/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea205" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao đầu Cầu Chương Dương 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea205/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea212" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_BDH_Đầu ngõ 766 La Thành, P. Giảng Võ( Đổi 148 Giảng Võ)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea212/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea204" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao Ngô Gia Tự - Nguyễn Văn Linh 4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea204/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1ed" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_BDH_Ngã tư Hồng Phúc - Nguyễn Trung Trực
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1ed/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1ee" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_BDH_Trước số 67 phố Sơn Tây
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1ee/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea20b" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Điểm Cầu Long Biên 4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea20b/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1eb" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_Ngã tư Tôn Thất Thiệp - Trần Phú
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1eb/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f4" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_Phạm Văn Bạch - Báo Lao Động
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f4/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1fe" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Ngã 5 Giang Biên 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1fe/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea20e" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Đầu cầu Vĩnh Tuy 4
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea20e/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea200" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao Nguyễn Sơn - Nguyễn Văn Cừ 1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea200/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1de" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_Ngõ 71 Nghĩa Dũng
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1de/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea210" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_BDH_Ngã ba Nguyễn Trường Tộ - Phan Huy Ích
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea210/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1fd" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_HKM_CAMERA_Check-in Báo Hà Nội mới
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1fd/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1f5" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LLGT_Phạm Văn Bạch - Viện Huyết Học
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1f5/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea1ff" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Ngã Tư Huỳnh Tấn Phát - Sài Đồng (Nguyễn Văn Linh)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea1ff/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea20f" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_BDH_Ngã Ba Linh Lang - Phan Kế Bình
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea20f/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea203" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Nút giao Ngô Gia Tự - Nguyễn Văn Linh 3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea203/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb44ea211" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_BDH_Số 1144 Đê La Thành_Đối diện ĐSQ Nga
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb44ea211/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e71" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_78 Bến Nghé
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e71/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e70" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Đập Đá _ Lê Lợi
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e70/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e5d" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_1 Nguyễn Sinh Cung
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e5d/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e6f" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_Cầu Lòn BTX
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6f/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e6d" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_30 Trường Chinh
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6d/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e6c" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trung tâm thành phố Huế - 02
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6c/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e6a" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_Bắc Cầu Phú Xuân
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6a/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e6b" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trung tâm thành phố Huế - 01
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6b/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e6e" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_Đống Đa
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6e/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e68" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_175 Bà Triệu
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e68/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e72" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_01 Hùng Vương
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e72/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb4974e69" group-title="📍Tp.Huế" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",PCLB_81 Nguyễn Huệ
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb4974e69/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3590e74" group-title="📍Bình Phước" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Ngã 3 cuối đường vào Huyện Ủy, Ủy ban
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3590e74/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3590e5d" group-title="📍Bình Phước" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Ngã 3 chợ Sóc Nê
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3590e5d/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3590e77" group-title="📍Bình Phước" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Vòng xoay 550
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3590e77/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3590e76" group-title="📍Bình Phước" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Vòng xoay nhà thi đấu đa năng
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3590e76/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3a28612" group-title="📍Cao Bằng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Phố đi bộ Kim Đồng
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3a28612/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3a28604" group-title="📍Cao Bằng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Cọn nước Non Nước Cao Bằng
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3a28604/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3a28611" group-title="📍Cao Bằng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Mặt tiền chợ Sông Bằng
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3a28611/TruyenHinh.Click
+#EXTINF:-1 tvg-id="675edb3a2860f" group-title="📍Cao Bằng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",KS Mường Thanh
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tv.TruyenHinh.Click/DuLichVN/675edb3a2860f/TruyenHinh.Click
+
+#Genshin Impact Lantern Rite 2025 Live Event
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
 http://p1.cvtv.xyz/vtv1?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
 http://aff.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
 http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",VTV5
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",VTV5
 http://p1.cvtv.xyz/vtv5?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/htv7.png",HTV7
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/htv7.png",HTV7
 http://p1.cvtv.xyz/htv7?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="hanoi1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/hanoi1.png",Hà Nội 1
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="hanoi1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/hanoi1.png",Hà Nội 1
 http://p1.cvtv.xyz/hn1?token=live
 
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="1" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1综合频道
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="1" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1综合频道
 http://p1.cvtv.xyz:81/c1?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="4" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4国际频道
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="4" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4国际频道
 http://p1.cvtv.xyz:81/c4?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13新闻频道
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13新闻频道
 http://p1.cvtv.xyz:81/c13?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",HNTV湖南卫视 / Bandori TV (バンドリTV) - Truyền Hình Vệ Tinh Hồ Nam
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",HNTV湖南卫视 / Bandori TV (バンドリTV) - Truyền Hình Vệ Tinh Hồ Nam
 http://p1.cvtv.xyz:81/hn?token=live
-#EXTINF:-1 group-title="Genshin Impact Lantern Rite 2025 Live Event" tvg-id="31" tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 / D4DJ Groovy Mix TV - Truyền hình vệ tinh Đông Phương Thượng Hải
+#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="31" tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 / D4DJ Groovy Mix TV - Truyền hình vệ tinh Đông Phương Thượng Hải
 http://p1.cvtv.xyz:81/df?token=live
 
 #EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",Australian Open Radio 2025 by Arknights
