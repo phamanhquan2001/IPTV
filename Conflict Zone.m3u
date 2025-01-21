@@ -378,7 +378,7 @@ https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN.ir",IRINN (540p)
 https://live.aionet.ir/hls/irinn/irinn.m3u8
 #EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN2.ir",IRINN2 (540p)
-https://cdn-azd2056.telewebion.com/irinn2/live/240p/index.m3u8
+https://gr1-cdn.sepehrtv.org/securelive3/irinn2sd/irinn2sd.m3u8?s=BBus5wUUayBdrGqM5d2fog&t=1737490940
 #EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="PressTV.ir",PressTV (720p)
 https://stream1.freetv.fun/1f4e6722f401e7d338e1cef516a571f80735bff0a3a89776811c407862d4dda3.ctv
 #EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
