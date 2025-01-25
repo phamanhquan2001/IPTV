@@ -301,11 +301,9 @@ http://samisat44.xyz:80/live/5XF88W5/A38UYQV/1052691.ts
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",USA:ESPN2-HD
 https://7pal.short.gy/espn2
 #EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",AO Animated Live
-https://ythls-v3.onrender.com/channel/UCeTKJSW1NTAkf27nNmjWt5A.m3u8
+https://ythls-v3.onrender.com/channel/UCeTKJSW1NTAkf27nNmjWt5A.m3u8?playlist=index
 #EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",Live Camera from Melbourne (by Melbourne Luxury Accomodation)
 https://ythls-v3.onrender.com/video/l_8DrACHpwY.m3u8?playlist=index
-#EXTINF:-1 tvg-logo="https://5th-anniversary.arknights.jp/assets/eventlogo-22671930.png" group-title="Arknights 5th Anniversary Fes 2025 - Australian Open 2025",AO Animated Live Presented by Rhodes Island
-https://ythls-v3.onrender.com/channel/UCeTKJSW1NTAkf27nNmjWt5A.m3u8?playlist=index
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (Mecca)
 https://ythls-v3.onrender.com/channel/UCos52azQNBgW63_9uDJoPDA.m3u8?playlist=index
