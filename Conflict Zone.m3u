@@ -246,41 +246,10 @@ https://tv.TruyenHinh.Click/DuLichVN/675edb3a28611/TruyenHinh.Click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.TruyenHinh.Click/DuLichVN/675edb3a2860f/TruyenHinh.Click
 
-#Genshin Impact Lantern Rite 2025 Live Event
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
-http://p1.cvtv.xyz/vtv1?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv2hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2
-http://aff.cvtv.xyz/vtv2?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv3hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3
-http://p1.cvtv.xyz/vtv3?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="vtv5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1280px-VTV5_logo_2013_final.svg.png",VTV5
-http://p1.cvtv.xyz/vtv5?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="htv7hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/htv7.png",HTV7
-http://p1.cvtv.xyz/htv7?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="hanoi1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/hanoi1.png",Hà Nội 1
-http://p1.cvtv.xyz/hn1?token=live
-
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="1" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1综合频道
-http://p1.cvtv.xyz:81/c1?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="4" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4国际频道
-http://p1.cvtv.xyz:81/c4?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13新闻频道
-http://p1.cvtv.xyz:81/c13?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="27" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",HNTV湖南卫视 / Bandori TV (バンドリTV) - Truyền Hình Vệ Tinh Hồ Nam
-http://p1.cvtv.xyz:81/hn?token=live
-#EXTINF:-1 group-title="TẾT ẤT TỴ 2025" tvg-id="31" tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 / D4DJ Groovy Mix TV - Truyền hình vệ tinh Đông Phương Thượng Hải
-http://p1.cvtv.xyz:81/df?token=live
-
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 tvg-id="AlSaudiya.sa",Al Saudiya (1080p) [Not 24/7]
-https://saudi-tv-prod-dub-enc.edgenextcdn.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
-#EXTINF:-1 tvg-id="AlSaudiya.sa",Al Saudiya (1080p) [Not 24/7]
-https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-#EXTINF:-1 tvg-id="MajidAlMohandis.sa",Majid Al Mohandis (1080p)
-https://shls-live-mood-ak.akamaized.net/out/v1/8e2419c6c7494dbba478be025af490ee/index.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",FalastiniTV (Music)
 https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
 #EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AlAqsaTV.ps",Al Aqsa Channel (416p) [Not 24/7]
