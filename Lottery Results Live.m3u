@@ -10,9 +10,9 @@ https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 https://stream.vovmedia.vn/vov4dbscl
 
 #EXTINF:-1 tvg-id="xshn.vn",Xổ số Hôm Nay
-https://ythls.armelin.one/channel/UC8Bfy0Ol7v-VF4lCE7rxuuQ.m3u8
+https://hls.chew.jp/youtube/?channel=UC8Bfy0Ol7v-VF4lCE7rxuuQ
 #EXTINF:-1 tvg-id="xshn.vn",Xổ số Đại Phát
-https://ythls.armelin.one/channel/UCDWf6ZtQ6DDQHPWAlJSz4fw.m3u8
+https://hls.chew.jp/youtube/?channel=UCDWf6ZtQ6DDQHPWAlJSz4fw
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png",HTV1 
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",Đồng Tháp 1
@@ -22,7 +22,7 @@ http://sohoa.truyenthanhthongminh.vn/lamdong
 #EXTINF:-1 tvg-id="baclieu" tvg-logo="https://i.imgur.com/v6BIJKP.png" group-title="🇻🇳| Địa phương",Bạc Liêu
 https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
-https://ythls.armelin.one/channel/UCZ-Cm2q99E7vCysmu46MKMA.m3u8
+https://hls.chew.jp/youtube/?channel=UCZ-Cm2q99E7vCysmu46MKMA
 #EXTINF:-1 tvg-id="cantho" tvg-logo="https://i.imgur.com/cl45VzX.png" group-title="🇻🇳| Địa phương",Cần Thơ
 https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Địa phương",Sóc Trăng 1
@@ -49,11 +49,11 @@ http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Quảng Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="danang" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Đà Nẵng
-https://ythls.armelin.one/channel/UCblRMKzykUsOCztfffoOVlQ.m3u8
+https://hls.chew.jp/youtube/?channel=UCblRMKzykUsOCztfffoOVlQ
 #EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Khánh Hòa
-https://ythls.armelin.one/channel/UCncIan-xLq8WE3Jn8tSIDPQ.m3u8
+https://hls.chew.jp/youtube/?channel=UCncIan-xLq8WE3Jn8tSIDPQ
 #EXTINF:-1 tvg-id="ninhthuan" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Ninh Thuận
-https://ythls.armelin.one/channel/UCksLkdTeS3lrr2oMQmxqmLQ.m3u8
+https://hls.chew.jp/youtube/?channel=UCksLkdTeS3lrr2oMQmxqmLQ
 #EXTINF:-1 tvg-id="sctv2hd" group-title="Miền Bắc / Vietlott" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png", SCTV2 HD - TodayTV
 #EXTVLCOPT:http-referrer=http://sctvonline.vn/
 https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv2/index.m3u8?token=AD6P2n4gG5dCApa8tdcwsw&e=1720251034
