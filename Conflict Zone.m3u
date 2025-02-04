@@ -708,6 +708,8 @@ https://hls.chew.jp/youtube/?channel=UCljFFNaQoJWeP91Bz4m_3bw
 https://hls.chew.jp/youtube/?channel=UCYa7ZvUk0JmN2no62AXEf5w
 #EXTINF:-1 group-title="Youtube Live",VIRESA Live
 https://hls.chew.jp/youtube/?channel=UCG3Y40V4X4uSRM_O6w8Taig
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/7833222/LINEStorePC/main.png?v=1",Seseren Live Illustration
+https://hls.chew.jp/youtube/?channel=@Seseren_kr
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
