@@ -1,5 +1,5 @@
 #EXTM3U
-#Live Happening
+#Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Earthquake Monitoring
 https://hls.chew.jp/youtube/?video=rvtygG4n6ew
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini as the the spike of seismic activity intensifies (Feed #1)
@@ -10,19 +10,21 @@ https://hls.chew.jp/youtube/?video=7QGo9gfdKxU
 https://hls.chew.jp/youtube/?video=lYV9TMf8jN4
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini as the the spike of seismic activity intensifies (Feed #3)
 https://hls.chew.jp/youtube/?video=zeiwNw39Q78
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=_EfoNYNotqQ
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Governor Ohno gives a press conferences for sinkhole update
+https://hls.chew.jp/youtube/?video=jR69z7_E_1E
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
+https://hls.chew.jp/youtube/?video=_EfoNYNitqQ
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
 https://hls.chew.jp/youtube/?video=z4ZthkwoKv4
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #2)
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #2)
 https://hls.chew.jp/youtube/?video=Hbqp-iDbjyY
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
 https://hls.chew.jp/youtube/?video=LZBOdhtBdCs
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle, Brazil (by ANN / TVAsahi)
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle, Brazil (by ANN / TVAsahi)
 https://hls.chew.jp/youtube/?video=PLx7q6BSGEE
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Heavy Snowfall Cam from Japan
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Heavy Snowfall Cam from Japan
 https://hls.chew.jp/youtube/?video=8dwAut34C48
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Heavy Snowfall Cam from Japan (wth TVOne Kabar Breaking News)
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Heavy Snowfall Cam from Japan (wth TVOne Kabar Breaking News)
 https://hls.chew.jp/youtube/?video=R-g9SAfRcCA
 
 #Live Camera from Vietnam
