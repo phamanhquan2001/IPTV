@@ -1,4 +1,11 @@
 #EXTM3U
+#Live Happening
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini, Greece as the the spike of seismic activity intensifies 
+https://hls.chew.jp/youtube/?video=AHreQVV54Xs
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City, Saitama Prefecture as they are trying to reach the driver trapped in the sinkhole
+https://hls.chew.jp/youtube/?video=_EfoNYNotqQ
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Live Happening" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City, Saitama Prefecture as they are trying to reach the driver trapped in the sinkhole (Feed #2)
+https://hls.chew.jp/youtube/?video=Hbqp-iDbjyY
 
 #Live Camera from Vietnam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Đầu cầu Vĩnh Tuy 1
