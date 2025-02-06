@@ -1,4 +1,23 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Asian Winter Games 2025 Live" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",ELTA-1 (Taiwan)
+https://stream1.freetv.fun/e85c1dd38bd953620bd107a3a26d0bc68f29af58229d2b11c42c7a567648e2e2.ctv
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Asian Winter Games 2025 Live" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",ELTA-2 (Taiwan)
+https://stream1.freetv.fun/584e611464f57bfeadbd748c591e4e6d60c021f43f1ae5ad4844e7136b82a0a0.ctv
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Asian Winter Games 2025 Live" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",ELTA-3 (Taiwan)
+https://stream1.freetv.fun/1de85e71cc3060d8efa52b74480ed5c3d5cb38734eafb96c676b6f66883d403f.ctv
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Asian Winter Games 2025 Live",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Asian Winter Games 2025 Live",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="Asian Winter Games 2025 Live",MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT" tvg-name="T SPORT" group-title="Asian Winter Games 2025 Live" tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",T SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+#EXTINF:-1 group-title="TỔNG HỢP" tvg-id="1" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
+http://p1.cvtv.xyz:81/c1?token=live
+#EXTINF:-1 group-title="TỔNG HỢP" tvg-id="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
+http://p1.cvtv.xyz:81/c13?token=live
 #Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Earthquake Monitoring
 https://hls.chew.jp/youtube/?channel=@GlobalQuake
