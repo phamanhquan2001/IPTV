@@ -19,7 +19,7 @@ http://p1.cvtv.xyz:81/c1?token=live
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="Asian Winter Games 2025 Live",CCTV-5
 https://stream1.freetv.fun/2f01b72e5fe151c8df37dc8e464e6a539ca2cf51fad73fe26884e3a3578e70e2.ctv
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="Asian Winter Games 2025 Live",CCTV-5+
-http://www.terrykang.xyz:35455/gaoma/cctv5p.m3u8
+https://stream1.freetv.fun/0348b5b95dd29b5f86e4e508ded20f86483ea1b9304a3bea1d82c79d8f841fe5.ctv
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
 http://p1.cvtv.xyz:81/c13?token=live
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/RTHK_TV_31A.svg/revision/latest?cb=20210325175806" group-title="Asian Winter Games 2025 Live", RTHK 31
