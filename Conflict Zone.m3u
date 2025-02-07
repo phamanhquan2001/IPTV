@@ -17,7 +17,7 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="1" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-1_180817.png",CCTV-1
 http://p1.cvtv.xyz:81/c1?token=live
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="Asian Winter Games 2025 Live",CCTV-5
-http://www.terrykang.xyz:35455/gaoma/cctv5.m3u8
+https://stream1.freetv.fun/2f01b72e5fe151c8df37dc8e464e6a539ca2cf51fad73fe26884e3a3578e70e2.ctv
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="Asian Winter Games 2025 Live",CCTV-5+
 http://www.terrykang.xyz:35455/gaoma/cctv5p.m3u8
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="14" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-13_180817.png",CCTV-13
