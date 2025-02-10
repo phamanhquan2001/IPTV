@@ -20,29 +20,27 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-1
-http://p1.cvtv.xyz:81/c1?token=live
-#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live",CCTV-5
-https://stream1.freetv.fun/2f01b72e5fe151c8df37dc8e464e6a539ca2cf51fad73fe26884e3a3578e70e2.ctv
-#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live",CCTV-5+
-https://stream1.freetv.fun/0348b5b95dd29b5f86e4e508ded20f86483ea1b9304a3bea1d82c79d8f841fe5.ctv
+http://p1.cvtv.xyz:81/c1?token=live#EXTINF:-1 group-title="ASIAN WINTER GAMES 2025" tvg-id="5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
+http://p1.cvtv.xyz/c5?token=live
+#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="6" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
+http://p1.cvtv.xyz/c5p?token=live
+#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="7249" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
+http://p1.cvtv.xyz/c16?token=live
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="14" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-13
 http://p1.cvtv.xyz:81/c13?token=live
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="20" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CGTN
 http://p1.cvtv.xyz:81/cgtn?token=live
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live", RTHK 31
-https://cdn5.163189.xyz/live/rthk31/stream.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live", RTHK 32
 https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+
 #Live Cam
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Earthquake Monitoring
-https://hls.chew.jp/youtube/?channel=@GlobalQuake
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini as the the spike of seismic activity intensifies
-https://hls.chew.jp/youtube/?video=hDx2sBKFv_8
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=mTchfNNiGdY
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Yashio Lighthouse
-https://hls.chew.jp/youtube/?video=-h92WGD0njY
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
+https://hls.chew.jp/youtube/?video=i0Kddpx53qY
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #2)
+https://hls.chew.jp/youtube/?video=FhMp_gWD9UM
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
+https://hls.chew.jp/youtube/?video=abU029p4D9w
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Amazon" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://hls.chew.jp/youtube/?video=zRpK4WXRcdc
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Snowfall" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Heavy Snowfall Cam from Japan
 https://hls.chew.jp/youtube/?video=koiPZWbqFIA
@@ -299,142 +297,115 @@ https://tv.TruyenHinh.Click/DuLichVN/675edb3a2860f/TruyenHinh.Click
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",FalastiniTV (Music)
-https://rp.tactivemedia.com/falastinitv/live/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AlAqsaTV.ps",Al Aqsa Channel (416p) [Not 24/7]
-http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="ShababFM.ps",Shabab FM Radio (by Asticassia Radio Comitee and Satellite Receiver Studio and Monitoring Room) (720p)
-https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="PalestineSatelliteChannel.ps" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSArabic.il",I24 News Arabic 
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSEnglishWorld.il",I24 News English 
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSFrench.il",I24 News French 
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="",I24 News Hebrew 
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Kan11.il",KAN 11 Israel 
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Kan11.il",KAN 11 Israel 
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="KanEducational.il",Kan Kids 
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="KnessetChannel.il",Knesset Channel
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Makan33.il",Makan 33 
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Now14.il",Now 14 
+https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Channel13.il",Reshet 13 
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Channel13.il",Reshet 13 
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PalestineSatelliteChannel.ps" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="PalestineMubasher.ps",Palestine Mubasher (404p)
-http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="PalestineToday.ps",Palestine Today (480p) [Geo-blocked]
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AlNajahNews.ps",Al Najah News (by Project Sekai Television) (720p)
-https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="NablusTV.ps",Nablus TV from SDRT (720p) [Not 24/7]
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="vop.ps",Voice of Palestine Radio
-https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="WatarTV.ps",Watar TV (720p) [Not 24/7]
-http://htvint.mada.ps:8889/orient/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="WattanTV.ps",Wattan TV (720p) [Not 24/7]
-http://htvmada.mada.ps:8888/wattan/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="AwdahTV.ps",Awdah TV (480p)
-http://htvpalsat.mada.ps:8888/audeh/index.m3u8
-#EXTINF:-1 group-title="🇵🇸| Palestine" tvg-id="RajeenTV.ps",Rajeen TV (1080p) [Not 24/7]
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (1080p)
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Kan11.il",KAN 11 Israel (360p) [Geo-blocked]
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Makan33.il",Makan 33 (1080p)
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Channel13.il",Reshet 13 (1080p)
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="Channel13.il",Reshet 13 (720p)
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 group-title="🇮🇱| Israel" tvg-id="I24NewsEnglish.il",i24News English (720p)
-https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB1.ir",IRIB1 (720p)
-https://live.aionet.ir/hls/tv1/tv1.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB2.ir",IRIB2 (540p)
-https://live.aionet.ir/hls/tv2/tv2.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB3.ir",IRIB3 (480p)
-https://live.aionet.ir/hls/tv3/tv3.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB4.ir",IRIB4 (540p)
-https://live.aionet.ir/hls/tv4/tv4.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="IRIB5.ir",IRIB5 (540p)
-https://live.aionet.ir/hls/tv5/tv5.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="AlAlam.ir",Al Alam (360p) [Not 24/7]
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN.ir",IRINN (540p)
-https://live.aionet.ir/hls/irinn/irinn.m3u8
-#EXTINF:-1 group-title="🇮🇷| Iran" group-title="🇮🇷| Iran" tvg-id="IRINN2.ir",IRINN2 (540p)
-https://gr1-cdn.sepehrtv.org/securelive3/irinn2sd/irinn2sd.m3u8?s=BBus5wUUayBdrGqM5d2fog&t=1737490940
-#EXTINF:-1 group-title="🇮🇷| Iran" tvg-id="PressTV.ir",PressTV (720p)
-https://stream1.freetv.fun/1f4e6722f401e7d338e1cef516a571f80735bff0a3a89776811c407862d4dda3.ctv
-#EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
-https://manar.live/iptv/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="AlManar.lb",Al Manar (576p) [Not 24/7]
-https://manar.live/x.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="AlMayadeen.lb",Al Mayadeen / Aniplus Asia
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="ALWifakNewsTV.lb",ALWifak News TV (720p)
-http://alwifaklive.info:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="ALWifakNewsTV.lb",ALWifak News TV (720p)
-http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="TeleLiban.lb",Tele Liban (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="VoiceofLebanon.lb",Voice of Lebanon (1080p)
-https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="MTV.lb" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MTV Lebanon (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-id="NBN.lb",NBN (720p)
-#EXTVLCOPT:http-referrer=https://odysee.com
-https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/master.m3u8
-#EXTINF:-1 group-title="Iraq" tvg-id="AlEtejah.iq",Al Etejah TV
-http://63b03f7689049.streamlock.net:1935/live/33/playlist.m3u8
-#EXTINF:-1 group-title="Iraq" tvg-id="AlIraqia.iq",Al Iraqia (720p)
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-#EXTINF:-1 group-title="Iraq" tvg-id="AlIraqiaNews.iq",Al Iraqia News (720p)
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
-#EXTINF:-1 group-title="Yêmen" tvg-id="SuhailTV.ye",Suhail TV (576p)
-http://82.212.74.98:8000/live/hls/7726.m3u8
-#EXTINF:-1 group-title="Yêmen" tvg-id="YemenShababChannel.ye",Yemen Shabab Channel (1080p) [Not 24/7]
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
-#EXTINF:-1 group-title="Yêmen" tvg-id="YemenTodayTV.ye",Yemen Today TV (480p)
-https://video.yementdy.tv/hls/yementoday.m3u8
-#EXTINF:-1 group-title="Yêmen" tvg-id="YemeniaTV.ye",Yemenia TV (720p)
-https://ffs3.gulfsat.com/YEMENIA/video.m3u8
-#EXTINF:-1 group-title="Yêmen" tvg-id="AlMasirah.ye",Al Masirah (720p) [Not 24/7]
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
-#EXTINF:-1 group-title="Yêmen" tvg-id="AlMasirahMubacher.ye",Al Masirah Mubacher (642p) [Not 24/7]
-https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-#EXTINF:-1 group-title="Ôman" tvg-id="OmanTV.om",ÔmanTV (1080p)
-https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Ôman" tvg-id="OmanTVMubashir.om",ÔmanTV Mubasher (1080p)
-https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="ApsaraTV11.kh",Apsara TV11 (720p)
+
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 1
+https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 2
+https://ncdn.telewebion.com/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 3
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
+https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Nasim.ir",Nasim
+https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRINN2
+https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Campuchia" tvg-id="ApsaraTV11.kh",Apsara TV11 
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="BayonTV.kh",Bayon TV (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="BayonTV.kh",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="BayonTV.kh",Bayon TV 
 https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="CTV9.kh",CTV 9 (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="BTVNews.kh",BTV News 
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CNC.kh",CNC
+http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CTN.kh",CTN
+http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CTV8HD.kh",CTV8 HD
+http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="MyTV.kh",My TV
+http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CTV9.kh",CTV 9
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CTV9.kh",CTV 9 
 https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="FreshNews.kh",Fresh News (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="FreshNews.kh",Fresh News 
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="HangMeasHDTV.kh",Hang Meas HDTV (1080p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="HangMeasHDTV.kh",Hang Meas HDTV 
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="MSJTV.kh",MSJ TV (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="iTVHD.kh",iTV HD
+http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="MSJTV.kh",MSJ TV 
+#EXTVLCOPT:http-referrer=https://www.iptvservice.site/
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="MSJTV.kh",MSJ TV 
 http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="",Netlink TV (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="",Netlink TV 
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="PNN.kh",PNN (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="NTV.kh",NTV
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="PNN.kh",PNN 
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="RasmeyHangMeasHDTV.kh",Rasmey Hang Meas HDTV (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="RasmeyHangMeasHDTV.kh",Rasmey Hang Meas HDTV 
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="SEATV.kh",SEATV (1080p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="SEATV.kh",SEATV 
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="",SEATV-Radio (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="",SEATV-Radio 
 https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TownTV.kh",Town TV (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="TownTV.kh",Town TV
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TownTV.kh",Town TV 
 https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV3.kh",TV 3 (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="TV3.kh",TV 3 
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia
+http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" vg-id="TV5Cambodia.kh",TV5 Cambodia 
 https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia (720p)
+#EXTINF:-1 tgroup-title="Campuchia" vg-id="TV5Cambodia.kh",TV5 Cambodia 
 https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TVK.kh",TVK (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="TVK.kh",TVK 
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TVK2.kh",TVK 2 (720p)
+#EXTINF:-1 group-title="Campuchia" tvg-id="TVK2.kh",TVK 2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="WikiTV.kh",WIKI TV 
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
@@ -519,113 +490,48 @@ https://ds-linear-abematv.akamaized.net/preview/channel/shinchan-special/playlis
 #EXTINF:-1 tvg-id="family-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime Chọn Lọc" ,ファミリーアニメ (Geo-Blocked)
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="TBSNewsCS.jp",TBS News (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlJazeera.qa", Arabic (1080p)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (1080p)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (1080p)
 https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108" tvg-id="CCTV13.cn",CCTV-13新闻频道 / The iDOLM@STER News Channel
-https://epg.pw/stream/d8d86dede808358d248bad6c290eba43f63be54e467ea3865a0140b3fb9e5f25.ctv
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="RT.ru",Russia Today
-https://epg.pw/stream/85a812d12967aa5310f0ef6b7d5f09c0a161ad6bad9df6dd5b9e16cd1ae0530b.ctv
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="CNNTurk.tr",CNN Turk
-https://epg.pw/stream/edced59f7cb38d43d3e02dd90fe8f06c0b1a84e20bd7ff9ffd15d6ae15cfc7a5.ctv
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="SkyNews.gb",SkyNews
-http://free.cvmtv.site/SkyN?token=live
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="CNN.us",CNN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức",Phoenix InfoNews Channel / Neptunia InfoNews Channel (海王星資訊新聞台)
-https://ctrl.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlEkhbariya.sa",Al Ekhbariya (KSA)
-https://edge.taghtia.com/sa/4.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlHadath.ae",Al Hadath TV (1080p)
-https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlHadath.ae",Al Hadath TV (1080p) [Not 24/7]
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlHadath.ae",Al Arabiya Al Hadath (1080p) [Not 24/7]
-https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
-https://alarabiya-business-ak.akamaized.net/out/v1/126027fa2f8c4d19be4551b77ec08cbb/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AlArabyTV.uk",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AsharqNews.sa",Asharq News (1080p)
-https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="AsharqNewsPortrait.sa",Asharq News Portrait (1280p)
-https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Blue_Archive_logo.svg/1200px-Blue_Archive_logo.svg.png",УТРК Ала-Тоо 24 / Blue Archive TV (1080p)
-https://epg.pw/stream/a83199437019e5db2c89953821abb874b2ef9bf3fcb97f4bd7229d94f38b64d5.ctv
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://preview.redd.it/t9ayxxd6rs091.png?width=400&format=png&auto=webp&s=ce53736e1a97b890c3bb78d35a929f7dfa845943",TVPWorld (Polandia) / Mihoyo Channel
-https://sdt-thinx4-184.tvp.pl/token/video/live/51656539/20240312/453204024/X-p-J9o9JdvMQ23QKoBld137otfijQPeYf5lVYlfs7QY853n3JSB8wf3iuKd54F0sYSTSkUOVZxPFMULf3IrUCbVnaPcdBTY4fhKhtxxXHttI50dz9CcD_CuQewugF6c-N7QvOXiUyAiTGqVi6-6pVs-aXaI8UZO3erH6DuCJDyTHKZ76skhMY0-bkW37QmL/156/TVP_World-audio_211682_pol=211200-video=636800.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",Aaj News / Revue Starlight RELIVE-FM Radio Channel 1
-https://epg.pw/stream/f0f338ce1db8d60c93fa10fc95b164ef88c2d7887c19dd4ed8f4207e35fc2094.ctv
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ARYNews / Revue Starlight RELIVE-FM Radio Channel 2
-https://epg.pw/stream/b03d78204cfb6f058625ded4b53e64f643951479b6ba90d30424fba0c32c5fe8.ctv
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",GeoNews / Revue Starlight RELIVE-FM Radio Channel 3
-https://hls.chew.jp/youtube/?channel=UC_vt34wimdCzdkrzVejwX9g
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",TOLONews / Revue Starlight RELIVE-FM Radio Channel 4
-https://st2.mediabay.tv/ToloTV/playlist.m3u8?token=0ffd2b531dbcf1f5d16d34ab2f7493d4536f6be2-eb65aeb1c5be2f54ca0975ac3c07b259-1710698723-1710687923
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ATNNews (Ariana News) / Revue Starlight RELIVE-FM Radio Channel 5
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",ShamshadNews TV / Revue Starlight RELIVE-FM Radio Channel 6
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Đối ngoại/Tin tức" group-logo="https://cdn.hqth.me/logo/category/news.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/214.png",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/216.png",Bloomberg
-http://p1.cvtv.xyz:81/bb?token=live
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
+http://p1.cvtv.xyz:81/aj?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://p1.cvtv.xyz:81/bbcn?token=live
-#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/217.png",CNBC
-http://p1.cvtv.xyz:81/cnbc?token=live
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức" tvg-id="EuronewsEnglish.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
-http://p1.cvtv.xyz:81/euro?token=live
-#EXTINF:-1 tvg-id="cnn" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
 http://p1.cvtv.xyz:81/cnn?token=live
-#EXTINF:-1 tvg-id="cna" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/219.png",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png",CGTN
-http://p1.cvtv.xyz:81/cgtn?token=live
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/221.png", DW
-http://p1.cvtv.xyz:81/dw?token=live
-#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/222.png", France 24
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
 http://p1.cvtv.xyz:81/f24?token=live
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHKWorld-Japan
-https://stream1.freetv.fun/3bc2b37a9ec089750ce9781f045cd523d05ae93b886d4abb09cc782751a736e9.ctv
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/224.png",NHKWorld-Premium
-https://epg.pw/stream/47538f71b21ec7b26b66dd144abfff20c51b75e0e206b8c2b0a90ce617b4b045.ctv
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/225.png",TV5Monde
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://epg.pw/stream/641cc2bc8850b8cf47e141d82f5fb720c2e573e1fd6dd7146e6adde08a278390.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức" tvg-logo="https://cdn.hqth.me/logo/thumbs/226.png",TRTWorld (Thua Thiên Huế)
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="EuronewsEnglish.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
+http://p1.cvtv.xyz:81/euro?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+http://p1.cvtv.xyz:81/skn?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT English
+http://p1.cvtv.xyz:81/rt?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
+http://p1.cvtv.xyz:81/cgtn?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
+http://p1.cvtv.xyz:81/phx?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World
+http://p1.cvtv.xyz:81/nhkw?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png",TRT World
 http://p1.cvtv.xyz:81/trtw?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
+http://p1.cvtv.xyz:81/dw?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="BloombergTVEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg
+http://p1.cvtv.xyz:81/bb?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
+http://p1.cvtv.xyz:81/cnbc?token=live
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
 https://hls.chew.jp/youtube/?channel=@weathernews
