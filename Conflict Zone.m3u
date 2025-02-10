@@ -21,7 +21,7 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-1
 http://p1.cvtv.xyz:81/c1?token=live
-#EXTINF:-1 group-title="ASIAN WINTER GAMES 2025" tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-5
+#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-5
 http://p1.cvtv.xyz/c5?token=live
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="6" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-5+
 http://p1.cvtv.xyz/c5p?token=live
