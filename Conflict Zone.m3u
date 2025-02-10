@@ -20,11 +20,12 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-1
-http://p1.cvtv.xyz:81/c1?token=live#EXTINF:-1 group-title="ASIAN WINTER GAMES 2025" tvg-id="5" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
+http://p1.cvtv.xyz:81/c1?token=live
+#EXTINF:-1 group-title="ASIAN WINTER GAMES 2025" tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-5
 http://p1.cvtv.xyz/c5?token=live
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="6" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv5plus_20180904.png",CCTV-5+
+#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="6" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-5+
 http://p1.cvtv.xyz/c5p?token=live
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="7249" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1536890041758372/cctv16_20180904.png",CCTV-16
+#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="7249" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-16
 http://p1.cvtv.xyz/c16?token=live
 #EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="14" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-13
 http://p1.cvtv.xyz:81/c13?token=live
