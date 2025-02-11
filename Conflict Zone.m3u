@@ -36,9 +36,24 @@ https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 
 #Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=3GiDy9x5PW4
+https://hls.chew.jp/youtube/?video=rvVqAXJ65a8
+https://hls.chew.jp/youtube/?video=r2N23nLAJxfY
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Amazon" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://hls.chew.jp/youtube/?video=CludWJf1vbc
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",関越自動車道・東松山IC付近
+https://hls.chew.jp/youtube/?video=ZV3oCAKSNx0
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",中央自動車道・元八王子バス停付近
+https://hls.chew.jp/youtube/?video=FsL_KQz4gpw
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",群馬県高崎市高崎駅
+https://hls.chew.jp/youtube/?video=YZcRxaKmvU4
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東名高速道路・厚木IC付近
+https://hls.chew.jp/youtube/?video=5rxOBb4V83I
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",羽田空港2ターミナル
+https://hls.chew.jp/youtube/?video=A0FCKcTuRHo
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",渋谷スクランブル
+https://hls.chew.jp/youtube/?video=TUd7JORZeWo
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",いやき坂イルミネーション
+https://hls.chew.jp/youtube/?video=3krdhmBy3Kk
 
 #Live Camera from Vietnam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Đầu cầu Vĩnh Tuy 1
