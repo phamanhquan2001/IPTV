@@ -35,18 +35,9 @@ http://p1.cvtv.xyz:81/cgtn?token=live
 https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 
 #Live Cam
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=3GiDy9x5PW4
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #2)
-https://hls.chew.jp/youtube/?video=FhMp_gWD9UM
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
-https://hls.chew.jp/youtube/?video=abU029p4D9w
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title=
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Amazon" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
-https://hls.chew.jp/youtube/?video=zRpK4WXRcdc
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Snowfall" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Heavy Snowfall Cam from Japan
-https://hls.chew.jp/youtube/?video=koiPZWbqFIA
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Snowfall" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Heavy Snowfall Cam from Japan (Feed #2)
-https://hls.chew.jp/youtube/?video=sK7W3UM8exA
+https://hls.chew.jp/youtube/?video=CludWJf1vbc
 
 #Live Camera from Vietnam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Đầu cầu Vĩnh Tuy 1
@@ -552,6 +543,8 @@ https://hls.chew.jp/youtube/?channel=UCndcERoL9eG-XNljgUk1Gag
 https://hls.chew.jp/youtube/?channel=UC7_mgS3z22z0WhR7COJ8E2w
 #EXTINF:-1 group-title="Youtube Live",Sa Bàn Quân Su
 https://ythls-v3.onrender.com/channelUCtB1cPy-OqJGozE_a8chlPw
+#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Quân Trần
+https://hls.chew.jp/youtube/?channel=@IzumiNT
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Reuters Live Event
 https://hls.chew.jp/youtube/?channel=UChqUTb7kYRX8-EiaN3XFrSQ
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
