@@ -34,6 +34,53 @@ http://p1.cvtv.xyz:81/cgtn?token=live
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live", RTHK 32
 https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 
+#Youtube News Live Stream
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東森新聞
+https://hls.chew.jp/youtube/?channel=@newsebc
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",三立新聞
+https://hls.chew.jp/youtube/?channel=@setn
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",SkyNews Live
+https://hls.chew.jp/youtube/?channel=@SkyNews
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",DW News Live
+https://hls.chew.jp/youtube/?channel=@dwnews
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",NBC News Live
+https://hls.chew.jp/youtube/?channel=@NBCNews
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",ABC News Live (Australia)
+https://hls.chew.jp/youtube/?channel=@abcnewsaustralia
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",ABC News Live (US)
+https://hls.chew.jp/youtube/?channel=@ABCNews
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Bloomberg News Live
+https://hls.chew.jp/youtube/?channel=@markets
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",CBS News Live
+https://hls.chew.jp/youtube/?channel=@CBSNews
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",KBS News Live
+https://hls.chew.jp/youtube/?channel=@newskbs
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",MBC News Live
+https://hls.chew.jp/youtube/?channel=@MBCNEWS11
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",YTN News Live
+https://hls.chew.jp/youtube/?channel=@ytnnews24
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",YonhapNews TV Live
+https://hls.chew.jp/youtube/?channel=@yonhapnewstv23
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Al Jazeera Mubasher
+https://hls.chew.jp/youtube/?channel=@aljazeeramubasher
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",EURONEWS Live
+https://hls.chew.jp/youtube/?channel=@euronews
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",FRANCE24 Live
+https://hls.chew.jp/youtube/?channel=@FRANCE24
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Reuters Live
+https://hls.chew.jp/youtube/?channel=@Reuters
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",AP News Live
+https://hls.chew.jp/youtube/?channel=@AssociatedPress
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",AFP News Live
+https://hls.chew.jp/youtube/?channel=@AFP
+#EXTINF:-1 group-title="Youtube News Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
+https://hls.chew.jp/youtube/?channel=UCabsTV34JwALXKGMqHpvUiA
+#EXTINF:-1 group-title="Youtube News Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",NicoNicoDouga News Live Event
+https://hls.chew.jp/youtube/?channel=UC28hcmMG3TJv60Byo528VVg
+#EXTINF:-1 group-title="Youtube News Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
+https://hls.chew.jp/youtube/?channel=UC47WI-kZXFf0H_f7pvaNCEQ
+
+
 #Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="AI Kizuna" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Ai Kizuna Live
 https://hls.chew.jp/youtube/?channel=@AIChannel
@@ -568,20 +615,10 @@ https://hls.chew.jp/youtube/?channel=UCWPola-KayVUJZstymaP4KQ
 https://hls.chew.jp/youtube/?channel=UCndcERoL9eG-XNljgUk1Gag
 #EXTINF:-1 group-title="Youtube Live",HTV - Đài Hà Nội
 https://hls.chew.jp/youtube/?channel=UC7_mgS3z22z0WhR7COJ8E2w
-#EXTINF:-1 group-title="Youtube Live",Sa Bàn Quân Su
+#EXTINF:-1 group-title="Youtube Live",Sa Bàn Quân Sự
 https://ythls-v3.onrender.com/channelUCtB1cPy-OqJGozE_a8chlPw
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Quân Trần
 https://hls.chew.jp/youtube/?channel=@IzumiNT
-#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Reuters Live Event
-https://hls.chew.jp/youtube/?channel=UChqUTb7kYRX8-EiaN3XFrSQ
-#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
-https://hls.chew.jp/youtube/?channel=UCabsTV34JwALXKGMqHpvUiA
-#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",NicoNicoDouga News Live Event
-https://hls.chew.jp/youtube/?channel=UC28hcmMG3TJv60Byo528VVg
-#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
-https://hls.chew.jp/youtube/?channel=UC47WI-kZXFf0H_f7pvaNCEQ
-#EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Project Sekai Colorful Stage / TVS Television Southern (TVS广东南方卫视) - Truyền hình vệ tinh Phuơng Nam Quảng Đông
-https://hls.chew.jp/youtube/?channel=UCdMGYXL38w6htx6Yf9YJa-w
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thuợng Hải (上海东方卫视)
 https://hls.chew.jp/youtube/?channel=UCNWWdKniJyzQA3RiJ5LMoVw
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",Bandori / Hunan Television (湖南卫视)
