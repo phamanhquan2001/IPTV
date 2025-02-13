@@ -34,6 +34,18 @@ http://p1.cvtv.xyz:81/cgtn?token=live
 #EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live", RTHK 32
 https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 
+#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Munich Airport (Germany) - US Vice President JD Vance arriving for 2025 Munich Security Conference
+https://hls.chew.jp/youtube/?video=lE7ICj6prEY
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Munich (Germany) - An investigation is now underway after car drives into the crowd incident
+https://hls.chew.jp/youtube/?video=hswX6R47wXQ
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Gaza Strip (Palestine) - Aid situation through Rafah Crossings for cease-fire
+https://hls.chew.jp/youtube/?video=PoktGqFzST0
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Paris (France) - Reporting live by Fontaine Reporters Team from Genshin Impact as international conference on Syria is getting underway right now
+https://hls.chew.jp/youtube/?video=SvGRVGI9ClA
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Kiev (Ukraina) - A view from Independence Square as US President Donald Trump pushes peace talks with Russian President Putin
+https://hls.chew.jp/youtube/?video=01MU0rXo2z8
+
 #Youtube News Live Stream
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東森新聞
 https://hls.chew.jp/youtube/?channel=@newsebc
@@ -83,7 +95,7 @@ https://hls.chew.jp/youtube/?channel=UC47WI-kZXFf0H_f7pvaNCEQ
 
 #Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Helicam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",SEES Helicam Report: Fire incident in Ibaraki
-https://hls.chew.jp/youtube/?video=7sSW8BDj2jc
+
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="AI Kizuna" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Ai Kizuna Live
 https://hls.chew.jp/youtube/?channel=@AIChannel
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quake Monitoring
