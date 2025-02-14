@@ -1,42 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="AWG2025 Information",Schedule for 2025 Asian Winter Games (Sessions)
-https://weboss.harbin2025.com/media/20250109/01d3349fc5f68a8b3b0c038af7bb885327.jpg
-#EXTINF:-1 group-title="AWG2025 Information",Schedule for 2025 Asian Winter Games
-https://weboss.harbin2025.com/media/20250122/01ba60f3e96b5ed9e4cca784e21368cb1c.jpg
-
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Mombetsu (Hokkaido) - A drift ice is spotted here and reaching to shores in slow speed
-https://hls.chew.jp/youtube/?video=yJsl9JFGPFk
-
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Asian Winter Games 2025 Live" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",ELTA-1 (Taiwan)
-https://stream1.freetv.fun/e85c1dd38bd953620bd107a3a26d0bc68f29af58229d2b11c42c7a567648e2e2.ctv
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Asian Winter Games 2025 Live" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",ELTA-2 (Taiwan)
-https://stream1.freetv.fun/584e611464f57bfeadbd748c591e4e6d60c021f43f1ae5ad4844e7136b82a0a0.ctv
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Asian Winter Games 2025 Live" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",ELTA-3 (Taiwan)
-https://stream1.freetv.fun/1de85e71cc3060d8efa52b74480ed5c3d5cb38734eafb96c676b6f66883d403f.ctv
-#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live",KBS 1TV
-http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live",KBS 2TV
-http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live",MBC
-http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT" tvg-name="T SPORT" group-title="Asian Winter Games 2025 Live" tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",T SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="1" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-1
-http://p1.cvtv.xyz:81/c1?token=live
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="5" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-5
-http://p1.cvtv.xyz/c5?token=live
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="6" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-5+
-http://p1.cvtv.xyz/c5p?token=live
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="7249" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-16
-http://p1.cvtv.xyz/c16?token=live
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="14" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CCTV-13
-http://p1.cvtv.xyz:81/c13?token=live
-#EXTINF:-1 group-title="Asian Winter Games 2025 Live" tvg-id="20" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",CGTN
-http://p1.cvtv.xyz:81/cgtn?token=live
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207" group-title="Asian Winter Games 2025 Live", RTHK 32
-https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Munich (Germany) - Leaders arriving for Munich Security Conference
+https://hls.chew.jp/youtube/?video=n3J31goBuOA
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Gaza Strip (Palestine) - Aid enters Gaza after Hamas said that it wil continue implementing the ceasefire deal
+https://hls.chew.jp/youtube/?video=qb-YwqAP5S4
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Vatican - Live camera from a Rome' Gremelli hospital where Pope Francis is now hospitalized for bronchitis treatment
+https://hls.chew.jp/youtube/?video=am5ppMAOsdU
 
 #Youtube News Live Stream
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東森新聞
@@ -97,7 +66,7 @@ https://hls.chew.jp/youtube/?video=hDx2sBKFv_8
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini (Feed #2)
 https://hls.chew.jp/youtube/?video=lYV9TMf8jN4
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=GRoT0c6-oq8
+https://hls.chew.jp/youtube/?video==g8ku7rvQUNQ
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #2)
 https://hls.chew.jp/youtube/?video=ObIW_0GTuHI
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
