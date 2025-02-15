@@ -1,7 +1,7 @@
 #EXTM3U
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Vatican - View from St. Peter Square after Pope Francis was hospitalized
-https://hls.chew.jp/youtube/?video=TUggo5EN_x4
+
 
 #Youtube News Live Stream
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東森新聞
@@ -32,6 +32,14 @@ https://hls.chew.jp/youtube/?channel=@ytnnews24
 https://hls.chew.jp/youtube/?channel=@yonhapnewstv23
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Al Jazeera Mubasher
 https://hls.chew.jp/youtube/?channel=@aljazeeramubasher
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Al Jazeera English
+https://hls.chew.jp/youtube/?channel=@aljazeeraenglish
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Al Jazeera Arabic
+https://hls.chew.jp/youtube/?channel=@aljazeera
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Al-Araby TV
+https://hls.chew.jp/youtube/?channel=@AlarabyTv_News
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Asharq TV
+https://hls.chew.jp/youtube/?channel=@AsharqNews
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",EURONEWS Live
 https://hls.chew.jp/youtube/?channel=@euronews
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",FRANCE24 Live
