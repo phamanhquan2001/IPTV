@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 group-title="News Rewatch" logo="https://raw.githubusercontent.com/mathewcallaghan/australian-tv-network-logo-icons/master/colour/sbs%20worldwatch.png" tvg-id="16ac3ac7c427d9be42ec3bf3a219c87a" tvg-chno="35",SBS WorldWatch
+http://49.188.116.214:9981/stream/channelid/1195027478?profile=pass
+
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",London UK - Carpet show before BAFTA Awards
 
