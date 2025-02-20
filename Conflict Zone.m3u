@@ -2,6 +2,39 @@
 #EXTINF:-1 group-title="News Rewatch" logo="https://raw.githubusercontent.com/mathewcallaghan/australian-tv-network-logo-icons/master/colour/sbs%20worldwatch.png" tvg-id="16ac3ac7c427d9be42ec3bf3a219c87a" tvg-chno="35",SBS WorldWatch
 http://49.188.116.214:9981/stream/channelid/1195027478?profile=pass
 
+#Live Cam
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Helicam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",SEES Helicam Report: Fire incident in Ibaraki
+
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="AI Kizuna" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Ai Kizuna Live
+https://hls.chew.jp/youtube/?channel=@AIChannel
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quake Monitoring
+https://hls.chew.jp/youtube/?channel=@GlobalQuake
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini
+https://hls.chew.jp/youtube/?video=hDx2sBKFv_8
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini (Feed #2)
+https://hls.chew.jp/youtube/?video=lYV9TMf8jN4
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
+https://hls.chew.jp/youtube/?video=Ib4MCetqkHo
+https://hls.chew.jp/youtube/?video=ochIo88rITI
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
+https://hls.chew.jp/youtube/?video=Z9PP9IIVK-8
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Amazon" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
+https://hls.chew.jp/youtube/?video=CludWJf1vbc
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",関越自動車道・東松山IC付近
+https://hls.chew.jp/youtube/?video=ZV3oCAKSNx0
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",中央自動車道・元八王子バス停付近
+https://hls.chew.jp/youtube/?video=FsL_KQz4gpw
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",群馬県高崎市高崎駅
+https://hls.chew.jp/youtube/?video=YZcRxaKmvU4
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東名高速道路・厚木IC付近
+https://hls.chew.jp/youtube/?video=5rxOBb4V83I
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",羽田空港2ターミナル
+https://hls.chew.jp/youtube/?video=A0FCKcTuRHo
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",渋谷スクランブル
+https://hls.chew.jp/youtube/?video=TUd7JORZeWo
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",いやき坂イルミネーション
+https://hls.chew.jp/youtube/?video=3krdhmBy3Kk
+
 #Blue Archive Fes Cam Feed
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="VCT Masters Bangkok 2025 Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",VCT Masters 2025 Bangkok - Live Camera from Pechaburi Road (Bangkok)
 https://hls.chew.jp/youtube/?video=a_bUVExv_Cg
@@ -135,39 +168,6 @@ https://hls.chew.jp/youtube/?channel=UCabsTV34JwALXKGMqHpvUiA
 https://hls.chew.jp/youtube/?channel=UC28hcmMG3TJv60Byo528VVg
 #EXTINF:-1 group-title="Youtube News Live Stream" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
 https://hls.chew.jp/youtube/?channel=UC47WI-kZXFf0H_f7pvaNCEQ
-
-
-#Live Cam
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Helicam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",SEES Helicam Report: Fire incident in Ibaraki
-
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="AI Kizuna" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Ai Kizuna Live
-https://hls.chew.jp/youtube/?channel=@AIChannel
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quake Monitoring
-https://hls.chew.jp/youtube/?channel=@GlobalQuake
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini
-https://hls.chew.jp/youtube/?video=hDx2sBKFv_8
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini (Feed #2)
-https://hls.chew.jp/youtube/?video=lYV9TMf8jN4
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=B9uM46evJqI
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
-https://hls.chew.jp/youtube/?video=Z9PP9IIVK-8
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Amazon" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
-https://hls.chew.jp/youtube/?video=CludWJf1vbc
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",関越自動車道・東松山IC付近
-https://hls.chew.jp/youtube/?video=ZV3oCAKSNx0
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",中央自動車道・元八王子バス停付近
-https://hls.chew.jp/youtube/?video=FsL_KQz4gpw
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",群馬県高崎市高崎駅
-https://hls.chew.jp/youtube/?video=YZcRxaKmvU4
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東名高速道路・厚木IC付近
-https://hls.chew.jp/youtube/?video=5rxOBb4V83I
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",羽田空港2ターミナル
-https://hls.chew.jp/youtube/?video=A0FCKcTuRHo
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",渋谷スクランブル
-https://hls.chew.jp/youtube/?video=TUd7JORZeWo
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",いやき坂イルミネーション
-https://hls.chew.jp/youtube/?video=3krdhmBy3Kk
 
 #Live Camera from Vietnam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="📍Hà Nội" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",HNI_LBN_Đầu cầu Vĩnh Tuy 1
