@@ -16,7 +16,6 @@ https://hls.chew.jp/youtube/?video=WHeQ90WV9tk
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini (Feed #3)
 https://hls.chew.jp/youtube/?video=lYV9TMf8jN4
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=riDkL69Oe7g
 https://hls.chew.jp/youtube/?video=5bJSGJpXZss
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #3)
 https://hls.chew.jp/youtube/?video=WnWAsSCuHGU
@@ -98,8 +97,16 @@ https://hls.chew.jp/youtube/?video=FyFAqPHBKiQ
 https://hls.chew.jp/youtube/?channel=@VALORANTEsportsTH
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Rome (Italia) - A view from Peter Square in Vatican as Pope Francis is in hospitalized
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Rome (Italia) - A view from Peter Square in Vatican as Pope Francis is in critical condition
 https://hls.chew.jp/youtube/?channel=@VaticanNews
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Rome (Italia) - A view from outside of Gemelli Hospital as Pope Francis is in critical condition
+https://hls.chew.jp/youtube/?video=pyILPq4PvVg
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Rome (Italia) - View from Vatican and Gemelli Hospital as Pope Francis is in critical condition
+https://hls.chew.jp/youtube/?video=eLCuhcA1fXQ
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Kiev (Ukraina) - EU leaders and the President Zelenskyy is holding the joint press conference on the anniversary of Russo-Ukraine War
+https://hls.chew.jp/youtube/?video=dYoGGOM2aGk
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Kiev (Ukraina) - The President Zelenskyy is hosting world leaders
+https://hls.chew.jp/youtube/?video=Wwoos58fwWU
 
 #Youtube News Live Stream
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東森新聞
