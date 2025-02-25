@@ -99,6 +99,8 @@ https://hls.chew.jp/youtube/?channel=@VALORANTEsportsTH
 https://hls.chew.jp/youtube/?channel=@VaticanNews
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Rome (Italia) - View from Vatican and Gemelli Hospital as Pope Francis is in critical condition
 https://hls.chew.jp/youtube/?video=WQkERlDYT4k
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Seoul (South Korea) - Live camera on-site from Cheonan of South Korea as a under contrsuction highway bridge suddenly collapse which killed at least four construction workers and inujuring at least six others
+https://hls.chew.jp/youtube/?video=A7iP-ejSbrI
 
 #Youtube News Live Stream
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東森新聞
@@ -777,33 +779,33 @@ https://ds-linear-abematv.akamaized.net/preview/channel/shinchan-special/playlis
 #EXTINF:-1 tvg-id="family-anime-1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Anime Chọn Lọc" ,ファミリーアニメ (Geo-Blocked)
 https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
 
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
 http://p1.cvtv.xyz:81/aj?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+#EXTINF:-1 group-title="HTin tức quốc tế" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://p1.cvtv.xyz:81/bbcn?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
 http://p1.cvtv.xyz:81/cnn?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="France24English.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
 http://p1.cvtv.xyz:81/f24?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="EuronewsEnglish.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="EuronewsEnglish.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
 http://p1.cvtv.xyz:81/euro?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="SkyNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
 http://p1.cvtv.xyz:81/skn?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT English
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT English
 http://p1.cvtv.xyz:81/rt?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
 http://p1.cvtv.xyz:81/cgtn?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
 http://p1.cvtv.xyz:81/phx?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World
 http://p1.cvtv.xyz:81/nhkw?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png",TRT World
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png",TRT World
 http://p1.cvtv.xyz:81/trtw?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
 http://p1.cvtv.xyz:81/dw?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="BloombergTVEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="BloombergTVEurope.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg
 http://p1.cvtv.xyz:81/bb?token=live
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="cnbc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
 http://p1.cvtv.xyz:81/cnbc?token=live
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
@@ -830,6 +832,12 @@ https://hls.chew.jp/youtube/?channel=@AmazingHueVietnam
 https://hls.chew.jp/youtube/?channel=@IzumiNT
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",CONCACAF Live
 https://hls.chew.jp/youtube/?channel=@concacaf
+#EXTINF:-1 group-title="Youtube Live",BWFTV Live (Badminton)
+https://hls.chew.jp/youtube/?channel=@bwftv
+#EXTINF:-1 group-title="Youtube Live",FIBA TV (Basketball)
+https://hls.chew.jp/youtube/?channel=@FIBA
+#EXTINF:-1 group-title="Youtube Live",VBA TV (Basketball)
+https://hls.chew.jp/youtube/?channel=@VBAofficial
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thuợng Hải (上海东方卫视)
 https://hls.chew.jp/youtube/?channel=UCNWWdKniJyzQA3RiJ5LMoVw
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",Bandori / Hunan Television (湖南卫视)
