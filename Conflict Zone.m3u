@@ -412,6 +412,20 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
+https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Westerl Wall (Jerusalem/Israel)
 https://hls.chew.jp/youtube/?video=y4k2lXk1MBw
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Israel
@@ -492,39 +506,25 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="WatarTV.ps",Watar TV (720p) [Not 24/7]
 https://htvint.mada.ps/orient/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV
-https://live.presstv.ir/hls/presstv.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 1
-https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 2
-https://ncdn.telewebion.com/tv2/live/playlist.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 3
-https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
-https://ncdn.telewebion.com/tv4/live/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlAlam.ir",IRIB Al-Alam TV
-https://live2.alalam.ir/alalam.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5 (IRIB-TEHRAN) - Amphoreus Regional Channel
 https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Nasim.ir",Nasim
-https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
-https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRIB IRINN-2
 https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
-https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
-https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (1080p)
-https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlAlam.ir",IRIB Al-Alam TV
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeeraMubasher.qa",Al Manar TV (Lebanon
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
