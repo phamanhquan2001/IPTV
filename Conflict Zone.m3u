@@ -16,10 +16,8 @@ https://hls.chew.jp/youtube/?video=UF-GPQS309I
 https://hls.chew.jp/youtube/?video=LKaoqSCsh-A
 
 #Live Cam
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Helicam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",SEES Helicam Report: Wildfire incident at Ōfunato City
-https://hls.chew.jp/youtube/?video=qcoaSff6x_c
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="AI Kizuna" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Ai Kizuna Live
-https://hls.chew.jp/youtube/?channel=@AIChannel
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Helicam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",SEES Helicam Report: The aftermath after wildfire incident at Ofunato City, Iwate Prefecture
+https://hls.chew.jp/youtube/?video=46bXtMOquwc
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quake Monitoring
 https://hls.chew.jp/youtube/?channel=@GlobalQuake
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini
@@ -503,6 +501,8 @@ https://ncdn.telewebion.com/tv2/live/playlist.m3u8
 https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
 https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlAlam.ir",IRIB Al-Alam TV
+https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5
 https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Nasim.ir",Nasim
