@@ -408,6 +408,8 @@ https://tv.TruyenHinh.Click/DuLichVN/675edb3a2860f/TruyenHinh.Click
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
+https://hls.chew.jp/youtube/?channel=@livebroadcastal-aqsa3717
 
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
