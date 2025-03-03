@@ -2246,8 +2246,10 @@ https://radio.lnr.org.la/am
 https://radio.lnr.org.la/fm103
 #EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio FM 94.3 / Lao National Radio FM 94.3
 https://radio.lnr.org.la/fm94
-#EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
+#EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG Thánh lễ hằng ngày
 https://hls.chew.jp/youtube/?channel=UCc7qu2cB-CzTt8CpWqLba-g
+#EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
+https://hls.chew.jp/youtube/?channel=@tonggiaophansaigon
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
 https://hls.chew.jp/youtube/?channel=UCubpNIVpkSXrlwkaqHnjW6g
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
@@ -2260,3 +2262,5 @@ https://hls.chew.jp/youtube/?channel=UC7E-LYc1wivk33iyt5bR5zQ
 https://hls.chew.jp/youtube/?channel=UC4HqQT1uH3dzz_ZSR_mVUEw
 #EXTINF:-1 group-title="⛪|Thánh Lễ",AnboliTV
 https://hls.chew.jp/youtube/?channel=UCLaRapGrRHS0W5uyWnh-bpg
+#EXTINF:-1 group-title="⛪|Thánh Lễ",EWTN Live
+https://hls.chew.jp/youtube/?channel=@EWTNcatholictv
