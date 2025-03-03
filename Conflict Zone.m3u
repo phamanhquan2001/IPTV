@@ -3,6 +3,8 @@
 http://49.188.116.214:9981/stream/channelid/1195027478?profile=pass
 
 #Sports Live
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live",LoveLive Project Radio: µ'sic forever Live
+https://kathy.torontocast.com:2600/stream
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live",Xinghui Origami Cup Live (Strinova Live)
 https://hls.chew.jp/youtube/?channel=@XinghuiEnjoyer
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live",Trực tiếp giải futsal HDBank VĐQG 2025 (VOVLive)
