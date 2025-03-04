@@ -443,7 +443,7 @@ https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="KanEducational.il",Kan Kids 
 https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="KnessetChannel.il",Knesset Channel
-https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Makan33.il",Makan 33 
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Now14.il",Now 14 
@@ -452,6 +452,8 @@ https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifes
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Channel13.il",Reshet 13 
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Israeli Army Radio
+https://glzwizzlv.bynetcdn.com/glz_mp3?
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AjyalTV.ps",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AjyalTV.ps",Ajyal TV (720p)
