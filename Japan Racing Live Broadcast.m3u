@@ -68,14 +68,14 @@ https://hls.chew.jp/youtube/?channel=UCUeiz4v2oAxzTTZZfjzbv-A
 http://p1.cvtv.xyz/f1?token=live
 #EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="gtasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="spotv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/spotv.png",SPOTV
+http://p1.cvtv.xyz/spo1?token=live
 #EXTINF:-1 group-title="KSA" tvg-id="TokyoMX2.jp" tvg-logo="https://pbs.twimg.com/profile_images/1830441873934290944/P4K8Sa9T_400x400.jpg",JCSA Live: Natlan's Horseracing Carnival Live
 https://hls.chew.jp/youtube/?channel=UC4xAL1Lid7vrrm-xtxyyvwA
 #EXTINF:-1 group-title="KSA" tvg-id="TokyoMX2.jp" tvg-logo="https://pbs.twimg.com/profile_images/1830441873934290944/P4K8Sa9T_400x400.jpg",Medina Raccourse Live: Amphoreus's Horseracing Carnival Live
 https://hls.chew.jp/youtube/?channel=UCnGdAt3SbdkBt4mJ-23axyw
 #EXTINF:-1 group-title="Dubai" tvg-id="TokyoMX2.jp" tvg-logo="https://pbs.twimg.com/profile_images/1830441873934290944/P4K8Sa9T_400x400.jpg",Azur Lane's Dubai Racing Carnival Live
 https://hls.chew.jp/youtube/?channel=UCj3H-NEGJohQ6zJJc_330Gw
-#EXTINF:-1 group-title="NAR/Terrestrial" tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYOMX2 / TCK東京シティ競馬中継
-http://tv.utako.moe/mx2_testsignal/index.m3u8
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Voice Implemented
 https://hls.chew.jp/youtube/?channel=UCKz6vVzMrc_9ZDRNH7LnIxQ
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Luppy Implemented
