@@ -3,6 +3,10 @@
 http://49.188.116.214:9981/stream/channelid/1195027478?profile=pass
 
 #Sports Live
+#EXTINF:-1 tvg-id="163" group-title="Bóng chuyền Cúp Hoa Lư 2025" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/163/KenhCoBan",NBTV - Truyền Hình Ninh Bình
+https://tv.TruyenHinh.Click/CoBan/163/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="163" group-title="Bóng chuyền Cúp Hoa Lư 2025" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/163/KenhCoBan",NBTV - Truyền Hình Ninh Bình (Youtube)
+https://hls.chew.jp/youtube/?channel=@NinhBinhTV3
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live",LoveLive Project Radio: µ'sic forever Live
 https://kathy.torontocast.com:2600/stream
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live",Xinghui Origami Cup Live (Strinova Live)
@@ -66,6 +70,8 @@ https://hls.chew.jp/youtube/?video=qJ0V1M_g24o
 #Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Wildfire" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Ofunato City, Iwate as wildfire incident is still razing
 https://hls.chew.jp/youtube/?video=IN7uN3DlMro
+#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Wildfire" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Ofunato City, Iwate as wildfire incident is still razing (TVI Feed)
+https://hls.chew.jp/youtube/?video=0YBXD1DFNXA
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quake Monitoring
 https://hls.chew.jp/youtube/?channel=@GlobalQuake
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini
