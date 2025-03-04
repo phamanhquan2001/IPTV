@@ -13,6 +13,10 @@ https://stream.vovmedia.vn/vov4dbscl
 https://hls.chew.jp/youtube/?channel=UC8Bfy0Ol7v-VF4lCE7rxuuQ
 #EXTINF:-1 tvg-id="xshn.vn",Xổ số Đại Phát
 https://hls.chew.jp/youtube/?channel=UCDWf6ZtQ6DDQHPWAlJSz4fw
+#EXTINF:-1 tvg-id="xshn.vn",Vietlott Live
+https://hls.chew.jp/youtube/?channel=@XoSoo
+#EXTINF:-1 tvg-id="xshn.vn",XSKT Miền Bắc
+https://hls.chew.jp/youtube/?channel=UCKObGbxbd5UljeF_QO9Q0og
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/47.png",HTV1 
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",Đồng Tháp 1
