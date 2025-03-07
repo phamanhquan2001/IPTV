@@ -71,7 +71,7 @@ https://hls.chew.jp/youtube/?video=379WIaZb6DQ
 
 #Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Wildfire" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Ofunato City as wildfire incident is still razing
-https://hls.chew.jp/youtube/?video=yvZkvm48yk0
+https://hls.chew.jp/youtube/?video=SiNcR693_QY
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Wildfire" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Ofunato City as wildfire incident is still razing (TVI Feed)
 https://hls.chew.jp/youtube/?video=0YBXD1DFNXA
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quake Monitoring
@@ -83,7 +83,6 @@ https://hls.chew.jp/youtube/?video=jn6_mhcqGxQ
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini (Feed #3)
 https://hls.chew.jp/youtube/?video=7C2Lv9XODho
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=OGYd9flAIKk
 https://hls.chew.jp/youtube/?video=yvZkvm48yk0
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #2)
 https://hls.chew.jp/youtube/?video=Bg07wbWZhfU
@@ -105,6 +104,18 @@ https://hls.chew.jp/youtube/?video=TUd7JORZeWo
 https://hls.chew.jp/youtube/?video=3krdhmBy3Kk
 
 #Blue Archive Fes Cam Feed
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live" tvg-logo="https://hololivesuperexpo2025.hololivepro.com/wp-content/themes/hololiveexpofes2025/images/header_logo.jpg",Hololive Super Expo 2025 - First Day Live
+https://hls.chew.jp/youtube/?video=wk3kGkYSRXs
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live" tvg-logo="https://hololivesuperexpo2025.hololivepro.com/wp-content/themes/hololiveexpofes2025/images/header_logo.jpg",Hololive 6th Fes Season Color Rise Harmony First Day - First Stage
+https://hls.chew.jp/youtube/?video=IKkSNj5uN6I
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live" tvg-logo="https://hololivesuperexpo2025.hololivepro.com/wp-content/themes/hololiveexpofes2025/images/header_logo.jpg",Hololive 6th Fes Season Color Rise Harmony First Day - Second Stage
+https://hls.chew.jp/youtube/?video=4C3kreEOk1Q
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live" tvg-logo="https://hololivesuperexpo2025.hololivepro.com/wp-content/themes/hololiveexpofes2025/images/header_logo.jpg",Hololive Super Expo 2025 - Second Day Live
+https://hls.chew.jp/youtube/?video=LL7V8ZLQQyc
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live" tvg-logo="https://hololivesuperexpo2025.hololivepro.com/wp-content/themes/hololiveexpofes2025/images/header_logo.jpg",Hololive 6th Fes Season Color Rise Harmony Second Day - Creators' Stage
+https://hls.chew.jp/youtube/?video=wCblx1C_j68
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live" tvg-logo="https://hololivesuperexpo2025.hololivepro.com/wp-content/themes/hololiveexpofes2025/images/header_logo.jpg",Hololive 6th Fes Season Color Rise Harmony Second Day - Third Stage
+https://hls.chew.jp/youtube/?video=3OkprzHcirU
 
 #Youtube News Live Stream
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Youtube News Live Stream" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",東森新聞
