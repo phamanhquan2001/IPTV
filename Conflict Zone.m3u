@@ -805,7 +805,7 @@ http://p1.cvtv.xyz:81/skn?token=live
 http://p1.cvtv.xyz:81/rt?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
 http://p1.cvtv.xyz:81/cgtn?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Phoenix Infonews
+#EXTINF:-1 group-title="Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Neptunia Infonews Channel (海王星衛視資訊台) / Phoenix InfoNews Channel (鳳凰衛視資訊台) - Phượng Hoàng Tin Tức
 http://p1.cvtv.xyz:81/phx?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World
 http://p1.cvtv.xyz:81/nhkw?token=live
