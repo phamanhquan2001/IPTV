@@ -68,16 +68,8 @@ https://hls.chew.jp/youtube/?video=Ee17TBEavhU
 https://hls.chew.jp/youtube/?video=379WIaZb6DQ
 
 #Live Cam
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quake Monitoring
-https://hls.chew.jp/youtube/?channel=@GlobalQuake
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini
-https://hls.chew.jp/youtube/?video=hDx2sBKFv_8
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini (Feed #2)
-https://hls.chew.jp/youtube/?video=jn6_mhcqGxQ
-#EXTINF:-1 tvg-id="675edb44ea20c" group-title="Santorini" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Santorini (Feed #3)
-https://hls.chew.jp/youtube/?video=7C2Lv9XODho
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://hls.chew.jp/youtube/?video=WR8uZ82fBSI
+https://hls.chew.jp/youtube/?video=A2KvahtKeF8
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Amazon" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://hls.chew.jp/youtube/?video=CludWJf1vbc
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",関越自動車道・東松山IC付近
@@ -400,9 +392,9 @@ https://tv.TruyenHinh.Click/DuLichVN/675edb3a28611/TruyenHinh.Click
 https://tv.TruyenHinh.Click/DuLichVN/675edb3a2860f/TruyenHinh.Click
 
 #EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
-https://hls.chew.jp/youtube/?channel=@SaudiQuranTv
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
-https://hls.chew.jp/youtube/?channel=@SaudiSunnahTv
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
 https://hls.chew.jp/youtube/?channel=@livebroadcastal-aqsa3717
 
@@ -535,6 +527,10 @@ https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="TeleLiban.lb",Yêmen Shabab Channel
 https://starmenajo.com/hls/yemenshabab/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlEkhbariya.sa",Al Ekhbariya (360p)
+https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlQaheraNews.eg",Al Qahera News (1080p) [Not 24/7]
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Alarabiya.ae",Al Arabiya (1080p)
@@ -782,7 +778,7 @@ https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.
 
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
 http://p1.cvtv.xyz:81/aj?token=live
-#EXTINF:-1 group-title="HTin tức quốc tế" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
+#EXTINF:-1 group-title="Tin tức Quốc Tế" tvg-id="BBCNews.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế" tvg-id="CNNInternational.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
 http://p1.cvtv.xyz:81/cnn?token=live
