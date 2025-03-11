@@ -391,12 +391,24 @@ https://tv.TruyenHinh.Click/DuLichVN/675edb3a28611/TruyenHinh.Click
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tv.TruyenHinh.Click/DuLichVN/675edb3a2860f/TruyenHinh.Click
 
-#EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-#EXTINF:-1 group-title="Makkah and Medina Live Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
 https://hls.chew.jp/youtube/?channel=@livebroadcastal-aqsa3717
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Razavi TV (Iran)
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Entrance Sector
+https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Shrine Sector
+https://stream01.gaplication.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Holy Shrines of Karbala (Iraq)
+https://hls.chew.jp/youtube/?channel=UCFHL7Ku2fj2FcMW1n6ILrhw
 
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
