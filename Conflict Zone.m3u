@@ -3,10 +3,6 @@
 http://49.188.116.214:9981/stream/channelid/1195027478?profile=pass
 
 #Sports Live
-#EXTINF:-1 tvg-id="163" group-title="Bóng chuyền Cúp Hoa Lư 2025" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/163/KenhCoBan",NBTV - Truyền Hình Ninh Bình
-https://tv.TruyenHinh.Click/CoBan/163/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="163" group-title="Bóng chuyền Cúp Hoa Lư 2025" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/163/KenhCoBan",NBTV - Truyền Hình Ninh Bình (Youtube)
-https://hls.chew.jp/youtube/?channel=@NinhBinhTV3
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Biwase Cup of Cycling 2025 Live",LoveLive Project Radio: µ'sic forever Live
 https://kathy.torontocast.com:2600/stream
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Xinghui",Xinghui Origami Cup Live (Strinova Live)
