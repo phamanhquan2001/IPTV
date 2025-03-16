@@ -32,12 +32,12 @@ https://www.youtube.com/channel/@SendoYuuhi/live
 #EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="Girls' Frontline UN Reporting Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",UN Human Rights Council - 31st Meeting - 58th Session of Human Rights Council
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Belgrade (Serbia) - Anti-goverment protests
-
+#EXTINF:-1 tvg-id="675edb44ea20c" tvg-group="#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Skopje (North Macedonia) - Report update from reporter teams of New Eridu Public Security after a nightclub fire incident which has killed at least 50 people
+https://www.youtube.com/watch?v=ZVam0wUlPUk
 
 #Live Cam
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Yashio" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://www.youtube.com/watch?v=SaxswzrWcew
+https://www.youtube.com/watch?v=OrHglAC0KhQ
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="Amazon" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://www.youtube.com/watch?v=CludWJf1vbc
 #EXTINF:-1 tvg-id="675edb44ea20c" group-title="ANN Live Cam" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",関越自動車道・東松山IC付近
@@ -364,7 +364,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
-https://www.youtube.com/@livebroadcastal-aqsa3717
+https://www.youtube.com/@livebroadcastal-aqsa3717/live
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Razavi TV (Iran)
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Entrance Sector
@@ -376,7 +376,7 @@ https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
 https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Holy Shrines of Karbala (Iraq)
-https://www.youtube.com/UCFHL7Ku2fj2FcMW1n6ILrhw
+https://www.youtube.com/UCFHL7Ku2fj2FcMW1n6ILrhw/live
 
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
@@ -788,171 +788,171 @@ http://p1.cvtv.xyz:81/bb?token=live
 http://p1.cvtv.xyz:81/cnbc?token=live
 
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
-https://www.youtube.com/@weathernews
+https://www.youtube.com/@weathernews/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Live from Bhutan National Assembly by Missilis Industry Meeting Committee
-https://www.youtube.com/UCPmoW3XMF3L5r7lJetO4UkQ
+https://www.youtube.com/UCPmoW3XMF3L5r7lJetO4UkQ/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",HTVTT (Live Sports Event)
-https://www.youtube.com/UC_OBG47Y3PswSHnMWSlrgZA
+https://www.youtube.com/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Youtube Live",LNTV1 Laos Live Event
-https://www.youtube.com/UCh8r4Noa2sL6QjOiuAOzUvg
+https://www.youtube.com/UCh8r4Noa2sL6QjOiuAOzUvg/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Tetra_characters.PNG/revision/latest/scale-to-width-down/250?cb=20211209210108",BBS Bhutan (Live National Council of Bhutan by Tetra Line Meeting Commitee)
-https://www.youtube.com/UCzZIEQX2fWAmsvztJjIb7eA
+https://www.youtube.com/UCzZIEQX2fWAmsvztJjIb7eA/live
 #EXTINF:-1 group-title="Youtube Live",BBS Channel 2 Bhutan
-https://www.youtube.com/UCWPola-KayVUJZstymaP4KQ
+https://www.youtube.com/UCWPola-KayVUJZstymaP4KQ/live
 #EXTINF:-1 group-title="Youtube Live",VFF Channel
-https://www.youtube.com/UCndcERoL9eG-XNljgUk1Gag
+https://www.youtube.com/UCndcERoL9eG-XNljgUk1Gag/live
 #EXTINF:-1 group-title="Youtube Live",HTV - Đài Hà Nội
-https://www.youtube.com/UC7_mgS3z22z0WhR7COJ8E2w
+https://www.youtube.com/UC7_mgS3z22z0WhR7COJ8E2w/live
 #EXTINF:-1 group-title="Youtube Live",Sa Bàn Quân Sự
-https://www.youtube.com/UCtB1cPy-OqJGozE_a8chlPw
+https://www.youtube.com/UCtB1cPy-OqJGozE_a8chlPw/live
 #EXTINF:-1 group-title="Youtube Live",Amazing Huế
-https://www.youtube.com/@AmazingHueVietnam
+https://www.youtube.com/@AmazingHueVietnam/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Quân Trần
-https://www.youtube.com/@IzumiNT
+https://www.youtube.com/@IzumiNT/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",CONCACAF Live
-https://www.youtube.com/@concacaf
+https://www.youtube.com/@concacaf/live
 #EXTINF:-1 group-title="Youtube Live",BWFTV Live (Badminton)
-https://www.youtube.com/@bwftv
+https://www.youtube.com/@bwftv/live
 #EXTINF:-1 group-title="Youtube Live",FIBA TV (Basketball)
-https://www.youtube.com/@FIBA
+https://www.youtube.com/@FIBA/live
 #EXTINF:-1 group-title="Youtube Live",VBA TV (Basketball)
-https://www.youtube.com/@VBAofficial
+https://www.youtube.com/@VBAofficial/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thuợng Hải (上海东方卫视)
-https://www.youtube.com/UCNWWdKniJyzQA3RiJ5LMoVw
+https://www.youtube.com/UCNWWdKniJyzQA3RiJ5LMoVw/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",Bandori / Hunan Television (湖南卫视)
-https://www.youtube.com/UCN-bFIdJM0gQlgX7h6LKcZA
+https://www.youtube.com/UCN-bFIdJM0gQlgX7h6LKcZA/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/XZTV_Chinese_%2816-9%29.png/revision/latest/scale-to-width-down/870?cb=20231225030133&path-prefix=vi",iDOLM@STER / Xizang Television - Truyền hình vệ tinh Tây Tạng (XZTV西藏卫视)
-https://www.youtube.com/UCe3uJZIjfYwNNR0S6W3GvEA
+https://www.youtube.com/UCe3uJZIjfYwNNR0S6W3GvEA/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/GZTV_logo.png",PROJECT vα-liv / Guizhou Television - Truyền hình vệ tinh Quý Châu (贵州卫视)
-https://www.youtube.com/UC7r2U8wAxsXHCMz9XlMWo4w
+https://www.youtube.com/UC7r2U8wAxsXHCMz9XlMWo4w/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Jilin_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20231104095340",LoveLive School Idol Project / Jilin Television - Truyền hình vệ tinh Cát Lâm (JLTV吉林卫视) (Broadcast Live from Studio S24 from Otonokizaka High School)
-https://www.youtube.com/UCTkyJbRhal4voLZxmdRSssQ
+https://www.youtube.com/UCTkyJbRhal4voLZxmdRSssQ/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.nximg.cn/file/20190510/27790005_133331887691_2.jpg",LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道频道)
-https://www.youtube.com/UCxUgvwrVfqVpyak4cuKcevQ
+https://www.youtube.com/UCxUgvwrVfqVpyak4cuKcevQ/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://bpic.51yuansu.com/pic3/cover/03/44/46/5ba2270c69684_610.jpg",Uma Musume Paka Chubu TV (ウマ娘 ぱかチューブっ!) / Fujian Longyan TV (福建龙岩市广播电视台)
-https://www.youtube.com/UCAWxPGGuIfWME2KTLUmSCHw
+https://www.youtube.com/UCAWxPGGuIfWME2KTLUmSCHw/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/HBTV_logo.png/220px-HBTV_logo.png",Shoujo Kageki Revue Starlight / Hubei Television - Truyền hình vệ tinh Hồ Bắc (HBTV湖北卫视)
-https://www.youtube.com/UCpcs9GP_NIBxzDfNTWolNPw
+https://www.youtube.com/UCpcs9GP_NIBxzDfNTWolNPw/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png",Idoly Pride Channel / Truyền hình vệ tinh Ninh Hạ (NXTV宁夏电视台)
-https://www.youtube.com/UCOuzrlRFF7aSkooORw0XWRA
+https://www.youtube.com/UCOuzrlRFF7aSkooORw0XWRA/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololive Productions / SCTV Sichuan Television - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
-https://www.youtube.com/UCJFZiqLMntJufDCHc6bQixg
+https://www.youtube.com/UCJFZiqLMntJufDCHc6bQixg/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololstars / SCTV Sichuan Television TV2 - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
-https://www.youtube.com/UCWsfcksUUpoEvhia0_ut0bA
+https://www.youtube.com/UCWsfcksUUpoEvhia0_ut0bA/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/5638/cut-20210422123939-1293480061_jpg_978_652_37140.jpg/1284",Nijisanji / JXTV Jiangxi Television - Truyền hình Vệ tinh tỉnh Giang Tây (JXTV江西卫视)
-https://www.youtube.com/UCX7YkU9nEeaoZbkVLVajcMg
+https://www.youtube.com/UCX7YkU9nEeaoZbkVLVajcMg/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Hypnosis Mic / HRB-TV Harbin - Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang (HRB-TV哈尔滨新闻综合频道)
-https://www.youtube.com/UCLQwZQHMTRqeeUSzZt5ii6g
+https://www.youtube.com/UCLQwZQHMTRqeeUSzZt5ii6g/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",AniLeap Radio from King Amusement Creative
-https://www.youtube.com/UCR61XV4ROXhkcfLO31hTGuw
+https://www.youtube.com/UCR61XV4ROXhkcfLO31hTGuw/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Jpop Radio from Avex
-https://www.youtube.com/UC1oPBUWifc0QOOY8DEKhLuQ
+https://www.youtube.com/UC1oPBUWifc0QOOY8DEKhLuQ/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive JP / UTRK Ala-Too 24
-https://www.youtube.com/UCmgf8DJrAXFnU7j3u0kklUQ
+https://www.youtube.com/UCmgf8DJrAXFnU7j3u0kklUQ/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive Global / UTRK Ala-Too 24
-https://www.youtube.com/UCsrnDYrkovQhCCE8kwKcvKQ
+https://www.youtube.com/UCsrnDYrkovQhCCE8kwKcvKQ/live
 #EXTINF:-1 group-title="Youtube Live",Goddess of Victory NIKKE JP
-https://www.youtube.com/UCvi81mltkpbF2UEvC_e864g
+https://www.youtube.com/UCvi81mltkpbF2UEvC_e864g/live
 #EXTINF:-1 group-title="Youtube Live",Honkai StarRail JP
-https://www.youtube.com/UCrzCIt5o0X88G9bCdrdbv6g
+https://www.youtube.com/UCrzCIt5o0X88G9bCdrdbv6g/live
 #EXTINF:-1 group-title="Youtube Live",Honkai Impact 3rd JP
-https://www.youtube.com/UCRmYt_U1lxTwMVQsDl_MFcA
+https://www.youtube.com/UCRmYt_U1lxTwMVQsDl_MFcA/live
 #EXTINF:-1 group-title="Youtube Live",Genshin JP
-https://www.youtube.com/UCrzCIt5o0X88G9bCdrdbv6g
+https://www.youtube.com/UCrzCIt5o0X88G9bCdrdbv6g/live
 #EXTINF:-1 group-title="Youtube Live",ZZZ JP
-https://www.youtube.com/UCt09C9DPSuOGpHoitbcyCIQ
+https://www.youtube.com/UCt09C9DPSuOGpHoitbcyCIQ/live
 #EXTINF:-1 group-title="Strinova Live",Strinova
-https://www.youtube.com/UCkM1U9GSsmsQImoiPovJvHA
+https://www.youtube.com/UCkM1U9GSsmsQImoiPovJvHA/live
 #EXTINF:-1 group-title="Strinova Live",AzurLane JP
-https://www.youtube.com/UCnUzafAtfncBzTml2muIUEQ
+https://www.youtube.com/UCnUzafAtfncBzTml2muIUEQ/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (NA)
-https://www.youtube.com/UCifCesg-EUkjKyQedaB3hRg
+https://www.youtube.com/UCifCesg-EUkjKyQedaB3hRg/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (Pacific)
-https://www.youtube.com/@VCTPacific
+https://www.youtube.com/@VCTPacific/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EMEA)
-https://www.youtube.com/UCp6n8d8Y8r3MwKNw_MMaouQ
+https://www.youtube.com/UCp6n8d8Y8r3MwKNw_MMaouQ/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (VN)
-https://www.youtube.com/UCcr4x4DBzRD0871Vq9QyyaA
+https://www.youtube.com/UCcr4x4DBzRD0871Vq9QyyaA/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EN)
-https://www.youtube.com/UCA1d3HFGFUmkKr2JIUA5Vlw
+https://www.youtube.com/UCA1d3HFGFUmkKr2JIUA5Vlw/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (JP)
-https://www.youtube.com/UCzVgCrOcBAWYEHTtVOMPAtw
+https://www.youtube.com/UCzVgCrOcBAWYEHTtVOMPAtw/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (AR)
-https://www.youtube.com/UC4PtOhCMlWl5N8RKSRCXSMw
+https://www.youtube.com/UC4PtOhCMlWl5N8RKSRCXSMw/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (ID)
-https://www.youtube.com/@VALORANTEsportsIndonesia
+https://www.youtube.com/@VALORANTEsportsIndonesia/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (BR)
-https://www.youtube.com/@valorantesportsbr
+https://www.youtube.com/@valorantesportsbr/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (CN)
-https://www.youtube.com/UCc1VJX_5Z2RdGi58XU4IfbA
+https://www.youtube.com/UCc1VJX_5Z2RdGi58XU4IfbA/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
-https://www.youtube.com/UCHwd3E6n7FGP4ZSIwFpMPuw
+https://www.youtube.com/UCHwd3E6n7FGP4ZSIwFpMPuw/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (KR)
-https://www.youtube.com/@ValorantEsportsKR
+https://www.youtube.com/@ValorantEsportsKR/live
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Korea Challengers)
-https://www.youtube.com/@ChallengersKorea
+https://www.youtube.com/@ChallengersKorea/live
 #EXTINF:-1 group-title="Valorant Live",Valorant Tiếng Việt
-https://www.youtube.com/@ValorantTiengViet
+https://www.youtube.com/@ValorantTiengViet/live
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Americas Challengers)
-https://www.youtube.com/@VALORANTChallengersAmericas
+https://www.youtube.com/@VALORANTChallengersAmericas/live
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (North/East Challengers)
-https://www.youtube.com/@valleague_ne
+https://www.youtube.com/@valleague_ne/live
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (FR Challengers)
 https://www.youtube.com/@VALORANTChallengersFr
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (South Asia)
-https://www.youtube.com/@VALORANTEsportsSA
+https://www.youtube.com/@VALORANTEsportsSA/live
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (DACH DE)
-https://www.youtube.com/@ChallengersDACH
+https://www.youtube.com/@ChallengersDACH/live
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Challengs Turkiye)
 https://www.youtube.com/@VALORANTChallengersTR
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (LATAM)
-https://www.youtube.com/@VALORANTEsportsLA
+https://www.youtube.com/@VALORANTEsportsLA/live
 #EXTINF:-1 group-title="League of Legends Live",LCP (VN)
-https://www.youtube.com/UChG2EWuXoW7Tgof35WjbsnQ
+https://www.youtube.com/UChG2EWuXoW7Tgof35WjbsnQ/live
 #EXTINF:-1 group-title="League of Legends Live",VCS Live
-https://www.youtube.com/@vcslmht
+https://www.youtube.com/@vcslmht/live
 #EXTINF:-1 group-title="League of Legends Live",LCP Live (EN)
-https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw
+https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
 #EXTINF:-1 group-title="League of Legends Live",LCP Live (JP)
-https://www.youtube.com/UCiN3B0QRdL4wn1TMJ_cJyMQ
+https://www.youtube.com/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (KR)
-https://www.youtube.com/UCw1DsweY9b2AKGjV4kGJP1A
+https://www.youtube.com/UCw1DsweY9b2AKGjV4kGJP1A/live
 #EXTINF:-1 group-title="League of Legends Live",LCK Global (KR)
-https://www.youtube.com/@LCKglobal
+https://www.youtube.com/@LCKglobal/live
 #EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
-https://www.youtube.com/UC48rkTlXjRd6pnqqBkdV0Mw
+https://www.youtube.com/UC48rkTlXjRd6pnqqBkdV0Mw/live
 #EXTINF:-1 group-title="League of Legends Live",LJL (JP)
-https://www.youtube.com/UCiN3B0QRdL4wn1TMJ_cJyMQ
+https://www.youtube.com/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
 #EXTINF:-1 group-title="League of Legends Live",LEC
-https://www.youtube.com/@LEC
+https://www.youtube.com/@LEC/live
 #EXTINF:-1 group-title="League of Legends Live",PCS (HK)
-https://www.youtube.com/UCYfC038eP_cm9WNo5Cv-tBg
+https://www.youtube.com/UCYfC038eP_cm9WNo5Cv-tBg/live
 #EXTINF:-1 group-title="eSports Live",ESL Counter Strike Live
-https://www.youtube.com/UCPq2ETz4aAGo2Z-8JisDPIA
+https://www.youtube.com/UCPq2ETz4aAGo2Z-8JisDPIA/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
-https://www.youtube.com/UC5O114-PQNYkurlTg6hekZw
+https://www.youtube.com/UC5O114-PQNYkurlTg6hekZw/live
 #EXTINF:-1 group-title="Youtube Live",WCS Nagoya Live
-https://www.youtube.com/UC5VBrQEonivcMLx8krq-CwQ
+https://www.youtube.com/UC5VBrQEonivcMLx8krq-CwQ/live
 #EXTINF:-1 group-title="Youtube Live",VFF Channel Live
-https://www.youtube.com/UCndcERoL9eG-XNljgUk1Gag
+https://www.youtube.com/UCndcERoL9eG-XNljgUk1Gag/live
 #EXTINF:-1 group-title="Youtube Live",IMSPORTS TV
-https://www.youtube.com/UCkVXcyTRC0U0ItRVh9itBpQ
+https://www.youtube.com/UCkVXcyTRC0U0ItRVh9itBpQ/live
 #EXTINF:-1 group-title="Youtube Live",Liên Quân Mobile
-https://www.youtube.com/UCpnQwjzvDm1MOMtZV2zkVpA
+https://www.youtube.com/UCpnQwjzvDm1MOMtZV2zkVpA/live
 #EXTINF:-1 group-title="Youtube Live",PUBG
-https://www.youtube.com/UCeX2iXaH63w3BZ8Wae_JdEA
+https://www.youtube.com/UCeX2iXaH63w3BZ8Wae_JdEA/live
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng Rổ
-https://www.youtube.com/UCtVG9Tb4tNRh-1Qz3LksCWg
+https://www.youtube.com/UCtVG9Tb4tNRh-1Qz3LksCWg/live
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng Đá
-https://www.youtube.com/UC4LvrpNXujjbGOS4RDvr41g
+https://www.youtube.com/UC4LvrpNXujjbGOS4RDvr41g/live
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng đá Việt
-https://www.youtube.com/UCljFFNaQoJWeP91Bz4m_3bw
+https://www.youtube.com/UCljFFNaQoJWeP91Bz4m_3bw/live
 #EXTINF:-1 group-title="Youtube Live",F eSports Live
-https://www.youtube.com/UCYa7ZvUk0JmN2no62AXEf5w
+https://www.youtube.com/UCYa7ZvUk0JmN2no62AXEf5w/live
 #EXTINF:-1 group-title="Youtube Live",VIRESA Live
-https://www.youtube.com/UCG3Y40V4X4uSRM_O6w8Taig
+https://www.youtube.com/UCG3Y40V4X4uSRM_O6w8Taig/live
 #EXTINF:-1 group-title="Youtube Live" tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/7833222/LINEStorePC/main.png?v=1",Seseren Live Illustration
-https://www.youtube.com/@Seseren_kr
+https://www.youtube.com/@Seseren_kr/live
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv1hd/KenhCoBan",VTV1 HD
 https://tv.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh
