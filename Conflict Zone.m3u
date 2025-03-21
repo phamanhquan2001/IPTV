@@ -2,6 +2,35 @@
 
 #Sports Live
 
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
+https://www.youtube.com/@livebroadcastal-aqsa3717/live
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Razavi TV (Iran)
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Entrance Sector
+https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Shrine Sector
+https://stream01.gaplication.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Holy Shrines of Karbala (Iraq)
+https://www.youtube.com/UCFHL7Ku2fj2FcMW1n6ILrhw/live
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamAsrTV.iq",Imam Asr TV (720p)
+https://iptv.imamasrtv.com/asrfa/playlist.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV1.iq",Imam Hussein TV 1 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV2.iq",Imam Hussein TV 2 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV3.iq",Imam Hussein TV 3 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV4.iq",Imam Hussein TV 4 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih4.m3u8
+
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",UN Human Rights Council - 40th Meeting 58th Session of Human Rights Council
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_i1znfsbw/tl/main/st/0/t/-RDXS1oKl6w4DwKD-S71cA/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2kxem5mc2J3L3RsL21haW4vc3QvMC90Ly1SRFhTMW9LbDZ3NER3S0QtUzcxY0EvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MjYzNDk5MH19fV19&Signature=UrfLX65rSf9ZmEg3Dc2RVFdLOds697b9DeF-8AThR2RrxrHuI7sik9Zj9FoKH5hwzV5un6LOZ9FvvtAz1YV1j99Q1DPdUMF15-rQvG8J4vt-DnQhYvuKx2RB9GbhzqLlIiiaGS8a4Xhn2RoLxRkAiElVdRTFwqea2NVsySAXKPAkG9zs8JpZc1Kk6-NJtcgh8T1PGK9S4Tk9jVgtg4v3Bxt8QKzV6Opxbsh8LnvftX8SJUqgB8fbOsFEHlksT451Ez-au6oEia2c1y1GSe6PAlvhKT8Zb~moZfce7Z-v6qB8H81RX5k0oRrBDFkqXRvH2i~x4i4yH4R0X8QEAWmk4Q__&Key-Pair-Id=K31ANTJBLNVBEC
