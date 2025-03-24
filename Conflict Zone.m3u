@@ -3,48 +3,10 @@
 #Sports Live
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Istanbul (Turkiye) - Protests over mayor's detention
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Istanbul (Turkiye) - Protesters rally in Istanbul after Turkey jails Mayor Ekrem Imamoglu
 https://www.youtube.com/watch?v=_YoZuHQtVLE
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Washington DC (USA) - State Department Briefing
-https://www.youtube.com/watch?v=Upm2RAQytKw
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Paris (France) - View camera from court building as French actor Gepard Depardieu is on his court trial 
-https://www.youtube.com/watch?v=rGE-penPHwo
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Washington DC (USA) - Trump holds cabinet meeting 
-https://www.youtube.com/watch?v=OkB1MnQjKvM
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Istanbul (Turkiye) - Protests over mayor's detention
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Istanbul (Turkiye) - College students protest the arrest of Istanbul mayor Ekrem Imamoglu
 https://www.youtube.com/watch?v=dLC2HcPav9A
-
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
-https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
-https://www.youtube.com/@livebroadcastal-aqsa3717/live
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Razavi TV (Iran)
-https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Entrance Sector
-https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Shrine Sector
-https://stream01.gaplication.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
-https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
-https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
-#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Holy Shrines of Karbala (Iraq)
-https://www.youtube.com/UCFHL7Ku2fj2FcMW1n6ILrhw/live
-#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamAsrTV.iq",Imam Asr TV (720p)
-https://iptv.imamasrtv.com/asrfa/playlist.m3u8
-#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV1.iq",Imam Hussein TV 1 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV2.iq",Imam Hussein TV 2 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV3.iq",Imam Hussein TV 3 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV4.iq",Imam Hussein TV 4 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih4.m3u8
-
-#Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",UN Security Council - Advancing adaptability in United Nations peace operations responding to new realities
 
 #Live Cam
 #EXTINF:-1  group-title="Wildifire",View from Okayama as wildfire is razing again few weeks after Iwate's Ofunato wildfire
@@ -130,6 +92,38 @@ https://www.youtube.com/watch?v=qhHlmcYv20w
 https://www.youtube.com/watch?v=e8IC_8iB5kY
 #EXTINF:-1  group-title="Japan Airport Cam",福島第‐福島第一原子力発電所
 https://www.youtube.com/watch?v=XoS2wFkKNrc
+
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
+https://www.youtube.com/@livebroadcastal-aqsa3717/live
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Razavi TV (Iran)
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Entrance Sector
+https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Shrine Sector
+https://stream01.gaplication.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Holy Shrines of Karbala (Iraq)
+https://www.youtube.com/UCFHL7Ku2fj2FcMW1n6ILrhw/live
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamAsrTV.iq",Imam Asr TV (720p)
+https://iptv.imamasrtv.com/asrfa/playlist.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV1.iq",Imam Hussein TV 1 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih1.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV2.iq",Imam Hussein TV 2 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV3.iq",Imam Hussein TV 3 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV4.iq",Imam Hussein TV 4 (1080p) [Not 24/7]
+https://live.imamhossaintv.com/live/ih4.m3u8
+
+#Girls' Frontline UN Reporting Live
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",UN Security Council - Advancing adaptability in United Nations peace operations responding to new realities
 
 #Blue Archive Fes Cam Feed
 
