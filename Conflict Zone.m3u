@@ -3,8 +3,10 @@
 #Sports Live
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Istanbul (Turkiye) - Protesters rally in Istanbul after Turkey jails Mayor Ekrem Imamoglu
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Manila (Philippines) - The House of Representatives holds the press briefing
+https://www.youtube.com/watch?v=AQ9-4oji344
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143" group-title="On-Site Stream",Manila (Philippines) - Malacañang holds press briefing with PCO Usec. Claire Castro
+https://www.youtube.com/watch?v=sdOPz7wNzr0
 #Live Cam
 #EXTINF:-1  group-title="Wildifire",View from Okayama as wildfire is razing again few weeks after Iwate's Ofunato wildfire
 https://www.youtube.com/watch?v=P1JaDTWlMFc
@@ -122,6 +124,8 @@ https://live.imamhossaintv.com/live/ih4.m3u8
 #Blue Archive Fes Cam Feed
 
 #Youtube News Live Stream
+#EXTINF:-1  group-title="Youtube News Live Stream",ABSCBN News
+https://www.youtube.com/@abscbnnews/live
 #EXTINF:-1  group-title="Youtube News Live Stream",東森新聞
 https://www.youtube.com/@newsebc/live
 #EXTINF:-1  group-title="Youtube News Live Stream",三立新聞
