@@ -4,6 +4,10 @@
 #Special Program
 #EXTINF:-1 group-title="Special Program",HSR 3.2 SP: Through the Petals in the Lands of Repose
 https://www.youtube.com/watch?v=tG_fexf8CW8
+#EXTINF:-1 group-title="Special Program",Nintendo Direct March 27 2025 Edition (EN)
+https://www.youtube.com/watch?v=9OqoRxXUjGA
+#EXTINF:-1 group-title="Special Program",Nintendo Direct March 27 2025 Edition (JP)
+https://www.youtube.com/watch?v=G8LKXsWBLVk
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://static.wikia.nocookie.net/zenless-zone-zero/images/d/dd/Faction_Hollow_Special_Operations_Section_6_Icon.png/revision/latest?cb=20240628053143",Tel Aviv (Israel) - Israelis protest as lawmakers meet over judicial law
@@ -1139,6 +1143,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616
 https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabyTV2.qa",Al Araby TV 2 (1080p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (480p)
+https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (360p)
+https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="pervy"group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://picon.ml/pervy.png",OPT1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
