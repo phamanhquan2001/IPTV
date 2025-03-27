@@ -130,8 +130,6 @@ https://www.youtube.com/watch?v=XoS2wFkKNrc
 https://media.tencam.cyl.nhk.jp/402/live_stream_1.m3u8
 #EXTINF:-1  group-title="Wildifire",Live cam from Uiseong-gun of South Korea as death toll from South Korea wildfires rises
 https://www.youtube.com/watch?v=sqN95MMv9Aw
-#EXTINF:-1  group-title="Wildifire",View from Okayama as wildfire is razing again few weeks after Iwate's Ofunato wildfire (Helicam)
-https://www.youtube.com/watch?v=sqN95MMv9Aw
 #EXTINF:-1  group-title="Wildifire",View from Okayama as wildfire is razing again few weeks after Iwate's Ofunato wildfire
 https://www.youtube.com/watch?v=ae1yFD9ca3A
 #EXTINF:-1  group-title="Wildfire",View from Okayama as wildfire is razing again few weeks after Iwate's Ofunato wildfire (Feed #2)
@@ -149,11 +147,17 @@ https://www.youtube.com/watch?v=kpEd-FgkhKA
 #EXTINF:-1  group-title="Wildifire",View from Seto Ohashi Bridge  as wildfire is razing again in Okayama few weeks after Iwate's Ofunato wildfire (Feed #2)
 https://www.youtube.com/@KBNkagawa/live
 #EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://www.youtube.com/watch?v=R7kPVJnPl2A
+https://www.youtube.com/watch?v=cuESItvBt8s
 #EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole (Feed #2)
 https://www.youtube.com/watch?v=ksEvBIs1fOI
 #EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://www.youtube.com/watch?v=CludWJf1vbc
+#EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
+https://www.youtube.com/watch?v=oG5zz9Sjw3E
+#EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #2)
+https://www.youtube.com/watch?v=Gd2Tm5jblbE
+#EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam
+https://www.youtube.com/watch?v=Q35i-Towo2g
 #EXTINF:-1  group-title="ANN Live Cam",関越自動車道・東松山IC付近
 https://www.youtube.com/watch?v=ZV3oCAKSNx0
 #EXTINF:-1  group-title="ANN Live Cam",中央自動車道・元八王子バス停付近
