@@ -10,10 +10,12 @@ http://aktv_stream1.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 http://vthanh.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ (みんなのＫＥＩＢＡ)
 http://vthanh.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",KTV Kansai Television / 関西テレビ (競馬BEAT)
+#EXTINF:-1 group-title="JRA / Kansai Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",KTV Kansai Television / 関西テレビ (競馬BEAT)
 http://luong.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="JRA / Kinki Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="sun_tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/SUN_TV_MNC-Group.svg/revision/latest/scale-to-width-down/1200?cb=20150420140705",SUN Television / サンテレビ (うまDOKI)
+#EXTINF:-1 group-title="JRA / Kansai Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="sun_tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/SUN_TV_MNC-Group.svg/revision/latest/scale-to-width-down/1200?cb=20150420140705",SUN Television / サンテレビ (うまDOKI)
 http://luong.utako.moe/suntv/index.m3u8
+#EXTINF:-1 group-title="JRA / Kansai Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="sun_tv" tvg-logo="https://i.namu.wiki/i/DTpXI6bjguEBRCPudoJ2cB0u6d-6-tvBKibBv3yh5osTToIopFSM_ZDlSplJDUmD9AeqOX2z0OavRw6cuiMorQ.svg",KBS Kyoto Television / KBS京都 (うまDOKI)
+http://luong.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TVTokyo / BSテレビ東 (ウイニング競馬)
 http://luong.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_fuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD / BSフジ (BSスーパーKEIBA)
