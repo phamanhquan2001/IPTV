@@ -2665,8 +2665,7 @@ http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-id="KoreanCentralTelevision.kp"tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://tv.nknews.org/tvdash/stream.mpd
+http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="31"tvg-name="港台電視 31"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/RTHK_TV_31A.svg/revision/latest?cb=20210325175806"group-title="Lastation Channel", RTHK 31
 https://live.hkdvb.com/hls/live/31.m3u8?token=680446446336548
