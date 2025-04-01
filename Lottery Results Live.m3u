@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/hBCG8yD.png" radio="true", VOH FM 99.9Mhz
-https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+https://tv.TruyenHinh.Click/RadioVN/Radio.VOHFm999/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/ITTPjxo.png" radio="true", VOH FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+https://tv.TruyenHinh.Click/RadioVN/Radio.VOHFm956/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/aJA9Yyb.png" radio="true", VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+https://tv.TruyenHinh.Click/RadioVN/Radio.VOHAm610/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png", VOV MINORITIES SERVICE MEKONG
-https://stream.vovmedia.vn/vov4dbscl
+https://tv.TruyenHinh.Click/RadioVN/Radio.vov4DBSCL/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="xshn.vn",Xổ số Hôm Nay
 https://www.youtube.com/channel/UC8Bfy0Ol7v-VF4lCE7rxuuQ/live
