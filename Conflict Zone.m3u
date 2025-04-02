@@ -1,14 +1,11 @@
 #EXTM3U
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Bangkok (Thailand) - Live camera from Sukhumvit Road Soi 19 Bangkok after the strong earthquake rattles Myanmar this afternoon (ANN Feed)
-https://wwww.youtube.com/watch?v=Q71sLS8h9a4
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Bangkok (Thailand) - Live camera from Sukhumvit Road Soi 11 Bangkok after the strong earthquake rattles Myanmar this afternoon (ANN Feed)
-https://www.youtube.com/watch?v=UemFRPrl1hk
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Bangkok (Thailand) - Search and Rescue mission continues for quake survivors
-https://www.youtube.com/watch?v=3v575IwJv38
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",House of Commons (UK) - The foreign minister David Lammy takes questions
-https://www.youtube.com/watch?v=9RiErhz8EqY
-
+https://www.youtube.com/watch?v=gy6h7TcrfTU
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Gaza (Palestine) - View of  Israel-Gaza border after Israel announced expansion of military operations
+https://www.youtube.com/watch?v=bkjoDTEfYz0
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA) - A view from White House on Trump "Liberation Day"
+https://www.youtube.com/watch?v=KtBvPMXNN3Q
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
@@ -153,11 +150,7 @@ https://www.youtube.com/watch?v=XoS2wFkKNrc
 
 #Live Cam
 #EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://www.youtube.com/watch?v=9SHxXh8_rLM
-#EXTINF:-1  group-title="Volcano",Live Camera from Miyazaki/Kagoshima as Mt. Shinmoedake has been erupted and Level 3 Eruption Alert is now in effective
-https://www.youtube.com/watch?v=HjhCdVqydjY
-#EXTINF:-1  group-title="Volcano",Live Camera from Miyazaki/Kagoshima as Mt. Shinmoedake has been erupted and Level 3 Eruption Alert is now in effective (Feed #2)
-https://www.youtube.com/watch?v=F0cIp2zIEBU&pp=ygUb5paw54eD5bKz44Op44Kk44OW44Kr44Oh44Op0gcJCb0Ag7Wk3p_U
+https://www.youtube.com/watch?v=d66xCsD81u0
 #EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://www.youtube.com/watch?v=TZ2gfqEDtDA
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
@@ -221,16 +214,8 @@ https://live.imamhossaintv.com/live/ih3.m3u8
 https://live.imamhossaintv.com/live/ih4.m3u8
 
 #Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",UN Human Rights Council - 54th Meeting 58th Session
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_6h2ljnwu/tl/main/st/0/t/8pIcXezwS3etFiG_rrQOyA/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzZoMmxqbnd1L3RsL21haW4vc3QvMC90LzhwSWNYZXp3UzNldEZpR19yclFPeUEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzY2OTQ4M319fV19&Signature=dC64EqiwWhttCWlPHjQ3PY3dMHNFLpooz2UbpY2T9Lv0pH-B1ck49Qb4QAqkIFqa~ZYvtfDbMCIuucKOEIaUpQuoSHw73Tx8vhehGSZBqevEqMBaRYJp7KFHJ-0U-FHqeHMf8xiqPeJ6z5hQ4OSPVVvsKS2vSyEYOd-8TeQdgDPQrzOMbPmtMb5c0iCvEMQBOutO2hVGjekAyUSQGVaHLjYOHjegahE7GDeTZZdNQP6qSsSp9daVYZ0iky5exEpfq8Z3egd10aLWXRCOH1sjEMSodux1Xk8p05kiyGrnzpu4kD5Idz0EdTo5vV68f9~rVPkFdJvg8ewPiqTC8Ro39w__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",UN Human Rights Council - 54th Meeting 58th Session (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_6h2ljnwu/tl/main/st/0/t/8pIcXezwS3etFiG_rrQOyA/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzZoMmxqbnd1L3RsL21haW4vc3QvMC90LzhwSWNYZXp3UzNldEZpR19yclFPeUEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzY2OTQ4M319fV19&Signature=dC64EqiwWhttCWlPHjQ3PY3dMHNFLpooz2UbpY2T9Lv0pH-B1ck49Qb4QAqkIFqa~ZYvtfDbMCIuucKOEIaUpQuoSHw73Tx8vhehGSZBqevEqMBaRYJp7KFHJ-0U-FHqeHMf8xiqPeJ6z5hQ4OSPVVvsKS2vSyEYOd-8TeQdgDPQrzOMbPmtMb5c0iCvEMQBOutO2hVGjekAyUSQGVaHLjYOHjegahE7GDeTZZdNQP6qSsSp9daVYZ0iky5exEpfq8Z3egd10aLWXRCOH1sjEMSodux1Xk8p05kiyGrnzpu4kD5Idz0EdTo5vV68f9~rVPkFdJvg8ewPiqTC8Ro39w__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meetings Event: Opening and High-level Policy Segment - Regional Forum 2025
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_jl3v1lgn/tl/main/st/0/t/0ohQVHejmjd02F398FAvbQ/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2psM3YxbGduL3RsL21haW4vc3QvMC90LzBvaFFWSGVqbWpkMDJGMzk4RkF2YlEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzY2OTU2MX19fV19&Signature=r5QK5tZkDwVVi35wZlFzkCLS4auiP3pt1NbBuN61weuLxaGl0-45wVl8SCqQbXg2Gp2B~TwdZSdSp3U1M35EZD3sE8GxRoy~FC80PSJ7-ODVCx9UeqIACkWwR2~pQ9UBMvIB0Lqpq9eT-aTZd4WnAcs2V274SB3lGnQruxqgnOmsBUpxFlwBsrQnRiSvi8~Bn9b7spqYrwbcyAdx4DINu~WwZRUt~rzzB5-31ZcydROD9-snTTpFWLWOhIe3iTqxDGwdG7wekNeybOkJWR0p5H5sndgz16hLZ8sXilFAVMTmirI7ZY4QPGJWtB7ITJmO8~3rW0vZFykXhPHDpEXzHw__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meetings Event: Opening and High-level Policy Segment - Regional Forum 2025 (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_jl3v1lgn/tl/main/st/0/t/0ohQVHejmjd02F398FAvbQ/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2psM3YxbGduL3RsL21haW4vc3QvMC90LzBvaFFWSGVqbWpkMDJGMzk4RkF2YlEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzY2OTU2MX19fV19&Signature=r5QK5tZkDwVVi35wZlFzkCLS4auiP3pt1NbBuN61weuLxaGl0-45wVl8SCqQbXg2Gp2B~TwdZSdSp3U1M35EZD3sE8GxRoy~FC80PSJ7-ODVCx9UeqIACkWwR2~pQ9UBMvIB0Lqpq9eT-aTZd4WnAcs2V274SB3lGnQruxqgnOmsBUpxFlwBsrQnRiSvi8~Bn9b7spqYrwbcyAdx4DINu~WwZRUt~rzzB5-31ZcydROD9-snTTpFWLWOhIe3iTqxDGwdG7wekNeybOkJWR0p5H5sndgz16hLZ8sXilFAVMTmirI7ZY4QPGJWtB7ITJmO8~3rW0vZFykXhPHDpEXzHw__&Key-Pair-Id=K31ANTJBLNVBEC
-
-#Blue Archive Fes Cam Feed
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meetings and Event - 2025 International Day of Conscience Celebration
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_g6sxqo9n/tl/main/st/0/t/edTyCdV-wnoeS_H0AtOWmg/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2c2c3hxbzluL3RsL21haW4vc3QvMC90L2VkVHlDZFYtd25vZVNfSDBBdE9XbWcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MzY4NDE5MH19fV19&Signature=nZF3d1TfTkDBrefKjCEDA8nRF4f-6QU9l7XHeloyIv1ofIrrti-GHdhTmJVwl1acxVTbW88ptmK-8iY4hZcOScUJfGhD9VbRgR2ZofWaIeUksF-8daN1-VYeyvTnShpmj0n1b0jB9rzuu6OjP2Wml4fh83~h~mZXlz9mc9rq3RrzaNmQGhf4iMhtiKQ44H0wPafa12subfQA3R3jz~Ec4sr4GvpiLCD1MI2isL3QNnqP569K7cp20rY2hoPZolKRwPmX42oB2~~j3016ynSKkjvyj1xbSAHBbusYqAP6LPdgs5o0Mw3FL2U-D5nHwQO5iwT0ybauoo179Z2N84l1-Q__&Key-Pair-Id=K31ANTJBLNVBEC
 
 #Youtube News Live Stream
 #EXTINF:-1  group-title="Youtube News Live Stream",ABSCBN News
