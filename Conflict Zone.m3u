@@ -1,13 +1,7 @@
 #EXTM3U
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Cập nhật và trực tiếp Quốc tang Nguyên chủ tịch Lào Khamtai Siphandone - LNTV1
-https://edge2.laotv.la/sc/Fdbfcd890988e402e837fc9274a014c25_1743764765_X2OBC4sMsyO-NZ7IS0CxuPwyhlaEwzvqDEYVtNxdXx0/tokenlive/LNTV1/manifest.mpd
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Seoul (South Korea) - Protesters opposing Yoon Suk Yeol is rallying near the Consitutional Court
-https://www.youtube.com/watch?v=9mpSAcoJx9Q
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Seoul (South Korea) - Protesters suppoerts Yoon Suk Yeol is rallying near the Presidential Palace
-https://www.youtube.com/watch?v=VTQlhR1pMwA
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Seoul (South Korea) - Restricted Area near Consitutional Court amid impeachment ruling
-https://www.youtube.com/watch?v=QdmLHP35csI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",NYSE (USA) - The stock market is siliding down again after China has announced 34% retaliatory tariffs
+https://www.youtube.com/watch?v=2Bp8jQDvq-A
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
