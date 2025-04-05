@@ -1,10 +1,11 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",2025 Dubai World Cup Live (in Arabic language)
+#EXTINF:-1 group-title="DWC2025 Live" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",2025 Dubai World Cup Live (in Arabic language)
 https://wwww.youtube.com/@DubaiRacingtv/live
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継) (Audio)
 https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/ecd841919704447dbb7d007717aad478/manifest_8_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継) (Muted)
-https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/ecd841919704447dbb7d007717aad478/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/ecd841919704447dbb7d007717aad478/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
+
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",JRA Main Feed Live
 https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/hls-live/1/7o9m416gor08x6ed/ARcFLyoZvHTzhYj2qJb8CSVa_1000_640x360.stream/chunklist.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TVTokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
