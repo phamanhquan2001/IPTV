@@ -1,7 +1,6 @@
 #EXTM3U
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA) - New York Stock Exchange (NYSE) opens, set for third day of losses amid tariff fallout
-https://www.youtube.com/watch?v=aGDO0fcQeSU
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",
 
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",31st Anniversary of The International Day of Reflection on the 1994 Genocide against the Tutsi in Rwanda
@@ -38,10 +37,8 @@ https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6c/manifest.m3u8
 #Special Program
 
 #Heaven Burns Red Philippines Reporting Live
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Senate resumes hearing on the arrest of ex-Pres. Rodrigo Duterte
-https://www.youtube.com/watch?v=UpQsRIYSR4o
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Senate probes into the proliferation of online sexual abuse and exploitation of children
-https://www.youtube.com/watch?v=1DcAmNZUVKc
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",House Tri-Comm resumes probe on fake news, trolls, and malicious vloggers
+https://www.youtube.com/watch?v=5IuzptCM3_Y
 
 #Airport Cam
 #EXTINF:-1  group-title="Airport Cam",World Airports around the world with ATC Live Audio Feed
