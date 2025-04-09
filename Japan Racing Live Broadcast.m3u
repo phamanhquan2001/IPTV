@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継) (Audio)
 https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/ecd841919704447dbb7d007717aad478/manifest_8_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継) (Muted)
