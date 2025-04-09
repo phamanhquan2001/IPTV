@@ -1,22 +1,22 @@
 #EXTM3U
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2
-https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+https://ncdn.telewebion.com/irinn2/playlist.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+https:/-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
-https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
+https:/-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (1080p)
-https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
+https:/-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",C-SPAN 2
-https://tvpass.org/live/CSPAN2/sd
+https://tvpass.org/CSPAN2/sd
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA) - The reaction from NYSE as all Wall Street indices has suddenly going up after hearing that the US President Donald Trump has announced 90-day tariff pause but excluding china
-https://www.youtube.com/watch?v=KfcXRvdgtE8
+https://yt-hls-get-v3.x0.to/youtube/?video=KfcXRvdgtE8
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA) - Trump trade rep Jamieson Greer testifies before House committee
-https://www.youtube.com/watch?v=4s9JBcnM9jI
+https://yt-hls-get-v3.x0.to/youtube/?video=4s9JBcnM9jI
 
 #Heaven Burns Red Philippines Reporting Live
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",
@@ -25,29 +25,29 @@ https://www.youtube.com/watch?v=4s9JBcnM9jI
 
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meeting and Event - 4th Meeting of Group of Experts on National Accounts 2025
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_m5d0it08/tl/main/st/0/t/BfiLqecfcknd-b5nRbewdw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX201ZDBpdDA4L3RsL21haW4vc3QvMC90L0JmaUxxZWNmY2tuZC1iNW5SYmV3ZHcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI4ODczOH19fV19&Signature=T8ivcg2HXnBAK2ijbw6DiSFnG7gGftsECeKAsI~HuKHcRoQHX0FwdtRw1jp-fP2FF0THdOA6GEJVUmdAoBt1Nq4fY3IhR7l~u-meEKKxxIeMEH5vEEit1LA7uN9HKUDA2FEZNrSEDbTxa3Mb6jxcZtAqQBtIbh151bYuwsaf-mEaAMCW5J7nd1fOJJrff8~42IEOn0Kib2sJbtmRXu3n~AvR~7hio-GpLVz1qi01G19wOwz8ga~5lmWGIu76VoETlMxPChLwxG6FB1Akkj~B7pErZcF8ryk2D8i77m8WOpV4MQIqll-m38UHuUK-Z~UQsFByvzHtuYMeTtIuimWsTg__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_m5d0it08/tl/main/st/0/t/BfiLqecfcknd-b5nRbewdw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX201ZDBpdDA4L3RsL21haW4vc3QvMC90L0JmaUxxZWNmY2tuZC1iNW5SYmV3ZHcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI4ODczOH19fV19&Signature=T8ivcg2HXnBAK2ijbw6DiSFnG7gGftsECeKAsI~HuKHcRoQHX0FwdtRw1jp-fP2FF0THdOA6GEJVUmdAoBt1Nq4fY3IhR7l~u-meEKKxxIeMEH5vEEit1LA7uN9HKUDA2FEZNrSEDbTxa3Mb6jxcZtAqQBtIbh151bYuwsaf-mEaAMCW5J7nd1fOJJrff8~42IEOn0Kib2sJbtmRXu3n~AvR~7hio-GpLVz1qi01G19wOwz8ga~5lmWGIu76VoETlMxPChLwxG6FB1Akkj~B7pErZcF8ryk2D8i77m8WOpV4MQIqll-m38UHuUK-Z~UQsFByvzHtuYMeTtIuimWsTg__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meeting and Event - 4th Meeting, Group of Experts on National Accounts 2025 (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_m5d0it08/tl/main/st/0/t/BfiLqecfcknd-b5nRbewdw/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX201ZDBpdDA4L3RsL21haW4vc3QvMC90L0JmaUxxZWNmY2tuZC1iNW5SYmV3ZHcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI4ODczOH19fV19&Signature=T8ivcg2HXnBAK2ijbw6DiSFnG7gGftsECeKAsI~HuKHcRoQHX0FwdtRw1jp-fP2FF0THdOA6GEJVUmdAoBt1Nq4fY3IhR7l~u-meEKKxxIeMEH5vEEit1LA7uN9HKUDA2FEZNrSEDbTxa3Mb6jxcZtAqQBtIbh151bYuwsaf-mEaAMCW5J7nd1fOJJrff8~42IEOn0Kib2sJbtmRXu3n~AvR~7hio-GpLVz1qi01G19wOwz8ga~5lmWGIu76VoETlMxPChLwxG6FB1Akkj~B7pErZcF8ryk2D8i77m8WOpV4MQIqll-m38UHuUK-Z~UQsFByvzHtuYMeTtIuimWsTg__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_m5d0it08/tl/main/st/0/t/BfiLqecfcknd-b5nRbewdw/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX201ZDBpdDA4L3RsL21haW4vc3QvMC90L0JmaUxxZWNmY2tuZC1iNW5SYmV3ZHcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI4ODczOH19fV19&Signature=T8ivcg2HXnBAK2ijbw6DiSFnG7gGftsECeKAsI~HuKHcRoQHX0FwdtRw1jp-fP2FF0THdOA6GEJVUmdAoBt1Nq4fY3IhR7l~u-meEKKxxIeMEH5vEEit1LA7uN9HKUDA2FEZNrSEDbTxa3Mb6jxcZtAqQBtIbh151bYuwsaf-mEaAMCW5J7nd1fOJJrff8~42IEOn0Kib2sJbtmRXu3n~AvR~7hio-GpLVz1qi01G19wOwz8ga~5lmWGIu76VoETlMxPChLwxG6FB1Akkj~B7pErZcF8ryk2D8i77m8WOpV4MQIqll-m38UHuUK-Z~UQsFByvzHtuYMeTtIuimWsTg__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",URNC Human Rights Treaty Bodies Live Report - 2177th Meeting 82nd Session of Committee Against Torture (CAT)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_vp8g7q8f/tl/main/st/0/t/WHyGxAt9u_COBMWuqJCP8Q/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3ZwOGc3cThmL3RsL21haW4vc3QvMC90L1dIeUd4QXQ5dV9DT0JNV3VxSkNQOFEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5MjY3OX19fV19&Signature=lAeVpEECj5vCt90HNiJARFMZ09RkXv8zCj8wzk2Wa8eOyivoSCjivvm4dJQhVFv4wp3MyyZ~6SYqw7AemzGWp1XSkoAQKezzhDHFIriMyceZB0RPqiX0UiZNogdLCUK6Q5Wq9sZeVwxPm4OerQZGrxHViGd-cbUmZwvVKKKdtryNRxFq-0yuahDfVv5H1WJe9UoTEUVgX9mUWpCmExGeXqlLpi9rASXgg9yZneGW-L7D~0-g~heZZf~NGwI9QHGECdrztpCn~QOxOPMNq3bEylJhjjgWosLYXGdCrS2LvbzC3f9jMF1FsOSlJ276J44Itw8zoUSHvpJDJW91Zuit5Q__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_vp8g7q8f/tl/main/st/0/t/WHyGxAt9u_COBMWuqJCP8Q/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3ZwOGc3cThmL3RsL21haW4vc3QvMC90L1dIeUd4QXQ5dV9DT0JNV3VxSkNQOFEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5MjY3OX19fV19&Signature=lAeVpEECj5vCt90HNiJARFMZ09RkXv8zCj8wzk2Wa8eOyivoSCjivvm4dJQhVFv4wp3MyyZ~6SYqw7AemzGWp1XSkoAQKezzhDHFIriMyceZB0RPqiX0UiZNogdLCUK6Q5Wq9sZeVwxPm4OerQZGrxHViGd-cbUmZwvVKKKdtryNRxFq-0yuahDfVv5H1WJe9UoTEUVgX9mUWpCmExGeXqlLpi9rASXgg9yZneGW-L7D~0-g~heZZf~NGwI9QHGECdrztpCn~QOxOPMNq3bEylJhjjgWosLYXGdCrS2LvbzC3f9jMF1FsOSlJ276J44Itw8zoUSHvpJDJW91Zuit5Q__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",URNC Human Rights Treaty Bodies Live Report - 2177th Meeting 82nd Session of Committee Against Torture (CAT) (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_vp8g7q8f/tl/main/st/0/t/WHyGxAt9u_COBMWuqJCP8Q/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3ZwOGc3cThmL3RsL21haW4vc3QvMC90L1dIeUd4QXQ5dV9DT0JNV3VxSkNQOFEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5MjY3OX19fV19&Signature=lAeVpEECj5vCt90HNiJARFMZ09RkXv8zCj8wzk2Wa8eOyivoSCjivvm4dJQhVFv4wp3MyyZ~6SYqw7AemzGWp1XSkoAQKezzhDHFIriMyceZB0RPqiX0UiZNogdLCUK6Q5Wq9sZeVwxPm4OerQZGrxHViGd-cbUmZwvVKKKdtryNRxFq-0yuahDfVv5H1WJe9UoTEUVgX9mUWpCmExGeXqlLpi9rASXgg9yZneGW-L7D~0-g~heZZf~NGwI9QHGECdrztpCn~QOxOPMNq3bEylJhjjgWosLYXGdCrS2LvbzC3f9jMF1FsOSlJ276J44Itw8zoUSHvpJDJW91Zuit5Q__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_vp8g7q8f/tl/main/st/0/t/WHyGxAt9u_COBMWuqJCP8Q/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3ZwOGc3cThmL3RsL21haW4vc3QvMC90L1dIeUd4QXQ5dV9DT0JNV3VxSkNQOFEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5MjY3OX19fV19&Signature=lAeVpEECj5vCt90HNiJARFMZ09RkXv8zCj8wzk2Wa8eOyivoSCjivvm4dJQhVFv4wp3MyyZ~6SYqw7AemzGWp1XSkoAQKezzhDHFIriMyceZB0RPqiX0UiZNogdLCUK6Q5Wq9sZeVwxPm4OerQZGrxHViGd-cbUmZwvVKKKdtryNRxFq-0yuahDfVv5H1WJe9UoTEUVgX9mUWpCmExGeXqlLpi9rASXgg9yZneGW-L7D~0-g~heZZf~NGwI9QHGECdrztpCn~QOxOPMNq3bEylJhjjgWosLYXGdCrS2LvbzC3f9jMF1FsOSlJ276J44Itw8zoUSHvpJDJW91Zuit5Q__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",URNC Human Rights Treaty Bodies Live Report - 596th Meeting 40th Session of Committee on the Protection of All Migrant Workers (CMW)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_g0clmkm3/tl/main/st/0/t/dohlzsi_NOjRTaw1BY87Kw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2cwY2xta20zL3RsL21haW4vc3QvMC90L2RvaGx6c2lfTk9qUlRhdzFCWTg3S3cvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5Mjg0MH19fV19&Signature=kUDCsP1xGpnNeknozVodf7aCgwe9rPIq3jWP3oLldetewBl2mSz0fZgFfRyY8SW-6ZMH0d0ReQeq6Ag5zqq14b1BQx7wvHWKK1oHJ1D4e6gMJaEWUQOcS5XSIXysl0rxe9mf3Dl7PY3z~kLW-Vf8jTj1DmmttN~zI-cIdrfchcAawGVU8pR-ThYWnFZRmWNmEsYRrxucWlnFZFkposRuJ3QJtx~d0q4x1Cyz64sB3O2-i3E5q4zL4n58Jz8L2Up5CMXBOHVG6JEPvUp8409Xn1xfPn4uLfAyNyVd8dPAl6u3bhVrKwi4VlA7LLLJ8Bef484iCpMAkwc~nXA1V-zlmw__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_g0clmkm3/tl/main/st/0/t/dohlzsi_NOjRTaw1BY87Kw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2cwY2xta20zL3RsL21haW4vc3QvMC90L2RvaGx6c2lfTk9qUlRhdzFCWTg3S3cvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5Mjg0MH19fV19&Signature=kUDCsP1xGpnNeknozVodf7aCgwe9rPIq3jWP3oLldetewBl2mSz0fZgFfRyY8SW-6ZMH0d0ReQeq6Ag5zqq14b1BQx7wvHWKK1oHJ1D4e6gMJaEWUQOcS5XSIXysl0rxe9mf3Dl7PY3z~kLW-Vf8jTj1DmmttN~zI-cIdrfchcAawGVU8pR-ThYWnFZRmWNmEsYRrxucWlnFZFkposRuJ3QJtx~d0q4x1Cyz64sB3O2-i3E5q4zL4n58Jz8L2Up5CMXBOHVG6JEPvUp8409Xn1xfPn4uLfAyNyVd8dPAl6u3bhVrKwi4VlA7LLLJ8Bef484iCpMAkwc~nXA1V-zlmw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",URNC Human Rights Treaty Bodies Live Report - 596th Meeting 40th Session of Committee on the Protection of All Migrant Workers (CMW) (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_g0clmkm3/tl/main/st/0/t/dohlzsi_NOjRTaw1BY87Kw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2cwY2xta20zL3RsL21haW4vc3QvMC90L2RvaGx6c2lfTk9qUlRhdzFCWTg3S3cvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5Mjg0MH19fV19&Signature=kUDCsP1xGpnNeknozVodf7aCgwe9rPIq3jWP3oLldetewBl2mSz0fZgFfRyY8SW-6ZMH0d0ReQeq6Ag5zqq14b1BQx7wvHWKK1oHJ1D4e6gMJaEWUQOcS5XSIXysl0rxe9mf3Dl7PY3z~kLW-Vf8jTj1DmmttN~zI-cIdrfchcAawGVU8pR-ThYWnFZRmWNmEsYRrxucWlnFZFkposRuJ3QJtx~d0q4x1Cyz64sB3O2-i3E5q4zL4n58Jz8L2Up5CMXBOHVG6JEPvUp8409Xn1xfPn4uLfAyNyVd8dPAl6u3bhVrKwi4VlA7LLLJ8Bef484iCpMAkwc~nXA1V-zlmw__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_g0clmkm3/tl/main/st/0/t/dohlzsi_NOjRTaw1BY87Kw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2cwY2xta20zL3RsL21haW4vc3QvMC90L2RvaGx6c2lfTk9qUlRhdzFCWTg3S3cvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5Mjg0MH19fV19&Signature=kUDCsP1xGpnNeknozVodf7aCgwe9rPIq3jWP3oLldetewBl2mSz0fZgFfRyY8SW-6ZMH0d0ReQeq6Ag5zqq14b1BQx7wvHWKK1oHJ1D4e6gMJaEWUQOcS5XSIXysl0rxe9mf3Dl7PY3z~kLW-Vf8jTj1DmmttN~zI-cIdrfchcAawGVU8pR-ThYWnFZRmWNmEsYRrxucWlnFZFkposRuJ3QJtx~d0q4x1Cyz64sB3O2-i3E5q4zL4n58Jz8L2Up5CMXBOHVG6JEPvUp8409Xn1xfPn4uLfAyNyVd8dPAl6u3bhVrKwi4VlA7LLLJ8Bef484iCpMAkwc~nXA1V-zlmw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",URNC Human Rights Treaty Bodies Live Report - 596th Meeting 40th Session of Committee on the Protection of All Migrant Workers (CMW)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_g0clmkm3/tl/main/st/0/t/dohlzsi_NOjRTaw1BY87Kw/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2cwY2xta20zL3RsL21haW4vc3QvMC90L2RvaGx6c2lfTk9qUlRhdzFCWTg3S3cvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5Mjg0MH19fV19&Signature=kUDCsP1xGpnNeknozVodf7aCgwe9rPIq3jWP3oLldetewBl2mSz0fZgFfRyY8SW-6ZMH0d0ReQeq6Ag5zqq14b1BQx7wvHWKK1oHJ1D4e6gMJaEWUQOcS5XSIXysl0rxe9mf3Dl7PY3z~kLW-Vf8jTj1DmmttN~zI-cIdrfchcAawGVU8pR-ThYWnFZRmWNmEsYRrxucWlnFZFkposRuJ3QJtx~d0q4x1Cyz64sB3O2-i3E5q4zL4n58Jz8L2Up5CMXBOHVG6JEPvUp8409Xn1xfPn4uLfAyNyVd8dPAl6u3bhVrKwi4VlA7LLLJ8Bef484iCpMAkwc~nXA1V-zlmw__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_g0clmkm3/tl/main/st/0/t/dohlzsi_NOjRTaw1BY87Kw/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2cwY2xta20zL3RsL21haW4vc3QvMC90L2RvaGx6c2lfTk9qUlRhdzFCWTg3S3cvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5Mjg0MH19fV19&Signature=kUDCsP1xGpnNeknozVodf7aCgwe9rPIq3jWP3oLldetewBl2mSz0fZgFfRyY8SW-6ZMH0d0ReQeq6Ag5zqq14b1BQx7wvHWKK1oHJ1D4e6gMJaEWUQOcS5XSIXysl0rxe9mf3Dl7PY3z~kLW-Vf8jTj1DmmttN~zI-cIdrfchcAawGVU8pR-ThYWnFZRmWNmEsYRrxucWlnFZFkposRuJ3QJtx~d0q4x1Cyz64sB3O2-i3E5q4zL4n58Jz8L2Up5CMXBOHVG6JEPvUp8409Xn1xfPn4uLfAyNyVd8dPAl6u3bhVrKwi4VlA7LLLJ8Bef484iCpMAkwc~nXA1V-zlmw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Makiatto's Security Council Media Stakeout Live on Somalia and others issues
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_1z6yw0q3/tl/main/st/0/t/ge5jXWy63b94ZlxAnzZC9w/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzF6Nnl3MHEzL3RsL21haW4vc3QvMC90L2dlNWpYV3k2M2I5NFpseEFuelpDOXcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5MzQyMH19fV19&Signature=FoB8vLkXPIzY8cr91L9Kj~-pAgDR841N05p3NE-xXk3C4zWONa16-vsIutrNCVo8DeD3DGM3JOhJPJlADh-i8cczLCohPt03GEGjS8CElq3hk4JYmRY0hiziy8-zBzfnWdCpFppoy9yOtgql98u33IO6Ep6H6TmQ1rEEe~lUoDrWabMg0zgdU1C6KMvAmx-QySIrp7adGoXZN3b6vrPZZ0FkcKTRlJgc4ZWiO2xq2boR0qv9yUVvLUfHnP0Ls2TWCoaRuumhHBnvZzfV1T1kme7exY62Z3m8RFpcNj~679pCjLlq0LR~HVH5j1YGkOXIs3ecMIxnJjM1G-wpsSa1Ng__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_1z6yw0q3/tl/main/st/0/t/ge5jXWy63b94ZlxAnzZC9w/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzF6Nnl3MHEzL3RsL21haW4vc3QvMC90L2dlNWpYV3k2M2I5NFpseEFuelpDOXcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5MzQyMH19fV19&Signature=FoB8vLkXPIzY8cr91L9Kj~-pAgDR841N05p3NE-xXk3C4zWONa16-vsIutrNCVo8DeD3DGM3JOhJPJlADh-i8cczLCohPt03GEGjS8CElq3hk4JYmRY0hiziy8-zBzfnWdCpFppoy9yOtgql98u33IO6Ep6H6TmQ1rEEe~lUoDrWabMg0zgdU1C6KMvAmx-QySIrp7adGoXZN3b6vrPZZ0FkcKTRlJgc4ZWiO2xq2boR0qv9yUVvLUfHnP0Ls2TWCoaRuumhHBnvZzfV1T1kme7exY62Z3m8RFpcNj~679pCjLlq0LR~HVH5j1YGkOXIs3ecMIxnJjM1G-wpsSa1Ng__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meeting Event Live - 6th Meeting 58th session of the Commission on Population and Development (CPD58)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_2jqblv8j/tl/main/st/0/t/TqB88cjjbhlSgH0-aQYOrQ/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzJqcWJsdjhqL3RsL21haW4vc3QvMC90L1RxQjg4Y2pqYmhsU2dIMC1hUVlPclEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODE4NH19fV19&Signature=aHxDOqMRENjtU5F~DV2dy3NLjRqP-XmzJ-D2Z8REji1ql9gP1UfcDNpf-FH7~HVs0gQoi55euWcb7I3azV4b5EtkbJjWJYN6iGW1KXq~HZqN~7AFHrb~KRP05TK50nCorvx23ozEP47GZWpYImF8ckQCErZ0pV46ts-Dzc4eY3zrn-1kWa8IVwEKvRvwd1EjnLCMcp2QVHCrXmQjLGRNmjDBn4FbcNL3Fpr3KlXcozx7TQJAdvwGxfOZWAwHBCJfO0TBbpOvdGFpZMxK-y8ry6PwDu0y3lAsMMc1X~TbOVbrR91QNSjDd5ZAucdBXgZ3f475X2Sas89CazidAK4Gaw__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_2jqblv8j/tl/main/st/0/t/TqB88cjjbhlSgH0-aQYOrQ/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzJqcWJsdjhqL3RsL21haW4vc3QvMC90L1RxQjg4Y2pqYmhsU2dIMC1hUVlPclEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODE4NH19fV19&Signature=aHxDOqMRENjtU5F~DV2dy3NLjRqP-XmzJ-D2Z8REji1ql9gP1UfcDNpf-FH7~HVs0gQoi55euWcb7I3azV4b5EtkbJjWJYN6iGW1KXq~HZqN~7AFHrb~KRP05TK50nCorvx23ozEP47GZWpYImF8ckQCErZ0pV46ts-Dzc4eY3zrn-1kWa8IVwEKvRvwd1EjnLCMcp2QVHCrXmQjLGRNmjDBn4FbcNL3Fpr3KlXcozx7TQJAdvwGxfOZWAwHBCJfO0TBbpOvdGFpZMxK-y8ry6PwDu0y3lAsMMc1X~TbOVbrR91QNSjDd5ZAucdBXgZ3f475X2Sas89CazidAK4Gaw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meeting Event Live - 6th Meeting 58th session of the Commission on Population and Development (CPD58) (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_2jqblv8j/tl/main/st/0/t/TqB88cjjbhlSgH0-aQYOrQ/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzJqcWJsdjhqL3RsL21haW4vc3QvMC90L1RxQjg4Y2pqYmhsU2dIMC1hUVlPclEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODE4NH19fV19&Signature=aHxDOqMRENjtU5F~DV2dy3NLjRqP-XmzJ-D2Z8REji1ql9gP1UfcDNpf-FH7~HVs0gQoi55euWcb7I3azV4b5EtkbJjWJYN6iGW1KXq~HZqN~7AFHrb~KRP05TK50nCorvx23ozEP47GZWpYImF8ckQCErZ0pV46ts-Dzc4eY3zrn-1kWa8IVwEKvRvwd1EjnLCMcp2QVHCrXmQjLGRNmjDBn4FbcNL3Fpr3KlXcozx7TQJAdvwGxfOZWAwHBCJfO0TBbpOvdGFpZMxK-y8ry6PwDu0y3lAsMMc1X~TbOVbrR91QNSjDd5ZAucdBXgZ3f475X2Sas89CazidAK4Gaw__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_2jqblv8j/tl/main/st/0/t/TqB88cjjbhlSgH0-aQYOrQ/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzJqcWJsdjhqL3RsL21haW4vc3QvMC90L1RxQjg4Y2pqYmhsU2dIMC1hUVlPclEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODE4NH19fV19&Signature=aHxDOqMRENjtU5F~DV2dy3NLjRqP-XmzJ-D2Z8REji1ql9gP1UfcDNpf-FH7~HVs0gQoi55euWcb7I3azV4b5EtkbJjWJYN6iGW1KXq~HZqN~7AFHrb~KRP05TK50nCorvx23ozEP47GZWpYImF8ckQCErZ0pV46ts-Dzc4eY3zrn-1kWa8IVwEKvRvwd1EjnLCMcp2QVHCrXmQjLGRNmjDBn4FbcNL3Fpr3KlXcozx7TQJAdvwGxfOZWAwHBCJfO0TBbpOvdGFpZMxK-y8ry6PwDu0y3lAsMMc1X~TbOVbrR91QNSjDd5ZAucdBXgZ3f475X2Sas89CazidAK4Gaw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meeting Event Live: 24th session of the Committee of Experts on Public Administration - Economic and Social Council
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_fuph6wnj/tl/main/st/0/t/wBim3Weoq-HuCvVjlUuVRw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2Z1cGg2d25qL3RsL21haW4vc3QvMC90L3dCaW0zV2VvcS1IdUN2VmpsVXVWUncvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODMzMn19fV19&Signature=Q89lcOWTxPATx4PQjoYYO~VAINU6Q2raeQGj17YuchyP6MkDx-SYTAsqiJ4mDVdtJzA0cUNDz6IQIO2xE32pIDW9AyILhsfG5RVprtZ8KwtJq0oTDl7~XMfcSqaMgpOrE5dHXkzSkhGB10A-pcRryQfWdXm1WDI-Aejq9mvaz9TCt4PL4MuPi18BY8IP1Z37KVbBuO3QHh77YuFYj7XFeOhC4pfEYwdY96EYg7xApIUxdRHPVTuosi9hB~SZBifoUOT87LkqTIol69lTLpxQYs-tj3jKBTPkNuYFHssnJWU9-Bj9zuXIvt8WclJDbd-Iq2JDCoKydGduai29P8Abug__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_fuph6wnj/tl/main/st/0/t/wBim3Weoq-HuCvVjlUuVRw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2Z1cGg2d25qL3RsL21haW4vc3QvMC90L3dCaW0zV2VvcS1IdUN2VmpsVXVWUncvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODMzMn19fV19&Signature=Q89lcOWTxPATx4PQjoYYO~VAINU6Q2raeQGj17YuchyP6MkDx-SYTAsqiJ4mDVdtJzA0cUNDz6IQIO2xE32pIDW9AyILhsfG5RVprtZ8KwtJq0oTDl7~XMfcSqaMgpOrE5dHXkzSkhGB10A-pcRryQfWdXm1WDI-Aejq9mvaz9TCt4PL4MuPi18BY8IP1Z37KVbBuO3QHh77YuFYj7XFeOhC4pfEYwdY96EYg7xApIUxdRHPVTuosi9hB~SZBifoUOT87LkqTIol69lTLpxQYs-tj3jKBTPkNuYFHssnJWU9-Bj9zuXIvt8WclJDbd-Iq2JDCoKydGduai29P8Abug__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Meeting Event Live: 24th session of the Committee of Experts on Public Administration - Economic and Social Council (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_fuph6wnj/tl/main/st/0/t/wBim3Weoq-HuCvVjlUuVRw/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2Z1cGg2d25qL3RsL21haW4vc3QvMC90L3dCaW0zV2VvcS1IdUN2VmpsVXVWUncvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODMzMn19fV19&Signature=Q89lcOWTxPATx4PQjoYYO~VAINU6Q2raeQGj17YuchyP6MkDx-SYTAsqiJ4mDVdtJzA0cUNDz6IQIO2xE32pIDW9AyILhsfG5RVprtZ8KwtJq0oTDl7~XMfcSqaMgpOrE5dHXkzSkhGB10A-pcRryQfWdXm1WDI-Aejq9mvaz9TCt4PL4MuPi18BY8IP1Z37KVbBuO3QHh77YuFYj7XFeOhC4pfEYwdY96EYg7xApIUxdRHPVTuosi9hB~SZBifoUOT87LkqTIol69lTLpxQYs-tj3jKBTPkNuYFHssnJWU9-Bj9zuXIvt8WclJDbd-Iq2JDCoKydGduai29P8Abug__&Key-Pair-Id=K31ANTJBLNVBEC
+https://cflive.kaltura.com/scf/env/d.live.nvp1/hls/p/2503451/e/1_fuph6wnj/tl/main/st/0/t/wBim3Weoq-HuCvVjlUuVRw/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX2Z1cGg2d25qL3RsL21haW4vc3QvMC90L3dCaW0zV2VvcS1IdUN2VmpsVXVWUncvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NDI5ODMzMn19fV19&Signature=Q89lcOWTxPATx4PQjoYYO~VAINU6Q2raeQGj17YuchyP6MkDx-SYTAsqiJ4mDVdtJzA0cUNDz6IQIO2xE32pIDW9AyILhsfG5RVprtZ8KwtJq0oTDl7~XMfcSqaMgpOrE5dHXkzSkhGB10A-pcRryQfWdXm1WDI-Aejq9mvaz9TCt4PL4MuPi18BY8IP1Z37KVbBuO3QHh77YuFYj7XFeOhC4pfEYwdY96EYg7xApIUxdRHPVTuosi9hB~SZBifoUOT87LkqTIol69lTLpxQYs-tj3jKBTPkNuYFHssnJWU9-Bj9zuXIvt8WclJDbd-Iq2JDCoKydGduai29P8Abug__&Key-Pair-Id=K31ANTJBLNVBEC
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
@@ -58,7 +58,7 @@ https://tv.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/194/index.m3u8
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (YouTube Feed)
-https://www.youtube.com/@ThethaoHTV/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC_OBG47Y3PswSHnMWSlrgZA
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (TV Feed)
 https://tv.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="TpHCM1" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Vòng Xoay Điện Biên Phủ - Tp.HCM
@@ -82,7 +82,7 @@ https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6c/manifest.m3u8
 
 #Airport Cam
 #EXTINF:-1  group-title="Airport Cam",World Airports around the world with ATC Live Audio Feed
-https://www.youtube.com/watch?v=upD5dLOanDc
+https://yt-hls-get-v3.x0.to/youtube/?video=upD5dLOanDc
 #EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (App/Dep)
 https://www.liveatc.net/play/rjtt_app_dep.pls
 #EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Approach)
@@ -102,39 +102,39 @@ https://www.liveatc.net/play/rjtt_control.pls
 #EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Twr/TCA)
 https://www.liveatc.net/play/rjtt_twr.pls
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港一ターミナル (Tokyo Haneda Intl. Airport Terminal 1 Sector)
-https://www.youtube.com/watch?v=VuNYl3UvDgw
+https://yt-hls-get-v3.x0.to/youtube/?video=VuNYl3UvDgw
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector)
-https://www.youtube.com/watch?v=EEIVCc5hmMk
+https://yt-hls-get-v3.x0.to/youtube/?video=EEIVCc5hmMk
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector Feed #2)
-https://www.youtube.com/watch?v=A0FCKcTuRHo
+https://yt-hls-get-v3.x0.to/youtube/?video=A0FCKcTuRHo
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港T1/T3ターミナル (Tokyo Haneda Intl. Airport T1/T3 Sector)
-https://www.youtube.com/watch?v=DU-tsAEboZo
+https://yt-hls-get-v3.x0.to/youtube/?video=DU-tsAEboZo
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港
-https://www.youtube.com/watch?v=XLb0ghogfa8
+https://yt-hls-get-v3.x0.to/youtube/?video=XLb0ghogfa8
 #EXTINF:-1  group-title="Airport Cam",大阪府・伊丹空港
-https://www.youtube.com/@ITMSKYCAM/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCur21TajiRsI1Da1GLzv7Lg
 #EXTINF:-1  group-title="Airport Cam",Itami Airport Audio Feed
 https://www.liveatc.net/play/rjoo1.pls
 #EXTINF:-1  group-title="Airport Cam",愛知県・名古屋空港
-https://www.youtube.com/watch?v=LRgGBlcL4KU
+https://yt-hls-get-v3.x0.to/youtube/?video=LRgGBlcL4KU
 #EXTINF:-1  group-title="Airport Cam",札幌市・新千歳空港
-https://www.youtube.com/watch?v=Azbdr5jbN6o
+https://yt-hls-get-v3.x0.to/youtube/?video=Azbdr5jbN6o
 #EXTINF:-1  group-title="Airport Cam",帯広・帯広空港
-https://www.youtube.com/watch?v=3dg35n9DLX0
+https://yt-hls-get-v3.x0.to/youtube/?video=3dg35n9DLX0
 #EXTINF:-1  group-title="Airport Cam",福島県・福島空港
-https://www.youtube.com/watch?v=FflwF8jzZuU
+https://yt-hls-get-v3.x0.to/youtube/?video=FflwF8jzZuU
 #EXTINF:-1  group-title="Airport Cam",福島県・福島空港 (Feed #2)
-https://www.youtube.com/watch?v=4POboTWLmVw
+https://yt-hls-get-v3.x0.to/youtube/?video=4POboTWLmVw
 #EXTINF:-1  group-title="Airport Cam",大阪府・関西国際空港
-https://www.youtube.com/watch?v=hbtZI9hG_SQ
+https://yt-hls-get-v3.x0.to/youtube/?video=hbtZI9hG_SQ
 #EXTINF:-1  group-title="Airport Cam",兵庫県・神戸空港
-https://www.youtube.com/watch?v=UUCEJO_mFHw
+https://yt-hls-get-v3.x0.to/youtube/?video=UUCEJO_mFHw
 #EXTINF:-1  group-title="Airport Cam",千葉県・成田空港
-https://www.youtube.com/watch?v=jWCdG6mTTkk
+https://yt-hls-get-v3.x0.to/youtube/?video=jWCdG6mTTkk
 #EXTINF:-1  group-title="Airport Cam",千葉県・成田空港 (中央)
-https://www.youtube.com/watch?v=qhHlmcYv20w
+https://yt-hls-get-v3.x0.to/youtube/?video=qhHlmcYv20w
 #EXTINF:-1  group-title="Airport Cam",千葉県・成田空港 (フルービエル)
-https://www.youtube.com/watch?v=e8IC_8iB5kY
+https://yt-hls-get-v3.x0.to/youtube/?video=e8IC_8iB5kY
 #EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (APP)
 https://www.liveatc.net/play/rjaa_app_s.pls
 #EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (ATIS)
@@ -184,51 +184,51 @@ https://www.liveatc.net/play/rjaa_twr2.pls
 #EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Tower)
 https://www.liveatc.net/play/rjaa_twr.pls
 #EXTINF:-1  group-title="Airport Cam",福島第‐福島第一原子力発電所
-https://www.youtube.com/watch?v=XoS2wFkKNrc
+https://yt-hls-get-v3.x0.to/youtube/?video=XoS2wFkKNrc
 #EXTINF:-1  group-title="Airport Cam",Meteo România
-https://www.youtube.com/@Chatlive/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCF5GcyFOwtMGiuNWioA9fOQ
 #Live Cam
 #EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://www.youtube.com/watch?v=d66xCsD81u0
+https://yt-hls-get-v3.x0.to/youtube/?video=d66xCsD81u0
 #EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
-https://www.youtube.com/watch?v=TZ2gfqEDtDA
+https://yt-hls-get-v3.x0.to/youtube/?video=TZ2gfqEDtDA
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
-https://www.youtube.com/watch?v=oG5zz9Sjw3E
+https://yt-hls-get-v3.x0.to/youtube/?video=oG5zz9Sjw3E
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #2)
-https://www.youtube.com/watch?v=Gd2Tm5jblbE
+https://yt-hls-get-v3.x0.to/youtube/?video=Gd2Tm5jblbE
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam
-https://www.youtube.com/watch?v=Q35i-Towo2g
+https://yt-hls-get-v3.x0.to/youtube/?video=Q35i-Towo2g
 #EXTINF:-1  group-title="ANN Live Cam",関越自動車道・東松山IC付近
-https://www.youtube.com/watch?v=ZV3oCAKSNx0
+https://yt-hls-get-v3.x0.to/youtube/?video=ZV3oCAKSNx0
 #EXTINF:-1  group-title="ANN Live Cam",中央自動車道・元八王子バス停付近
-https://www.youtube.com/watch?v=FsL_KQz4gpw
+https://yt-hls-get-v3.x0.to/youtube/?video=FsL_KQz4gpw
 #EXTINF:-1  group-title="ANN Live Cam",群馬県高崎市高崎駅
-https://www.youtube.com/watch?v=YZcRxaKmvU4
+https://yt-hls-get-v3.x0.to/youtube/?video=YZcRxaKmvU4
 #EXTINF:-1  group-title="ANN Live Cam",東名高速道路・厚木IC付近
-https://www.youtube.com/watch?v=5rxOBb4V83I
+https://yt-hls-get-v3.x0.to/youtube/?video=5rxOBb4V83I
 #EXTINF:-1  group-title="ANN Live Cam",羽田空港2ターミナル
-https://www.youtube.com/watch?v=A0FCKcTuRHo
+https://yt-hls-get-v3.x0.to/youtube/?video=A0FCKcTuRHo
 #EXTINF:-1  group-title="ANN Live Cam",渋谷スクランブル
-https://www.youtube.com/watch?v=TUd7JORZeWo
+https://yt-hls-get-v3.x0.to/youtube/?video=TUd7JORZeWo
 #EXTINF:-1  group-title="ANN Live Cam",いやき坂イルミネーション
-https://www.youtube.com/watch?v=3krdhmBy3Kk
+https://yt-hls-get-v3.x0.to/youtube/?video=3krdhmBy3Kk
 #EXTINF:-1  group-title="ANN Live Cam",横浜・みなとみらい
-https://www.youtube.com/watch?v=orjgCwFT_lY
+https://yt-hls-get-v3.x0.to/youtube/?video=orjgCwFT_lY
 #EXTINF:-1  group-title="ANN Live Cam",江の島ビーチ
-https://www.youtube.com/watch?v=8o-jYN1XN88
+https://yt-hls-get-v3.x0.to/youtube/?video=8o-jYN1XN88
 #EXTINF:-1  group-title="TBS Live Cam",横浜・みなとみらい
-https://www.youtube.com/watch?v=orjgCwFT_lY
+https://yt-hls-get-v3.x0.to/youtube/?video=orjgCwFT_lY
 #EXTINF:-1  group-title="TBS Live Cam",東京・浅草寺
-https://www.youtube.com/watch?v=E1l9PcSGojU
+https://yt-hls-get-v3.x0.to/youtube/?video=E1l9PcSGojU
 #EXTINF:-1  group-title="TBS Live Cam",東京・新宿駅
-https://www.youtube.com/watch?v=BuWxAg761AQ
+https://yt-hls-get-v3.x0.to/youtube/?video=BuWxAg761AQ
 
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
-https://www.youtube.com/@livebroadcastal-aqsa3717/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC2l1w7FCuff2-h429sAUSXQ
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Razavi TV (Iran)
 https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Entrance Sector
@@ -240,112 +240,112 @@ https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
 https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Holy Shrines of Karbala (Iraq)
-https://www.youtube.com/UCFHL7Ku2fj2FcMW1n6ILrhw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCFHL7Ku2fj2FcMW1n6ILrhw
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamAsrTV.iq",Imam Asr TV (720p)
 https://iptv.imamasrtv.com/asrfa/playlist.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV1.iq",Imam Hussein TV 1 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih1.m3u8
+https:/.imamhossaintv.com/ih1.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV2.iq",Imam Hussein TV 2 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih2.m3u8
+https:/.imamhossaintv.com/ih2.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV3.iq",Imam Hussein TV 3 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih3.m3u8
+https:/.imamhossaintv.com/ih3.m3u8
 #EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV4.iq",Imam Hussein TV 4 (1080p) [Not 24/7]
-https://live.imamhossaintv.com/live/ih4.m3u8
+https:/.imamhossaintv.com/ih4.m3u8
 
 #EXTINF:-1  group-title="Youtube News Live Stream",東森新聞
-https://www.youtube.com/@newsebc/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=newsebc
 #EXTINF:-1  group-title="Youtube News Live Stream",三立新聞
-https://www.youtube.com/@setn/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=setn
 #EXTINF:-1  group-title="Youtube News Live Stream",SkyNews Live
-https://www.youtube.com/@SkyNews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=SkyNews
 #EXTINF:-1  group-title="Youtube News Live Stream",DW News Live
-https://www.youtube.com/@dwnews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=dwnews
 #EXTINF:-1  group-title="Youtube News Live Stream",TRTWorld (Thừa Thiên Huế)
-https://www.youtube.com/@trtworld/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=trtworld
 #EXTINF:-1  group-title="Youtube News Live Stream",NBC News Live
-https://www.youtube.com/@NBCNews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=NBCNews
 #EXTINF:-1  group-title="Youtube News Live Stream",ABC News Live (Australia)
-https://www.youtube.com/@abcnewsaustralia
+https://yt-hls-get-v3.x0.to/youtube/?channel=abcnewsaustralia
 #EXTINF:-1  group-title="Youtube News Live Stream",ABC News Live (US)
-https://www.youtube.com/@ABCNews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=ABCNews
 #EXTINF:-1  group-title="Youtube News Live Stream",Bloomberg News Live
-https://www.youtube.com/@markets/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=markets
 #EXTINF:-1  group-title="Youtube News Live Stream",CBS News Live
-https://www.youtube.com/@CBSNews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=CBSNews
 #EXTINF:-1  group-title="Youtube News Live Stream",KBS News Live
-https://www.youtube.com/@newskbs/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=newskbs
 #EXTINF:-1  group-title="Youtube News Live Stream",MBC News Live
-https://www.youtube.com/@MBCNEWS11/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=MBCNEWS11
 #EXTINF:-1  group-title="Youtube News Live Stream",YTN News Live
-https://www.youtube.com/@ytnnews24/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=ytnnews24
 #EXTINF:-1  group-title="Youtube News Live Stream",YonhapNews TV Live
-https://www.youtube.com/@yonhapnewstv23/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=yonhapnewstv23
 #EXTINF:-1  group-title="Youtube News Live Stream",Al Jazeera Mubasher
-https://www.youtube.com/@aljazeeramubasher/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=aljazeeramubasher
 #EXTINF:-1  group-title="Youtube News Live Stream",Al Jazeera English
-https://www.youtube.com/@aljazeeraenglish/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=aljazeeraenglish
 #EXTINF:-1  group-title="Youtube News Live Stream",Al Jazeera Arabic
-https://www.youtube.com/@aljazeera/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=aljazeera
 #EXTINF:-1  group-title="Youtube News Live Stream",Al-Araby TV
-https://www.youtube.com/@AlarabyTv_News/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=AlarabyTv_News
 #EXTINF:-1  group-title="Youtube News Live Stream",Asharq TV
-https://www.youtube.com/@AsharqNews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=AsharqNews
 #EXTINF:-1  group-title="Youtube News Live Stream",EURONEWS Live
-https://www.youtube.com/@euronews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=euronews
 #EXTINF:-1  group-title="Youtube News Live Stream",FRANCE24 Live
-https://www.youtube.com/@FRANCE24/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=FRANCE24
 #EXTINF:-1  group-title="Youtube News Live Stream",Reuters Live
-https://www.youtube.com/@Reuters/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=Reuters
 #EXTINF:-1  group-title="Youtube News Live Stream",AP News Live
-https://www.youtube.com/@AssociatedPress/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=AssociatedPress
 #EXTINF:-1  group-title="Youtube News Live Stream",AFP News Live
-https://www.youtube.com/@AFP/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=AFP
 #EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
-https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCabsTV34JwALXKGMqHpvUiA
 #EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",NicoNicoDouga News Live Event
-https://www.youtube.com/channel/UC28hcmMG3TJv60Byo528VVg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC28hcmMG3TJv60Byo528VVg
 #EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
-https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC47WI-kZXFf0H_f7pvaNCEQ
 #EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",TBS News (JP)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/playlist.m3u8?cid=cs11&isp=4&bind=0&uin=159413&playseek=0
 
 
 #Live Camera from Vietnam
 #EXTINF:-1 tvg-id="NhaTrang1" group-title="📍Nha Trang" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Nha Trang Bây Giờ
-https://www.youtube.com/@NhaTrang_rent/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=NhaTrang_rent
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Nút Giao Thông Tây Cầu Rồng
-https://www.youtube.com/watch?v=VHxNpNjKurU&pp=0gcJCX4JAYcqIYzv
+https://yt-hls-get-v3.x0.to/youtube/?video=VHxNpNjKurU&pp=0gcJCX4JAYcqIYzv
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",BV Đà Nẵng
-https://www.youtube.com/watch?v=AcndFyZebdc
+https://yt-hls-get-v3.x0.to/youtube/?video=AcndFyZebdc
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Cầu Trần Thị Lý
-https://www.youtube.com/watch?v=JZRc7-Bvsfg
+https://yt-hls-get-v3.x0.to/youtube/?video=JZRc7-Bvsfg
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trang Phục biểu diễn Phương Trần Đà Nẵng
-https://www.youtube.com/watch?v=CaMkzNXwVcE
+https://yt-hls-get-v3.x0.to/youtube/?video=CaMkzNXwVcE
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Camera cổng Sau bệnh viện C Đà Nẵng
-https://www.youtube.com/watch?v=muijHPW82vI
+https://yt-hls-get-v3.x0.to/youtube/?video=muijHPW82vI
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Camera cổng trường Nguyễn Huệ Đà Nẵng
-https://www.youtube.com/watch?v=7gVcaJMfpVI
+https://yt-hls-get-v3.x0.to/youtube/?video=7gVcaJMfpVI
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",CỔNG TRƯỜNG LÝ TỰ TRỌNG -12 LÝ TỰ TRỌNG
-https://www.youtube.com/watch?v=H1-QpBbMPNo
+https://yt-hls-get-v3.x0.to/youtube/?video=H1-QpBbMPNo
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",TRƯỜNG LÝ TỰ TRỌNG - HƯỚNG KS SÔNG HÀN - 12 Lý Tự Trọng
-https://www.youtube.com/watch?v=jysOgkivUKQ
+https://yt-hls-get-v3.x0.to/youtube/?video=jysOgkivUKQ
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trường Tiểu Học Lý Tự Trọng
-https://www.youtube.com/watch?v=Wa53eoX30rw
+https://yt-hls-get-v3.x0.to/youtube/?video=Wa53eoX30rw
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",CAMERA PTZ KHÁCH SẠN HẢI TRIỀU ĐÀ NẴNG
-https://www.youtube.com/watch?v=PmhlLGhCq9k
+https://yt-hls-get-v3.x0.to/youtube/?video=PmhlLGhCq9k
 
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+https:/-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https:/-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Westerl Wall (Jerusalem/Israel)
-https://www.youtube.com/watch?v=y4k2lXk1MBw
+https://yt-hls-get-v3.x0.to/youtube/?video=y4k2lXk1MBw
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Israel
-https://www.youtube.com/watch?v=Xw9zskRqTig
+https://yt-hls-get-v3.x0.to/youtube/?video=Xw9zskRqTig
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Israel and others
-https://www.youtube.com/watch?v=kfqAKgc3FuM
+https://yt-hls-get-v3.x0.to/youtube/?video=kfqAKgc3FuM
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Ukraine
-https://www.youtube.com/watch?v=0BsfFkAC938
+https://yt-hls-get-v3.x0.to/youtube/?video=0BsfFkAC938
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSArabic.il",I24 News Arabic 
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSEnglishWorld.il",I24 News English 
@@ -355,15 +355,15 @@ https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/53
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="",I24 News Hebrew 
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Kan11.il",KAN-11 Israel 
-https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+https://kan11w.media.kan.org.il/hls/2105694/2105694/master.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Kan11.il",KAN-11 Israel 
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+https://kan11.media.kan.org.il/hls/2024514/2024514/master.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="KanEducational.il",Kan Kids 
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+https://kan23.media.kan.org.il/hls/2024691/2024691/master.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="KnessetChannel.il",Knesset Channel
 https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Makan33.il",Makan 33 
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+https://makan.media.kan.org.il/hls/2024680/2024680/master.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Now14.il",Now 14 
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Channel13.il",Reshet 13 
@@ -383,15 +383,15 @@ https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlNajahNews.ps",Al Najah News (720p)
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FajerTV1.ps",Fajer TV 1 (480p)
-http://platform.topuphost.com:8577/live/alfajr.stream/playlist.m3u8
+http://platform.topuphost.com:8577/alfajr.stream/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FajerTV2.ps",Fajer TV 2 (576p)
-http://platform.topuphost.com:8577/live/alfajr2.stream/playlist.m3u8
+http://platform.topuphost.com:8577/alfajr2.stream/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FalastiniTV.ps",Falastini TV (1080p)
-https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8
+https://rp.tactivemedia.com/palestiniantv_source/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HalaRamallah.ps",Hala Ramallah (720p)
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HebronTV.ps",Hebron TV (432p)
-https://account20.livebox.co.in/charleshls/live.m3u8
+https://account20.livebox.co.in/charleshls.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HolyQuranRadioNablus.ps",Holy Quran Radio Nablus (720p)
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="MusawaChannel.ps"user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MusawaChannel (1080p) [Not 24/7]
@@ -408,11 +408,11 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineToday.ps",Palestine Today (480p) [Geo-blocked]
-https://live.paltodaytv.com/paltv/live/playlist.m3u8
+https:/.paltodaytv.com/paltv/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="RadioAlbaladTV.ps",Radio Albalad TV (720p)
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="RajeenTV.ps",Rajeen TV (1080p) [Not 24/7]
-https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+https://mn-nl.mncdn.com/palabroad/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="WatarTV.ps",Watar TV (720p) [Not 24/7]
@@ -438,15 +438,15 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlAlam.ir",IRIB Al-Alam TV
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Manar TV (Lebanon)
-https://edge.fastpublish.me/live/index.m3u8
+https://edge.fastpublish.me/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",TL Télé Liban (720p) [Not 24/7]
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",Yêmen Al-Masriyah TV
-https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+https:/.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",Yêmen Al-Masriyah TV Mubasher
-https://live2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+https:/2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",YêmenToday TV
 https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",Yêmen Shabab Channel
@@ -454,15 +454,15 @@ https://starmenajo.com/hls/yemenshabab/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (360p)
-https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+https://cdn-globecast.akamaized.net/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlQaheraNews.eg",Al Qahera News (1080p) [Not 24/7]
 https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Alarabiya.ae",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https:/.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Alarabiya.ae",Al Arabiya (1080p)
 https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
-https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+https:/.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabiyaPrograms.ae",Al Arabiya Programs (1080p)
 https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlHadath.sa",Al Arabiya Al Hadath (1080p) [Not 24/7]
@@ -470,11 +470,11 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (360p)
-https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8
+https://cdn-globecast.akamaized.net/eds/al_ekhbariya/hls_roku/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlHadath.sa",Al Hadath TV (1080p)
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlHadath.sa",Al Hadath TV (1080p) [Not 24/7]
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+https:/.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqNews.sa",Asharq News (1080p)
 https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqNews.sa",Asharq News (1080p)
@@ -504,7 +504,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (480p)
 https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (360p)
-https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8
+https://cdn-globecast.akamaized.net/eds/sudan_tv/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="pervy"group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://picon.ml/pervy.png",OPT1
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
@@ -515,7 +515,7 @@ http://185.23.80.28:8080/Rossiya1/index.m3u8?token=test
 #EXTINF:-1 tvg-id="rossia1-pl4"group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://picon.ml/rossia1-pl4.png",Russia 1 (MSK+4)
 http://b7w5c5.newtissot.com:80/Y9v933CsYg/8le2DelZoo/267136
 #EXTINF:-1 tvg-id="rossia-24"group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://picon.ml/rossia-24.png",Russia 24 
-https://streaming.televizor-24-tochka.ru/live/30-1k_v5.m3u8
+https://streaming.televizor-24-tochka.ru/30-1k_v5.m3u8
 #EXTINF:-1 tvg-id="ntv"group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://picon.ml/ntv.png",NTV HD
 http://91.205.199.3/ntvhd/index.m3u8
 #EXTINF:-1 tvg-id="ntv-pl4"group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://picon.ml/ntv-pl4.png",NTV (MSK+4)
@@ -560,42 +560,42 @@ http://cdnua03.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 http://ott.watch/stream/4LMG17SVYT/438.m3u8
 
 #EXTINF:-1 group-title="Campuchia"tvg-id="ApsaraTV11.kh",Apsara TV11 
-https://live.ams.com.kh/app/stream/playlist.m3u8
+https:/.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="BayonTV.kh",Bayon TV
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+https:/-evg2.tv360.metfone.com.khbayontv/bayontvhd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="BayonTV.kh",Bayon TV 
-https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/bayonhd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="BTVNews.kh",BTV News 
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+https:/-evg2.tv360.metfone.com.khtest/bayontest.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="CNC.kh",CNC
-http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+http:/.happywatch99.comhd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="CTN.kh",CTN
-http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
+http:/.happywatch99.comhd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="CTV8HD.kh",CTV8 HD
-http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
+http:/.happywatch99.comhd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="MyTV.kh",My TV
-http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
+http:/.happywatch99.comhd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="CTV9.kh",CTV 9
-https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+https:/-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="CTV9.kh",CTV 9 
-https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/tv9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="FreshNews.kh",Fresh News 
-https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+https://streaming.freshnewsasia.com/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="HangMeasHDTV.kh",Hang Meas HDTV 
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="iTVHD.kh",iTV HD
-http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
+http://43.252.18.195:5080/streams/itv.khmeretv.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="MSJTV.kh",MSJ TV 
 #EXTVLCOPT:http-referrer=https://www.iptvservice.site/
-https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+https:/-ali7.tv360.metfone.com.kh/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="MSJTV.kh",MSJ TV 
-http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
+http://124.248.165.18:1935/myStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="",Netlink TV 
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="NTV.kh",NTV
-http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+http://43.252.18.195:5080App/streams/ntvhd.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="PNN.kh",PNN 
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/pnntvhd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="RasmeyHangMeasHDTV.kh",Rasmey Hang Meas HDTV 
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="SEATV.kh",SEATV 
@@ -603,23 +603,23 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="",SEATV-Radio 
 https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="TownTV.kh",Town TV
-https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
+https:/-evg13.tv360.metfone.com.kh/towntv.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="TownTV.kh",Town TV 
-https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/towntv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="TV3.kh",TV 3 
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="TV5Cambodia.kh",TV5 Cambodia
-http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
+http:/.happywatch99.comhd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"vg-id="TV5Cambodia.kh",TV5 Cambodia 
-https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
+https:/-evg3.tv360.metfone.com.kh/tv5.m3u8
 #EXTINF:-1 tgroup-title="Campuchia"vg-id="TV5Cambodia.kh",TV5 Cambodia 
-https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/tv5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="TVK.kh",TVK 
-https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/tvk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="TVK2.kh",TVK 2 
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/tvk2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Campuchia"tvg-id="WikiTV.kh",WIKI TV 
-https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+https://stream.wikitv.asia/ngrp:myStream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
@@ -628,9 +628,9 @@ https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV NRC
 https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Sports
-https://lb-as.cdn-perfprod.com/live/arrkasarrchannel
+https://lb-as.cdn-perfprod.com/arrkasarrchannel
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Farmers
-https://lb-as.cdn-perfprod.com/livechannel_mrtv
+https://lb-as.cdn-perfprod.comchannel_mrtv
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",MITV
 https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/440px-Myanmar_National_TV_Logo.jpg",MNTV
@@ -638,7 +638,7 @@ https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4 HD
-https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+https://pplive.comquas.com:5443App/streams/w3g3EYjBtqgJ1677679288037.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",Channel 5Plus
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1709015344NIHZWL.png",Channel 7
@@ -646,7 +646,7 @@ https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/1200px-Channelk.png",Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1 tvg-id="TV3"group-title="Leanbox"tvg-logo="https://burmese.dvb.no/logo-with-letters.png",DVB (MYANMAR CHAMPIONS LEAGUE)
-https://live-stream.dvb.no/hls/stream_src/index.m3u8
+https:/-stream.dvb.no/hls/stream_src/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg"group-title="Leanbox",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg"group-title="Leanbox",MWD Variety
@@ -663,13 +663,13 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 http://203.81.84.130/hls/mwd_serie/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Leanbox",Myanmar Radio National Service
-https://lb-as.cdn-perfprod.com/live/myanma_radio
+https://lb-as.cdn-perfprod.com/myanma_radio
 #EXTINF:-1 tvg-logo=""group-title="Leanbox",Tha Pyay Radio
-https://lb-as.cdn-perfprod.com/live/thapyaeradio
+https://lb-as.cdn-perfprod.com/thapyaeradio
 #EXTINF:-1 tvg-logo=""group-title="Leanbox",Myanmar Radio International
-https://lb-as.cdn-perfprod.com/live/myanmaradionational
+https://lb-as.cdn-perfprod.com/myanmaradionational
 #EXTINF:-1 tvg-logo=""group-title="Leanbox",Mayyu FM
-https://lb-as.cdn-perfprod.com/live/mayyufm
+https://lb-as.cdn-perfprod.com/mayyufm
 #EXTINF:-1 tvg-logo=""group-title="Leanbox",CityFM
 https://stream.zeno.fm/rq4ux25pyeruv
 #EXTINF:-1 tvg-logo=""group-title="Leanbox",Mandalay FM
@@ -684,7 +684,7 @@ http://xtv.ooo:8080/83212539/43153928/353980
 #EXTINF:-1 group-title="Anime Chọn Lọc"tvg-id="at-x"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ATX
 http://r3jx.djtmewibu.com/at-x/index.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc"tvg-id="animax"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/playlist.m3u8?cid=bs15&isp=4&bind=0&uin=159413&playseek=0
 #EXTINF:-1 tvg-id="animaxhd"group-title="Anime Chọn Lọc"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV
 http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/playlist.m3u8
 #EXTINF:-1 tvg-id="abema-anime-2"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime",ABEMA アニメチャンネル2 (Geo-Blocked)
@@ -707,7 +707,7 @@ http://p1.cvtv.xyz:81/aj?token=live
 #EXTINF:-1 group-title="Tin tức Quốc Tế"tvg-id="BBCNews.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="CNNInternational.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4&bind=0&uin=159413&playseek=0
+http://cdns.jp-primehome.com:8000/zhongying/playlist.m3u8?cid=cs16&isp=4&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="France24English.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
 http://p1.cvtv.xyz:81/f24?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="EuronewsEnglish.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
@@ -734,173 +734,179 @@ http://p1.cvtv.xyz:81/cnbc?token=live
 https://outlivecloud-cdn.ysp.cctv.cn/02B6658CFF0B2A366EFE9EBE0763C1B320F8264EEA25DE76DE6FB9675484513110E9A4D8C34777A269132382F572E3EBE3C072D6DEDCE01AEA6AAA4499055829B12A9CF1BB7BE26A9AB386D57D98292FF598095B005F85DD21047FF20E10298DB59E652BE7A13967F943B1D068AB852E/2024079001_web.m3u8?from=player&svrtime=1744222099&pid=600001811&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7f461b6fe42c0e064e9fc7800694ce1a&ytime=1744222099&ytype=1
 
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
-https://www.youtube.com/@weathernews/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCNsidkYpIAQ4QaufptQBPHQ
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Live from Bhutan National Assembly by Missilis Industry Meeting Committee
-https://www.youtube.com/channel/UCPmoW3XMF3L5r7lJetO4UkQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCPmoW3XMF3L5r7lJetO4UkQ
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",HTVTT (Live Sports Event)
-https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC_OBG47Y3PswSHnMWSlrgZA
 #EXTINF:-1 group-title="Youtube Live",LNTV1 Laos Live Event
-https://www.youtube.com/channel/UCh8r4Noa2sL6QjOiuAOzUvg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCh8r4Noa2sL6QjOiuAOzUvg
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Tetra_characters.PNG/revision/latest/scale-to-width-down/250?cb=20211209210108",BBS Bhutan (Live National Council of Bhutan by Tetra Line Meeting Commitee)
-https://www.youtube.com/channel/UCzZIEQX2fWAmsvztJjIb7eA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCzZIEQX2fWAmsvztJjIb7eA
 #EXTINF:-1 group-title="Youtube Live",BBS Channel 2 Bhutan
-https://www.youtube.com/channel/UCWPola-KayVUJZstymaP4KQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCWPola-KayVUJZstymaP4KQ
 #EXTINF:-1 group-title="Youtube Live",VFF Channel
-https://www.youtube.com/channel/UCndcERoL9eG-XNljgUk1Gag/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCndcERoL9eG-XNljgUk1Gag
 #EXTINF:-1 group-title="Youtube Live",HTV - Đài Hà Nội
-https://www.youtube.com/channel/UC7_mgS3z22z0WhR7COJ8E2w/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC7_mgS3z22z0WhR7COJ8E2w
 #EXTINF:-1 group-title="Youtube Live",Sa Bàn Quân Sự
-https://www.youtube.com/channel/UCtB1cPy-OqJGozE_a8chlPw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCtB1cPy-OqJGozE_a8chlPw
 #EXTINF:-1 group-title="Youtube Live",Amazing Huế
-https://www.youtube.com/@AmazingHueVietnam/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCe7O-UJ6fWL9P6hkLPyMHig
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Quân Trần
-https://www.youtube.com/@IzumiNT/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCPlCYvr2kav_7f4Kx0rMGEA
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",CONCACAF Live
-https://www.youtube.com/@concacaf/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCqn7r-so0mBLaJTtTms9dAQ
 #EXTINF:-1 group-title="Youtube Live",BWFTV Live (Badminton)
-https://www.youtube.com/@bwftv/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UChh-akEbUM8_6ghGVnJd6cQ
 #EXTINF:-1 group-title="Youtube Live",FIBA TV (Basketball)
-https://www.youtube.com/@FIBA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCtInrnU3QbWqFGsdKT1GZtg
 #EXTINF:-1 group-title="Youtube Live",VBA TV (Basketball)
-https://www.youtube.com/@VBAofficial/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCAtqsRTz6IFzNWSRczb8qUQ
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/DragonTV_logo.png/revision/latest/scale-to-width-down/1000?cb=20220210080936",D4DJ-TV / Shanghai Dragon TV - Truyền hình vệ tinh Rồng Thuợng Hải (上海东方卫视)
-https://www.youtube.com/channel/UCNWWdKniJyzQA3RiJ5LMoVw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCNWWdKniJyzQA3RiJ5LMoVw
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png",Bandori / Hunan Television (湖南卫视)
-https://www.youtube.com/channel/UCN-bFIdJM0gQlgX7h6LKcZA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCN-bFIdJM0gQlgX7h6LKcZA
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/logos/images/b/bf/XZTV_Chinese_%2816-9%29.png/revision/latest/scale-to-width-down/870?cb=20231225030133&path-prefix=vi",iDOLM@STER / Xizang Television - Truyền hình vệ tinh Tây Tạng (XZTV西藏卫视)
-https://www.youtube.com/channel/UCe3uJZIjfYwNNR0S6W3GvEA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCe3uJZIjfYwNNR0S6W3GvEA
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/86/GZTV_logo.png",PROJECT vα-liv / Guizhou Television - Truyền hình vệ tinh Quý Châu (贵州卫视)
-https://www.youtube.com/channel/UC7r2U8wAxsXHCMz9XlMWo4w/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC7r2U8wAxsXHCMz9XlMWo4w
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Jilin_2017.jpg/revision/latest/scale-to-width-down/1000?cb=20231104095340",LoveLive School Idol Project / Jilin Television - Truyền hình vệ tinh Cát Lâm (JLTV吉林卫视) (Broadcast Live from Studio S24 from Otonokizaka High School)
-https://www.youtube.com/channel/UCTkyJbRhal4voLZxmdRSssQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCTkyJbRhal4voLZxmdRSssQ
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://pic.nximg.cn/file/20190510/27790005_133331887691_2.jpg",LoveLive Hasunosora / Luoyang TV (洛阳广播电视台新闻综合频道频道)
-https://www.youtube.com/channel/UCxUgvwrVfqVpyak4cuKcevQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCxUgvwrVfqVpyak4cuKcevQ
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://bpic.51yuansu.com/pic3/cover/03/44/46/5ba2270c69684_610.jpg",Uma Musume Paka Chubu TV (ウマ娘 ぱかチューブっ!) / Fujian Longyan TV (福建龙岩市广播电视台)
-https://www.youtube.com/channel/UCAWxPGGuIfWME2KTLUmSCHw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCAWxPGGuIfWME2KTLUmSCHw
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/HBTV_logo.png/220px-HBTV_logo.png",Shoujo Kageki Revue Starlight / Hubei Television - Truyền hình vệ tinh Hồ Bắc (HBTV湖北卫视)
-https://www.youtube.com/channel/UCpcs9GP_NIBxzDfNTWolNPw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCpcs9GP_NIBxzDfNTWolNPw
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/76/NXTV_logo.png",Idoly Pride Channel / Truyền hình vệ tinh Ninh Hạ (NXTV宁夏电视台)
-https://www.youtube.com/channel/UCOuzrlRFF7aSkooORw0XWRA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCOuzrlRFF7aSkooORw0XWRA
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololive Productions / SCTV Sichuan Television - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
-https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCJFZiqLMntJufDCHc6bQixg
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86.png/revision/latest?cb=20230713061743&path-prefix=vi",Hololstars / SCTV Sichuan Television TV2 - Truyền hình vệ tinh Tu Xuyên (SCTV四川卫视)
-https://www.youtube.com/channel/UCWsfcksUUpoEvhia0_ut0bA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCWsfcksUUpoEvhia0_ut0bA
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://pic.baike.soso.com/ugc/baikepic2/5638/cut-20210422123939-1293480061_jpg_978_652_37140.jpg/1284",Nijisanji / JXTV Jiangxi Television - Truyền hình Vệ tinh tỉnh Giang Tây (JXTV江西卫视)
-https://www.youtube.com/channel/UCX7YkU9nEeaoZbkVLVajcMg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCX7YkU9nEeaoZbkVLVajcMg
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Hypnosis Mic / HRB-TV Harbin - Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang (HRB-TV哈尔滨新闻综合频道)
-https://www.youtube.com/channel/UCLQwZQHMTRqeeUSzZt5ii6g/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCLQwZQHMTRqeeUSzZt5ii6g
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",AniLeap Radio from King Amusement Creative
-https://www.youtube.com/channel/UCR61XV4ROXhkcfLO31hTGuw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCR61XV4ROXhkcfLO31hTGuw
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://pic4.zhimg.com/80/v2-ca4ba94c6ee8635f834b9d85322f5ffb_1440w.webp/1284",Jpop Radio from Avex
-https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC1oPBUWifc0QOOY8DEKhLuQ
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive JP / UTRK Ala-Too 24
-https://www.youtube.com/channel/UCmgf8DJrAXFnU7j3u0kklUQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCmgf8DJrAXFnU7j3u0kklUQ
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive Global / UTRK Ala-Too 24
-https://www.youtube.com/channel/UCsrnDYrkovQhCCE8kwKcvKQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCsrnDYrkovQhCCE8kwKcvKQ
 #EXTINF:-1 group-title="Youtube Live",Goddess of Victory NIKKE JP
-https://www.youtube.com/channel/UCvi81mltkpbF2UEvC_e864g/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCvi81mltkpbF2UEvC_e864g
 #EXTINF:-1 group-title="Youtube Live",Honkai StarRail JP
-https://www.youtube.com/channel/UCrzCIt5o0X88G9bCdrdbv6g/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCrzCIt5o0X88G9bCdrdbv6g
 #EXTINF:-1 group-title="Youtube Live",Honkai Impact 3rd JP
-https://www.youtube.com/channel/UCRmYt_U1lxTwMVQsDl_MFcA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCRmYt_U1lxTwMVQsDl_MFcA
 #EXTINF:-1 group-title="Youtube Live",Genshin JP
-https://www.youtube.com/channel/UCrzCIt5o0X88G9bCdrdbv6g/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCrzCIt5o0X88G9bCdrdbv6g
 #EXTINF:-1 group-title="Youtube Live",ZZZ JP
-https://www.youtube.com/channel/UCt09C9DPSuOGpHoitbcyCIQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCt09C9DPSuOGpHoitbcyCIQ
 #EXTINF:-1 group-title="Strinova Live",Strinova
-https://www.youtube.com/channel/UCkM1U9GSsmsQImoiPovJvHA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCkM1U9GSsmsQImoiPovJvHA
 #EXTINF:-1 group-title="Strinova Live",Strinova JP
-https://www.youtube.com/@Strinova-JP/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=Strinova-JP
 #EXTINF:-1 group-title="Strinova Live",AzurLane JP
-https://www.youtube.com/channel/UCnUzafAtfncBzTml2muIUEQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCnUzafAtfncBzTml2muIUEQ
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (NA)
-https://www.youtube.com/channel/UCifCesg-EUkjKyQedaB3hRg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCifCesg-EUkjKyQedaB3hRg
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (Pacific)
-https://www.youtube.com/@VCTPacific/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=VCTPacific
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EMEA)
-https://www.youtube.com/channel/UCp6n8d8Y8r3MwKNw_MMaouQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCp6n8d8Y8r3MwKNw_MMaouQ
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (VN)
-https://www.youtube.com/channel/UCcr4x4DBzRD0871Vq9QyyaA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCcr4x4DBzRD0871Vq9QyyaA
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EN)
-https://www.youtube.com/channel/UCA1d3HFGFUmkKr2JIUA5Vlw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCA1d3HFGFUmkKr2JIUA5Vlw
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (JP)
-https://www.youtube.com/channel/UCzVgCrOcBAWYEHTtVOMPAtw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCzVgCrOcBAWYEHTtVOMPAtw
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (AR)
-https://www.youtube.com/channel/UC4PtOhCMlWl5N8RKSRCXSMw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC4PtOhCMlWl5N8RKSRCXSMw
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (ID)
-https://www.youtube.com/@VALORANTEsportsIndonesia/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UChjyrzsPDaE3eAsdYzCixdQ
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (BR)
-https://www.youtube.com/@valorantesportsbr/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCW-4nEie-LVG7LK3CkQeBuw
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (CN)
-https://www.youtube.com/channel/UCc1VJX_5Z2RdGi58XU4IfbA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCc1VJX_5Z2RdGi58XU4IfbA
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
-https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCHwd3E6n7FGP4ZSIwFpMPuw
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (KR)
-https://www.youtube.com/@ValorantEsportsKR/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCv1tOT645xHOJrwdGlzjMaA
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Korea Challengers)
-https://www.youtube.com/@ChallengersKorea/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=ChallengersKorea
 #EXTINF:-1 group-title="Valorant Live",Valorant Tiếng Việt
-https://www.youtube.com/@ValorantTiengViet/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCW007D3iLWZNiiZuhrfRyHw
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Americas Challengers)
-https://www.youtube.com/@VALORANTChallengersAmericas/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC_l3b2l822SSWaoA7DLXTiQ
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (North/East Challengers)
-https://www.youtube.com/@valleague_ne/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCjQAdKf6m6HnpCgG1h5iYrg
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (FR Challengers)
-https://www.youtube.com/@VALORANTChallengersFr
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCwHn2y8QWp8BSas35aLVWcg
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (South Asia)
-https://www.youtube.com/@VALORANTEsportsSA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=VALORANTEsportsSA
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (DACH DE)
-https://www.youtube.com/@ChallengersDACH/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC6BVqXGIminjUKrrSeTqcZw
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Challengs Turkiye)
-https://www.youtube.com/@VALORANTChallengersTR/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCGXwmdps8gD3TG0JqGRGKow
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (LATAM)
-https://www.youtube.com/@VALORANTEsportsLA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=VALORANTEsportsLA
+#EXTINF:-1 group-title="Valorant Live",VCT Valorant (Challengers Spain)
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCMEc1tbNSJmZwgHzUM9xQIw
 #EXTINF:-1 group-title="League of Legends Live",LCP (VN)
-https://www.youtube.com/channel/UChG2EWuXoW7Tgof35WjbsnQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UChG2EWuXoW7Tgof35WjbsnQ
 #EXTINF:-1 group-title="League of Legends Live",VCS Live
-https://www.youtube.com/@vcslmht/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=vcslmht
 #EXTINF:-1 group-title="League of Legends Live",LCP Live (EN)
-https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
+https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw
 #EXTINF:-1 group-title="League of Legends Live",LCP Live (JP)
-https://www.youtube.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCiN3B0QRdL4wn1TMJ_cJyMQ
 #EXTINF:-1 group-title="League of Legends Live",LCK (KR)
-https://www.youtube.com/channel/UCw1DsweY9b2AKGjV4kGJP1A/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCw1DsweY9b2AKGjV4kGJP1A
+#EXTINF:-1 group-title="League of Legends Live",LCK (Tiếng Việt)
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCm0P5i4TNItvgmPCZCGSyYA
 #EXTINF:-1 group-title="League of Legends Live",LCK Global (KR)
-https://www.youtube.com/@LCKglobal/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=LCKglobal
+#EXTINF:-1 group-title="League of Legends Live",EMEA Masters
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCLpA7MOWtGTH2E1U8ZWZ3Ng
 #EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
-https://www.youtube.com/channel/UC48rkTlXjRd6pnqqBkdV0Mw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC48rkTlXjRd6pnqqBkdV0Mw
 #EXTINF:-1 group-title="League of Legends Live",LJL (JP)
-https://www.youtube.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCiN3B0QRdL4wn1TMJ_cJyMQ
 #EXTINF:-1 group-title="League of Legends Live",LEC
-https://www.youtube.com/@LEC/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=LEC
 #EXTINF:-1 group-title="League of Legends Live",PCS (HK)
-https://www.youtube.com/channel/UCYfC038eP_cm9WNo5Cv-tBg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCYfC038eP_cm9WNo5Cv-tBg
 #EXTINF:-1 group-title="eSports Live",ESL Counter Strike Live
-https://www.youtube.com/channel/UCPq2ETz4aAGo2Z-8JisDPIA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCPq2ETz4aAGo2Z-8JisDPIA
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
-https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC5O114-PQNYkurlTg6hekZw
 #EXTINF:-1 group-title="Youtube Live",WCS Nagoya Live
-https://www.youtube.com/channel/UC5VBrQEonivcMLx8krq-CwQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC5VBrQEonivcMLx8krq-CwQ
 #EXTINF:-1 group-title="Youtube Live",VFF Channel Live
-https://www.youtube.com/channel/UCndcERoL9eG-XNljgUk1Gag/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCndcERoL9eG-XNljgUk1Gag
 #EXTINF:-1 group-title="Youtube Live",IMSPORTS TV
-https://www.youtube.com/channel/UCkVXcyTRC0U0ItRVh9itBpQ/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCkVXcyTRC0U0ItRVh9itBpQ
 #EXTINF:-1 group-title="Youtube Live",Liên Quân Mobile
-https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCpnQwjzvDm1MOMtZV2zkVpA
 #EXTINF:-1 group-title="Youtube Live",PUBG
-https://www.youtube.com/channel/UCeX2iXaH63w3BZ8Wae_JdEA/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCeX2iXaH63w3BZ8Wae_JdEA
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng Rổ
-https://www.youtube.com/channel/UCtVG9Tb4tNRh-1Qz3LksCWg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCtVG9Tb4tNRh-1Qz3LksCWg
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng Đá
-https://www.youtube.com/channel/UC4LvrpNXujjbGOS4RDvr41g/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC4LvrpNXujjbGOS4RDvr41g
 #EXTINF:-1 group-title="Youtube Live",FPT Bóng đá Việt
-https://www.youtube.com/channel/UCljFFNaQoJWeP91Bz4m_3bw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCljFFNaQoJWeP91Bz4m_3bw
 #EXTINF:-1 group-title="Youtube Live",F eSports Live
-https://www.youtube.com/channel/UCYa7ZvUk0JmN2no62AXEf5w/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCYa7ZvUk0JmN2no62AXEf5w
 #EXTINF:-1 group-title="Youtube Live",VIRESA Live
-https://www.youtube.com/channel/UCG3Y40V4X4uSRM_O6w8Taig/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCG3Y40V4X4uSRM_O6w8Taig
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/7833222/LINEStorePC/main.png?v=1",Seseren Live Illustration
-https://www.youtube.com/@Seseren_kr/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCvqqck2oSGLBlrXZW2OJfmA
 
 #EXTINF:-1 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://tv.truyenhinh.click/Logo/vtv1hd/KenhCoBan",VTV1 HD
 https://tv.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh
@@ -1110,7 +1116,7 @@ https://tv.TruyenHinh.Click/CoBan/184/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="185.HiTV"group-title="Kênh địa phương" tvg-logo="https://tv.truyenhinh.click/Logo/185.HiTV/KenhCoBan",HiTV
 https://tv.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh
 #EXTINF:-1  group-title="RADIO",WEST AFRICAN DRUM RADIO
-https://www.youtube.com/@DrumCircleLoops
+https://yt-hls-get-v3.x0.to/youtube/?channel=DrumCircleLoops
 #EXTINF:-1 group-title="VIỆT NAM"group-logo="https://cdn.hqth.me/logo/category/radio.png"tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:8001
 #EXTINF:-1 group-title="VIỆT NAM"tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
@@ -1982,11 +1988,11 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd/index.m3u8
 
 #EXTINF:-1 group-title="🇰🇭|Campuchia"tvg-id="BTVNews.kh",BTV News (720p) [Not 24/7]
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+http://203.176.130.123:8989/bayontv1_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇭|Campuchia"tvg-id="TVK.kh",TVK - Đài THQG Campuchia
-http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+http://203.176.130.123:8989/tvk_480k.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇭|Campuchia"tvg-id="TVK2.kh",TVK 2 - Đài THQG Campuchia
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+https:/.kh.malimarcdn.com/tvk2.stream/playlist.m3u8
 
 #EXTINF:-1  tvg-id="KoreanCentralTelevision.kp"tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
 http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
@@ -1994,13 +2000,13 @@ http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
 https://outlivecloud-cdn.ysp.cctv.cn/64C202CDB370179EBEC1475DB0ACC00A68C6BD37E70E66DBD57BC4D20C65C93A040EA4EFAB19A14007B01A7AB84CE9052AEC42C2EE6368A537C6F90B374BC5F53703F4E0942A930CF74C6FFD8AE38B8771550E4F2C714B304D362A465668A565464EFAA10F03709E507740B99A8E0F69/2025558002_web.m3u8?from=player&svrtime=1744219603&pid=600190403&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=27959a6460d0c5e5901f32318e4fda4e&ytime=1744219603&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV藏语卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4646fdd23bc712f291978cd1acb6e0a8&time=67f6a94a
+https://tv.vtibet.cn/h701F9MpxzPDyE.m3u8?secret=4646fdd23bc712f291978cd1acb6e0a8&time=67f6a94a
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=20220806032832",YNTV云南卫视 (The iDOLM@STER Cinderella Girls / Truyền Hình Vệ Tinh Vân Nam)
-http://58.220.219.14:9901/tsfile/live/0119_1.m3u8
+http://58.220.219.14:9901/tsfile/0119_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://dmg.cinderella-sl-stage.idolmaster-official.jp/_nuxt/images/logo_stage-14dc23a.png",东南卫视 / The iDOLM@STER Cinderella Girls Starlight Stage  (DERESUTE-TV/デレステテレビ) - Truyền Hình Đông Nam Phúc Kiến
-https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=309917101744227878
+https:/1-fuyun.fjtv.net/dnpd/hd.m3u8?_upt=309917101744227878
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",福州广播电视台新闻综合频道 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
-http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+http:/.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",HEBTV河北卫视 (The iDOLM@STER Million Live & Million Live Theater Days TV2 / Truyền Hình Vệ Tinh Hà Bắc
 https://outlivecloud-cdn.ysp.cctv.cn/7E739ADD721AAAFDC4A2ABD18FD4F9EDEA32B93F6C137A55965FE6B6515362023CF9A76FA6B7BB27A412C7790A1D84E90CDD24006465DEE2465E11EA1A949A10F5794B89926D09A9C3B65E6E0393B8A013AF8C1B69A9BD4A9135F6F786EAFF408C8B3FE57EB7150CDC33A927C4C38750/2024171502_web.m3u8?from=player&svrtime=1744221488&pid=600002493&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=a84291ce7281bba7cf83bd840a70f781&ytime=1744221488&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải
@@ -2010,7 +2016,7 @@ http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/The_iDOLM%40STER_Shiny_Colors_Logo.png/revision/latest?cb=20220806103138",GDTV广东卫视 (The iDOLM@STER Shiny Colors - Truyền Hình Vệ Tinh Quảng Đông)
 https://outlivecloud-cdn.ysp.cctv.cn/FF3D6D33FA6CF5655F332AA6FBD107928E792C10DCDB0D1D5832E21B65D9088D6506E1E38B231C80BFF14D00BD585CFCA3F9DB2451A990C58C29358AAEFDB0DFD48D4343E7D243FB99012ADE05655C6B92EB8A0A08670B2DB869B6E1A73599FD0FFA3001CA28E831827A8B61DD5C1DAC/2024060901_web.m3u8?from=player&svrtime=1744220015&pid=600002485&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=99cdbac43310cb0c45cfe4d250c3d2b4&ytime=1744220015&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://cdn.wikiwiki.jp/to/w/songforprism/FrontPage/::attach/songforprism_logo.png?rev=fa0d409d47759fe4fa5cda956d0de9e5&t=20231115193921",三沙卫视 (The iDOLM@STER Shiny Colors Song for Prism - Truyền Hình Tam Sa, tỉnh đảo Hải Nam
-https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=fd86ea751744052144
+https:/ssws.hnntv.cn/ssws_01hnntv.m3u8?_upt=fd86ea751744052144
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",GSTV甘肃卫视 (学園アイドルマスター - Truyền Hình vệ tinh Cam Túc)
 https://outlivecloud-cdn.ysp.cctv.cn/67CD5F1DF755BB28FB6F904D58469EB3DB75661FCFEDEE9E7BC73597C5C363A9482E318DD22122652EE45C1EEF0E6F810E7E5170555900F2F84CEA9B2E38A5503B47542BDC91C15160B96AAA84E0F4EB565688EC1D8205EAFA222192360753D8B310A3ADB1EDAC353C12727393DE928C/2025561702_web.m3u8?from=player&svrtime=1744220213&pid=600190408&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=099139eeccb67ad83d3d6e367a1454c1&ytime=1744220213&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://cdn.akamai.steamstatic.com/steam/apps/1046480/capsule_616x353.jpg?t=1703662641",贵州卫视 / The iDOLM@STER PROJECT vα-liv - Truyền Hình Vệ Tinh Quý Châu
@@ -2022,7 +2028,7 @@ https://outlivecloud-cdn.ysp.cctv.cn/BF338C9B841FDC0116614386AFC9A58FABE00E966DB
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",SXTV山西卫视 (Truyền Hình Vệ Tinh Sơn Tây / Genjitsu no Yohane Channel (幻日のヨハネ)
 https://outlivecloud-cdn.ysp.cctv.cn/82AE827443D3C29DBE8A920103E9A12A50B8FDE58B129EE787364539C24B4728801597912E0A86AA23315291DBA293C77206F48B62249E9906995DF8E2E03D519181D0BAF81B31F36A58F9897971F81B626CAC6CF799DA43CE6CADA1B60C5BEE63B8F64A4B3C2318B6049A8227713AAE/2025560802_web.m3u8?from=player&svrtime=1744220340&pid=600190407&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7e96ca51d48dd39c73095b2933475a25&ytime=1744220340&ytype=1
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",KBTV康巴卫视 / Saint Snow TV1
-http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
+http://218.89.240.144:59901/tsfile/1010_1.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",HLTV黑龙江卫视 - Truyền Hình Hắc Long Giang / Saint Snow TV3
 https://outlivecloud-cdn.ysp.cctv.cn/C7F7C14E76624445F179153AFD3833F34DB2AFC3B683E6A6C4C0D4794F0CFC5F5CBAF99A42216BC4A8CB0FB1DCCC843CD9D9FB4EB8DF7BBA4C62A05C9B91C15AEDBFC2899C5E27E1D0C97EA1C0E52ABBB16D0F60B0AF8D4D8BEFFAA07FFF2E0D579477D8E7ABDB372FEA2151DADBA9B8/2024061002_web.m3u8?from=player&svrtime=1744220541&pid=600002498&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7f2140f3974b78fc648950d11f2c9731&ytime=1744220541&ytype=1
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",BTV/BRTV北京卫视 / Nijigasaki Channel (ニジガク) - Truyền Hình Vệ tinh Bắc Kinh
@@ -2030,9 +2036,9 @@ https://outlivecloud-cdn.ysp.cctv.cn/93E6075739DE0AD9C0E4D67C99189370E17AFC38652
 #EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nav_abyssmare_on.png",TJTV天津卫视 - Truyền Hình Vệ Tinh Thiên Tân / Abyssmare Channel
 https://outlivecloud-cdn.ysp.cctv.cn/8894C28F635BBE1B168746852901BD1297C4FD1733D306EA93BA5537A7D8EE26178DEE837D6D8895AA483DCE4D3EA8C206D4F0AE566AD51DF60701491BE2D56572F24BA66FD1D370024C8625BADAF6BACD2B3CEE83CACD444C7228192AC57C80CA309797DBA74E9759EA7F14B639B4A0/2019927002.m3u8?from=player&svrtime=1744220633&pid=600152137&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=69f395c83a7eec04fc212998e9ae0262&ytime=1744220633&ytype=1
 #EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/photonmaiden.png",YBTV延边卫视 - Truyền Hình Vệ Tinh Diện Biên, tỉnh Cát Lâm / Photon Maiden
-http://61.138.128.226:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://61.138.128.226:19901/tsfile/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://lovelive-sif2.com/wordpress/wp-content/themes/sif2_gl_v1.2/assets/images/common/logo.png",НВК Саха / LLSIF-2 TV
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+https:/-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Liella%21_Official_Logo.svg/1200px-Liella%21_Official_Logo.svg.png",海南卫视 / Liella Channel - Truyền Hình tỉnh Đảo Hải Nam
 https://outlivecloud-cdn.ysp.cctv.cn/7BA98EADE9A2169130876AD10FC735710877203CF0C8BB9FE37CD114FB7E5A4F50848216B69B0B6DA63E57D60C695E2B073BE5333A2F3A0E1EBA01C42CC64C0FC23F95069647C26EB72ED4C2F053C1A4B4EFF15F77CEC5F240D562A116D49D31E1561B569019AB01A0573EF5821E3925/2024055602_web.m3u8?from=player&svrtime=1744220761&pid=600002506&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=45c835d2212c0a3f89d192b38e67e02b&ytime=1744220761&ytype=1
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",兵团卫视 / Symphogear's S.O.N.G Channel
@@ -2042,7 +2048,7 @@ https://outlivecloud-cdn.ysp.cctv.cn/DE4F9A00E1FF9BDC9B28A7CA9FF379296255C4CC428
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/6/61/Symphogear_GX_key_art.png/revision/latest/scale-to-width-down/300?cb=20150704190700",GXTV广西卫视 / Symphogear GX-TV Channel / Truyền Hình Vệ Tinh Quảng Tây
 https://outlivecloud-cdn.ysp.cctv.cn/BD0B8FC88D1A3B24AE7C3F3582D075BBD7CCE64A83A6E1F7F64EA7792882AD909CCD585CE80674C4E955F86931CE6D6BB845FD0AF9A879A105E8AB8EA8AB1AEE300803C1B16DDE7C6651455050935EB25271BAA967945AB5A9199A273F42469F0685200A4A1F511A6A6351137D18FC39/2024060701_web.m3u8?from=player&svrtime=1744220831&pid=600002509&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=e9df2ee24166c8f4b0d3785bca00ddb1&ytime=1744220831&ytype=1
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/d/d6/Symphogear_AXZ.jpg/revision/latest/scale-to-width-down/304?cb=20170823181437",NBS南京新闻综合 / Symphogear AXZ-TV Channel (Truyền hình Nam Kinh, tỉnh Giang Tô)
-http://live.nctv.top/Jhsdat/jstv5.php?id=nj1
+http:/.nctv.top/Jhsdat/jstv5.php?id=nj1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",广东大湾区卫视 / Project Sekai Colorful Stage feat. Hatsune Miku (プロジェクトセカイカラフルステージfeat.初音ミク)
 http://gmxw.7766.org:808/hls/132/index.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://www.vocaloidnews.net/wp-content/uploads/2016/08/VNNFrench-A2.png",陕西卫视 / Vocaloid News Network - Truyền Hình Vệ Tinh Thểm Tây
@@ -2050,13 +2056,13 @@ https://outlivecloud-cdn.ysp.cctv.cn/5BD65B2673BEE9F2BE08CFAB228CEC7C36BC83B994D
 #EXTINF:-1 group-title="HPNM-TV"tvg-logo="https://hypnosismic-anime.com/assets/2nd/img/common/logo.png",HRB-TV 哈尔滨新闻综合频道 / Hypnosis Mic TV (ヒプノシスマイクテレビ / Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang)
 https://stream.hrbtv.net/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite03/logo.png.webp",SBS苏州新闻综合频道频道 / Project Sekai VBS-TV (Vivid Bad Squad / Truyền hình Tô Châu, tỉnh Giang Tô)
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+https:/-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",深圳卫视 - Truyền Hình vệ tinh Thâm Quyến, tỉnh Quảng Đông / PRSK-TV Domestic Channel
 https://outlivecloud-cdn.ysp.cctv.cn/F09811747EEF545287AD1B1C6111D84A6849F6E312D9CF459A442A2F55A7908C831010CCD3894D53B3D50FCFCC8398B89017113157CE79EDECE0DF08797EC274EF1CD7F5F012E021D550732007CC9B41B9EA7C33B2DA407F872B204F5706FAD87ECF7E6E42046688BFF1465263CB3F70/2024061302_web.m3u8?from=player&svrtime=1744221266&pid=600002481&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=0fdc9cd1b54acc5751f4e2df78c4b13a&ytime=1744221266&ytype=1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed)
 https://outlivecloud-cdn.ysp.cctv.cn/89471F8DA3375508A6C687FEAF12000617331F588321D20187AE232DA91C387D3C1FDA81013E2D749779575B11011DD151771AD0E860BDC89087CE94BEF6BCD1B5712A51C8CA81AE5AFF3A97097A0B566C6AA5540425A0C16DD1505BE8DDDD7EDB8EA45B79497AAC4671B73AA384A54A/2025561202_web.m3u8?from=player&svrtime=1744221292&pid=600190401&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=8f79ec14eba221dad0e8296d98db1b8d&ytime=1744221292&ytype=1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古蒙语卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed) (Mongolian Language)
-https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
+https:/stream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",LNTV辽宁卫视 (More More Jump - Truyền Hình Vệ Tinh Liêu Ninh)
 https://outlivecloud-cdn.ysp.cctv.cn/320B2A02CA86CE261A93F01DE8EA21051DA6509C5D066E96CAE86729A63326FCB418A218EB04980672E48574DA99A930DEEF68F1752566B809A666D5E95CFCF6D4ADA29A330FE8BF5C4CFAC2259CCD6F3F1D4A15DE17040B440F4A2F92073FA29841E888FEE320318EAAA477BF169EAE/2024171302_web.m3u8?from=player&svrtime=1744221362&pid=600002505&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=067601a1d558ba3da54782144e4ddc98&ytime=1744221362&ytype=1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",SDTV山东卫视 (Wonderlands x Showtime - Truyền Hình Vệ Tinh Sơn Đông)
@@ -2082,110 +2088,110 @@ rtmp://tv.qntv.net/channellive/ch1
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",QNBTV2 黔南新闻综合频道频道 / Photon Maiden Channel (フォトンメイデンチャンネル) - Truyền Hình Kiềm Nam, tỉnh Quý Châu
 rtmp://tv.qntv.net/channellive/ch12
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",XMTV厦门卫视 / Uma Musume Pretty Derby Channel (Truyền hình vệ tinh Hạ Môn, tỉnh Phúc Kiến)
-https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
+https:/1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg"group-title="Idol Radio Channel"radio="true",CNR-1 News Radio (Produced by Radio News Department of The iDOLM@STER)
-http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+http://ngcdn001.cnr.cn/zgzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png"group-title="Idol Radio Channel"radio="true",CNR-2 Business Radio
-http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+http://ngcdn002.cnr.cn/jjzs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png"radio="true",CNR-3 Music Radio (Produced by Music Radio Department of The iDOLM@STER)
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+http://ngcdn003.cnr.cn/yyzs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png"radio="true",CNR-4 Golden Radio
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+http://ngcdn004.cnr.cn/dszs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-5-taiwan-service-1-cn.png"radio="true",CNR-5 Cross-Strait Radio
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+http://ngcdn005.cnr.cn/zhzs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-6-taiwan-service-2-cn.png"radio="true",CNR-6 Shenzhou Easy Radio
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+http://ngcdn006.cnr.cn/szzs/index.m3u8
 #EXTINF:-1 tvg-chno="287"tvg-name="CNR7"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png"group-title="Idol Radio Channel"radio="true",CNR-7 Radio The Greater Bay (Produced by Greater Bay Radio Department of Project Sekai)
-http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+http://ngcdn007.cnr.cn/hxzs/index.m3u8
 #EXTINF:-1 tvg-chno="287"tvg-name="CNR7"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/China_National_Radio.svg"group-title="Idol Radio Channel"radio="true",CNR-8 Minorities service (Produced by D4DJ's Minorities Radio Language Board)
-http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/wyzs.png"radio="true"group-title="Idol Radio Channel",CNR-9 Culture Service
-http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/lnzs.png"radio="true"group-title="Idol Radio Channel",CNR-10 Elder Radio
-http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+http://ngcdn009.cnr.cn/mzzs/index.m3u8
+#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/wyzs.png"radio="true"group-title="Idol Radio Channel",CNR-9 Culture Service
+http://ngcdn010.cnr.cn/wyzs/index.m3u8
+#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/lnzs.png"radio="true"group-title="Idol Radio Channel",CNR-10 Elder Radio
+http://ngcdn011.cnr.cn/lnzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-11-tibetan-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-11 Tibetan Radio (Produced by Tibetan Radio Department Room of The iDOLM@STER)
-http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+http://ngcdn012.cnr.cn/zygb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-12-reading-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-12 Reading Radio
-http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+http://ngcdn014.cnr.cn/ylgb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-13-uyghur-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-13 Uyghur Radio (Produced by Uighur Language Radio Department Room of Rinmeikan Girls School)
-http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+http://ngcdn013.cnr.cn/wygb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-14-hong-kong-radio-cn-hk.svg"radio="true"group-title="Idol Radio Channel",CNR-14 Hong Kong Radio (Produced by Lastation Radio Department Room Serving for Hong Kong Cantonese Listeners of Noire Black Heart)
-http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+http://ngcdn008.cnr.cn/xgzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-15-traffic-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-15 Traffic Radio
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/zgjtgb.jpg"radio="true"group-title="Idol Radio Channel",CNR-16 Traffic Service
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+http://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
+#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/zgjtgb.jpg"radio="true"group-title="Idol Radio Channel",CNR-16 Traffic Service
+http://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-17-kazakh-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-17 Kazakh Radio (Produced by Kazakh Language Radio Department of Tales of Berseria)
-http://ngcdn025.cnr.cn/live/hygb/index.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ez.png"group-title="Idol Radio Channel"radio="true",CRI EZFM
+http://ngcdn025.cnr.cn/hygb/index.m3u8
+#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/ez.png"group-title="Idol Radio Channel"radio="true",CRI EZFM
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png"group-title="Idol Radio Channel"radio="true",CRI Hit FM
-http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png"group-title="Idol Radio Channel"radio="true",CRI News Radio
+#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/hitfm.png"group-title="Idol Radio Channel"radio="true",CRI Hit FM
+http://satellitepull.cnr.cn/wxhitfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/hqzx.png"group-title="Idol Radio Channel"radio="true",CRI News Radio
 http://sk.cri.cn/905.m3u8
 #EXTINF:-1 1 tvg-chno="287"group-title="Idol Radio Channel"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg"radio="true",Voice of South China Sea
 http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏藏语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Tibetan Language)
-http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+http://satellitepull.cnr.cn/wxxzzygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏汉语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Chinese Language)
-http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
+http://satellitepull.cnr.cn/wxxzhygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=2022080603283",云南新闻广播 (The iDOLM@STER Cinderella Girls / Đài Phát Thanh Vân Nam)
-http://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxynxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://project-imas.wiki/images/7/75/DJCD_Vol.01_Regular.png",河北综合广播 / The iDOLM@STER Million Radio
-http://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxhebzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.miraheze.org/sidemwiki/6/62/315Pro_Night.jpg",青海新闻综合广播 青海之声 / The iDOLM@STER SIDEM Radio 315Pro Night (Chinese Language)
-http://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32qhwxzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.miraheze.org/sidemwiki/6/62/315Pro_Night.jpg",青海藏语广播 / The iDOLM@STER SIDEM Radio 315Pro Night (Tibetan Language)
-http://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32qhzygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://project-imas.wiki/images/5/5f/HabatakiRadioLogo.png",广东新闻广播 / THE iDOLM@STER Shiny Colors Habataki Radio Station
-http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxgdxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",甘肃新闻综合广播 / THE iDOLM@STER Gakuen Radio
-http://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxgsxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",甘肃交通广播 / THE iDOLM@STER Gakuen Traffic Radio
-http://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxgsjtgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://project-imas.wiki/images/5/5d/876.png",贵州综合广播 / Project VALIV Radio by 876Pro
-http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32gzwxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",山西综合广播 / Genjitsu no Yohane Radio Channel (幻日のヨハネ)
-http://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxssxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png",四川综合广播 / Hololive Radio
-http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxsczhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",四川民族频率播 / Kazuno Leah's Kangba Radio Channel
-http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxscmzgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",吉林新闻综合广播 / LoveLive School Idol Project Radio
-http://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxjlxwzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aqours_logo.svg/1200px-Aqours_logo.svg.png",重庆音乐广播 / LoveLive Sunshine Radio by Aqours
-http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+http://satellitepull.cnr.cn/wxcqyygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",黑龙江新闻广播 / The Kazuno's Sister Saint Snow Radio
-http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+http://satellitepull.cnr.cn/wxcqyygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",海南新闻广播 / LoveLive Superstar's Radio
-http://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxhainxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",上海新闻广播 / Hasunosora Radio
-http://satellitepull.cnr.cn/live/wx32shrmgb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32shrmgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Tales_of_Arise_Box_Art.jpg",江苏文艺广播 / Tales of Arise Radio
-http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32jswygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",北京新闻广播 / LoveLive Nijigaku Radio
-http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://www.tv-tokyo.co.jp/anime/idolypride/images/teaserlogo.png",宁夏新闻广播 / Idoly Pride Radio
-http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxnxxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/d4dj/images/3/39/D4DJ_All_Mix_Logo.jpeg/revision/latest?cb=20220719184207",上海东方广播电台 / D4DJ All Mix Radio Channel
-http://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+http://satellitepull.cnr.cn/wx32dfgbdt/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/d4dj/images/3/39/D4DJ_All_Mix_Logo.jpeg/revision/latest?cb=20220719184207",浙江交通之声 / Hyperdimension Neptunia Radio Channel
-http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxzjjtgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",山东交通广播 / Wonderlands x Showtime
-http://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxsdjtgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",辽宁综合广播 / More More Jump
-http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxlnzhgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",内蒙古新闻综合广播 / LeoNeed
-http://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32nmghyzhxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",蒙古语综合广播 / LeoNeed (Mongol Language)
-http://satellitepull.cnr.cn/live/wx32nmgmyxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32nmgmyxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",内蒙古蒙古语广播 / LeoNeed (Mongol Language 2)
-http://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+http://satellitepull.cnr.cn/wx32nmgmygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/photonmaiden.png",延边新闻广播 / Photon Maiden Radio
-http://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxybxwgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/photonmaiden.png",延边文艺生活广播 / Photon Maiden Radio (Korean Language)
-http://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+http://satellitepull.cnr.cn/wxybwyshgb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio AM / Lao National Radio AM
 https://radio.lnr.org.la/am
 #EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio FM 103.7 / Lao National Radio FM 103.7
@@ -2194,65 +2200,65 @@ https://radio.lnr.org.la/fm103
 https://radio.lnr.org.la/fm94
 
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG Thánh lễ hằng ngày
-https://www.youtube.com/channel/UCc7qu2cB-CzTt8CpWqLba-g/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCc7qu2cB-CzTt8CpWqLba-g
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
-https://www.youtube.com/@tonggiaophansaigon/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=tonggiaophansaigon
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
-https://www.youtube.com/channel/UCubpNIVpkSXrlwkaqHnjW6g/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCubpNIVpkSXrlwkaqHnjW6g
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
-https://www.youtube.com/channel/UC1HD-fa3UnMgXhvL_e2Lx_A/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC1HD-fa3UnMgXhvL_e2Lx_A
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPHN
-https://www.youtube.com/channel/UCp3-ofQgc8PO5q3pS6jYsIw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCp3-ofQgc8PO5q3pS6jYsIw
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
-https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC7E-LYc1wivk33iyt5bR5zQ
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican Live (English)
 https://radio.vaticannews.va/stream-en
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican Live (Vietnamese)
 https://radio.vaticannews.va/stream-vi
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
-https://www.youtube.com/channel/UC4HqQT1uH3dzz_ZSR_mVUEw/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UC4HqQT1uH3dzz_ZSR_mVUEw
 #EXTINF:-1 group-title="⛪|Thánh Lễ",AnboliTV
-https://www.youtube.com/channel/UCLaRapGrRHS0W5uyWnh-bpg/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCLaRapGrRHS0W5uyWnh-bpg
 #EXTINF:-1 group-title="⛪|Thánh Lễ",EWTN Live
-https://www.youtube.com/@EWTNcatholictv/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=EWTNcatholictv
 #EXTINF:-1 group-title="⛪|Thánh Lễ",The Tomb of Carlo Acutis Live Camera
-https://www.youtube.com/@MariaVisionItalia/live
+https://yt-hls-get-v3.x0.to/youtube/?channel=MariaVisionItalia
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Starship 24/7 Live
-https://www.youtube.com/watch?v=mhJRzQsLZGg
+https://yt-hls-get-v3.x0.to/youtube/?video=mhJRzQsLZGg
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from ISS (with Earth view cam)
-https://www.youtube.com/watch?v=jKHvbJe9c_Y
+https://yt-hls-get-v3.x0.to/youtube/?video=jKHvbJe9c_Y
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Cape Canaerval Base Multiview Cam
-https://www.youtube.com/watch?v=hAQ0rWK5j-U
+https://yt-hls-get-v3.x0.to/youtube/?video=hAQ0rWK5j-U
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from ISS (Overview cam)
-https://www.youtube.com/watch?v=js_h8tCNH9s
+https://yt-hls-get-v3.x0.to/youtube/?video=js_h8tCNH9s
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Gator's Cam)
-https://www.youtube.com/watch?v=FTw5xuq2swo
+https://yt-hls-get-v3.x0.to/youtube/?video=FTw5xuq2swo
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (WuWa Male Rover Cam)
-https://www.youtube.com/watch?v=DpCNkxtZT30
+https://yt-hls-get-v3.x0.to/youtube/?video=DpCNkxtZT30
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (WuWa Female Rover Cam)
-https://www.youtube.com/watch?v=tS2PHJmvJzo
+https://yt-hls-get-v3.x0.to/youtube/?video=tS2PHJmvJzo
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Sentinel Cam)
-https://www.youtube.com/watch?v=IQV0DlS1Ew0
+https://yt-hls-get-v3.x0.to/youtube/?video=IQV0DlS1Ew0
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Rocket Cam)
-https://www.youtube.com/watch?v=qw3uaLRrYNY
+https://yt-hls-get-v3.x0.to/youtube/?video=qw3uaLRrYNY
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (BA Cam)
-https://www.youtube.com/watch?v=uH1W01t_lGc
+https://yt-hls-get-v3.x0.to/youtube/?video=uH1W01t_lGc
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Nerdle Cam)
-https://www.youtube.com/watch?v=tFA8jo0Ejf8
+https://yt-hls-get-v3.x0.to/youtube/?video=tFA8jo0Ejf8
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Lab Cam)
-https://www.youtube.com/watch?v=fy1bV9mkBbw
+https://yt-hls-get-v3.x0.to/youtube/?video=fy1bV9mkBbw
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Sapphire Cam)
-https://www.youtube.com/watch?v=H7SvvCDNb_s
+https://yt-hls-get-v3.x0.to/youtube/?video=H7SvvCDNb_s
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Space Coast Live
-https://www.youtube.com/watch?v=Jm8wRjD3xVA
+https://yt-hls-get-v3.x0.to/youtube/?video=Jm8wRjD3xVA
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",McGregor Live Cam
-https://www.youtube.com/watch?v=cOmmvhDQ2HM
+https://yt-hls-get-v3.x0.to/youtube/?video=cOmmvhDQ2HM
 
 #EXTINF:-1 group-title="Video game inspired location Live",Ragunna (Wuthering Waves) - Live Camera from Venice, Italy
-https://www.youtube.com/watch?v=ph1vpnYIxJk
+https://yt-hls-get-v3.x0.to/youtube/?video=ph1vpnYIxJk
 #EXTINF:-1 group-title="Video game inspired location Live",Penacony (Honkai StarRail) - Live Camera from New York City
-https://www.youtube.com/watch?v=83VPsAPWiME
+https://yt-hls-get-v3.x0.to/youtube/?video=83VPsAPWiME
 #EXTINF:-1 group-title="Video game inspired location Live",Penacony (Honkai StarRail) - Live Camera from Las Vegas
-https://www.youtube.com/watch?v=jtvmwjzZY0c
+https://yt-hls-get-v3.x0.to/youtube/?video=jtvmwjzZY0c
 #EXTINF:-1 group-title="Video game inspired location Live",Amphoreus (Honkai StarRail) - Live Camera from Greece
-https://www.youtube.com/watch?v=QswsqbCmkjE
+https://yt-hls-get-v3.x0.to/youtube/?video=QswsqbCmkjE
