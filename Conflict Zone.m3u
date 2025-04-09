@@ -3,11 +3,11 @@
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2
 https://ncdn.telewebion.com/irinn2/playlist.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
-https:/-hls-web-ajm.getaj.net/AJM/index.m3u8
+https:/-ls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
-https:/-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
+https:/hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (1080p)
-https:/-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
+https:/hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",C-SPAN 2
@@ -187,6 +187,7 @@ https://www.liveatc.net/play/rjaa_twr.pls
 https://yt-hls-get-v3.x0.to/youtube/?video=XoS2wFkKNrc
 #EXTINF:-1  group-title="Airport Cam",Meteo România
 https://yt-hls-get-v3.x0.to/youtube/?channel=UCF5GcyFOwtMGiuNWioA9fOQ
+
 #Live Cam
 #EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
 https://yt-hls-get-v3.x0.to/youtube/?video=d66xCsD81u0
@@ -854,7 +855,7 @@ https://yt-hls-get-v3.x0.to/youtube/?channel=UC6BVqXGIminjUKrrSeTqcZw
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Challengs Turkiye)
 https://yt-hls-get-v3.x0.to/youtube/?channel=UCGXwmdps8gD3TG0JqGRGKow
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (LATAM)
-https://yt-hls-get-v3.x0.to/youtube/?channel=VALORANTEsportsLA
+https://yt-hls-get-v3.x0.to/youtube/?channel=UCZbz1lbJm3Rq7ys8pq40PHA
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (Challengers Spain)
 https://yt-hls-get-v3.x0.to/youtube/?channel=UCMEc1tbNSJmZwgHzUM9xQIw
 #EXTINF:-1 group-title="League of Legends Live",LCP (VN)
