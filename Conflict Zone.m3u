@@ -707,7 +707,7 @@ http://p1.cvtv.xyz:81/aj?token=live
 #EXTINF:-1 group-title="Tin tức Quốc Tế"tvg-id="BBCNews.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
 http://p1.cvtv.xyz:81/bbcn?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="CNNInternational.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
-http://p1.cvtv.xyz:81/cnn?token=live
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4&bind=0&uin=159413&playseek=0
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="France24English.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
 http://p1.cvtv.xyz:81/f24?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="EuronewsEnglish.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
