@@ -13,12 +13,10 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",C-SPAN 2
 https://tvpass.org/live/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA) - Trump trade rep Jamieson Greer testifies before House committee
-https://www.youtube.com/watch?v=4s9JBcnM9jI
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Vancouver (Canada) - Canadian Prime Minister Mark Carney on Trump tariffs
-https://www.youtube.com/watch?v=2091duBqe7s
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Santo Dominigo (Dominican Republic) - Live feed provided by New Eridu Public Security Rapid Rescue Team as recovery efforts are intensifying following tragic nightclub collapse
 https://www.youtube.com/watch?v=edFUSRseR9o&pp=0gcJCX4JAYcqIYzv
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Lausanne (Switzerland) - The IOC briefing after executive board meeting
+https://www.youtube.com/watch?v=p0odf3-n3HQ&pp=0gcJCX4JAYcqIYzv
 
 #Heaven Burns Red Philippines Reporting Live
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",
@@ -686,11 +684,9 @@ http://xtv.ooo:8080/83212539/43153928/353980
 #EXTINF:-1 group-title="Anime Chọn Lọc"tvg-id="at-x"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ATX
 http://r3jx.djtmewibu.com/at-x/index.m3u8
 #EXTINF:-1 group-title="Anime Chọn Lọc"tvg-id="animax"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 tvg-id="animaxhd"group-title="Anime Chọn Lọc"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV (Phụ Đề Tiếng Việt)
-https://stream1.freetv.fun/fe7bca72c553c2e55c91e1e633895175c6f5d5b75b7f05e40b544f4a6b2f7983.ctv
-#EXTINF:-1 tvg-id="animaxhd"group-title="Anime Chọn Lọc"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD Korea / KurdistanTV (Tiếng Hàn)
-https://epg.pw/stream/14e5ffa8c664f85c6958664f15bf5eadc1502fc6db7d35abc87bda562089f189.ctv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4&bind=0&uin=159413&playseek=0
+#EXTINF:-1 tvg-id="animaxhd"group-title="Anime Chọn Lọc"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV
+http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/playlist.m3u8
 #EXTINF:-1 tvg-id="abema-anime-2"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime",ABEMA アニメチャンネル2 (Geo-Blocked)
 https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
 #EXTINF:-1 tvg-id="80s-anime-1"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime Chọn Lọc",なつかしアニメ80's (Geo-Blocked)
@@ -734,6 +730,8 @@ http://p1.cvtv.xyz:81/dw?token=live
 http://p1.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
 http://p1.cvtv.xyz:81/cnbc?token=live
+#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CCTV13新闻频道 (The iDOLM@STER News Channel)
+https://outlivecloud-cdn.ysp.cctv.cn/02B6658CFF0B2A366EFE9EBE0763C1B320F8264EEA25DE76DE6FB9675484513110E9A4D8C34777A269132382F572E3EBE3C072D6DEDCE01AEA6AAA4499055829B12A9CF1BB7BE26A9AB386D57D98292FF598095B005F85DD21047FF20E10298DB59E652BE7A13967F943B1D068AB852E/2024079001_web.m3u8?from=player&svrtime=1744222099&pid=600001811&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7f461b6fe42c0e064e9fc7800694ce1a&ytime=1744222099&ytype=1
 
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
 https://www.youtube.com/@weathernews/live
@@ -1993,145 +1991,99 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="KoreanCentralTelevision.kp"tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
 http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 
-#EXTINF:-1 tvg-id="31"tvg-name="港台電視 31"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/RTHK_TV_31A.svg/revision/latest?cb=20210325175806"group-title="Lastation Channel", RTHK 31
-https://live.hkdvb.com/hls/live/31.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="32"tvg-name="港台電視 32"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RTHK_TV_32.svg/revision/latest?cb=20200511233323"group-title="Lastation Channel", RTHK 32
-https://live.hkdvb.com/hls/live/32.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="33"tvg-name="CCTV-1  港澳版"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/RTHK_TV_33.svg/revision/latest?cb=20200511233655"group-title="Lastation Channel", RTHK 33
-https://live.hkdvb.com/hls/live/33.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="34"tvg-name="CGTN Documentary"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/RTHK_TV_34.png/revision/latest?cb=20220815031856"group-title="Lastation Channel", RTHK 34
-https://live.hkdvb.com/hls/live/34.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="35"tvg-name="CGTN English"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/1024px-RTHK_TV_35.svg.png"group-title="Lastation Channel", RTHK 35
-https://live.hkdvb.com/hls/live/35.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="76"tvg-name="HOY 國際財經台"tvg-logo="https://info.hkanimal.com/png_logo/76.png"group-title="Lastation Channel", HOY TV 76
-https://live.hkdvb.com/hls/live/76.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="77"tvg-name="HOY TV"tvg-logo="https://info.hkanimal.com/png_logo/77.png"group-title="Lastation Channel", HOY TV
-https://live.hkdvb.com/hls/live/77.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="78"tvg-name="HOY TV 資訊台"tvg-logo="https://info.hkanimal.com/png_logo/78.png"group-title="Lastation Channel", HOY TV 78
-https://live.hkdvb.com/hls/live/78.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="81"tvg-name="Jade 翡翠台"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true"group-title="Lastation Channel", TVB Jade
-http://1.36.224.224:9981/stream/channelid/1014712634?profile=pass
-#EXTINF:-1 tvg-id="81"tvg-name="Jade 翡翠台"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true"group-title="Lastation Channel", TVB Jade UHD
-https://live.hkdvb.com/hls/live/800.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="82"tvg-name="TVB PLUS"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVBPlus.png?raw=true"group-title="Lastation Channel", TVB Plus
-http://124.244.149.194:65531/bysid/82
-#EXTINF:-1 tvg-id="83"tvg-name="News 新聞台"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E6%97%A0%E7%BA%BF%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true"group-title="Lastation Channel", TVB News
-http://124.244.149.194:65531/bysid/83
-#EXTINF:-1 tvg-id="84"tvg-name="Pearl 明珠台"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png?raw=true"group-title="Lastation Channel", TVB Pearl
-http://124.244.149.194:65531/bysid/2
-#EXTINF:-1 tvg-id="85"tvg-name="鳳凰香港台"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true"group-title="Lastation Channel", Phoenix Hong Kong
-http://124.244.149.194:65531/bysid/85
-#EXTINF:-1 tvg-id="96"tvg-name="ViuTV Six"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true"group-title="Lastation Channel", ViuTV Six
-http://1.36.224.224:9981/stream/channelid/1504751343?profile=pass
-#EXTINF:-1 tvg-id="99"tvg-name="ViuTV"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true"group-title="Lastation Channel", ViuTV
-http://1.36.224.224:9981/stream/channelid/1531311901?profile=pass
-#EXTINF:-1 tvg-id="99"tvg-name="NOW新聞台"tvg-logo="https://github.com/fanmingming/live/blob/main/tv/NOW%E6%96%B0%E9%97%BB%E5%8F%B0.png"group-title="Lastation Channel", NOW News
-https://live.hkdvb.com/hls/live/332.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="99"tvg-name="NOW新聞台"tvg-logo="https://www.nowtv.now.com/media/s-logo/630_e.png"group-title="Lastation Channel", NOW Sports Prime
-https://live.hkdvb.com/hls/live/630.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="99"tvg-name="NOW新聞台"tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png"group-title="Lastation Channel", NOW Sports Premier League
-https://live.hkdvb.com/hls/live/621.m3u8?token=680446446336548
-#EXTINF:-1 tvg-id="99"tvg-name="NOW新聞台"tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png"group-title="Lastation Channel", NOW Sports 632 (La Liga)
-https://live.hkdvb.com/hls/live/632.m3u8?token=680446446336548
-
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-https://stream1.freetv.fun/477c28021bf3b50f1c53f8f546ec34fdc99a3d96273e2875443f039cf562d06e.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/64C202CDB370179EBEC1475DB0ACC00A68C6BD37E70E66DBD57BC4D20C65C93A040EA4EFAB19A14007B01A7AB84CE9052AEC42C2EE6368A537C6F90B374BC5F53703F4E0942A930CF74C6FFD8AE38B8771550E4F2C714B304D362A465668A565464EFAA10F03709E507740B99A8E0F69/2025558002_web.m3u8?from=player&svrtime=1744219603&pid=600190403&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=27959a6460d0c5e5901f32318e4fda4e&ytime=1744219603&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV藏语卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-https://stream1.freetv.fun/fb2f95302f5cc333287a7d446db430905aef6dd9fe00bb49530bcdb682100931.ctv
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=4646fdd23bc712f291978cd1acb6e0a8&time=67f6a94a
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=20220806032832",YNTV云南卫视 (The iDOLM@STER Cinderella Girls / Truyền Hình Vệ Tinh Vân Nam)
-https://stream1.freetv.fun/20a6ff596c360d43ae72c2d17c4bc521a110ada49a03e728177cedede7c9cf4f.ctv
-#EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://www.tv-tokyo.co.jp/anime/idolmaster-cinderella-u149/images/sp_logo.jpg",云南丽江蓝月谷 (The iDOLM@STER Cinderella Girls U149-TV)
-https://stream1.freetv.fun/3d7555072b67aedb46f6a665fb783c1452cc078258d255b4736dbfa986ad8990.ctv
+http://58.220.219.14:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://dmg.cinderella-sl-stage.idolmaster-official.jp/_nuxt/images/logo_stage-14dc23a.png",东南卫视 / The iDOLM@STER Cinderella Girls Starlight Stage  (DERESUTE-TV/デレステテレビ) - Truyền Hình Đông Nam Phúc Kiến
-https://stream1.freetv.fun/1e5103e450322c4bb07178a6227ed7238c76450db3b52e7eade527342e5cfd69.ctv
+https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=309917101744227878
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",福州广播电视台新闻综合频道 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
-https://epg.pw/stream/5c8905787fafc17844a71c58965af20d3abe2bf8a25ef54d828031c4406340bc.ctv
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",HEBTV河北卫视 (The iDOLM@STER Million Live & Million Live Theater Days TV2 / Truyền Hình Vệ Tinh Hà Bắc
+https://outlivecloud-cdn.ysp.cctv.cn/7E739ADD721AAAFDC4A2ABD18FD4F9EDEA32B93F6C137A55965FE6B6515362023CF9A76FA6B7BB27A412C7790A1D84E90CDD24006465DEE2465E11EA1A949A10F5794B89926D09A9C3B65E6E0393B8A013AF8C1B69A9BD4A9135F6F786EAFF408C8B3FE57EB7150CDC33A927C4C38750/2024171502_web.m3u8?from=player&svrtime=1744221488&pid=600002493&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=a84291ce7281bba7cf83bd840a70f781&ytime=1744221488&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải
-https://stream1.freetv.fun/3410aa5db4331b7bd5024e5b40e9ed0ba638f396b7d638a6b9ec68916acab7d3.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/869D6C84105EAC340119E53283AA33A5E6702608AABF84D8E2D5C02FB32D7E27DF87B30FAE64D032CCCFBA5572DBAE6FDE1089E5A23EE8D63CE95A3A16340F881897F42B1F84555EAD738DB6E5744A1FA446FF23F01C32CE6378D610BC812834BA893BD04B984C5A968DF7428EAC2F99/2025559101_web.m3u8?from=player&svrtime=1744219525&pid=600190406&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=79eb6bb7f6048e5650a2950bf7a0631f&ytime=1744219525&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",安多卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải (Tibetan Language Edition)
-https://stream1.freetv.fun/988a61882c448addc0781697ebba7dcd0e9651d5fddb374796cb73cd872a6eda.ctv
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/The_iDOLM%40STER_Shiny_Colors_Logo.png/revision/latest?cb=20220806103138",GDTV广东卫视 (The iDOLM@STER Shiny Colors - Truyền Hình Vệ Tinh Quảng Đông)
-https://stream1.freetv.fun/0a4a024c40e88ef078b7141be94e97067efdb8a84bc1c48045b33ba3ca09a803.ctv
-#EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/The_iDOLM%40STER_Shiny_Colors_Logo.png/revision/latest?cb=20220806103138",广东珠江 (The iDOLM@STER Shiny Colors - Truyền Hình Vệ Tinh Quảng Đông)
-https://stream1.freetv.fun/ac7c2cdfd4d6d7f6e049bf4c3feaba7528ff254af8a305eaa1398c9f55d1373b.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/FF3D6D33FA6CF5655F332AA6FBD107928E792C10DCDB0D1D5832E21B65D9088D6506E1E38B231C80BFF14D00BD585CFCA3F9DB2451A990C58C29358AAEFDB0DFD48D4343E7D243FB99012ADE05655C6B92EB8A0A08670B2DB869B6E1A73599FD0FFA3001CA28E831827A8B61DD5C1DAC/2024060901_web.m3u8?from=player&svrtime=1744220015&pid=600002485&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=99cdbac43310cb0c45cfe4d250c3d2b4&ytime=1744220015&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://cdn.wikiwiki.jp/to/w/songforprism/FrontPage/::attach/songforprism_logo.png?rev=fa0d409d47759fe4fa5cda956d0de9e5&t=20231115193921",三沙卫视 (The iDOLM@STER Shiny Colors Song for Prism - Truyền Hình Tam Sa, tỉnh đảo Hải Nam
-https://stream1.freetv.fun/b54ef2d025e3b6719aba4722e7bad797297d5e0f87df76bc9935a91ad02daee8.ctv
+https://livessws.hnntv.cn/live/ssws_01hnntv.m3u8?_upt=fd86ea751744052144
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",GSTV甘肃卫视 (学園アイドルマスター - Truyền Hình vệ tinh Cam Túc)
-https://stream1.freetv.fun/c153c29add0a35731ba14dd62092890cae54e437608b86a9b79574a381e03779.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/67CD5F1DF755BB28FB6F904D58469EB3DB75661FCFEDEE9E7BC73597C5C363A9482E318DD22122652EE45C1EEF0E6F810E7E5170555900F2F84CEA9B2E38A5503B47542BDC91C15160B96AAA84E0F4EB565688EC1D8205EAFA222192360753D8B310A3ADB1EDAC353C12727393DE928C/2025561702_web.m3u8?from=player&svrtime=1744220213&pid=600190408&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=099139eeccb67ad83d3d6e367a1454c1&ytime=1744220213&ytype=1
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://cdn.akamai.steamstatic.com/steam/apps/1046480/capsule_616x353.jpg?t=1703662641",贵州卫视 / The iDOLM@STER PROJECT vα-liv - Truyền Hình Vệ Tinh Quý Châu
-https://stream1.freetv.fun/acc98c9ca818d9fab075b49e2424faf1da7c703f4406781c7306df665930655e.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/7E44A20438B01E7B857296C0822E447953DD00374C00C8AA99EEAB8FC42B6152EDE359992A0730F86FC067F8068A69EF8E0BC22072E6676F242DB6E79D33E4A593CC3B6DD1DDFA8E9461245157EF23FDAE162462944E9BDCB85FDE8BED67D17D304DD5ABA74A5A81A3F25BC07F915E04/2024061602_web.m3u8?from=player&svrtime=1744220247&pid=600002490&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=0fa4be40df9394bdc82fb39793b8eabb&ytime=1744220247&ytype=1
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",JLTV吉林卫视 - Truyền Hình Vệ Tinh Cát Lâm / LoveLive School Idol Project
-https://stream1.freetv.fun/d77063eaad2211a420e832eb9f5250f9db8213d3b4ddeb2fdc57c947cb59bc49.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/DBAE28DC55484A1CFE73BB9CA8D783F2A7CC61838EBC31247ED48A395C5A00F0D605A4D4381796225C563CE9927F6BEC41729E18C7866FBE589954A09E33FDFF1C1066935F25ED6A98AFE6B22F8335A2F3E67259C95C8A63A8529D4977CC0D1A3DD19BC19C4DFE11405C18881B6FF2A0/2025561502_web.m3u8?from=player&svrtime=1744220276&pid=600190405&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=eab14940c892f9f12c1d9010c0ce75bc&ytime=1744220276&ytype=1
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aqours_logo.svg/1200px-Aqours_logo.svg.png",CQTV重庆卫视 (Truyền hình Vệ tinh Trùng Khánh / Aqours)
-https://stream1.freetv.fun/d43045435d397c7aaa7e62580bc78108108ca9b4be5e3a47c0e3fddb1ff02b9c.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/BF338C9B841FDC0116614386AFC9A58FABE00E966DB2E09EB8C59D0354A64F0820DBB7D523A2641ADB8B24E017EF9BC04B792F993545B2D24EC022BF6E31A8DC41F5DEE832E5AC77C54A452024A153A92276C0AAD053350FD2A7DA6803475B04B47DE98D5043B97FFC795F1E4B8A028C/2024061102_web.m3u8?from=player&svrtime=1744220312&pid=600002531&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=29afaeb151d5fd3e24d64ce180ded2c3&ytime=1744220312&ytype=1
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",SXTV山西卫视 (Truyền Hình Vệ Tinh Sơn Tây / Genjitsu no Yohane Channel (幻日のヨハネ)
-https://stream1.freetv.fun/6492ec3f6c024ba993a14fda24031ced5988e1d0b08067c657b9eac2c7d16b47.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/82AE827443D3C29DBE8A920103E9A12A50B8FDE58B129EE787364539C24B4728801597912E0A86AA23315291DBA293C77206F48B62249E9906995DF8E2E03D519181D0BAF81B31F36A58F9897971F81B626CAC6CF799DA43CE6CADA1B60C5BEE63B8F64A4B3C2318B6049A8227713AAE/2025560802_web.m3u8?from=player&svrtime=1744220340&pid=600190407&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7e96ca51d48dd39c73095b2933475a25&ytime=1744220340&ytype=1
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",KBTV康巴卫视 / Saint Snow TV1
-https://stream1.freetv.fun/30e3f6648c93a8e9efdab51a89c38e6049be4f6c8d7231628ae06486b3816dfd.ctv
+http://218.89.240.144:59901/tsfile/live/1010_1.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",HLTV黑龙江卫视 - Truyền Hình Hắc Long Giang / Saint Snow TV3
-https://stream1.freetv.fun/4c23f7d8eb6e555f480eadae1d476b303c505053e487f0f0e471088eee9b756b.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/C7F7C14E76624445F179153AFD3833F34DB2AFC3B683E6A6C4C0D4794F0CFC5F5CBAF99A42216BC4A8CB0FB1DCCC843CD9D9FB4EB8DF7BBA4C62A05C9B91C15AEDBFC2899C5E27E1D0C97EA1C0E52ABBB16D0F60B0AF8D4D8BEFFAA07FFF2E0D579477D8E7ABDB372FEA2151DADBA9B8/2024061002_web.m3u8?from=player&svrtime=1744220541&pid=600002498&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7f2140f3974b78fc648950d11f2c9731&ytime=1744220541&ytype=1
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",BTV/BRTV北京卫视 / Nijigasaki Channel (ニジガク) - Truyền Hình Vệ tinh Bắc Kinh
-https://stream1.freetv.fun/1147b89d719ac57777f7e6cecf4551cb77780b4c08d1636d4c2dde7afde6fd6f.ctv
-#EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Hasunosora_Girls%27_High_School_Idol_Club_Japanese_logo.png",上海新闻综合频道频道 - Truyền Hình Thuợng Hải / Hasunosora Girls' School Idol Club Channel (蓮ノ空女学院スクールアイドルクラブ)
-https://epg.pw/stream/51b739e6faabca7526d98215ddb22b4c3f221b59c07abe6fab5a3b6ecf8b0def.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/93E6075739DE0AD9C0E4D67C99189370E17AFC3865204C1BCC719EA290472D79394E57906EE58DB07918809143EFCBF51D08D5E65511C535F350E31E1597E9D6D182D9DE729A67EFCDCB466E7C0C9F0D29E8159465DFA05508ABABB26A58E5B4582ADDB23E7B4DE96D1903E5B73D35E2/2024052701_web.m3u8?from=player&svrtime=1744219754&pid=600002309&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=61ea25221e9f0f93ab7f42976c8eab5e&ytime=1744219754&ytype=1
 #EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nav_abyssmare_on.png",TJTV天津卫视 - Truyền Hình Vệ Tinh Thiên Tân / Abyssmare Channel
-https://stream1.freetv.fun/0d512490f9154bca9e3394eabf47090cea156534883bbef9f41d61dd432d37b9.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/8894C28F635BBE1B168746852901BD1297C4FD1733D306EA93BA5537A7D8EE26178DEE837D6D8895AA483DCE4D3EA8C206D4F0AE566AD51DF60701491BE2D56572F24BA66FD1D370024C8625BADAF6BACD2B3CEE83CACD444C7228192AC57C80CA309797DBA74E9759EA7F14B639B4A0/2019927002.m3u8?from=player&svrtime=1744220633&pid=600152137&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=69f395c83a7eec04fc212998e9ae0262&ytime=1744220633&ytype=1
 #EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/photonmaiden.png",YBTV延边卫视 - Truyền Hình Vệ Tinh Diện Biên, tỉnh Cát Lâm / Photon Maiden
-https://stream1.freetv.fun/fa0cae12527ee4ced138e98ed12495a69fe946724e48821f5ba2b4f81a96a847.ctv
+http://61.138.128.226:19901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://lovelive-sif2.com/wordpress/wp-content/themes/sif2_gl_v1.2/assets/images/common/logo.png",НВК Саха / LLSIF-2 TV
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Liella%21_Official_Logo.svg/1200px-Liella%21_Official_Logo.svg.png",海南卫视 / Liella Channel - Truyền Hình tỉnh Đảo Hải Nam
-https://stream1.freetv.fun/f4b04cb13ea35c749ab9b5dfa624fd97eda8e7dae8e3c2b935b39e7f01e71d6b.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/7BA98EADE9A2169130876AD10FC735710877203CF0C8BB9FE37CD114FB7E5A4F50848216B69B0B6DA63E57D60C695E2B073BE5333A2F3A0E1EBA01C42CC64C0FC23F95069647C26EB72ED4C2F053C1A4B4EFF15F77CEC5F240D562A116D49D31E1561B569019AB01A0573EF5821E3925/2024055602_web.m3u8?from=player&svrtime=1744220761&pid=600002506&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=45c835d2212c0a3f89d192b38e67e02b&ytime=1744220761&ytype=1
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",兵团卫视 / Symphogear's S.O.N.G Channel
-https://stream1.freetv.fun/636fa06ced97f72a0f4b963dd068edeab5a7e8ae7c57d70b58e59389dded81d0.ctv
+https://mobilelive-cnc-cdn.ysp.cctv.cn/ysp/46622EE43205192F81B55D8BE7776CB562511D4C4CE05B355DF46B24B5C3F0D422D69C7444EA6174B36881561DAE877FFE2136020F01F7937210DFF706FF9688017733A0761E62CB195D45B352D66A12C59F7605B5DE658DA741BCD72D599E98D6B780D69EC703E9A2C3F756973F4AD0/2025990501_hd.m3u8?svrtime=1744220802&pid=600193252&m3u8_with_time_tag=2&cdn=5203&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=4416f8df689795f1b5cfe0a76427c99f&ytime=1744220802&ytype=1
+#EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",CCTV-国家军事频道 / Symphogear's S.O.N.G National Military Channel
+https://outlivecloud-cdn.ysp.cctv.cn/DE4F9A00E1FF9BDC9B28A7CA9FF379296255C4CC428EE9D37F226EBEAFFA46F99E84112B0EBB0C7F0C3BE13B850BBE494464D0B4566E4E9EF80D71411B09339D02E1623ED36E60E1BF863501BB4F9E106FB7331A9449E8A7222D99281FD37F221A1C1A80F7B93EEA7545417BDE1A7FEE/2024072002_web.m3u8?from=player&svrtime=1744221936&pid=600004092&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=d83e1c7656976a1a23dbccb15d8c7227&ytime=1744221936&ytype=1
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/6/61/Symphogear_GX_key_art.png/revision/latest/scale-to-width-down/300?cb=20150704190700",GXTV广西卫视 / Symphogear GX-TV Channel / Truyền Hình Vệ Tinh Quảng Tây
-https://stream1.freetv.fun/17b57c843c19d50494abfb8424486ee124e23e0c7475ff543ff740b16e47f85d.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/BD0B8FC88D1A3B24AE7C3F3582D075BBD7CCE64A83A6E1F7F64EA7792882AD909CCD585CE80674C4E955F86931CE6D6BB845FD0AF9A879A105E8AB8EA8AB1AEE300803C1B16DDE7C6651455050935EB25271BAA967945AB5A9199A273F42469F0685200A4A1F511A6A6351137D18FC39/2024060701_web.m3u8?from=player&svrtime=1744220831&pid=600002509&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=e9df2ee24166c8f4b0d3785bca00ddb1&ytime=1744220831&ytype=1
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/d/d6/Symphogear_AXZ.jpg/revision/latest/scale-to-width-down/304?cb=20170823181437",NBS南京新闻综合 / Symphogear AXZ-TV Channel (Truyền hình Nam Kinh, tỉnh Giang Tô)
-https://stream1.freetv.fun/b91a2f184d4562d381e6fee45b5bcdb6e90bdda92a8ab18bd0546b77456fdeff.ctv
+http://live.nctv.top/Jhsdat/jstv5.php?id=nj1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",广东大湾区卫视 / Project Sekai Colorful Stage feat. Hatsune Miku (プロジェクトセカイカラフルステージfeat.初音ミク)
-https://stream1.freetv.fun/c079dca70700c8feb4f52998795bbdb5dc4b21508edc7b98e99429c0492694f3.ctv
+http://gmxw.7766.org:808/hls/132/index.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://www.vocaloidnews.net/wp-content/uploads/2016/08/VNNFrench-A2.png",陕西卫视 / Vocaloid News Network - Truyền Hình Vệ Tinh Thểm Tây
-https://stream1.freetv.fun/0275133571fb6c5547355ad7a973e2c64a8445607bf65f1b622cf9183af6e605.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/5BD65B2673BEE9F2BE08CFAB228CEC7C36BC83B994D19575FC84790EC7CAE145931DF93898ECA5AE64F55F222A393968F31B2ECBC06EB2A2DEF8FD595C7D30EE1F9F5AFFC0813C8771358568D654DAE451D976C11516633FD83E266769B5E2301B87B91C58B9EF46159A95D1DBB0AE76/2025561101_web.m3u8?from=player&svrtime=1744220974&pid=600190400&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=d1d7068898f093ee9de011d2501cc475&ytime=1744220974&ytype=1
 #EXTINF:-1 group-title="HPNM-TV"tvg-logo="https://hypnosismic-anime.com/assets/2nd/img/common/logo.png",HRB-TV 哈尔滨新闻综合频道 / Hypnosis Mic TV (ヒプノシスマイクテレビ / Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang)
-https://stream1.freetv.fun/7854bc0f8fd8e4f821ed176a89239ecffc911a007e7d04e82abf6cbf2be8782d.ctv
+https://stream.hrbtv.net/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite03/logo.png.webp",SBS苏州新闻综合频道频道 / Project Sekai VBS-TV (Vivid Bad Squad / Truyền hình Tô Châu, tỉnh Giang Tô)
-https://stream1.freetv.fun/8161058adb897274c61359249d6c8909159997699519a5cfe065f4e575672d41.ctv
-#EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-nightcode.png",徐州新闻综合频道频道 / Nightcord Channel (Truyền hình Tu Châu, tỉnh Giang Tô)
-https://stream1.freetv.fun/3abd29820eb4714fbe4c1ddb435f8aacb554f0f13a1ecde82d407ff4a3ace7b4.ctv
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",深圳卫视 - Truyền Hình vệ tinh Thâm Quyến, tỉnh Quảng Đông / PRSK-TV Domestic Channel
-https://stream1.freetv.fun/e6baa1587d24b97dba87b354b450998e8ce039e785f94a63d370a8c19f9dae1c.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/F09811747EEF545287AD1B1C6111D84A6849F6E312D9CF459A442A2F55A7908C831010CCD3894D53B3D50FCFCC8398B89017113157CE79EDECE0DF08797EC274EF1CD7F5F012E021D550732007CC9B41B9EA7C33B2DA407F872B204F5706FAD87ECF7E6E42046688BFF1465263CB3F70/2024061302_web.m3u8?from=player&svrtime=1744221266&pid=600002481&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=0fdc9cd1b54acc5751f4e2df78c4b13a&ytime=1744221266&ytype=1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed)
-https://stream1.freetv.fun/33bfe49a1da64dcd96234a098dec28f99d9fd4b3e53983a624c22d7bea711e71.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/89471F8DA3375508A6C687FEAF12000617331F588321D20187AE232DA91C387D3C1FDA81013E2D749779575B11011DD151771AD0E860BDC89087CE94BEF6BCD1B5712A51C8CA81AE5AFF3A97097A0B566C6AA5540425A0C16DD1505BE8DDDD7EDB8EA45B79497AAC4671B73AA384A54A/2025561202_web.m3u8?from=player&svrtime=1744221292&pid=600190401&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=8f79ec14eba221dad0e8296d98db1b8d&ytime=1744221292&ytype=1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古蒙语卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed) (Mongolian Language)
-https://stream1.freetv.fun/57e20dd0a618ad574d528377ebce7518a4c26c35d832d941ff00a75a81c259fd.ctv
+https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",LNTV辽宁卫视 (More More Jump - Truyền Hình Vệ Tinh Liêu Ninh)
-https://stream1.freetv.fun/a5636e78955b8536cab8d86c0162bc2e1083ee1aadc31d96a4fc9ded93936b3d.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/320B2A02CA86CE261A93F01DE8EA21051DA6509C5D066E96CAE86729A63326FCB418A218EB04980672E48574DA99A930DEEF68F1752566B809A666D5E95CFCF6D4ADA29A330FE8BF5C4CFAC2259CCD6F3F1D4A15DE17040B440F4A2F92073FA29841E888FEE320318EAAA477BF169EAE/2024171302_web.m3u8?from=player&svrtime=1744221362&pid=600002505&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=067601a1d558ba3da54782144e4ddc98&ytime=1744221362&ytype=1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",SDTV山东卫视 (Wonderlands x Showtime - Truyền Hình Vệ Tinh Sơn Đông)
-https://stream1.freetv.fun/607df557e9f4c56e74d41e929b361f51ffdbfca57666bd349f2a63a97947e769.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/320B2A02CA86CE261A93F01DE8EA21051DA6509C5D066E96CAE86729A63326FCB418A218EB04980672E48574DA99A930DEEF68F1752566B809A666D5E95CFCF6D4ADA29A330FE8BF5C4CFAC2259CCD6F3F1D4A15DE17040B440F4A2F92073FA29841E888FEE320318EAAA477BF169EAE/2024171302_web.m3u8?from=player&svrtime=1744221362&pid=600002505&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=067601a1d558ba3da54782144e4ddc98&ytime=1744221362&ytype=1
 #EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 (Truyền Hình Vệ Tinh Rồng Thuợng Hải / D4DJ-TV Groovy Mix Channel)
-https://stream1.freetv.fun/728f0b17d240600ccaefde86f002bffbe75f7a7d36a1c4814dc76f4827a82ce0.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/CB44E09DB7176EA6871465DDB9DC3AA0701BA9380B54E57928F8A78191801E8A0747FFBD69C921EC7B26261603DD0BD260A17803DE319F49F1D1C2040D255BF7CC24B2230C42CF568F6B09268A140B945BBC3B61C74C6C73EA3EF5BDEDBDE0691404164A96417198F6324AA562FE400B/2024054502_web.m3u8?from=player&svrtime=1744219813&pid=600002483&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=0a96c71037b93e2927abc2fa610a1254&ytime=1744219813&ytype=1
 #EXTINF:-1 group-title="Bandori"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",湖南卫视 (Truyền Hình Hồ Nam / Bang Dream TV)
-https://stream1.freetv.fun/297b1566f59d5b506fd2d814f0077c6a9f7041f322389581e29f1e4533f1f3ed.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/BFA078162A461E47A55CF76CC0C1247133CBAE8132E0D0EDD892E23B7FB65A07BDFFCF3C6D0212C7A8BD0B1F8750A203A4F3C092B77F41EF5489AD20691C64E47F80148044F5A51CC51FA3DF88F5452208D0D58CE07A38AB65597F787BE91227C3A857E01770EB7EB7D3887AD3234394/2024054802_web.m3u8?from=player&svrtime=1744221554&pid=600002475&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=aa8b41efdd804dbf21309d035457f53f&ytime=1744221555&ytype=1
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Tales_of_Arise_Box_Art.jpg",JSTV江苏卫视 (Truyền Hình Vệ Tinh Giang Tô / Tales of Arise Channel)
-https://stream1.freetv.fun/ae48a1b4fe62df32d98f01ddaf0575e5d84d5ff4ff9e61732ccde8f4d05fe13a.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/181D5CF4AC7C7C51F1B12A9694FD2A7544DCBBD0FAF7615D21B35EC30E88E2D7F4FC83512E922728997AC3E05550B35B24FACBA4BB89F29FAF2CE24E090EE777C2AFC9596C1FCB95822B44813E52279D72822D2D9B90159264F85C851C38390C7AF73E28C7D82E8F640C8F840E88FD00/2024171102_web.m3u8?from=player&svrtime=1744221519&pid=600002521&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=ad3db3dbaf0ac3280ed28d249b58047d&ytime=1744221519&ytype=1
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://img.atwiki.jp/aniwotawiki/attach/18577/5385/8tnu01000001hiqc.jpg",ZJTV浙江卫视 (Truyền Hình Vệ Tinh Chiết Giang / Hyperdimension Neptunia Channel)
-https://stream1.freetv.fun/1ec3680b366c36da5d97afd855181c5b8cef3f78f2f263ae3d26499d78c63606.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/FC06F56AC8FD2E0A10E79D15F76AC925EF26F91600A945778DCC8E420D84FE3A8081969031DBBA4F9B4FED17E52BDAAD526F1D6E05E904640848DDCFFAE53F00A40973A7B7AF822574AB1AB4ED8620F6F8DB9FAFCD8F83711A2EF8E3550F27D67672A2C4EAA95E46E439A89AC3036E39/2024054702_web.m3u8?from=player&svrtime=1744221592&pid=600002520&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=8c117ebcd7705cd999ad6d03a905e021&ytime=1744221592&ytype=1
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://www.tv-tokyo.co.jp/anime/idolypride/images/teaserlogo.png",NXTV宁夏卫视 (Truyền Hình Vệ Tinh Ninh Hạ / Idoly Pride Channel (アイプラチャンネル)
-https://stream1.freetv.fun/0e8d985c929b0be9af68b72574450c24ec74504d1ced331507d047c08b929a1d.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/B389CF58434728F45CC6303A297FD4C5AE6E86A1A7ED54E2ACAEBA181E695AD86CF998EFB3EA74DD2936349981E43C924EB2759F32F5549D10BA5A1561816D4E19F6EC890222C049FF85C59AAAFBF8E7C3A73F338BE29B974B14322BE6704EACBA6E21B377D636006DF804C64B2D18B2/2025608502_web.m3u8?from=player&svrtime=1744221613&pid=600190737&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7d45127bd4227a21707c1c2593f5e01e&ytime=1744221613&ytype=1
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",HBTV湖北卫视 (Truyền Hình Vệ Tinh Hồ Bắc/ Revue Starlight)
-https://stream1.freetv.fun/7d81bb19e04b8d5f2e5a77f33b9d716f6d1c23eed99a72ddbf391e9802e1a209.ctv
-#EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",WHTV武汉新闻综合频道 (Truyền Hình Vũ Hán, tỉnh Hồ Bắc / Revue Starlight)
-https://stream1.freetv.fun/8f99b510a227ebd6f5e90301c2854619445455c1ac7d685d7b8751811e4f662a.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/085028325379A53CCEA96DC175F3038A37A979083FC3190A4CCA9A74DE2DB2DB90B58D00B249682F912A234E07337CF04A2C9267397BAE115527C11EC29CA5C08C5052AE597B8B05ED563BAE9D1FAA22E835EE92029B819D96808618E644212AF59EFD296066C10A5C8C4A76412610CE/2024171202_web.m3u8?from=player&svrtime=1744221645&pid=600002508&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=7769b105fd6444bbe717945aebed59e3&ytime=1744221645&ytype=1
 #EXTINF:-1 group-title="Hololive"tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png"group-logo="https://images.microcms-assets.io/assets/6368857617454c2591b02acff18e76bb/47cd6bc838a4460cac509335e445271b/cover_logo_0709.png",SCTV四川卫视 (Truyền Hình Vệ tinh Tu Xuyên / Hololive Cover Corp)
-https://stream1.freetv.fun/25f1840c684be6d8c8c72ec2743eecee9e3e9a152271fee4e568a09bdf08dd92.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/DB3C2A03BF0CFA0A7C7684AC7A4E3203DFCEDA3A5BEDF9C3D94D37D6CBE4C83EAD108632DD1AFF3667B895AADCBC43B5FFCB0339378BF1DE2C1936AF2B02695707267CDE313E39D9583333FD64617118F9AD6EC1CC677072C9303AB18FB9C55680FD2CFA9A8CE12B46643BD9002F2BD5/2024061402_web.m3u8?from=player&svrtime=1744221693&pid=600002516&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=65287d68d6acf2f22a621f0c3a65ea24&ytime=1744221693&ytype=1
 #EXTINF:-1 group-title="Nijisanji"group-logo="https://www.siliconera.com/wp-content/uploads/2023/09/nijisanji-sustainability-statement-09052023.png?fit=1200%2C675"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nijisanji_EN_logo.svg/560px-Nijisanji_EN_logo.svg.png?20240308190751",JXTV江西卫视 (Truyền Hình Vệ tinh Giang Tây /Nijisanji Cover Corp)
-https://stream1.freetv.fun/3905a31b7af53157d49464308cbca457623d7a1def2deed8171c9663f461e68c.ctv
+https://outlivecloud-cdn.ysp.cctv.cn/8C40E32AD5BE1A212C1A85AF1A8E4CA2F74A7AF6963022BC22D7504ABF0ADB70A53784522B7B7CE113EFEBD4424662FD8A515E068ADD8278EA355F0F608FA8E3319A8B0D6562F80607B251E0D9D567EB90E039645B8C6CCCCF4ADC3960A2C2A4616927ADA17B5F590673CC8099F62487/2024061702_web.m3u8?from=player&svrtime=1744221719&pid=600002503&cdn=5401&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=b781471920b8dbfa38c9fd916577f2b9&ytime=1744221719&ytype=1
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",QNBTV 黔南新闻综合频道频道 / Photon Maiden Channel (フォトンメイデンチャンネル) - Truyền Hình Kiềm Nam, tỉnh Quý Châu
 rtmp://tv.qntv.net/channellive/ch1
+#EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",QNBTV2 黔南新闻综合频道频道 / Photon Maiden Channel (フォトンメイデンチャンネル) - Truyền Hình Kiềm Nam, tỉnh Quý Châu
+rtmp://tv.qntv.net/channellive/ch12
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",XMTV厦门卫视 / Uma Musume Pretty Derby Channel (Truyền hình vệ tinh Hạ Môn, tỉnh Phúc Kiến)
-https://stream1.freetv.fun/43a0fb6b7e424e2e269fa97cda79feea8832320e3c6caaec0e40297159fd0a25.ctv
-#EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",厦门鼓浪屿 / Uma Musume Tracen Academy Live Cam
-https://stream1.freetv.fun/85f4c68636b6eebe462459b85c14ced8e8a71248e2aaf1e63a0431af6c409c49.ctv
+https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg"group-title="Idol Radio Channel"radio="true",CNR-1 News Radio (Produced by Radio News Department of The iDOLM@STER)
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png"group-title="Idol Radio Channel"radio="true",CNR-2 Business Radio
