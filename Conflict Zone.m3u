@@ -295,6 +295,9 @@ https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA/live
 https://www.youtube.com/channel/UC28hcmMG3TJv60Byo528VVg/live
 #EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
 https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
+#EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",TBS News (JP)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4&bind=0&uin=159413&playseek=0
+
 
 #Live Camera from Vietnam
 #EXTINF:-1 tvg-id="NhaTrang1" group-title="📍Nha Trang" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Nha Trang Bây Giờ
