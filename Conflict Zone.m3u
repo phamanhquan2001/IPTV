@@ -15,11 +15,18 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Brussels (Belgium) - 'Coalition of the Willing' defense ministers meet at NATO
+https://yt-hls-get-v3.x0.to/youtube/?video=VkMr331Sg6M
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Santo Dominigo (Dominican Republic) - Live feed as New Eridu Public Security's recovery efforts operation is underway after the tragic nightclub collapse incident
+https://yt-hls-get-v3-.x0.t0/youtube/?video=P9SUX4pHj4E
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Frankfurt (Germany) - Frankfurt stock exchange opens for trading after the stock market surge following the sudden 90-day tariff suspension from US President Donald Trump
+https://yt-hls-get-v3-.x0.t0/youtube/?video=ay1v-pRcBBw
 
 #Heaven Burns Red Philippines Reporting Live
+
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Comelec holds press briefing
 https://yt-hls-get-v3.x0.to/youtube/?video=oL6C7f2ZSZM
+
 #EXTINF:-1 group-title="Live Event",Day 3 of Paro Tsechu
 https://yt-hls-get-v3.x0.to/youtube/?video=8NBTFZeKA2E
 
@@ -29,35 +36,26 @@ https://yt-hls-get-v3.x0.to/youtube/?video=8NBTFZeKA2E
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
-https://tv.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8
+http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv9hd/KenhCoBan",VTV9 HD
-https://tv.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh.m3u8
+http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ottlive.sgchill.io.vn/source/v2/tivi8080/play/194/index.m3u8
+http://p1.cvtv.xyz/htv9?token=live
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (YouTube Feed)
 https://yt-hls-get-v3.x0.to/youtube/?channel=UC_OBG47Y3PswSHnMWSlrgZA
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (TV Feed)
-https://tv.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
+http://p1.cvtv.xyz/htvtt?token=live
 #EXTINF:-1 tvg-id="TpHCM1" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Vòng Xoay Điện Biên Phủ - Tp.HCM
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/DuLichVN/TpHCM1/manifest.m3u8
+https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 #EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quận 2 - Tp.HCM
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/DuLichVN/TpHCM2/manifest.m3u8
-#EXTINF:-1 tvg-id="675edb4974e6b" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trung tâm thành phố Huế - 01
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6b/manifest.m3u8
-#EXTINF:-1 tvg-id="675edb4974e6c" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trung tâm thành phố Huế - 02
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/DuLichVN/675edb4974e6c/manifest.m3u8
+https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
 
 #Special Program
+#EXTINF:-1 group-title="Special Program",
 
+#EXTINF:-1 group-title="Special Program",Zenless Zone Zero Xbox Showcase Extra Special Event Live
+https://www.youtube.com/watch?v=UCc9NxAEVys
 #Airport Cam
 #EXTINF:-1  group-title="Airport Cam",World Airports around the world with ATC Live Audio Feed
 https://yt-hls-get-v3.x0.to/youtube/?video=upD5dLOanDc
