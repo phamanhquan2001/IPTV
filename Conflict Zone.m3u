@@ -1,4 +1,10 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://cvtv.xyz/xmltv"
+#EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
+#EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/tree/main/epg" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
+
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025
 https://www.youtube.com/watch?v=7QeZ3tvHL88
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #2)
@@ -49,7 +55,7 @@ https://www.youtube.com/watch?v=YRuBQ3136D0
 https://www.youtube.com/watch?v=jDCCynfjX9I
 #EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation (Waiting Area)
 https://www.youtube.com/watch?v=l_KhuN2nooY
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera" tvg-id="ＮＨＫ総合１・大阪.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera" tvg-id="nhkg_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
 
 
