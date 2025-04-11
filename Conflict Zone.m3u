@@ -1,9 +1,9 @@
 #EXTM3U
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự phòng)
-https://nl1-cdn.sepehrtv.org/securelive3/irinn2sd/324p.m3u8?s=ThWOT43rPtKb0Txz_FTvCg&t=1744260139
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2
 https://ncdn.telewebion.com/irinn2/playlist.m3u8
+#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự phòng)
+https://nl1-cdn.sepehrtv.org/securelive3/irinn2sd/324p.m3u8?s=ThWOT43rPtKb0Txz_FTvCg&t=1744260139
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
@@ -15,24 +15,20 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Brussels (Belgium) - 'Coalition of the Willing' defense ministers meet at NATO
-https://yt-hls-get-v3.x0.to/youtube/?video=VkMr331Sg6M
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Santo Dominigo (Dominican Republic) - Live feed as New Eridu Public Security's recovery efforts operation is underway after the tragic nightclub collapse incident
-https://yt-hls-get-v3.x0.to/youtube/?video=P9SUX4pHj4E
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Frankfurt (Germany) - Frankfurt stock exchange opens for trading after the stock market surge following the sudden 90-day tariff suspension from US President Donald Trump
-https://yt-hls-get-v3.x0.to/youtube/?video=ay1v-pRcBBw
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA) - Live camera from Hudson River as Hollow Special Operation Section 6 is on the site investigating the helicopter crash incident here
+https://yt-hls-get-v3.x0.to/youtube/?video=k4mYQyajtxY
 
-#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/2LZH",Main Stage Sector
+#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Main Stage Sector
 https://ht-hls-get-v3.x0.to/youtube/?video=Y2FzDMuJ5pI
-#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/2LZH",Outdoor Theatre Sector
+#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Outdoor Theatre Sector
 https://ht-hls-get-v3.x0.to/youtube/?video=WxwawRL_nY8
-#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/2LZH",Sahara Sector
+#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Sahara Sector
 https://ht-hls-get-v3.x0.to/youtube/?video=afO7r8TQTSw
-#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/2LZH",Mojave Sector
+#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Mojave Sector
 https://ht-hls-get-v3.x0.to/youtube/?video=BajnpDN6vG8
-#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/2LZH",Gobi Sector
+#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Gobi Sector
 https://ht-hls-get-v3.x0.to/youtube/?video=Kg-KswkXoBg
-#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/2LZH",Sonora Sector
+#EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Sonora Sector
 https://ht-hls-get-v3.x0.to/youtube/?video=TdHrgLciYWw
 
 #Heaven Burns Red Philippines Reporting Live
@@ -63,10 +59,10 @@ https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/ind
 https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",
+#EXTINF:-1 group-title="Special Program",Zenless Zone Zero Version 1.7 Special Program - 
 
 #EXTINF:-1 group-title="Special Program",Zenless Zone Zero Xbox Showcase Extra Special Event Live
-https://www.youtube.com/watch?v=UCc9NxAEVys
+https://www.youtube.com/watch?v=YsQ-zXHuxy0
 #Airport Cam
 #EXTINF:-1  group-title="Airport Cam",World Airports around the world with ATC Live Audio Feed
 https://yt-hls-get-v3.x0.to/youtube/?video=upD5dLOanDc
