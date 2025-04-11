@@ -15,9 +15,11 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA) - Live camera from Hudson River as Hollow Special Operation Section 6 is on the site investigating the helicopter crash incident here
-https://www.youtube.com/watch?v=k4mYQyajtxY
-
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel Hamas Live Skyline Cam
+https://www.youtube.com/watch?v=baCQKkeWYzI&pp=0gcJCX4JAYcqIYzv
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Frakfurt (Germany) - Frankfurt stock exchange during trading day
+https://www.youtube.com/watch?v=eXq8KJNqzWk
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Frakfurt (Germany) - Frankfurt stock exchange during trading day
 
 #EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Main Stage Sector
 https://www.youtube.com/watch?v=Y2FzDMuJ5pI
@@ -37,7 +39,6 @@ https://www.youtube.com/watch?v=TdHrgLciYWw
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",
 
 #EXTINF:-1 group-title="Live Event",Day 4 of Paro Tsechu
-https://www.youtube.com/watch?v=fO7aIRL1Bo8&pp=wgIGCgQQAhgB
 
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
@@ -61,12 +62,8 @@ https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/ind
 https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",Blue Archive Kivotos Live - April 11 2025
-https://www.youtube.com/watch?v=KT_dYIrYznQ
-#EXTINF:-1 group-title="Special Program",Zenless Zone Zero 1.7 Special Program - Bury Your Tears with the Past
-https://youtu.be/0MvcBDtCDcA?si=jqka3LWD9Pj2Vnv7
-#EXTINF:-1 group-title="Special Program",Zenless Zone Zero Xbox Showcase Extra Special Event Live
-https://www.youtube.com/watch?v=YsQ-zXHuxy0
+#EXTINF:-1 group-title="Special Program",Priconne Channel EP.383
+https://www.youtube.com/watch?v=-2Cfb_7XRZg
 
 
 #Airport Cam
