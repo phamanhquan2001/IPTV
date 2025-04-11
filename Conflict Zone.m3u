@@ -15,10 +15,8 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",California (USA) - People gather for lottery to attend Menendez brothers' hearing
-https://www.youtube.com/watch?v=taXMkthffmQ
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA) - NYSE trades amid global market turmoil over tariffs
-https://www.youtube.com/watch?v=XyBCYIJpmuc
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA) - White House Press Briefing
+https://www.youtube.com/watch?v=mA5BoHwdVzA&pp=wgIGCgQQAhgB
 
 
 #EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Main Stage Sector
@@ -62,10 +60,7 @@ https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/ind
 https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",Zenless Zone Zero Extra Special Event Live Xbox Showcase (JP)
-https://youtube.com/watch?v=YsQ-zXHuxy0
-#EXTINF:-1 group-title="Special Program",Zenless Zone Zero Extra Special Event Live Xbox Showcase (EN)
-https://www.youtube.com/watch?v=l2y48NZp4uM
+#EXTINF:-1 group-title="Special Program",
 
 #Airport Cam
 #EXTINF:-1  group-title="Airport Cam",World Airports around the world with ATC Live Audio Feed
