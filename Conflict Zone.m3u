@@ -62,9 +62,10 @@ https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/ind
 https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",Priconne Channel EP.383
-https://www.youtube.com/watch?v=-2Cfb_7XRZg
-
+#EXTINF:-1 group-title="Special Program",Zenless Zone Zero Extra Special Event Live Xbox Showcase (JP)
+https://youtube.com/watch?v=YsQ-zXHuxy0
+#EXTINF:-1 group-title="Special Program",Zenless Zone Zero Extra Special Event Live Xbox Showcase (EN)
+https://www.youtube.com/watch?v=l2y48NZp4uM
 
 #Airport Cam
 #EXTINF:-1  group-title="Airport Cam",World Airports around the world with ATC Live Audio Feed
