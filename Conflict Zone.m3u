@@ -111,16 +111,16 @@ https://www.youtube.com/watch?v=B7j_9KOWQSc
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
-http://p1.cvtv.xyz/vtv1?token=live
+https://ec05-pop5-hht.tv360.vn/bpk-token/brfxqrk2pneeka7dhedq2s3yiugew6cf/bpk-tv/154/output/154-audio_214400_eng=212400-video=556400.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtv9hd/KenhCoBan",VTV9 HD
-http://p1.cvtv.xyz/vtv2?token=live
+http://p1.cvtv.xyz/vtv9?token=live
 #EXTINF:-1 tvg-id="htv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://p1.cvtv.xyz/htv9?token=live
+https://ec04-pop5-hht.tv360.vn/bpk-token/eiucgsurdajuvcywmeecgkbdjircqi2k/bpk-tv/158/output/158-audio_133600_eng=131600-video=556400.m3u8
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (YouTube Feed)
 https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (TV Feed)
-http://p1.cvtv.xyz/htvtt?token=live
+https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/chunks.m3u8?XSignKey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiWC1EUk0iLCJqdGkiOiJmYTRlZTE1Yy1mOGUxLTQwYzUtYWE0ZS05NGZjYTI3Mjc3ZDgiLCJleHRyYURhdGEiOiJUaGlzIGlzIGFkZGl0aW9uYWwgZGF0YSB0byBpbmNyZWFzZSB0aGUgcGF5bG9hZCBzaXplLiIsImV4cCI6MTcyNDEzMjc3OSwiaXNzIjoiaHR2Yy5jb20udm4iLCJhdWQiOiJodHZjLmNvbS52biJ9.iJCmZpy3FfWcvRFqaOyc9ZvSFfJgCe78167HbfOSKQg
+https://ec04-pop5-hht.tv360.vn/bpk-token/xwy6opirqdlt3f5qur73zmphhw63dzz5/bpk-tv/304/output/304-audio_142800_eng_iv_1=140800-video_iv_1=1067600.m3u8
 #EXTINF:-1 tvg-id="TpHCM1" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Vòng Xoay Điện Biên Phủ - Tp.HCM
 https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 #EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quận 2 - Tp.HCM
