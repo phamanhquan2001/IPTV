@@ -3,61 +3,7 @@
 #EXTM3U url-tvg="http://cvtv.xyz/xmltv"
 #EXTM3U url-tvg="https://iptvx.one/EPG" deinterlace=0
 #EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/tree/main/epg" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=3
-
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #2)
-https://www.youtube.com/watch?v=mrCtoiKzBxo
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #3)
-https://www.youtube.com/watch?v=ANq2xetu9es
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Dotonbori
-https://www.youtube.com/watch?v=Pos8C1VRTFI
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Dotonbori (Feed #2)
-https://www.youtube.com/watch?v=XFLrswaUMqs
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",大阪府・伊丹空港
-https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg/live
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",大阪府・伊丹空港 (Fred #2)
-https://www.youtube.com/watch?v=ieP6_jCcsic
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Itami Airport Audio Feed
-https://www.liveatc.net/play/rjoo1.pls
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport
-https://www.youtube.com/watch?v=hbtZI9hG_SQ
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport (Feed #2)
-https://www.youtube.com/watch?v=MPVW-vMigkI
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport (Feed #3)
-https://www.youtube.com/watch?v=_a8mtGByV5M
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport (Feed #4)
-https://www.youtube.com/watch?v=0C2EK3VUdLw
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Midosuji Highway
-https://www.youtube.com/watch?v=eHKFF2ly1vc
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera View of Osaka
-https://www.youtube.com/watch?v=9N_AFJDxzzU
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from JR West Osaka Loop Trainstation
-https://www.youtube.com/watch?v=VBPyhbWZ14s
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from JR West Osaka Trainstation
-https://www.youtube.com/watch?v=0TZQofgsqh0
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Kinki Expressway Northbound
-https://www.youtube.com/watch?v=alvfxSuwWSA
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Shinsaibashi
-https://www.youtube.com/watch?v=6ckpU2kjPG8
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Koreatown
-https://www.youtube.com/watch?v=xcK5eioka64
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Daringville
-https://www.youtube.com/watch?v=Xtf16Aa2n3o
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from JR Nishinomiya Railway
-https://www.youtube.com/watch?v=8tDuhb9QnQ4
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Nakanoshima
-https://www.youtube.com/watch?v=FqR-nJp1Pug
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation
-https://www.youtube.com/watch?v=vxRaY0mXBbU
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation (Feed #2)
-https://www.youtube.com/watch?v=YRuBQ3136D0
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation (Sakurabashi Gate)
-https://www.youtube.com/watch?v=jDCCynfjX9I
-#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation (Waiting Area)
-https://www.youtube.com/watch?v=l_KhuN2nooY
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera" tvg-id="nhkg_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK総合 大阪  (primehome)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
-
+#EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2
@@ -2424,29 +2370,30 @@ https://radio.lnr.org.la/fm103
 https://radio.lnr.org.la/fm94
 
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG Thánh lễ hằng ngày
-https://www.youtube.com/channel/UCc7qu2cB-CzTt8CpWqLba-g
+https://www.youtube.com/channel/UCc7qu2cB-CzTt8CpWqLba-g/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG
-https://www.youtube.com/@tonggiaophansaigon
+https://www.youtube.com/@tonggiaophansaigon/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Tỉnh DCCT
-https://www.youtube.com/channel/UCubpNIVpkSXrlwkaqHnjW6g
+https://www.youtube.com/channel/UCubpNIVpkSXrlwkaqHnjW6g/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Bác Trạch
-https://www.youtube.com/channel/UC1HD-fa3UnMgXhvL_e2Lx_A
+https://www.youtube.com/channel/UC1HD-fa3UnMgXhvL_e2Lx_A/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPHN
-https://www.youtube.com/channel/UCp3-ofQgc8PO5q3pS6jYsIw
+https://www.youtube.com/channel/UCp3-ofQgc8PO5q3pS6jYsIw/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
-https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ
+https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican Live (English)
 https://radio.vaticannews.va/stream-en
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican Live (Vietnamese)
 https://radio.vaticannews.va/stream-vi
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
-https://www.youtube.com/channel/UC4HqQT1uH3dzz_ZSR_mVUEw
+https://www.youtube.com/channel/UC4HqQT1uH3dzz_ZSR_mVUEw/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",AnboliTV
-https://www.youtube.com/channel/UCLaRapGrRHS0W5uyWnh-bpg
+https://www.youtube.com/channel/UCLaRapGrRHS0W5uyWnh-bpg/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",EWTN Live
-https://www.youtube.com/@EWTNcatholictv
+https://www.youtube.com/@EWTNcatholictv/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",The Tomb of Carlo Acutis Live Camera
-https://www.youtube.com/@MariaVisionItalia
+https://www.youtube.com/@MariaVisionItalia/live
+
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Starship 24/7 Live
 https://www.youtube.com/watch?v=mhJRzQsLZGg
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from ISS (with Earth view cam)
@@ -2477,6 +2424,53 @@ https://www.youtube.com/watch?v=H7SvvCDNb_s
 https://www.youtube.com/watch?v=Jm8wRjD3xVA
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",McGregor Live Cam
 https://www.youtube.com/watch?v=cOmmvhDQ2HM
+
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #3)
+https://www.youtube.com/watch?v=ANq2xetu9es
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Dotonbori (Feed #2)
+https://www.youtube.com/watch?v=bkjI1pOzl5Y
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",大阪府・伊丹空港
+https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg/live
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",大阪府・伊丹空港 (Fred #2)
+https://www.youtube.com/watch?v=tLZaEUZZnYc
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Itami Airport Audio Feed
+https://www.liveatc.net/play/rjoo1.pls
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport
+https://www.youtube.com/watch?v=hbtZI9hG_SQ
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport (Feed #2)
+https://www.youtube.com/watch?v=MPVW-vMigkI
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport (Feed #3)
+https://www.youtube.com/watch?v=_a8mtGByV5M
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport (Feed #4)
+https://www.youtube.com/watch?v=0C2EK3VUdLw
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Midosuji Highway
+https://www.youtube.com/watch?v=eHKFF2ly1vc
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera View of Osaka
+https://www.youtube.com/watch?v=9N_AFJDxzzU
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from JR West Osaka Loop Trainstation
+https://www.youtube.com/watch?v=VBPyhbWZ14s
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from JR West Osaka Trainstation
+https://www.youtube.com/watch?v=0TZQofgsqh0
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Kinki Expressway Northbound
+https://www.youtube.com/watch?v=alvfxSuwWSA
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Shinsaibashi
+https://www.youtube.com/watch?v=6ckpU2kjPG8
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Koreatown
+https://www.youtube.com/watch?v=xcK5eioka64
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Daringville
+https://www.youtube.com/watch?v=Xtf16Aa2n3o
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from JR Nishinomiya Railway
+https://www.youtube.com/watch?v=8tDuhb9QnQ4
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Nakanoshima
+https://www.youtube.com/watch?v=FqR-nJp1Pug
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation
+https://www.youtube.com/watch?v=vxRaY0mXBbU
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation (Feed #2)
+https://www.youtube.com/watch?v=YRuBQ3136D0
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation (Sakurabashi Gate)
+https://www.youtube.com/watch?v=jDCCynfjX9I
+#EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Shin-Osaka Taxistation (Waiting Area)
+https://www.youtube.com/watch?v=l_KhuN2nooY
 
 #EXTINF:-1 group-title="Video game inspired location Live",Ragunna (Wuthering Waves) - Live Camera from Venice, Italy
 https://www.youtube.com/watch?v=ph1vpnYIxJk
