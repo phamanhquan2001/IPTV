@@ -21,10 +21,8 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Blue Origin's Launch Site One: Blue Origin's all-female crew to launch to space
-https://www.youtube.com/watch?v=yxkrIf8Jxvg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel-Gaza Skyline
-https://www.youtube.com/watch?v=Dfq8N8ij7tY
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH"Quebec (Canada): The Prime Minister Mark Carney is on his visit
+https://www.youtube.com/watch?v=5QAb95FFwkg
 
 #Heaven Burns Red Philippines Reporting Live
 
