@@ -21,8 +21,10 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Hanoi (Vietnam) - The Chinese President Xi Jinping is coming to Vietnam for the state visit
-https://www.youtube.com/watch?v=BxYNuv_e6z4
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Blue Origin's Launch Site One: Blue Origin's all-female crew to launch to space
+https://www.youtube.com/watch?v=yxkrIf8Jxvg
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel-Gaza Skyline
+https://www.youtube.com/watch?v=Dfq8N8ij7tY
 
 #EXTINF:-1 group-title="Coachella Live Feed Presented by Stars of Lyra" tvg-logo="https://byvn.net/eGC3",Main Stage Sector
 https://www.youtube.com/watch?v=Y2FzDMuJ5pI
