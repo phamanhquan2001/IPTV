@@ -21,11 +21,12 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel-Gaza Skyline
+https://www.youtube.com/watch?v=Dfq8N8ij7tY
 
 #Heaven Burns Red Philippines Reporting Live
-
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Malacañang holds press briefing with PCO Usec. Claire Castro
+https://www.youtube.com/watch?v=2trVm8cExZM
 
 #EXTINF:-1 group-title="Live Event",
 
