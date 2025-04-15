@@ -167,7 +167,7 @@ https://www.youtube.com/channel/UCF5GcyFOwtMGiuNWioA9fOQ/live
 
 #Live Cam
 #EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://www.youtube.com/watch?v=gMmX5LlXIxs
+https://www.youtube.com/watch?v=-v5fl3s4wX8
 #EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://www.youtube.com/watch?v=TZ2gfqEDtDA
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
@@ -966,6 +966,11 @@ http://p1.cvtv.xyz:81/bb?token=live
 http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CCTV13新闻频道
 http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
+#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",日本テレビNEWS24
+https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
+#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",日本テレビNEWS24
+https://n24-cdn-live-x.ntv.co.jp/ch02/index_high.m3u8
+
 
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",TVK Cambodia News Live Event
 https://www.youtube.com/@tvkcambodia/live
@@ -2407,23 +2412,23 @@ https://www.youtube.com/watch?v=Jm8wRjD3xVA
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",McGregor Live Cam
 https://www.youtube.com/watch?v=cOmmvhDQ2HM
 
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Performance Recap
-https://www.youtube.com/watch?v=cuL8vgjQHBg
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ Taxi Stand Sector #1
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",News Recap
+https://www.youtube.com/watch?v=IfWyEMZvlxE
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Taxi Stand Sector #1
 https://www.youtube.com/watch?v=u0vMLzAbxYc
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ Taxi Stand Sector #2
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Taxi Stand Sector #2
 https://www.youtube.com/watch?v=_HibfhLWSlQ
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ Near the Signature Pavilion Sector
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Near the Signature Pavilion Sector
 https://www.youtube.com/watch?v=HVOSQQBD8H0
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ Near the EXPO Hall Entrance Sector
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Near the EXPO Hall Entrance Sector
 https://www.youtube.com/watch?v=2kktODweRHI
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ Expo site: Light Plaza Silent Forest Sector
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Expo site: Light Plaza Silent Forest Sector
 https://www.youtube.com/watch?v=FAVdBjtmhgw
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ Expo site: East Entrance Plaza Sector
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Expo site: East Entrance Plaza Sector
 https://www.youtube.com/watch?v=knR19va6ZCI
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ Aerial view of the Expo site
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Aerial view of the Expo site
 https://www.youtube.com/watch?v=mBI46hMnUT0
-#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 ‐ West Entrance Plaza
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: West Entrance Plaza
 https://www.youtube.com/watch?v=MkAVMmJA9uQ
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #1)
 https://www.youtube.com/watch?v=ANq2xetu9es
@@ -2435,6 +2440,12 @@ https://www.youtube.com/watch?v=mrCtoiKzBxo
 https://www.youtube.com/watch?v=7lcPQ97iv5I
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #5)
 https://www.youtube.com/watch?v=SNbtftp5Uco
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #6)
+https://www.youtube.com/watch?v=dQjucX-KKT8
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #7)
+https://www.youtube.com/watch?v=mrCtoiKzBxo
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #8)
+https://www.youtube.com/watch?v=2sEMDJ7ecPI
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Umeda (Osaka)
 https://www.youtube.com/watch?v=N4uzOD5z8Zs
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Dotonbori (Feed #1)
@@ -2445,7 +2456,7 @@ https://www.youtube.com/watch?v=uWpfQFkua40
 https://www.youtube.com/watch?v=G649ZSXebkQ
 https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg/live
 #EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",大阪府・伊丹空港 (Feed #2: Airplane Sight)
-https://www.youtube.com/watch?=PY_0moT7UeA
+https://www.youtube.com/watch?v=PY_0moT7UeA
 #EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Itami Airport Audio Feed
 https://d.liveatc.net/rjoo1
 #EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Osaka Kansai International Airport
