@@ -19,10 +19,8 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): US State Department briefing
-https://www.youtube.com/watch?v=SEwXorSM-Vs
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): President Donald Trump signs more executive order at White House
-https://www.youtube.com/watch?v=Z6zAEISBIig
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special from Zenless Zone Zero Live from New Eridu to Hanoi City! National conference to disseminate and implement the Resolution of the 11th Conference of the 13th Party Central Committee
+https://www.youtube.com/watch?v=b120Cb65pSs
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
