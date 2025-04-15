@@ -112,7 +112,12 @@ https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/ind
 https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",
+#EXTINF:-1 group-title="Special Program",Reverse:1999 EN 1.5th Anniversary Special Program at Oi Racecourse
+https://www.youtube.com/watch?v=SerJxjKqUUk
+#EXTINF:-1 group-title="Special Program",Reverse:1999 JP 1.5th Anniversary Special Program at Oi Racecourse
+https://www.youtube.com/watch?v=uHexu3OH2pg
+#EXTINF:-1 group-title="Special Program",Blue Archive Special Program for Japanese Server: April 20, 2025 at 17:00 Hanoi Time / 16:00 Thimphu Time / 19:00 Tokyo Time
+https://www.youtube.com/watch?v=EqzwtrED0Rs
 
 #Airport Cam
 #EXTINF:-1  group-title="Airport Cam",World Airports around the world with ATC Live Audio Feed
@@ -2559,8 +2564,12 @@ https://www.youtube.com/watch?v=ykbcU5sTylM
 #EXTINF:-1  group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Hanshin Expressway (Southwest of Nagara IC)
 https://www.youtube.com/watch?v=9XJFTbg71z0
 
-#EXTINF:-1 group-title="Video game inspired location Live",Ragunna (Wuthering Waves) - Live Camera from Venice, Italy
+#EXTINF:-1 group-title="Video game inspired location Live",Rinascita (Wuthering Waves) - Live Camera from Venice, Italy: 
 https://www.youtube.com/watch?v=ph1vpnYIxJk
+#EXTINF:-1 group-title="Video game inspired location Live",Rinascita (Wuthering Waves) - Live Camera from Venice, Italy: Laguna Est Venice
+https://www.youtube.com/watch?v=h1h8GqED1jA
+#EXTINF:-1 group-title="Video game inspired location Live",Rinascita (Wuthering Waves) - Live Camera from Venice, Italy: Laguna Est Venice
+
 #EXTINF:-1 group-title="Video game inspired location Live",Penacony (Honkai StarRail) - Live Camera from New York City
 https://www.youtube.com/watch?v=83VPsAPWiME
 #EXTINF:-1 group-title="Video game inspired location Live",Penacony (Honkai StarRail) - Live Camera from Las Vegas
