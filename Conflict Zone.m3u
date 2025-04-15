@@ -2320,7 +2320,7 @@ http://110.74.192.88:8080/stream/54/;?nocache=344&type=http
 http://50.21.176.38:8010/vayofm
 
 #EXTINF:-1  tvg-id="KoreanCentralTelevision.kp"tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
-http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
 http://110.53.52.63:8888/newlive/live/hls/36/live.m3u8
