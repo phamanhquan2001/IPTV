@@ -23,10 +23,68 @@ https://tvpass.org/CSPAN2/sd
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel-Gaza Skyline
 https://www.youtube.com/watch?v=Dfq8N8ij7tY
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Bravo)
+https://d.liveatc.net/ooms2_ctr_bravo/
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Central)
+https://d.liveatc.net/ooms2_ctr_central/
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (North)
+https://d.liveatc.net/ooms2_ctr_north/
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (West
+https://d.liveatc.net/ooms2_ctr_west/
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (ATIS)
+https://d.liveatc.net/ooms2_aatis/
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Clearance Delivery)
+https://d.liveatc.net/ooms2_del
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Ground North)
+https://d.liveatc.net/ooms2_gnd_north
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Ground South)
+https://d.liveatc.net/ooms2_gnd_south
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Ground Radar)
+https://d.liveatc.net/ooms2_app
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Tower North)
+https://d.liveatc.net/ooms2_twr_north
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Tower South)
+https://d.liveatc.net/ooms2_twr_south
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio" tvg-logo="https://byvn.net/2LZH",Allama Iqbal International Airport (ATIS)
+https://d.liveatc.net/opla_atis
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio" tvg-logo="https://byvn.net/2LZH",Allama Iqbal International Airport (Gnd/Twr/App)
+https://d.liveatc.net/opla
 
-#Heaven Burns Red Philippines Reporting Live
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Malacañang holds press briefing with PCO Usec. Claire Castro
-https://www.youtube.com/watch?v=2trVm8cExZM
+#EXTINF:-1 group-title="African ATC",FMMI Twr/App/Center
+https://d.liveatc.net/fmmi
+#EXTINF:-1 group-title="African ATC",FIMP Twr/App/Ctr #1
+https://d.liveatc.net/fimp
+#EXTINF:-1 group-title="African ATC",FIMP Twr/App/Ctr #2
+https://d.liveatc.net/fimp2.pls
+#EXTINF:-1 group-title="African ATC",HAAB Approach
+https://d.liveatc.net/haab2_app
+#EXTINF:-1 group-title="African ATC",HAAB Tower
+https://www.liveatc.net/play/haab2_twr.pls
+
+#EXTINF:-1 group-title="Earthquake ATC",RCSS Tower/App/Dep
+https://d.liveatc.net/rcss2
+#EXTINF:-1 group-title="Earthquake ATC",RCKH Del/Gnd/Twr/App
+https://d.liveatc.net/rckh2
+#EXTINF:-1 group-title="Earthquake ATC",WSSS Del/Gnd/App/Radar
+https://d.liveatc.net/wsss3
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: Mannila Center
+https://d.liveatc.net/rpll_control_120500
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: App/Dep 119.9
+https://d.liveatc.net/rpll_app_119900
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: App/Dep 124.4
+https://d.liveatc.net/rpll_app_124400
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: App/Dep 124.800
+https://d.liveatc.net/rpll_app_124800
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: Ground
+https://d.liveatc.net/rpll_gnd
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: Ramp T3
+https://d.liveatc.net/rpll_ramp1
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: Ramp T4
+https://d.liveatc.net/rpll_ramp_t4
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: Ramp/Taxi 121.7
+https://d.liveatc.net/rpll_ramp2
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Reporting Live",Ninoy Aquino International Airport ATC: Tower
+https://d.liveatc.net/rpll
 
 #EXTINF:-1 group-title="Live Event",
 
