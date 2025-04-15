@@ -8,8 +8,6 @@
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2
 https://cdn-azd204d.telewebion.com/ek/irinn2/live/576p/index.m3u8
-#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
-https://gr1-cdn.sepehrtv.org/securelive3/irinn2sd/324p.m3u8?s=l5B78giTizeOVfkDeC8sYA&t=1744339829
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (1080p)
@@ -21,10 +19,109 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
+#EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
+https://www.youtube.com/@bousaishare/live
+#EXTINF:-1 group-title="Earthquake Monitoring",JDQ
+https://www.youtube.com/@JDQ/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Earthquake Monitoring Japan
+https://www.youtube.com/@24LIVE/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Rexi
+https://www.youtube.com/@rexi6495/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Japan/Taiwan
+https://www.youtube.com/@Zonmi_owo/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Yoyo_0901
+https://www.youtube.com/@yoyo_0901/live
+#EXTINF:-1 group-title="Earthquake Monitoring",TYA-TW
+https://www.youtube.com/@Timyaya_TYA_eq/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Taiwan Earthquake
+https://www.youtube.com/@USB-921/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Taiwan Earthquake
+https://www.youtube.com/@vivogamer8_earthquake_lite/live
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taipei (Taiwan)
+https://www.youtube.com/watch?v=z_fY1pj1VBw
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Dadaocheng Wharf (Taiwan)
+https://www.youtube.com/watch?v=Ndo_8RuefH4
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Dajia Riverside (Taiwan)
+https://www.youtube.com/watch?v=fP4ecxfsJos
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Bishan Temple (Taiwan)
+https://www.youtube.com/watch?v=uvwfYzwY8tg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jiantanshan Temple (Taiwan)
+https://www.youtube.com/watch?v=34h_Cy_n0Ok
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Maokong Jinan Temple (Taiwan)
+https://www.youtube.com/watch?v=215ahZ_0rTg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Maokong Jinan Temple (Taiwan)
+https://www.youtube.com/watch?v=215ahZ_0rTg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport
+https://www.youtube.com/watch?v=91PfFoqvuUk
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport (Feed #2)
+https://www.youtube.com/watch?v=68GFgzQxrXs
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport (Feed #3 with Graphic)
+https://www.youtube.com/watch?v=0D6QgDOdI6c
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - Runway
+https://www.youtube.com/watch?v=q8Bb4CwpECQ
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - South Runway
+https://www.youtube.com/watch?v=y3_x8el5ZJY
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - North Runway
+https://www.youtube.com/watch?v=wWEnxWA7nnY
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Yongan Fishing Harbor
+https://www.youtube.com/watch?v=tD_a03trUvE
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Lala Mountains
+https://www.youtube.com/watch?v=YkIUZjVlhv4
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Hutoushan Enviromental Parks
+https://www.youtube.com/watch?v=tu_gsIkNt-w
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Xiao Wulai Skyward Park
+https://www.youtube.com/watch?v=neaiCec1kec
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Xiao Wulai Panoramic Park
+https://www.youtube.com/watch?v=hcGGNRfPvjM
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jianbanshan Siqin
+https://www.youtube.com/watch?v=3Za9y4z_Lzc
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Three Swimming Turtles
+https://www.youtube.com/watch?v=5YDXZ1aiR5Y
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Daxi Bridge
+https://www.youtube.com/watch?v=oFJ6gCaBb_Q
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Hutoushan Owl Forest Schools
+https://www.youtube.com/watch?v=yQSmajHyMhU
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jianbanshan Plum Ochard
+https://www.youtube.com/watch?v=-xT1bZhWLuU
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jiaobanshan Eco Pond
+https://www.youtube.com/watch?v=XEbo8NzMTbQ
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Daxi Old Street
+https://www.youtube.com/watch?v=XUWjAsajKXg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Shihmen Reservoir
+https://www.youtube.com/watch?v=GUCaVR88ZFU
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Cihu Memorial Sculpture Park
+https://www.youtube.com/watch?v=pSQ0e-ZTZ5g
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Baling
+https://www.youtube.com/watch?v=nV-DKquUjFs
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Suzu
+https://www.youtube.com/watch?v=QVx30qT1_BI
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Suzu (HAB Feed)
+https://www.youtube.com/watch?v=u5geWhHfPz4
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Kenrokuen Gardens
+https://www.youtube.com/watch?v=ZpzNv_hNxPE
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Wajima (The place ravaged by the fire during last year ago' 2024 Sea of Japan Earthquake Disasters)
+https://www.youtube.com/watch?v=rXF9kQldlao
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Ishikawa Perfectural HQ
+https://www.youtube.com/watch?v=mRG1LVFC9Qk
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Chichihama Sunset
+https://www.youtube.com/watch?v=qiQtdUTEAmI
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Kanazawa Train Station
+https://www.youtube.com/watch?v=8HV_KnQvXgw
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Bike Resthouse
+https://www.youtube.com/watch?v=yK8wehBqIQI
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / HAB (Hokuriku Asahi Broadcasting) TV Station HQ
+https://www.youtube.com/watch?v=5PnQ_umAu_s
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Shizuoka: A view from Mt. Fuji
+https://www.youtube.com/watch?v=3ltxADrccf8
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Shizuoka Multiview Live Cam
+https://www.youtube.com/watch?v=emf8I1z-uso
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel-Gaza Skyline
 https://www.youtube.com/watch?v=Dfq8N8ij7tY
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",View of Khan Younis in Gaza Strip
-https://www.youtube.com/watch?v=p3qT4m8eVcI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): White House is on the briefing as Trump's crackdown on universities escalates
+https://www.youtube.com/watch?v=9Tq22etrF7k
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Paris (France): The President Macron recognises those who restored Notre-Dame on sixth anniversary of fire
+https://www.youtube.com/watch?v=Z6zAEISBIig
+
 #EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Bravo)
 https://d.liveatc.net/ooms2_ctr_bravo/
 #EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Central)
@@ -51,6 +148,10 @@ https://d.liveatc.net/ooms2_twr_south
 https://d.liveatc.net/opla_atis
 #EXTINF:-1 group-title="On-Site Stream - Live ATC Audio" tvg-logo="https://byvn.net/2LZH",Allama Iqbal International Airport (Gnd/Twr/App)
 https://d.liveatc.net/opla
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio" tvg-logo="https://byvn.net/2LZH",RCTP Taiwan Taipei Airport
+https://www.youtube.com/watch?v=GbvjIBkhOow
+#EXTINF:-1 group-title="On-Site Stream - Live ATC Audio" tvg-logo="https://byvn.net/2LZH",RCKH Taiwan Kaohsiung Airport
+https://www.youtube.com/watch?v=Ek7fqkVWHZY
 
 #EXTINF:-1 group-title="African ATC",FMMI Twr/App/Center
 https://d.liveatc.net/fmmi
@@ -2436,6 +2537,8 @@ https://radio.vaticannews.va/stream-en
 https://radio.vaticannews.va/stream-vi
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
 https://www.youtube.com/channel/UC4HqQT1uH3dzz_ZSR_mVUEw/live
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore Radio Live
+https://ais-sa8.cdnstream1.com/5033/playlist.m3u8?listeningSessionID=6604f23e00780569_33137329_4MfoqzVP_NjYuODUuODkuMjg6ODA!_000000i47Nw&downloadSessionID=0&listenerId=ba2c29ed2c6152ae0b77a7fe33da5810&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1744737520
 #EXTINF:-1 group-title="⛪|Thánh Lễ",AnboliTV
 https://www.youtube.com/channel/UCLaRapGrRHS0W5uyWnh-bpg/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",EWTN Live
