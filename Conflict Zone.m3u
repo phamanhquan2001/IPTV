@@ -1144,6 +1144,8 @@ https://n24-cdn-live-x.ntv.co.jp/ch02/index_high.m3u8
 
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",TVK Cambodia News Live Event
 https://www.youtube.com/@tvkcambodia/live
+#EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",CAF Africa Football Live
+https://www.youtube.com/@CAF_TV
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
 https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Live from Bhutan National Assembly by Missilis Industry Meeting Committee
