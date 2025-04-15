@@ -19,6 +19,11 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): US State Department briefing
+https://www.youtube.com/watch?v=9Tq22etrF7k
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): President Donald Trump signs more executive order at White House
+https://www.youtube.com/watch?v=Z6zAEISBIig
+
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
 #EXTINF:-1 group-title="Earthquake Monitoring",JDQ
@@ -123,10 +128,6 @@ https://www.youtube.com/watch?v=3ltxADrccf8
 https://www.youtube.com/watch?v=emf8I1z-uso
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel-Gaza Skyline
 https://www.youtube.com/watch?v=Dfq8N8ij7tY
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): White House is on the briefing as Trump's crackdown on universities escalates
-https://www.youtube.com/watch?v=9Tq22etrF7k
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Paris (France): The President Macron recognises those who restored Notre-Dame on sixth anniversary of fire
-https://www.youtube.com/watch?v=Z6zAEISBIig
 
 #EXTINF:-1 group-title="On-Site Stream - Live ATC Audio from Muscat International Airport as US and Iran expected to have their indirect talks" tvg-logo="https://byvn.net/2LZH",Muscat Control (Bravo)
 https://d.liveatc.net/ooms2_ctr_bravo/
