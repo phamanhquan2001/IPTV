@@ -967,6 +967,8 @@ http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CCTV13新闻频道
 http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
 
+#EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",TVK Cambodia News Live Event
+https://www.youtube.com/@tvkcambodia/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
 https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Live from Bhutan National Assembly by Missilis Industry Meeting Committee
@@ -1125,6 +1127,8 @@ https://www.youtube.com/channel/UC5VBrQEonivcMLx8krq-CwQ/live
 https://www.youtube.com/channel/UCndcERoL9eG-XNljgUk1Gag/live
 #EXTINF:-1 group-title="Youtube Live",IMSPORTS TV
 https://www.youtube.com/channel/UCkVXcyTRC0U0ItRVh9itBpQ/live
+#EXTINF:-1 group-title="Youtube Live",VTF Tennis Live
+https://www.youtube.com/@VTFMedia/live
 #EXTINF:-1 group-title="Youtube Live",Liên Quân Mobile
 https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/live
 #EXTINF:-1 group-title="Youtube Live",PUBG
@@ -2159,7 +2163,7 @@ http://39.164.160.249:9901/tsfile/live/0119_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://dmg.cinderella-sl-stage.idolmaster-official.jp/_nuxt/images/logo_stage-14dc23a.png",东南卫视 / The iDOLM@STER Cinderella Girls Starlight Stage  (DERESUTE-TV/デレステテレビ) - Truyền Hình Đông Nam Phúc Kiến
 https://1-fuyun.fjtv.net/dnpd/hd.m3u8?_upt=309917101744227878
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",福州广播电视台新闻综合频道 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
-http:/.zohi.tv/video/s10001-fztv-1/index.m3u8
+http://zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",HEBTV河北卫视 (The iDOLM@STER Million Live & Million Live Theater Days TV2 / Truyền Hình Vệ Tinh Hà Bắc
 http://39.164.160.249:9901/tsfile/live/0117_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải
@@ -2198,7 +2202,7 @@ http://lt.hxtre.com:35455/gaoma/cctv7.m3u8
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/6/61/Symphogear_GX_key_art.png/revision/latest/scale-to-width-down/300?cb=20150704190700",GXTV广西卫视 / Symphogear GX-TV Channel / Truyền Hình Vệ Tinh Quảng Tây
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/d/d6/Symphogear_AXZ.jpg/revision/latest/scale-to-width-down/304?cb=20170823181437",NBS南京新闻综合 / Symphogear AXZ-TV Channel (Truyền hình Nam Kinh, tỉnh Giang Tô)
-http:/.nctv.top/Jhsdat/jstv5.php?id=nj1
+http://nctv.top/Jhsdat/jstv5.php?id=nj1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",广东大湾区卫视 / Project Sekai Colorful Stage feat. Hatsune Miku (プロジェクトセカイカラフルステージfeat.初音ミク)
 http://gmxw.7766.org:808/hls/132/index.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://www.vocaloidnews.net/wp-content/uploads/2016/08/VNNFrench-A2.png",陕西卫视 / Vocaloid News Network - Truyền Hình Vệ Tinh Thểm Tây
@@ -2254,9 +2258,9 @@ http://ngcdn006.cnr.cn/szzs/index.m3u8
 http://ngcdn007.cnr.cn/hxzs/index.m3u8
 #EXTINF:-1 tvg-chno="287"tvg-name="CNR7"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/China_National_Radio.svg"group-title="Idol Radio Channel"radio="true",CNR-8 Minorities service (Produced by D4DJ's Minorities Radio Language Board)
 http://ngcdn009.cnr.cn/mzzs/index.m3u8
-#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/wyzs.png"radio="true"group-title="Idol Radio Channel",CNR-9 Culture Service
+#EXTINF:-1 tvg-logo="http://cooltv.top/logo/wyzs.png"radio="true"group-title="Idol Radio Channel",CNR-9 Culture Service
 http://ngcdn010.cnr.cn/wyzs/index.m3u8
-#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/lnzs.png"radio="true"group-title="Idol Radio Channel",CNR-10 Elder Radio
+#EXTINF:-1 tvg-logo="http://cooltv.top/logo/lnzs.png"radio="true"group-title="Idol Radio Channel",CNR-10 Elder Radio
 http://ngcdn011.cnr.cn/lnzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-11-tibetan-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-11 Tibetan Radio (Produced by Tibetan Radio Department Room of The iDOLM@STER)
 http://ngcdn012.cnr.cn/zygb/index.m3u8
@@ -2268,15 +2272,15 @@ http://ngcdn013.cnr.cn/wygb/index.m3u8
 http://ngcdn008.cnr.cn/xgzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-15-traffic-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-15 Traffic Radio
 http://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
-#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/zgjtgb.jpg"radio="true"group-title="Idol Radio Channel",CNR-16 Traffic Service
+#EXTINF:-1 tvg-logo="http://cooltv.top/logo/zgjtgb.jpg"radio="true"group-title="Idol Radio Channel",CNR-16 Traffic Service
 http://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-17-kazakh-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-17 Kazakh Radio (Produced by Kazakh Language Radio Department of Tales of Berseria)
 http://ngcdn025.cnr.cn/hygb/index.m3u8
-#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/ez.png"group-title="Idol Radio Channel"radio="true",CRI EZFM
+#EXTINF:-1 tvg-logo="http://cooltv.top/logo/ez.png"group-title="Idol Radio Channel"radio="true",CRI EZFM
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/hitfm.png"group-title="Idol Radio Channel"radio="true",CRI Hit FM
+#EXTINF:-1 tvg-logo="http://cooltv.top/logo/hitfm.png"group-title="Idol Radio Channel"radio="true",CRI Hit FM
 http://satellitepull.cnr.cn/wxhitfm/playlist.m3u8
-#EXTINF:-1 tvg-logo="http:/.cooltv.top/logo/hqzx.png"group-title="Idol Radio Channel"radio="true",CRI News Radio
+#EXTINF:-1 tvg-logo="http://cooltv.top/logo/hqzx.png"group-title="Idol Radio Channel"radio="true",CRI News Radio
 http://sk.cri.cn/905.m3u8
 #EXTINF:-1 1 tvg-chno="287"group-title="Idol Radio Channel"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg"radio="true",Voice of South China Sea
 http://sk.cri.cn/nhzs.m3u8
