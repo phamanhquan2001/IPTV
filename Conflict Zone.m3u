@@ -2032,41 +2032,41 @@ http://kathy.torontocast.com:3340/;
 #EXTINF:-1 tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/421173E9B37A442498AC9F215CA25971/JazzSakuraLogo2019.jpeg" group-title="QUỐC TẾ",Jazz Sakura
 https://kathy.torontocast.com:3330/;
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CRI China Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Radio_China_International.svg/220px-Radio_China_International.svg.png" group-title="QUỐC TẾ" radio="true",CRI China Plus
-http://sk.cri.cn/am846.m3u8
+https://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR1 NEWS" tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg" group-title="QUỐC TẾ" radio="true",CNR-1 News Radio
-http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR2 BUSINESS" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" group-title="QUỐC TẾ" radio="true",CNR-2 Business Radio
-http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" radio="true",CNR-3 Music Radio
-http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" radio="true",CNR-4 Golden Radio
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+https://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025614670.jpg" radio="true",CNR-5 Cross-Strait Radio
-http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025635405.jpg" radio="true",CNR-6 Shenzhou Easy Radio
-http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+https://ngcdn006.cnr.cn/live/szzs/index.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR7" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.pngg" group-title="QUỐC TẾ" radio="true",CNR-7 Radio The Greater Bay
-http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/wyzs.png" group-title="QUỐC TẾ",CNR-9 Culture Service
-http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/lnzs.png" group-title="QUỐC TẾ",CNR-10 Elder Radio
-http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/zgjtgb.jpg" group-title="QUỐC TẾ",CNR-16 Traffic Service
-http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR14" tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg" group-title="QUỐC TẾ" radio="true",CNR Hong Kong Service
-http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ez.png" group-title="QUỐC TẾ" radio="true",CRI EZFM
-http://sk.cri.cn/915.m3u8
+https://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="QUỐC TẾ" radio="true",CRI Hit FM
 https://satellitepull.cnr.cn/live/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hyhq.png" group-title="QUỐC TẾ" radio="true",CRI Chinese Radio
-http://sk.cri.cn/hyhq.m3u8
+https://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="QUỐC TẾ" radio="true",CRI News Radio
-http://sk.cri.cn/905.m3u8
+https://sk.cri.cn/905.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/sjhs.png" group-title="QUỐC TẾ" radio="true",CRI Overseas Radio
-http://sk.cri.cn/hxfh.m3u8
+https://sk.cri.cn/hxfh.m3u8
 #EXTINF:-1 1 tvg-chno="287" tvg-id="france24eng" group-title="QUỐC TẾ" tvg-logo="https://trangdichvu.com/wp-content/uploads/2019/10/duong-luoi-bo-la-gi.jpg" radio="true", FCK YOU CHEE-NA
-http://sk.cri.cn/nhzs.m3u8
+https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="QUỐC TẾ",BRFM Traffic Service
 http://ls.qingting.fm/live/336.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJXWGB.png" group-title="QUỐC TẾ",BRFM Newsradio
@@ -2127,12 +2127,6 @@ https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s14481d.png" group-title="QUỐC TẾ" radio="true",RTHK Radio Putonghua
 http://stm.rthk.hk/radioptha
-#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://stream.881903.com/public/32762540412216622e67186ce344c74a/2019/12/4bd871097d8b07a64e3598963ad8e243.jpg" group-title="QUỐC TẾ" radio="true",Commercial 881
-https://live.881903.com/edge-aac/881hd/chunks.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJiMa6zEfgUTUu6mXCg_2ZwYDK0mnq5e4gxg&s" group-title="QUỐC TẾ" radio="true",Commercial 903
-https://live.881903.com/edge-aac/903hd/chunks.m3u8
-#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJiMa6zEfgUTUu6mXCg_2ZwYDK0mnq5e4gxg&s" group-title="QUỐC TẾ" radio="true",Commercial 864
-https://live.881903.com/edge-aac/864sd/chunks.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/092/xin-cheng-cai-jing-tai-metro-finance-fm104.68ee386d.jpg" group-title="QUỐC TẾ" radio="true",Metro Finance
 https://1864288729.rsc.cdn77.org/1864288729/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/091/xin-cheng-zhi-xun-tai-metroinfo-fm997.91baf2b7.png" group-title="QUỐC TẾ" radio="true",Metro Info
@@ -2420,47 +2414,47 @@ rtmp://tv.qntv.net/channellive/ch12
 https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg"group-title="Idol Radio Channel"radio="true",CNR-1 News Radio (Produced by Radio News Department of The iDOLM@STER)
-http://ngcdn001.cnr.cn/zgzs/index.m3u8
+https://ngcdn001.cnr.cn/zgzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png"group-title="Idol Radio Channel"radio="true",CNR-2 Business Radio
-http://ngcdn002.cnr.cn/jjzs/index.m3u8
+https://ngcdn002.cnr.cn/jjzs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png"radio="true",CNR-3 Music Radio (Produced by Music Radio Department of The iDOLM@STER)
-http://ngcdn003.cnr.cn/yyzs/index.m3u8
+https://ngcdn003.cnr.cn/yyzs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png"radio="true",CNR-4 Golden Radio
-http://ngcdn004.cnr.cn/dszs/index.m3u8
+https://ngcdn004.cnr.cn/dszs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-5-taiwan-service-1-cn.png"radio="true",CNR-5 Cross-Strait Radio
-http://ngcdn005.cnr.cn/zhzs/index.m3u8
+https://ngcdn005.cnr.cn/zhzs/index.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-6-taiwan-service-2-cn.png"radio="true",CNR-6 Shenzhou Easy Radio
-http://ngcdn006.cnr.cn/szzs/index.m3u8
+https://ngcdn006.cnr.cn/szzs/index.m3u8
 #EXTINF:-1 tvg-chno="287"tvg-name="CNR7"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.png"group-title="Idol Radio Channel"radio="true",CNR-7 Radio The Greater Bay (Produced by Greater Bay Radio Department of Project Sekai)
-http://ngcdn007.cnr.cn/hxzs/index.m3u8
+https://ngcdn007.cnr.cn/hxzs/index.m3u8
 #EXTINF:-1 tvg-chno="287"tvg-name="CNR7"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/China_National_Radio.svg"group-title="Idol Radio Channel"radio="true",CNR-8 Minorities service (Produced by D4DJ's Minorities Radio Language Board)
-http://ngcdn009.cnr.cn/mzzs/index.m3u8
+https://ngcdn009.cnr.cn/mzzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://cooltv.top/logo/wyzs.png"radio="true"group-title="Idol Radio Channel",CNR-9 Culture Service
-http://ngcdn010.cnr.cn/wyzs/index.m3u8
+https://ngcdn010.cnr.cn/wyzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://cooltv.top/logo/lnzs.png"radio="true"group-title="Idol Radio Channel",CNR-10 Elder Radio
-http://ngcdn011.cnr.cn/lnzs/index.m3u8
+https://ngcdn011.cnr.cn/lnzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-11-tibetan-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-11 Tibetan Radio (Produced by Tibetan Radio Department Room of The iDOLM@STER)
-http://ngcdn012.cnr.cn/zygb/index.m3u8
+https://ngcdn012.cnr.cn/zygb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-12-reading-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-12 Reading Radio
-http://ngcdn014.cnr.cn/ylgb/index.m3u8
+https://ngcdn014.cnr.cn/ylgb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-13-uyghur-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-13 Uyghur Radio (Produced by Uighur Language Radio Department Room of Rinmeikan Girls School)
-http://ngcdn013.cnr.cn/wygb/index.m3u8
+https://ngcdn013.cnr.cn/wygb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-14-hong-kong-radio-cn-hk.svg"radio="true"group-title="Idol Radio Channel",CNR-14 Hong Kong Radio (Produced by Lastation Radio Department Room Serving for Hong Kong Cantonese Listeners of Noire Black Heart)
-http://ngcdn008.cnr.cn/xgzs/index.m3u8
+https://ngcdn008.cnr.cn/xgzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-15-traffic-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-15 Traffic Radio
-http://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
+https://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-logo="http://cooltv.top/logo/zgjtgb.jpg"radio="true"group-title="Idol Radio Channel",CNR-16 Traffic Service
-http://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
+https://ngcdn016.cnr.cn/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/cc/cnr-17-kazakh-radio-cn.png"radio="true"group-title="Idol Radio Channel",CNR-17 Kazakh Radio (Produced by Kazakh Language Radio Department of Tales of Berseria)
-http://ngcdn025.cnr.cn/hygb/index.m3u8
+https://ngcdn025.cnr.cn/hygb/index.m3u8
 #EXTINF:-1 tvg-logo="http://cooltv.top/logo/ez.png"group-title="Idol Radio Channel"radio="true",CRI EZFM
-http://sk.cri.cn/915.m3u8
+https://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-logo="http://cooltv.top/logo/hitfm.png"group-title="Idol Radio Channel"radio="true",CRI Hit FM
 https://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cooltv.top/logo/hqzx.png"group-title="Idol Radio Channel"radio="true",CRI News Radio
-http://sk.cri.cn/905.m3u8
+https://sk.cri.cn/905.m3u8
 #EXTINF:-1 1 tvg-chno="287"group-title="Idol Radio Channel"tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/media/1100/20200528/1590662120265.jpg"radio="true",Voice of South China Sea
-http://sk.cri.cn/nhzs.m3u8
+https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏藏语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Tibetan Language)
 https://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
 #EXTINF:-1 group-title="Idol Radio Channel"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",西藏汉语广播 (The iDOLM@STER 2005 Arcade / Đài Phát Thanh Vùng Tây Tạng) (Chinese Language)
@@ -2589,7 +2583,7 @@ https://www.youtube.com/watch?v=cOmmvhDQ2HM
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",News Recap
 https://www.youtube.com/watch?v=IfWyEMZvlxE
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Taxi Stand Sector #1
-https://www.youtube.com/watch?v=u0vMLzAbxYc
+https://www.youtube.com/watch?v=8zqs6T64bhE
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Taxi Stand Sector #2
 https://www.youtube.com/watch?v=_HibfhLWSlQ
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025: Near the Signature Pavilion Sector
@@ -2616,6 +2610,8 @@ https://www.youtube.com/watch?v=SNbtftp5Uco
 https://www.youtube.com/watch?v=qDenPGtNOSM
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #6)
 https://www.youtube.com/watch?v=2sEMDJ7ecPI
+#EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from the venue of 2025 Osaka/Kansai World Expo 2025 (Feed #7)
+https://www.youtube.com/watch?v=mrCtoiKzBxo
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Live Camera from Umeda (Osaka)
 https://www.youtube.com/watch?v=N4uzOD5z8Zs
 #EXTINF:-1 group-title="2025 World Expo Osaka/Kansai Live Camera",Dotonbori (Feed #1)
