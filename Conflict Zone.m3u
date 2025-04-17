@@ -5,440 +5,601 @@
 #EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/tree/main/epg" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=
 
-#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png",MVTV ท้องถิ่นไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
+https://-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
+https://-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Westerl Wall (Jerusalem/Israel)
+https://www.youtube.com/watch?v=y4k2lXk1MBw
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Israel
+https://www.youtube.com/watch?v=Xw9zskRqTig
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Israel and others
+https://www.youtube.com/watch?v=kfqAKgc3FuM
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Ukraine
+https://www.youtube.com/watch?v=0BsfFkAC938
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSArabic.il",I24 News Arabic 
+https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSEnglishWorld.il",I24 News English 
+https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSFrench.il",I24 News French 
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="",I24 News Hebrew 
+https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Kan11.il",KAN-11 Israel 
+https://kan11w.media.kan.org.il/hls/2105694/2105694/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Kan11.il",KAN-11 Israel 
+https://kan11.media.kan.org.il/hls/2024514/2024514/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="KanEducational.il",Kan Kids 
+https://kan23.media.kan.org.il/hls/2024691/2024691/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="KnessetChannel.il",Knesset Channel
+https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Makan33.il",Makan 33 
+https://makan.media.kan.org.il/hls/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Now14.il",Now 14 
+https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Channel13.il",Reshet 13 
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Channel13.il",Reshet 13 
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Israeli Army Radio
+https://glzwizzlv.bynetcdn.com/glz_mp3?
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AjyalTV.ps",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AjyalTV.ps",Ajyal TV (720p)
+http://htvmada.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlAqsaTV.ps",Al Aqsa Channel (416p) [Not 24/7]
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlMadina.ps",Al Madina (720p)
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlNajahNews.ps",Al Najah News (720p)
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FajerTV1.ps",Fajer TV 1 (480p)
+http://platform.topuphost.com:8577/alfajr.stream/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FajerTV2.ps",Fajer TV 2 (576p)
+http://platform.topuphost.com:8577/alfajr2.stream/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FalastiniTV.ps",Falastini TV (1080p)
+https://rp.tactivemedia.com/palestiniantv_source/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HalaRamallah.ps",Hala Ramallah (720p)
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HebronTV.ps",Hebron TV (432p)
+https://account20.livebox.co.in/charleshls.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HolyQuranRadioNablus.ps",Holy Quran Radio Nablus (720p)
+http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="MusawaChannel.ps"user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MusawaChannel (1080p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="NablusTV.ps",Nablus TV (720p) [Not 24/7]
+http://htvmada.mada.ps:8888/nabluslive/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineEdu.ps",Palestine Edu (1080p)
+https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineMubasher.ps"user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineSatelliteChannel.ps"user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineToday.ps",Palestine Today (480p) [Geo-blocked]
+https://.paltodaytv.com/paltv/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="RadioAlbaladTV.ps",Radio Albalad TV (720p)
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="RajeenTV.ps",Rajeen TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/palabroad/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
+https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="WatarTV.ps",Watar TV (720p) [Not 24/7]
+http://htvint.mada.ps:8889/orient/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="WatarTV.ps",Watar TV (720p) [Not 24/7]
+https://htvint.mada.ps/orient/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PressTV.ir",Press TV
+https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 1
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 2
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 3
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir"group-title="HÓNG TIN CHIẾN SỰ",IRIB5 (IRIB-TEHRAN) - Amphoreus Regional Channel
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Nasim.ir",Nasim
+https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlAlam.ir",IRIB Al-Alam TV
+https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Manar TV (Lebanon)
+https://edge.fastpublish.me/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",TL Télé Liban (720p) [Not 24/7]
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",Yêmen Al-Masriyah TV
+https://.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",Yêmen Al-Masriyah TV Mubasher
+https://2.cdnbridge.tv/AlmasirahMubasher/Mubasher_All/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",YêmenToday TV
+https://video.yementdy.tv/hls/yementoday.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="TeleLiban.lb",Yêmen Shabab Channel
+https://starmenajo.com/hls/yemenshabab/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (360p)
+https://cdn-globecast.akamaized.net/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlQaheraNews.eg",Al Qahera News (1080p) [Not 24/7]
+https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Alarabiya.ae",Al Arabiya (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabiyaBusiness.ae",Al Arabiya Business (1080p)
+https://.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabiyaPrograms.ae",Al Arabiya Programs (1080p)
+https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlHadath.sa",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlEkhbariya.sa",Al Ekhbariya (360p)
+https://cdn-globecast.akamaized.net/eds/al_ekhbariya/hls_roku/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlHadath.sa",Al Hadath TV (1080p)
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlHadath.sa",Al Hadath TV (1080p) [Not 24/7]
+https://.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqNews.sa",Asharq News (1080p)
+https://asharq-prod-dub-enc.edgenextcdn.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqNews.sa",Asharq News (1080p)
+https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqNews.sa",Asharq News (1080p)
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqNews.sa",Asharq News (1080p)
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqNewsPortrait.sa",Asharq News Portrait (1280p)
+https://bcovlive-a.akamaihd.net/ed81ac1118414d4fa893d3a83ccec9be/eu-central-1/6203311941001/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AsharqRadio.sa",Asharq Radio (1080p)
+https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="SkyNewsArabia.ae",Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="SkyNewsArabia.ae",Sky News Arabia (720p) [Not 24/7]
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="SkyNewsArabiaVertical.ae",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabyTV.qa",Al Araby TV (1080p)
+https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabyTV.qa",Al Araby TV (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5616
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabyTV2.qa",Al Araby TV 2 (1080p)
+https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlArabyTV2.qa",Al Araby TV 2 (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (480p)
+https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (360p)
+https://cdn-globecast.akamaized.net/eds/sudan_tv/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT" tvg-name="NBT" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png",NBT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/nbt/nbt.stream?type=m3u8
+#EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
+https://www.youtube.com/@bousaishare/live
+#EXTINF:-1 group-title="Earthquake Monitoring",JDQ
+https://www.youtube.com/@JDQ/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Earthquake Monitoring Japan
+https://www.youtube.com/@24LIVE/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Rexi
+https://www.youtube.com/@rexi6495/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Japan/Taiwan
+https://www.youtube.com/@Zonmi_owo/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Yoyo_0901
+https://www.youtube.com/@yoyo_0901/live
+#EXTINF:-1 group-title="Earthquake Monitoring",TYA-TW
+https://www.youtube.com/@Timyaya_TYA_eq/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Japan / Korea
+https://www.youtube.com/@jke/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Japan / @kmaskylove131
+https://www.youtube.com/@kmaskylove131/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Taiwan Earthquake
+https://www.youtube.com/@USB-921/live
+#EXTINF:-1 group-title="Earthquake Monitoring",Taiwan Earthquake
+https://www.youtube.com/@vivogamer8_earthquake_lite/live
+#EXTINF:-1 group-title="Earthquake Monitoring",EWRS
+https://www.youtube.com/@EGIC_Info/live
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taipei (Taiwan)
+https://www.youtube.com/watch?v=z_fY1pj1VBw
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Dadaocheng Wharf (Taiwan)
+https://www.youtube.com/watch?v=Ndo_8RuefH4
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Dajia Riverside (Taiwan)
+https://www.youtube.com/watch?v=fP4ecxfsJos
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Bishan Temple (Taiwan)
+https://www.youtube.com/watch?v=uvwfYzwY8tg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jiantanshan Temple (Taiwan)
+https://www.youtube.com/watch?v=34h_Cy_n0Ok
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Maokong Jinan Temple (Taiwan)
+https://www.youtube.com/watch?v=215ahZ_0rTg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Maokong Jinan Temple (Taiwan)
+https://www.youtube.com/watch?v=215ahZ_0rTg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport
+https://www.youtube.com/watch?v=91PfFoqvuUk
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport (Feed #2)
+https://www.youtube.com/watch?v=68GFgzQxrXs
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport (Feed #3 with Graphic)
+https://www.youtube.com/watch?v=0D6QgDOdI6c
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - Runway
+https://www.youtube.com/watch?v=q8Bb4CwpECQ
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - South Runway
+https://www.youtube.com/watch?v=y3_x8el5ZJY
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - North Runway
+https://www.youtube.com/watch?v=wWEnxWA7nnY
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Yongan Fishing Harbor
+https://www.youtube.com/watch?v=tD_a03trUvE
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Lala Mountains
+https://www.youtube.com/watch?v=YkIUZjVlhv4
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Hutoushan Enviromental Parks
+https://www.youtube.com/watch?v=tu_gsIkNt-w
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Xiao Wulai Skyward Park
+https://www.youtube.com/watch?v=neaiCec1kec
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Xiao Wulai Panoramic Park
+https://www.youtube.com/watch?v=hcGGNRfPvjM
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jianbanshan Siqin
+https://www.youtube.com/watch?v=3Za9y4z_Lzc
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Three Swimming Turtles
+https://www.youtube.com/watch?v=5YDXZ1aiR5Y
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Daxi Bridge
+https://www.youtube.com/watch?v=oFJ6gCaBb_Q
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Hutoushan Owl Forest Schools
+https://www.youtube.com/watch?v=yQSmajHyMhU
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jianbanshan Plum Ochard
+https://www.youtube.com/watch?v=-xT1bZhWLuU
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Jiaobanshan Eco Pond
+https://www.youtube.com/watch?v=XEbo8NzMTbQ
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Daxi Old Street
+https://www.youtube.com/watch?v=XUWjAsajKXg
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Shihmen Reservoir
+https://www.youtube.com/watch?v=GUCaVR88ZFU
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Cihu Memorial Sculpture Park
+https://www.youtube.com/watch?v=pSQ0e-ZTZ5g
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Baling
+https://www.youtube.com/watch?v=nV-DKquUjFs
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Suzu
+https://www.youtube.com/watch?v=QVx30qT1_BI
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Suzu (HAB Feed)
+https://www.youtube.com/watch?v=u5geWhHfPz4
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Kenrokuen Gardens
+https://www.youtube.com/watch?v=ZpzNv_hNxPE
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Wajima (The place ravaged by the fire during last year ago' 2024 Sea of Japan Earthquake Disasters)
+https://www.youtube.com/watch?v=rXF9kQldlao
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Ishikawa Perfectural HQ
+https://www.youtube.com/watch?v=mRG1LVFC9Qk
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Chichihama Sunset
+https://www.youtube.com/watch?v=qiQtdUTEAmI
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Kanazawa Train Station
+https://www.youtube.com/watch?v=8HV_KnQvXgw
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Bike Resthouse
+https://www.youtube.com/watch?v=yK8wehBqIQI
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / HAB (Hokuriku Asahi Broadcasting) TV Station HQ
+https://www.youtube.com/watch?v=5PnQ_umAu_s
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Shizuoka: A view from Mt. Fuji
+https://www.youtube.com/watch?v=3ltxADrccf8
+#EXTINF:-1 group-title="Earthquake Monitoring Cam",Shizuoka Multiview Live Cam
+https://www.youtube.com/watch?v=emf8I1z-uso
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel-Gaza Skyline
+https://www.youtube.com/watch?v=Dfq8N8ij7tY
 
-#EXTINF:-1 tvg-chno="3" ch-number="3" tvg-id="TPBS" tvg-name="TPBS" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png",TPBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tpbs/tpbs.stream?type=m3u8
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Bravo)
+https://d.liveatc.net/ooms2_ctr_bravo/
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Central)
+https://d.liveatc.net/ooms2_ctr_central/
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (North)
+https://d.liveatc.net/ooms2_ctr_north/
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (West
+https://d.liveatc.net/ooms2_ctr_west/
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (ATIS)
+https://d.liveatc.net/ooms2_aatis/
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Clearance Delivery)
+https://d.liveatc.net/ooms2_del
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Ground North)
+https://d.liveatc.net/ooms2_gnd_north
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Ground South)
+https://d.liveatc.net/ooms2_gnd_south
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Ground Radar)
+https://d.liveatc.net/ooms2_app
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Tower North)
+https://d.liveatc.net/ooms2_twr_north
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Muscat Control (Tower South)
+https://d.liveatc.net/ooms2_twr_south
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Allama Iqbal International Airport (ATIS)
+https://d.liveatc.net/opla_atis
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Allama Iqbal International Airport (Gnd/Twr/App)
+https://d.liveatc.net/opla
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",RCTP Taiwan Taipei Airport
+https://www.youtube.com/watch?v=GbvjIBkhOow
+#EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",RCKH Taiwan Kaohsiung Airport
+https://www.youtube.com/watch?v=Ek7fqkVWHZY
 
-#EXTINF:-1 tvg-chno="4" ch-number="4" tvg-id="ALTV" tvg-name="ALTV" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/117_y_8JTfbUnwW9t2kuVh6ZpONEqv7MeBIsQR.png",ALTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/altv2/altv.stream?type=m3u8
+#EXTINF:-1 group-title="ATC Audio",FMMI Twr/App/Center
+https://d.liveatc.net/fmmi
+#EXTINF:-1 group-title="ATC Audio",FIMP Twr/App/Ctr #1
+https://d.liveatc.net/fimp
+#EXTINF:-1 group-title="ATC Audio",FIMP Twr/App/Ctr #2
+https://d.liveatc.net/fimp2.pls
+#EXTINF:-1 group-title="ATC Audio",HAAB Approach
+https://d.liveatc.net/haab2_app
+#EXTINF:-1 group-title="ATC Audio",HAAB Tower
+https://www.liveatc.net/play/haab2_twr.pls
 
-#EXTINF:-1 tvg-chno="5" ch-number="5" tvg-id="5HD" tvg-name="5HD" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png",5HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tv5hd/tv5hd.stream?type=m3u8
+#EXTINF:-1 group-title="ATC Audio",RCSS Tower/App/Dep
+https://d.liveatc.net/rcss2
+#EXTINF:-1 group-title="ATC Audio",RCKH Del/Gnd/Twr/App
+https://d.liveatc.net/rckh2
+#EXTINF:-1 group-title="ATC Audio",WSSS Del/Gnd/App/Radar
+https://d.liveatc.net/wsss3
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: Mannila Center
+https://d.liveatc.net/rpll_control_120500
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: App/Dep 119.9
+https://d.liveatc.net/rpll_app_119900
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: App/Dep 124.4
+https://d.liveatc.net/rpll_app_124400
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: App/Dep 124.800
+https://d.liveatc.net/rpll_app_124800
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: Ground
+https://d.liveatc.net/rpll_gnd
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: Ramp T3
+https://d.liveatc.net/rpll_ramp1
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: Ramp T4
+https://d.liveatc.net/rpll_ramp_t4
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: Ramp/Taxi 121.7
+https://d.liveatc.net/rpll_ramp2
+#EXTINF:-1 group-title="ATC Audio",Ninoy Aquino International Airport ATC: Tower
+https://d.liveatc.net/rpll
 
-#EXTINF:-1 tvg-chno="6" ch-number="6" tvg-id="Boomerang" tvg-name="Boomerang" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/153_y_Agyp2nEebLvC9tWa5xBcY1J038OuTzFD.png",Boomerang
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boomerang/boomerang.stream?type=m3u8
+#Airport Cam
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (App/Dep)
+https://d.liveatc.net/rjtt_app_dep
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Approach)
+https://d.liveatc.net/rjtt_app
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (ATIS)
+https://d.liveatc.net/rjtt_atis
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Co.Ch)
+https://d.liveatc.net/rjtt2
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (DEL/GNS)
+https://d.liveatc.net/rjtt_gnd
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Del/Twr/TCA/Gnd)
+https://d.liveatc.net/rjtt_twr_tca
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Del/Twr/TCA/Gnd)
+https://d.liveatc.net/rjtt_dep
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (TKOCTRL)
+https://d.liveatc.net/rjtt_control
+#EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Twr/TCA)
+https://d.liveatc.net/rjtt_twr
+#EXTINF:-1  group-title="Airport Cam",東京・羽田空港一ターミナル (Tokyo Haneda Intl. Airport Terminal 1 Sector)
+https://www.youtube.com/watch?v=VuNYl3UvDgw
+#EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector)
+https://www.youtube.com/watch?v=EEIVCc5hmMk
+#EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector Feed #2)
+https://www.youtube.com/watch?v=A0FCKcTuRHo
+#EXTINF:-1  group-title="Airport Cam",東京・羽田空港T1/T3ターミナル (Tokyo Haneda Intl. Airport T1/T3 Sector)
+https://www.youtube.com/watch?v=DU-tsAEboZo
+#EXTINF:-1  group-title="Airport Cam",東京・羽田空港
+https://www.youtube.com/watch?v=XLb0ghogfa8
+#EXTINF:-1  group-title="Airport Cam",大阪府・伊丹空港
+https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg/live
+#EXTINF:-1  group-title="Airport Cam",Itami Airport Audio Feed
+https://d.liveatc.net/rjoo1
+#EXTINF:-1  group-title="Airport Cam",愛知県・名古屋空港
+https://www.youtube.com/watch?v=LRgGBlcL4KU
+#EXTINF:-1  group-title="Airport Cam",札幌市・新千歳空港
+https://www.youtube.com/watch?v=Azbdr5jbN6o
+#EXTINF:-1  group-title="Airport Cam",帯広・帯広空港
+https://www.youtube.com/watch?v=3dg35n9DLX0
+#EXTINF:-1  group-title="Airport Cam",福島県・福島空港
+https://www.youtube.com/watch?v=FflwF8jzZuU
+#EXTINF:-1  group-title="Airport Cam",福島県・福島空港 (Feed #2)
+https://www.youtube.com/watch?v=4POboTWLmVw
+#EXTINF:-1  group-title="Airport Cam",大阪府・関西国際空港
+https://www.youtube.com/watch?v=hbtZI9hG_SQ
+#EXTINF:-1  group-title="Airport Cam",兵庫県・神戸空港
+https://www.youtube.com/watch?v=UUCEJO_mFHw
+#EXTINF:-1  group-title="Airport Cam",千葉県・成田空港
+https://www.youtube.com/watch?v=jWCdG6mTTkk
+#EXTINF:-1  group-title="Airport Cam",千葉県・成田空港 (中央)
+https://www.youtube.com/watch?v=qhHlmcYv20w
+#EXTINF:-1  group-title="Airport Cam",千葉県・成田空港 (フルービエル)
+https://www.youtube.com/watch?v=e8IC_8iB5kY
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (APP)
+https://d.liveatc.net/rjaa_app_s
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (ATIS)
+https://d.liveatc.net/rjaa_atis
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Clearance Delivery)
+https://d.liveatc.net/rjaa_del
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Clearance Delivery #1)
+https://d.liveatc.net/rjaa_del1
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Clearance Delivery #2)
+https://d.liveatc.net/rjaa_del2
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Company Channels)
+https://d.liveatc.net/rjaa_co
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Departure)
+https://d.liveatc.net/rjaa_dep
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Departure #1)
+https://d.liveatc.net/rjaa_dep1
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Departure #2)
+https://d.liveatc.net/rjaa_dep2
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Emergency/Guard)
+https://d.liveatc.net/rjaa_guard
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Ground #1)
+https://d.liveatc.net/rjaa_gnd1
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Ground #2)
+https://d.liveatc.net/rjaa_gnd2
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Radar 119.025)
+https://d.liveatc.net/rjaa_rdr3
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Radar 120.2)
+https://d.liveatc.net/rjaa_rdr
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Radar 120.6)
+https://d.liveatc.net/rjaa_rdr2
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Radar 132.1)
+https://d.liveatc.net/rjaa_rdr4
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Radar 133.35)
+https://d.liveatc.net/rjaa_rdr5
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Ramp#1)
+https://d.liveatc.net/rjaa_ramp1
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Ramp#2)
+https://d.liveatc.net/rjaa_ramp2
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (TCA)
+https://d.liveatc.net/rjaa_tca
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (TOKYOCTRL)
+https://d.liveatc.net/rjaa_control1
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Tower#1)
+https://d.liveatc.net/rjaa_twr1
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Tower#2)
+https://d.liveatc.net/rjaa_twr2
+#EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Tower)
+https://d.liveatc.net/rjaa_twr
+#EXTINF:-1  group-title="Airport Cam",福島第‐福島第一原子力発電所
+https://www.youtube.com/watch?v=XoS2wFkKNrc
+#EXTINF:-1  group-title="Airport Cam",Meteo România
+https://www.youtube.com/channel/UCF5GcyFOwtMGiuNWioA9fOQ/live
 
-#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT" tvg-name="T SPORT" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png",T SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/t_sport/t_sport.stream?type=m3u8
+#Live Cam
+#EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
+https://www.youtube.com/watch?v=-v5fl3s4wX8
+#EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
+https://www.youtube.com/watch?v=TZ2gfqEDtDA
+#EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
+https://www.youtube.com/watch?v=oG5zz9Sjw3E
+#EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #2)
+https://www.youtube.com/watch?v=Gd2Tm5jblbE
+#EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam
+https://www.youtube.com/watch?v=Q35i-Towo2g
+#EXTINF:-1  group-title="ANN Live Cam",関越自動車道・東松山IC付近
+https://www.youtube.com/watch?v=ZV3oCAKSNx0
+#EXTINF:-1  group-title="ANN Live Cam",中央自動車道・元八王子バス停付近
+https://www.youtube.com/watch?v=FsL_KQz4gpw
+#EXTINF:-1  group-title="ANN Live Cam",群馬県高崎市高崎駅
+https://www.youtube.com/watch?v=YZcRxaKmvU4
+#EXTINF:-1  group-title="ANN Live Cam",東名高速道路・厚木IC付近
+https://www.youtube.com/watch?v=5rxOBb4V83I
+#EXTINF:-1  group-title="ANN Live Cam",羽田空港2ターミナル
+https://www.youtube.com/watch?v=A0FCKcTuRHo
+#EXTINF:-1  group-title="ANN Live Cam",渋谷スクランブル
+https://www.youtube.com/watch?v=TUd7JORZeWo
+#EXTINF:-1  group-title="ANN Live Cam",いやき坂イルミネーション
+https://www.youtube.com/watch?v=3krdhmBy3Kk
+#EXTINF:-1  group-title="ANN Live Cam",横浜・みなとみらい
+https://www.youtube.com/watch?v=orjgCwFT_lY
+#EXTINF:-1  group-title="ANN Live Cam",江の島ビーチ
+https://www.youtube.com/watch?v=8o-jYN1XN88
+#EXTINF:-1  group-title="TBS Live Cam",横浜・みなとみらい
+https://www.youtube.com/watch?v=orjgCwFT_lY
+#EXTINF:-1  group-title="TBS Live Cam",東京・浅草寺
+https://www.youtube.com/watch?v=E1l9PcSGojU
+#EXTINF:-1  group-title="TBS Live Cam",東京・新宿駅
+https://www.youtube.com/watch?v=BuWxAg761AQ
 
-#EXTINF:-1 tvg-chno="8" ch-number="8" tvg-id="TVB Thai" tvg-name="TVB Thai" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/89_y_Or0xFlNeQnWJvIfc83PjDzaZHpqY2ACi.png",TVB Thai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Al Aqsa Mosque
+https://www.youtube.com/channel/UC2l1w7FCuff2-h429sAUSXQ/live
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Razavi TV (Iran)
+https://stream01.nasimrezvan.com/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Entrance Sector
+https://stream01.nasimrezvan.com/hls/RpnpimQkhQvuAXZrPBbvEJwL/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Shrine Sector
+https://stream01.gaplication.com/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live Camera from Mashhad Mosque (Iran) - Palace Sector
+https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
+#EXTINF:-1 group-title="Mosque Camera"tvg-id="AlSunnahAlNabawiyahTV.sa",Live from Holy Shrines of Karbala (Iraq)
+https://www.youtube.com/@alkafeeltv/live
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamAsrTV.iq",Imam Asr TV (720p)
+https://iptv.imamasrtv.com/asrfa/playlist.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV1.iq",Imam Hussein TV 1 (1080p) [Not 24/7]
+https://.imamhossaintv.com/ih1.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV2.iq",Imam Hussein TV 2 (1080p) [Not 24/7]
+https://.imamhossaintv.com/ih2.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV3.iq",Imam Hussein TV 3 (1080p) [Not 24/7]
+https://.imamhossaintv.com/ih3.m3u8
+#EXTINF:-1 group-title="Mosque Camera" tvg-id="ImamHusseinTV4.iq",Imam Hussein TV 4 (1080p) [Not 24/7]
+https://.imamhossaintv.com/ih4.m3u8
 
-#EXTINF:-1 tvg-chno="9" ch-number="9" tvg-id="MVMall Plus" tvg-name="MVMall Plus" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png",MVMall Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/vtv_m/vtv/playlist.m3u8
+#EXTINF:-1  group-title="Youtube News Live Stream",東森新聞
+https://www.youtube.com/@newsebc/live
+#EXTINF:-1  group-title="Youtube News Live Stream",三立新聞
+https://www.youtube.com/@setn/live
+#EXTINF:-1  group-title="Youtube News Live Stream",SkyNews Live
+https://www.youtube.com/@SkyNews/live
+#EXTINF:-1  group-title="Youtube News Live Stream",DW News Live
+https://www.youtube.com/@dwnews/live
+#EXTINF:-1  group-title="Youtube News Live Stream",TRTWorld (Thừa Thiên Huế)
+https://www.youtube.com/@trtworld/live
+#EXTINF:-1  group-title="Youtube News Live Stream",NBC News Live
+https://www.youtube.com/@NBCNews/live
+#EXTINF:-1  group-title="Youtube News Live Stream",ABC News Live (Australia)
+https://www.youtube.com/@abcnewsaustralia/live
+#EXTINF:-1  group-title="Youtube News Live Stream",ABC News Live (US)
+https://www.youtube.com/@ABCNews/live
+#EXTINF:-1  group-title="Youtube News Live Stream",Bloomberg News Live
+https://www.youtube.com/@markets/live
+#EXTINF:-1  group-title="Youtube News Live Stream",CBS News Live
+https://www.youtube.com/@CBSNews/live
+#EXTINF:-1  group-title="Youtube News Live Stream",KBS News Live
+https://www.youtube.com/@newskbs/live
+#EXTINF:-1  group-title="Youtube News Live Stream",MBC News Live
+https://www.youtube.com/@MBCNEWS11/live
+#EXTINF:-1  group-title="Youtube News Live Stream",YTN News Live
+https://www.youtube.com/@ytnnews24/live
+#EXTINF:-1  group-title="Youtube News Live Stream",YonhapNews TV Live
+https://www.youtube.com/@yonhapnewstv23/live
+#EXTINF:-1  group-title="Youtube News Live Stream",Al Jazeera Mubasher
+https://www.youtube.com/@aljazeeramubasher/live
+#EXTINF:-1  group-title="Youtube News Live Stream",Al Jazeera English
+https://www.youtube.com/@aljazeeraenglish/live
+#EXTINF:-1  group-title="Youtube News Live Stream",Al Jazeera Arabic
+https://www.youtube.com/@aljazeera/live
+#EXTINF:-1  group-title="Youtube News Live Stream",Al-Araby TV
+https://www.youtube.com/@AlarabyTv_News/live
+#EXTINF:-1  group-title="Youtube News Live Stream",Asharq TV
+https://www.youtube.com/@AsharqNews/live
+#EXTINF:-1  group-title="Youtube News Live Stream",EURONEWS Live
+https://www.youtube.com/@euronews/live
+#EXTINF:-1  group-title="Youtube News Live Stream",FRANCE24 Live
+https://www.youtube.com/@FRANCE24/live
+#EXTINF:-1  group-title="Youtube News Live Stream",Reuters Live
+https://www.youtube.com/@Reuters/live
+#EXTINF:-1  group-title="Youtube News Live Stream",AP News Live
+https://www.youtube.com/@AssociatedPress/live
+#EXTINF:-1  group-title="Youtube News Live Stream",AFP News Live
+https://www.youtube.com/@AFP/live
+#EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",VTV-24 Breaking Live Event
+https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA/live
+#EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",NicoNicoDouga News Live Event
+https://www.youtube.com/channel/UC28hcmMG3TJv60Byo528VVg/live
+#EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
+https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
+#EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",TBS News (JP)
+http://cdns.jp-primehome.com:8000/zhongying/playlist.m3u8?cid=cs11&isp=4&bind=0&uin=159413&playseek=0
 
-#EXTINF:-1 tvg-chno="10" ch-number="10" tvg-id="TPTV" tvg-name="TPTV" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/120_y_VSgE7P9GiDCxrhFWUALYpvzfM12cdqmH.png",TPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tptv/tptv.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="11" ch-number="11" tvg-id="MVMall Healthy" tvg-name="MVMall Healthy" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/36_y_LzOCkoTG95mZhJ6IrADcMafyPQ1qVBE4.png",MVMall Healthy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="12" ch-number="12" tvg-id="MVMall DD" tvg-name="MVMall DD" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/40_y_V4AeGl0yJXpnzFfKDO7C1rMTYdcIP2kE.png",MVMall DD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/rama_m/rama/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="13" ch-number="13" tvg-id="MVMall Home" tvg-name="MVMall Home" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/112_y_2uKgIhyzBtmJCVlqGTaX16b9A3HenR0D.png",MVMall Home
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvnews/mvnews/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="14" ch-number="14" tvg-id="MVMall Trend" tvg-name="MVMall Trend" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/42_y_LtT0Jz4Qfr7asiVClxpGwgBv2qZDK3mo.png",MVMall Trend
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvtvseries_m/mvtvseries/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="15" ch-number="15" tvg-id="MVMall Living" tvg-name="MVMall Living" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/171_y_XOJ6qMirnDGuk01TLQjlWho5PtKSa9Ud.png",MVMall Living
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/ttd14/ttd14.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="16" ch-number="16" tvg-id="TNN" tvg-name="TNN" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/121_y_uQNBde5zrpo4TKm9kOZPx6iRbGaACfFE.png",TNN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/tnn24/tnn24.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="17" ch-number="17" tvg-id="MVMall Family" tvg-name="MVMall Family" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/107_y_aNzHOm07eZL1nc5MkpIUTBfPGit2qE4y.png",MVMall Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall_ttd12/mvmall_ttd12.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="18" ch-number="18" tvg-id="JKN18" tvg-name="JKN18" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/122_y_bzfht4O5uRNHylcq1D6nV9TvxmdXWaQP.png",JKN18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/new/new.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="19" ch-number="19" tvg-id="MVMall Best" tvg-name="MVMall Best" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/113_y_MZJpu9AhykldsP1STHq08LYG47ebWwnB.png",MVMall Best
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mvmall2/mvmall2.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="20" ch-number="20" tvg-id="MVMall Happy" tvg-name="MVMall Happy" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/69_y_C0aJp8NAlwvq9bm374XWDodShiTcuMIH.png",MVMall Happy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/happy/happy/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="21" ch-number="21" tvg-id="ไทบ้านทีวี" tvg-name="ไทบ้านทีวี" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png",ไทบ้านทีวี
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/thaiban/thaiban/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="22" ch-number="22" tvg-id="Nation" tvg-name="Nation" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png",Nation
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/nation_1/nation_1.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="23" ch-number="23" tvg-id="Workpoint" tvg-name="Workpoint" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/124_y_1PI2djLbMJpXO0n5oywKiNDzsWfTuFg4.png",Workpoint
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/workpointmyStream.m3u8
-
-#EXTINF:-1 tvg-chno="24" ch-number="24" tvg-id="True24" tvg-name="True24" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png",True24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/true4umyStream.m3u8
-
-#EXTINF:-1 tvg-chno="25" ch-number="25" tvg-id="GMM25" tvg-name="GMM25" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png",GMM25
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/gmm25myStream.m3u8
-
-#EXTINF:-1 tvg-chno="26" ch-number="26" tvg-id="MVTV ท้องถิ่นไทย" tvg-name="MVTV ท้องถิ่นไทย" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/187_y_O07IcMfWXzK1n4qD6YSswUxrv5btZJmk.png",MVTV ท้องถิ่นไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvtv/mvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="27" ch-number="27" tvg-id="ข่อง 8" tvg-name="ข่อง 8" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/127_y_uhsXzFBxYD6Wq2mpZeIUb4M7RK1ECkn8.png",ข่อง 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch8myStream.m3u8
-
-#EXTINF:-1 tvg-chno="28" ch-number="28" tvg-id="Boom Anime" tvg-name="Boom Anime" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/188_y_agUT0o6Vh3t87iAyQEf2nFbGKBk1JN9p.png",Boom Anime
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/boom_anime/boom_anime.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="29" ch-number="29" tvg-id="MONO 29" tvg-name="MONO 29" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/128_y_KUvdGmb2hpV41ni5rCk9OlFoXePMA80Q.png",MONO 29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/MonomyStream.m3u8
-
-#EXTINF:-1 tvg-chno="30" ch-number="30" tvg-id="MCOT" tvg-name="MCOT" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/129_y_hG7Nj2qWnldBu0fkMDyvT8CwYXLI649F.png",MCOT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://lb-mvtv-live.v2h-cdn.com/redirect/mcothd/mcothd.stream?type=m3u8
-
-#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE" tvg-name="ONE" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png",ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/onemyStream.m3u8
-
-#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath" tvg-name="Thairath" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png",Thairath
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/thairathmyStream.m3u8
-
-#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD" tvg-name="3HD" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png",3HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch3myStream.m3u8
-
-#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin" tvg-name="Amarin" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png",Amarin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/amarinmyStream.m3u8
-
-#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD" tvg-name="7HD" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png",7HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/ch7myStream.m3u8
-
-#EXTINF:-1 tvg-chno="36" ch-number="36" tvg-id="PPTV" tvg-name="PPTV" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/135_y_7hl4KHdwBqS0VGNCskrDLyci538zY2Qx.png",PPTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://hls-nginx.v2h-cdn.com/hls/pptvmyStream.m3u8
-
-#EXTINF:-1 tvg-chno="101" ch-number="101" tvg-id="MVLAO" tvg-name="MVLAO" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png",MVLAO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvlao/mvlao/playlist.m3u8
-
-#EXTINF:-1 tvg-chno="102" ch-number="102" tvg-id="MVM" tvg-name="MVM" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png",MVM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://n-edge-1-th.v2h-cdn.com/mvm/mvm/playlist.m3u8
-
-
-#EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV1" tvg-name="DLTV1" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png",DLTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv01.m3u8
-
-#EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="DLTV2" tvg-name="DLTV2" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png",DLTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv02.m3u8
-
-#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="DLTV3" tvg-name="DLTV3" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png",DLTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv03.m3u8
-
-#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="DLTV4" tvg-name="DLTV4" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png",DLTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv04.m3u8
-
-#EXTINF:-1 tvg-chno="205" ch-number="205" tvg-id="DLTV5" tvg-name="DLTV5" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png",DLTV5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv05.m3u8
-
-#EXTINF:-1 tvg-chno="206" ch-number="206" tvg-id="DLTV6" tvg-name="DLTV6" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png",DLTV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv06.m3u8
-
-#EXTINF:-1 tvg-chno="207" ch-number="207" tvg-id="DLTV7" tvg-name="DLTV7" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png",DLTV7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv07.m3u8
-
-#EXTINF:-1 tvg-chno="208" ch-number="208" tvg-id="DLTV8" tvg-name="DLTV8" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png",DLTV8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv08.m3u8
-
-#EXTINF:-1 tvg-chno="209" ch-number="209" tvg-id="DLTV9" tvg-name="DLTV9" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png",DLTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv09.m3u8
-
-#EXTINF:-1 tvg-chno="210" ch-number="210" tvg-id="DLTV10" tvg-name="DLTV10" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png",DLTV10
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv10.m3u8
-
-#EXTINF:-1 tvg-chno="211" ch-number="211" tvg-id="DLTV11" tvg-name="DLTV11" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png",DLTV11
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv11.m3u8
-
-#EXTINF:-1 tvg-chno="212" ch-number="212" tvg-id="DLTV12" tvg-name="DLTV12" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png",DLTV12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv12.m3u8
-
-#EXTINF:-1 tvg-chno="213" ch-number="213" tvg-id="DLTV13" tvg-name="DLTV13" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png",DLTV13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv13.m3u8
-
-#EXTINF:-1 tvg-chno="214" ch-number="214" tvg-id="DLTV14" tvg-name="DLTV14" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png",DLTV14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv14.m3u8
-
-#EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV15" tvg-name="DLTV15" group-title="Thái Lan" tvg-logo="https://media-mvtv-app.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png",DLTV15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://cdn-live.dltv.ac.th/dltv15.m3u8
-
-#EXTINF:-1 tvg-chno="999" ch-number="999" tvg-id="IPTV THAILAND.th" tvg-name="https://t.me/iptvth" group-title="Thái Lan" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/iptvth.png",https://t.me/iptvth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
-
-#EXTINF:-1 group-title="Campuchia" tvg-id="ApsaraTV11.kh",Apsara TV11 
-https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="BayonTV.kh",Bayon TV
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="BayonTV.kh",Bayon TV 
-https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="BTVNews.kh",BTV News 
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="CTV9.kh",CTV 9
-https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="CTV9.kh",CTV 9 (720p)
-https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="FreshNews.kh",Fresh News (720p)
-https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="HangMeasHDTV.kh",Hang Meas HDTV (1080p)
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="iTVHD.kh",iTV HD
-http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="KomsanTV.kh",Komsan TV [Not 24/7]
-http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="MSJTV.kh" http-referrer="https://www.iptvservice.site/",MSJ TV (1080p)
-#EXTVLCOPT:http-referrer=https://www.iptvservice.site/
-https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="MSJTV.kh",MSJ TV (720p)
-http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="",Netlink TV (720p)
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="NTV.kh",NTV
-http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="PNN.kh",PNN (720p)
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="RasmeyHangMeasHDTV.kh",Rasmey Hang Meas HDTV (720p)
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="SEATV.kh",SEATV (1080p)
-https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="",SEATV-Radio (720p)
-https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TownTV.kh",Town TV
-https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TownTV.kh",Town TV (720p)
-https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV3.kh",TV 3
-http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV3.kh",TV 3 (720p)
-https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia
-http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia (1080p)
-https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia (720p)
-https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TVK.kh",TVK (720p)
-https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="TVK2.kh",TVK 2 (720p)
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="WikiTV.kh",WIKI TV (720p)
-https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="MyTV.kh",My TV
-http://43.252.18.195:5080/live/streams/mytv.m3u8
-#EXTINF:-1 group-title="Campuchia" tvg-id="CTN.kh",CTN (480p)
-http://43.252.18.195:5080/live/streams/ctntv.m3u8
-
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Mrtvnews.png",MRTV News
-https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV NRC
-https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Sports
-https://lb-as.cdn-perfprod.com/live/mrtvschannel5
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Farmers
-https://lb-as.cdn-perfprod.com/channel_mrtv
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Entertainment
-https://lb-as.cdn-perfprod.com/mrtventertainment
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",MITV
-https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/440px-Myanmar_National_TV_Logo.jpg",MNTV
-https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4
-https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4 HD
-https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",Channel 5Plus
-https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1709015344NIHZWL.png",Channel 7
-https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/1200px-Channelk.png",Channel K
-https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://burmese.dvb.no/logo-with-letters.png",DVB (MYANMAR CHAMPIONS LEAGUE)
-https://live-stream.dvb.no/hls/stream_src/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD
-http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg" group-title="Leanbox",MWD Variety
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg" group-title="Leanbox",MWD Family
-http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg" group-title="Leanbox",MWD Shopping
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg" group-title="Leanbox",MWD Documentary
-http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD Movies
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD Series
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
-https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
-https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
-https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
-https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
-https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
-https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
-https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
-https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
-https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
-#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
-https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Astro_Ria_%282024%29.png" group-title="Malaysia và Singapore",Astro Ria
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Astro_AEC_%282024%29.png" group-title="Malaysia và Singapore",Astro AEC
-http://php.jdshipin.com:8880/smt.php?id=AEC
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="Malaysia và Singapore",Astro Wah Lai Toi
-http://php.jdshipin.com:8880/smt.php?id=Tvbjade
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Astro_QJ_%282024%29.png" group-title="Malaysia và Singapore",Astro QJ
-http://php.jdshipin.com:8880/smt.php?id=Quanjia
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png" group-title="Malaysia và Singapore",Astro Hua Hee Dai
-http://php.jdshipin.com:8880/smt.php?id=Huahee
-#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png" group-title="Malaysia và Singapore",Astro iQiyi
-http://php.jdshipin.com:8880/smt.php?id=Qiyi
-#EXTINF:2 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 5 HD
-https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:3 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channel8hd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel 8 HD
-https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="" provider="AKTV" provider-logo="" provider-type="iptv", Channel U HD
-https://cdn6.163189.xyz/live/chu/stream.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",Myanmar Radio National Service
-https://lb-as.cdn-perfprod.com/myanma_radio
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",Tha Pyay Radio
-https://lb-as.cdn-perfprod.com/thapyaeradio
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",Myanmar Radio International
-https://lb-as.cdn-perfprod.com/myanmaradionational
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",Mayyu FM
-https://lb-as.cdn-perfprod.com/mayyufm
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",CityFM
-https://stream.zeno.fm/rq4ux25pyeruv
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",Mandalay FM
-https://edge.mixlr.com/channel/nmtev
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",Star FM
-https://cast3.my-control-panel.com/proxy/starfmky/stream
-#EXTINF:-1 tvg-logo=""group-title="Leanbox",Cherry FM
-https://cherry.akiyaresearch.com:444/stream/89/;?type=http&nocache=8
-
-#EXTINF:-1 group-title="Anime Chọn Lọc"tvg-id="at-x"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",ATX
-http://vthanh.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="Anime Chọn Lọc"tvg-id="animax"tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax (アニマックス) - KurdistanTV (Main Feed from Erbil)
-http://cdns.jp-primehome.com:8000/zhongying/playlist.m3u8?cid=bs15&isp=4&bind=0&uin=159413&playseek=0
-#EXTINF:-1 tvg-id="animaxhd"group-title="Anime Chọn Lọc"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Kurdistan_tv.png", Animax HD / KurdistanTV
-http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/Animax/playlist.m3u8
-#EXTINF:-1 tvg-id="abema-anime-2"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-anime-2/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime",ABEMA アニメチャンネル2 (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime-2/playlist.m3u8
-#EXTINF:-1 tvg-id="80s-anime-1"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/80s-anime-1/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime Chọn Lọc",なつかしアニメ80's (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
-#EXTINF:-1 tvg-id="90s-anime-1"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/90s-anime-1/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime Chọn Lọc",なつかしアニメ90' (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
-#EXTINF:-1 tvg-id="precure"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/precure/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime Chọn Lọc",プリキュアチャンネル (Pretty Cure Channel) (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/precure/playlist.m3u8
-#EXTINF:-1 tvg-id="atashinchi"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/atashinchi/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime Chọn Lọc",あたしンちチャンネル (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
-#EXTINF:-1 tvg-id="shinchan-special"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/shinchan-special/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime Chọn Lọc",映画クレヨンしんちゃんチャンネル (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/shinchan-special/playlist.m3u8
-#EXTINF:-1 tvg-id="family-anime-1"tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/family-anime-1/logo.png?height=120&quality=75&version=20200413&width=240"group-title="Anime Chọn Lọc",ファミリーアニメ (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
-
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="AlJazeeraEnglish.qa"tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
-http://p1.cvtv.xyz:81/aj?token=live
-#EXTINF:-1 group-title="Tin tức Quốc Tế"tvg-id="BBCNews.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/1200px-BBC_News_2022_%28Alt%2C_boxed%29.svg.png",BBC News
-http://p1.cvtv.xyz:81/bbcn?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="CNNInternational.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
-http://cdns.jp-primehome.com:8000/zhongying/playlist.m3u8?cid=cs16&isp=4&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="France24English.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 English
-http://p1.cvtv.xyz:81/f24?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="EuronewsEnglish.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/2560px-Euronews_2022.svg.png",Euronews English
-http://p1.cvtv.xyz:81/euro?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="SkyNews.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Sky-news-logo.png/1200px-Sky-news-logo.png",Sky News
-http://p1.cvtv.xyz:81/skn?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT English
-http://p1.cvtv.xyz:81/rt?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="20"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
-http://p1.cvtv.xyz:81/cgtn?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Neptunia Infonews Channel (海王星衛視資訊台) / Phoenix InfoNews Channel (鳳凰衛視資訊台) - Phượng Hoàng Tin Tức
-http://p1.cvtv.xyz:81/phx?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="NHKWorldJapan.jp"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World
-http://p1.cvtv.xyz:81/nhkw?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="TRTWorld.tr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png",TRT World
-http://p1.cvtv.xyz:81/trtw?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
-http://p1.cvtv.xyz:81/dw?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="BloombergTVEurope.uk"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/2560px-New_Bloomberg_Logo.svg.png",Bloomberg
-http://p1.cvtv.xyz:81/bb?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
-http://p1.cvtv.xyz:81/cnbc?token=live
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CCTV13新闻频道
-http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",日本テレビNEWS24
-https://n24-cdn-live-x.ntv.co.jp/ch01/index_high.m3u8
-#EXTINF:-1 group-title="Tin tức quốc tế"tvg-id="cnbc"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",日本テレビNEWS24
-https://n24-cdn-live-x.ntv.co.jp/ch02/index_high.m3u8
-
+#Live Camera from Vietnam
+#EXTINF:-1 tvg-id="NhaTrang1" group-title="📍Nha Trang" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Nha Trang Bây Giờ
+https://www.youtube.com/@NhaTrang_rent/live
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Nút Giao Thông Tây Cầu Rồng
+https://www.youtube.com/watch?v=VHxNpNjKurU&pp=0gcJCX4JAYcqIYzv/live
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",BV Đà Nẵng
+https://www.youtube.com/watch?v=AcndFyZebdc
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Cầu Trần Thị Lý
+https://www.youtube.com/watch?v=JZRc7-Bvsfg
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trang Phục biểu diễn Phương Trần Đà Nẵng
+https://www.youtube.com/watch?v=CaMkzNXwVcE
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Camera cổng Sau bệnh viện C Đà Nẵng
+https://www.youtube.com/watch?v=muijHPW82vI
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Camera cổng trường Nguyễn Huệ Đà Nẵng
+https://www.youtube.com/watch?v=7gVcaJMfpVI
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",CỔNG TRƯỜNG LÝ TỰ TRỌNG -12 LÝ TỰ TRỌNG
+https://www.youtube.com/watch?v=H1-QpBbMPNo
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",TRƯỜNG LÝ TỰ TRỌNG - HƯỚNG KS SÔNG HÀN - 12 Lý Tự Trọng
+https://www.youtube.com/watch?v=jysOgkivUKQ
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trường Tiểu Học Lý Tự Trọng
+https://www.youtube.com/watch?v=Wa53eoX30rw
+#EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",CAMERA PTZ KHÁCH SẠN HẢI TRIỀU ĐÀ NẴNG
+https://www.youtube.com/watch?v=PmhlLGhCq9k
 
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",TVK Cambodia News Live Event
 https://www.youtube.com/@tvkcambodia/live
