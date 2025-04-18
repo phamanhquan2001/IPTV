@@ -3,7 +3,7 @@
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2
 https://cdn-azd204d.telewebion.com/ek/irinn2/live/576p/index.m3u8
-#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Telewebion Dự Phòng)
+#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
 https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
@@ -26,9 +26,30 @@ https://tvpass.org/CSPAN2/sd
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
 https://www.youtube.com/watch?v=a0rvnPdip0w
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live from Japan House of Representative: Explanation of the purpose of the Science Council of Japan Bill, Q&A
+
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live from Japan House of Representative: Question and Answer Session over the explanation of the purpose of the Science Council of Japan Bill
 https://hlslive.shugiintv.go.jp/room00/amlst:room00/playlist.m3u8?DVR
+
 #EXTINF:-1 group-title="Live Event",
+
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Main Stage Sector
+https://www.youtube.com/watch?v=LnAUFR5jyis
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Outdoor Theatre Sector
+https://www.youtube.com/watch?v=zzuTOidZOSE
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Sahara Sector
+https://www.youtube.com/watch?v=67f9t5bPyQY
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Mojave Sector
+https://www.youtube.com/watch?v=VKm3QlEdvoo
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Gobi Sector
+https://www.youtube.com/watch?v=ROT0X0BNy6s
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Yuma Sector
+https://www.youtube.com/watch?v=BZ6dMieEE94
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Qasar Sector (Saturday)
+https://www.youtube.com/watch?v=8Bkjm-wbMdg
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Qasar Sector (Sunday)
+https://www.youtube.com/watch?v=BHTC79fZ_8w
+#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Qasar Sector (Monday)
+https://www.youtube.com/watch?v=6Va13RpZLCM
 
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
