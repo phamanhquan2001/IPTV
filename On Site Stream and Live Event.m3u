@@ -26,8 +26,6 @@ https://tvpass.org/CSPAN2/sd
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
 https://www.youtube.com/watch?v=a0rvnPdip0w
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Hochiminh City (Vietnam): A dazzling fireworks display weekly to celebrating the 50th anniversary of Reunification Day
-https://www.youtube.com/watch?v=KnURixdONUM
 
 #EXTINF:-1 group-title="Live Event",
 
@@ -520,8 +518,12 @@ https://www.youtube.com/channel/UCubpNIVpkSXrlwkaqHnjW6g/live
 https://www.youtube.com/channel/UC1HD-fa3UnMgXhvL_e2Lx_A/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPHN
 https://www.youtube.com/channel/UCp3-ofQgc8PO5q3pS6jYsIw/live
-#EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican (EN)
 https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican (PL)
+https://www.youtube.com/@VaticanNewsPL/live
+#EXTINF:-1 group-title="⛪|Thánh Lễ",Live Cam from Vatican (VI)
+https://www.youtube.com/@VaticanNewsVI/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican Live (English)
 https://radio.vaticannews.va/stream-en
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Radio Vatican Live (Vietnamese)
