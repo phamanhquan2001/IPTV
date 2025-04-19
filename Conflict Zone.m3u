@@ -5,109 +5,54 @@
 #EXTM3U url-tvg="https://github.com/iptv-pro/iptv-pro.github.io/tree/main/epg" cache=500 deinterlace=1 aspect-ratio=16:9 tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=
 
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeera.qa",Al Jazeera Arabic (1080p)
-https://-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraEnglish.qa",Al Jazeera English (1080p)
-https://-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Westerl Wall (Jerusalem/Israel)
-https://www.youtube.com/watch?v=y4k2lXk1MBw
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Israel
-https://www.youtube.com/watch?v=Xw9zskRqTig
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Israel and others
-https://www.youtube.com/watch?v=kfqAKgc3FuM
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Live Camera from Ukraine
-https://www.youtube.com/watch?v=0BsfFkAC938
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSArabic.il",I24 News Arabic 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSArabic.il",I24 News Arabic 
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSEnglishWorld.il",I24 News English 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSEnglishWorld.il",I24 News English 
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="i24NEWSFrench.il",I24 News French 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSFrench.il",I24 News French 
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="",I24 News Hebrew 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="",I24 News Hebrew 
 https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Kan11.il",KAN-11 Israel 
-https://kan11w.media.kan.org.il/hls/2105694/2105694/master.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Kan11.il",KAN-11 Israel 
-https://kan11.media.kan.org.il/hls/2024514/2024514/master.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="KanEducational.il",Kan Kids 
-https://kan23.media.kan.org.il/hls/2024691/2024691/master.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="KnessetChannel.il",Knesset Channel
-https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/chunklist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Makan33.il",Makan 33 
-https://makan.media.kan.org.il/hls/2024680/2024680/master.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Now14.il",Now 14 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Kan11.il",KAN 11 Israel 
+https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Kan11.il",KAN 11 Israel 
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="KanEducational.il",Kan Kids 
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="KnessetChannel.il",Knesset Channel
+https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Makan33.il",Makan 33 
+https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Now14.il",Now 14 
 https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifest.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Channel13.il",Reshet 13 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Channel13.il",Reshet 13 
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Channel13.il",Reshet 13 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Channel13.il",Reshet 13 
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Israeli Army Radio
-https://glzwizzlv.bynetcdn.com/glz_mp3?
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AjyalTV.ps",Ajyal TV
-http://htvajyal.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AjyalTV.ps",Ajyal TV (720p)
-http://htvmada.mada.ps:8888/ajyal/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlAqsaTV.ps",Al Aqsa Channel (416p) [Not 24/7]
-http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlMadina.ps",Al Madina (720p)
-https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlNajahNews.ps",Al Najah News (720p)
-https://streaming.najah.edu:8443/hls/AlNajah.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FajerTV1.ps",Fajer TV 1 (480p)
-http://platform.topuphost.com:8577/alfajr.stream/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FajerTV2.ps",Fajer TV 2 (576p)
-http://platform.topuphost.com:8577/alfajr2.stream/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="FalastiniTV.ps",Falastini TV (1080p)
-https://rp.tactivemedia.com/palestiniantv_source/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HalaRamallah.ps",Hala Ramallah (720p)
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HebronTV.ps",Hebron TV (432p)
-https://account20.livebox.co.in/charleshls.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="HolyQuranRadioNablus.ps",Holy Quran Radio Nablus (720p)
-http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="MusawaChannel.ps"user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",MusawaChannel (1080p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://pbc.furrera.ps/musawahd/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="NablusTV.ps",Nablus TV (720p) [Not 24/7]
-http://htvmada.mada.ps:8888/nabluslive/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineEdu.ps",Palestine Edu (1080p)
-https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineMubasher.ps"user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
-https://pbc.furrera.ps/palestinelivehd/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineSatelliteChannel.ps"user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel (1080p)
+
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PalestineSatelliteChannel.ps" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinehd/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PalestineToday.ps",Palestine Today (480p) [Geo-blocked]
-https://.paltodaytv.com/paltv/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="RadioAlbaladTV.ps",Radio Albalad TV (720p)
-http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="RajeenTV.ps",Rajeen TV (1080p) [Not 24/7]
-https://mn-nl.mncdn.com/palabroad/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="ShababFM.ps",Shabab FM (720p) [Not 24/7]
-https://streaming.zaytonatube.com:8081/ShababFM/shabab/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="WatarTV.ps",Watar TV (720p) [Not 24/7]
-http://htvint.mada.ps:8889/orient/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="WatarTV.ps",Watar TV (720p) [Not 24/7]
-https://htvint.mada.ps/orient/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="PressTV.ir",Press TV
-https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 1
-https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 2
-https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 3
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
-https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir"group-title="HÓNG TIN CHIẾN SỰ",IRIB5 (IRIB-TEHRAN) - Amphoreus Regional Channel
+
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 1
+https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 2
+https://ncdn.telewebion.com/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 3
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
+https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5 - Amphoreus Regional Channel
 https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="Nasim.ir",Nasim
-https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png"group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
-https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlAlam.ir",IRIB Al-Alam TV
-https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Nasim.ir",Nasim
+https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRINN2
+https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Manar TV (Lebanon)
 https://edge.fastpublish.me/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
@@ -176,6 +121,1345 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
 https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (360p)
 https://cdn-globecast.akamaized.net/eds/sudan_tv/hls_roku/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Первый канал
+http://130.193.73.10:8937/play/a00f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Первый канал HD
+http://130.193.73.10:8937/play/a00g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Россия 1
+http://130.193.73.10:8937/play/a00j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Россия 24
+http://130.193.73.10:8937/play/a00k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Россия Культура
+http://130.193.73.10:8937/play/a00m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",ОТР
+http://130.193.73.10:8937/play/a00e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",НТВ
+http://130.193.73.10:8937/play/a00d
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",НТВ-Сериал
+http://130.193.73.10:8937/play/a03e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",НТВ-хит
+http://130.193.73.10:8937/play/a03f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",НТВ-Право
+http://130.193.73.10:8937/play/a01s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",НТВ-Стиль
+http://130.193.73.10:8937/play/a01t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",ТВЦ
+http://130.193.73.10:8937/play/a00p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Пятый канал
+http://130.193.73.10:8937/play/a00h
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Рен ТВ
+http://130.193.73.10:8937/play/a00i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",ТНТ
+http://130.193.73.10:8937/play/a01y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",1-й Республиканский
+http://130.193.73.10:8937/play/a001
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Новороссия ТВ
+http://130.193.73.10:8937/play/a002
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Оплот ТВ HD
+http://130.193.73.10:8937/play/a003
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Оплот ТВ(2)
+http://130.193.73.10:8937/play/a004
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Юнион
+http://130.193.73.10:8937/play/a005
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Известия
+http://130.193.73.10:8937/play/a006
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",БелРос
+http://130.193.73.10:8937/play/a007
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Домашний
+http://130.193.73.10:8937/play/a008
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Звезда
+http://130.193.73.10:8937/play/a009
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", 360
+http://130.193.73.10:8937/play/a00q
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", 365 Дней
+http://130.193.73.10:8937/play/a01c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Amedia 1
+http://130.193.73.10:8937/play/a02m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Amedia 2
+http://130.193.73.10:8937/play/a02n
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Amedia Hit
+http://130.193.73.10:8937/play/a02o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Amedia Premium HD
+http://130.193.73.10:8937/play/a02p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Bollywood HD
+http://130.193.73.10:8937/play/a02l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", CTC Kids
+http://130.193.73.10:8937/play/a017
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Flix Snip
+http://130.193.73.10:8937/play/a02r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Game Show
+http://130.193.73.10:8937/play/a02i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Hollywood HD
+http://130.193.73.10:8937/play/a02k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", RTG HD
+http://130.193.73.10:8937/play/a01h
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Sci-Fi
+http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Shot TV
+http://130.193.73.10:8937/play/a022
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", TV1000 Action
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Travel Adventure
+http://130.193.73.10:8937/play/a026
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Viasat Explorer
+http://130.193.73.10:8937/play/a01j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Viasat Nature
+http://130.193.73.10:8937/play/a01k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Viasat Nature-History HD
+http://130.193.73.10:8937/play/a01l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", World Fashion Ru
+http://130.193.73.10:8937/play/a01o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Авто 24
+http://130.193.73.10:8937/play/a01p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Авто Плюс
+http://130.193.73.10:8937/play/a027
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Да Винчи
+http://130.193.73.10:8937/play/a014
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Домашние животные
+http://130.193.73.10:8937/play/a02d
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Живая планета
+http://130.193.73.10:8937/play/a01m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", КВН ТВ
+http://130.193.73.10:8937/play/a02h
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Карусель
+http://130.193.73.10:8937/play/a00a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Кто есть кто
+http://130.193.73.10:8937/play/a02b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Кухня ТВ
+http://130.193.73.10:8937/play/a02c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Лен ТВ 24
+http://130.193.73.10:8937/play/a00l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Мир 24
+http://130.193.73.10:8937/play/a00c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Моя Планета
+http://130.193.73.10:8937/play/a02g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Мульт Музыка
+http://130.193.73.10:8937/play/a00y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Наука 2.0
+http://130.193.73.10:8937/play/a019
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", О!
+http://130.193.73.10:8937/play/a016
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Продвижение Москва
+http://130.193.73.10:8937/play/a01u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", СТС Love
+http://130.193.73.10:8937/play/a01x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Сапфир HD
+http://130.193.73.10:8937/play/a01e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Сарафан ТВ
+http://130.193.73.10:8937/play/a01v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Спас ТВ
+http://130.193.73.10:8937/play/a00o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", ТНТ 4
+http://130.193.73.10:8937/play/a020
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", ТНТ HD
+http://130.193.73.10:8937/play/a01z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Точка отрыва
+http://130.193.73.10:8937/play/a021
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Уник-Ум
+http://130.193.73.10:8937/play/a015
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ", Че!
+http://130.193.73.10:8937/play/a025
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",2x2
+http://130.193.73.10:8937/play/a01b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",8 канал
+http://130.193.73.10:8937/play/a05a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Ani
+http://130.193.73.10:8937/play/a00t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Classic Music
+http://130.193.73.10:8937/play/a044
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Dorama
+http://130.193.73.10:8937/play/a03v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",FAN
+http://130.193.73.10:8937/play/a03w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Filmbox
+http://130.193.73.10:8937/play/a03s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Filmbox Arthouse
+http://130.193.73.10:8937/play/a03t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Gulli
+http://130.193.73.10:8937/play/a00v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",M-1 GLOBAL
+http://130.193.73.10:8937/play/a04n
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",MCM Top
+http://130.193.73.10:8937/play/a041
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Ru TV
+http://130.193.73.10:8937/play/a03z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TLC
+http://130.193.73.10:8937/play/a01i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TNT Music
+http://130.193.73.10:8937/play/a040
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV1000
+http://130.193.73.10:8937/play/a02s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV1000 Русское Кино
+http://130.193.73.10:8937/play/a02u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Terra
+http://130.193.73.10:8937/play/a01f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Terra HD
+http://130.193.73.10:8937/play/a01g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Tiji
+http://130.193.73.10:8937/play/a05k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",VIP Premiere HD
+http://130.193.73.10:8937/play/a03g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Zee TV
+http://130.193.73.10:8937/play/a03x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Бобер
+http://130.193.73.10:8937/play/a02a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Боец
+http://130.193.73.10:8937/play/a04k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Бокс ТВ
+http://130.193.73.10:8937/play/a047
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",В Гостях у Сказки
+http://130.193.73.10:8937/play/a0b2
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Время далекое и близкое
+http://130.193.73.10:8937/play/a03p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Детский
+http://130.193.73.10:8937/play/a00w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Диалоги о рыбалке
+http://130.193.73.10:8937/play/a04q
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Дикая охота HD
+http://130.193.73.10:8937/play/a04o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Дикая рыбалка HD
+http://130.193.73.10:8937/play/a04p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Дикий
+http://130.193.73.10:8937/play/a04s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Доктор
+http://130.193.73.10:8937/play/a01q
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Дом Кино
+http://130.193.73.10:8937/play/a02v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Еврокино
+http://130.193.73.10:8937/play/a02w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Жара
+http://130.193.73.10:8937/play/a03y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",ЖиВи
+http://130.193.73.10:8937/play/a02e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Иллюзион
+http://130.193.73.10:8937/play/a02y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Индийское кино
+http://130.193.73.10:8937/play/a02z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",История
+http://130.193.73.10:8937/play/a01a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",КХЛ HD
+http://130.193.73.10:8937/play/a046
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Кинеко HD
+http://130.193.73.10:8937/play/a03d
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Кино ТВ HD
+http://130.193.73.10:8937/play/a030
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Кинокомедия
+http://130.193.73.10:8937/play/a031
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Киномикс
+http://130.193.73.10:8937/play/a032
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Киносвидание
+http://130.193.73.10:8937/play/a033
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Киносемья
+http://130.193.73.10:8937/play/a034
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Киносерия
+http://130.193.73.10:8937/play/a035
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Киноужас
+http://130.193.73.10:8937/play/a03r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Кинохит
+http://130.193.73.10:8937/play/a036
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Любимое кино
+http://130.193.73.10:8937/play/a037
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Ля минор
+http://130.193.73.10:8937/play/a045
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",МАТЧ! Премьер
+http://130.193.73.10:8937/play/a04i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",МУЗ ТВ
+http://130.193.73.10:8937/play/a042
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мама
+http://130.193.73.10:8937/play/a01r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч Премьер HD
+http://130.193.73.10:8937/play/a04b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч ТВ
+http://130.193.73.10:8937/play/a048
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч ТВ HD
+http://130.193.73.10:8937/play/a049
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Арена HD
+http://130.193.73.10:8937/play/a04a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Страна HD
+http://130.193.73.10:8937/play/a04j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Футбол 1
+http://130.193.73.10:8937/play/a04c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Футбол 1 HD
+http://130.193.73.10:8937/play/a04d
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Футбол 2
+http://130.193.73.10:8937/play/a04e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Футбол 2 HD
+http://130.193.73.10:8937/play/a04f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Футбол 3
+http://130.193.73.10:8937/play/a04g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Матч! Футбол 3 HD
+http://130.193.73.10:8937/play/a04h
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мир
+http://130.193.73.10:8937/play/a00b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мир баскетбола
+http://130.193.73.10:8937/play/a04m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мир сериала
+http://130.193.73.10:8937/play/a038
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Морской
+http://130.193.73.10:8937/play/a02f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Москва-24
+http://130.193.73.10:8937/play/a00r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мосфильм. Золотая коллекция
+http://130.193.73.10:8937/play/a03i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Моторспорт ТВ
+http://130.193.73.10:8937/play/a04r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мужское кино
+http://130.193.73.10:8937/play/a039
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Музыка Первого
+http://130.193.73.10:8937/play/a043
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мульт
+http://130.193.73.10:8937/play/a00x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Мультимания
+http://130.193.73.10:8937/play/a00z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",НАШЕ НОВОЕ КИНО
+http://130.193.73.10:8937/play/a03b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",НСТ
+http://130.193.73.10:8937/play/a03c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Ностальгия
+http://130.193.73.10:8937/play/a02x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Победа
+http://130.193.73.10:8937/play/a03h
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Поехали!
+http://130.193.73.10:8937/play/a01n
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Пятница
+http://130.193.73.10:8937/play/a018
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",РБК
+http://130.193.73.10:8937/play/a00s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Радость Моя
+http://130.193.73.10:8937/play/a0g3
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Родное кино
+http://130.193.73.10:8937/play/a03j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Русская Комедия
+http://130.193.73.10:8937/play/a03k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Русский Детектив
+http://130.193.73.10:8937/play/a03o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Русский Иллюзион
+http://130.193.73.10:8937/play/a03m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Русский Роман
+http://130.193.73.10:8937/play/a03n
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Русский бестселлер
+http://130.193.73.10:8937/play/a03l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",СТС
+http://130.193.73.10:8937/play/a01w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Сапфир
+http://130.193.73.10:8937/play/a01d
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Солнце
+http://130.193.73.10:8937/play/a00u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Старт
+http://130.193.73.10:8937/play/a04l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Суббота!
+http://130.193.73.10:8937/play/a03a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",ТВ Сфера
+http://130.193.73.10:8937/play/a04t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",ТВ-3
+http://130.193.73.10:8937/play/a03q
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Телекафе
+http://130.193.73.10:8937/play/a03u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Усадьба
+http://130.193.73.10:8937/play/a024
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Ю
+http://130.193.73.10:8937/play/a028
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Ювелирочка
+http://130.193.73.10:8937/play/a023
+#EXTINF:-1 tvg-id="belarus1" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Belarus-1.jpg/200px-Belarus-1.jpg", Belarus 1
+http://194.158.222.36:6101
+#EXTINF:-1 tvg-id="belarus2" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://seeklogo.com/images/B/belarus-2-logo-703A54CF7F-seeklogo.com.png", Belarus 2
+http://194.158.222.36:6107
+#EXTINF:-1 tvg-id="belarus3" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/belarus3.png", Belarus 3
+http://194.158.222.36:6108
+#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/belarus4.png", Belarus 4
+https://flu.vtv.by/bt4-non-by/index.m3u8
+#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/belarus4.png", Belarus 5
+http://194.158.222.36:6109
+#EXTINF:-1 tvg-id="belarus24" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Belarus_24.svg/revision/latest/scale-to-width-down/200?cb=20191008123534", Belarus 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
+#EXTINF:-1 tvg-id="stv-by" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/stv-by4.png", STV
+http://194.158.222.36:6103
+#EXTINF:-1 tvg-id="ont-by" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/nt-by.png", ONT
+http://194.158.222.36:6102
+#EXTINF:-1 tvg-id="no_epg_news" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/ont-by.png", ONT Internet
+https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-belarus" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/ntv-belarus.png", NTV-Belarus
+http://194.158.222.36:6106
+#EXTINF:-1 tvg-id="rtr-belarus" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/rtr-belarus.png", RTR-Belarus
+http://194.158.222.36:6105
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://www.mtis.by/i/tv_a/mir.png",Mir Belarus
+http://194.158.222.36:6104
+#EXTINF:-1 tvg-id="no_epg_news" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/ont-by.png", ONT Internet
+https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv-belarus" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/ntv-belarus.png", NTV-Belarus
+http://194.158.222.36:6106
+#EXTINF:-1 tvg-id="rtr-belarus" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/rtr-belarus.png", RTR-Belarus
+http://194.158.222.36:6105
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://www.mtis.by/i/tv_a/mir.png",Mir Belarus
+http://194.158.222.36:6104
+#EXTINF:-1 tvg-id="tro" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/belros.png", BelRos
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 tvg-id="tro" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/belros.png", 1TV Gruzia
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 tvg-id="tro" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://picon.ml/belros.png", 2TV Gruzia
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 tvg-id="kazakh-tv" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Kazakh_TV_Logo.png/220px-Kazakh_TV_Logo.png", Qazaq TV
+https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="kazakhstan" tvg-name="Qazaqstan" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="kazakhstan" tvg-name="Qazaqstan International" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="astana" tvg-name="Astana" tvg-logo="https://iptvxcdn.ml/astana.png",Astana
+https://astanatv-stream.daitsuna.net/astanatv/astanatv/astanatv/astanatv_720/chunks.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="xabar" tvg-name="Хабар" tvg-logo="https://iptvxcdn.ml/xabar.png",Khabar
+https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/chunklist.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="xabar24" tvg-name="Хабар 24" tvg-logo="https://iptvxcdn.ml/xabar24.png",Khabar-24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="el-arna" tvg-name="El Arna" tvg-logo="https://iptvxcdn.ml/el-arna.png",El Arna
+https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия" tvg-logo="https://iptvxcdn.ml/pervy-kanal-eurasia-kz.png",Perviy Eurasia
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="sedmoi-kanal" tvg-name="Седьмой канал" tvg-logo="http://epg.it999.ru/img2/2572.png",Sedmoy Kanal
+https://stream.tv7.kz/hls/stream.m3u8
+#EXTINF:0 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="almaty" tvg-name="Almaty TV" tvg-logo="https://iptvxcdn.ml/almaty.png",Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="atameken-business" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://astanait.edu.kz/wp-content/uploads/2022/05/7d334930931ce11af092b9219b333f9d.png", Atameken Business
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Altyn_Asyr.png/revision/latest/scale-to-width-down/250?cb=20211225160159",Altyn Asyr
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Ashgabat_TV.png/revision/latest?cb=20211225160751",Asgabat
+https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Miras.png/revision/latest/scale-to-width-down/150?cb=20211225160741",Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Turkmen_Ovazy.png/revision/latest/scale-to-width-down/250?cb=20211225160825",Turkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Turkmenistan_%28TV_channel%29.png/revision/latest/scale-to-width-down/250?cb=20211225160834",Turkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Yashlyk.png/revision/latest?cb=20211225160800",Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+#EXTINF:-1 tvg-id="mir" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/tvmir-logo-65.png", Mir
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="mir-24" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://onair.mir24.tv/storage/app/uploads/public/5d6/f65/368/5d6f653687663422591825.jpg", Mir 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="cctv-ru" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://iptvxcdn.ml/cctv-ru.png", CGTN Russian
+http://liveru.cgtn.com/200r/prog_index.m3u8
+#EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Current_Time_TV_Logo.png/220px-Current_Time_TV_Logo.png", Current Time TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
+#EXTINF:-1 tvg-id="rtvi" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTVI_Logo_magenta_fill_2021.png/1024px-RTVI_Logo_magenta_fill_2021.png", RTVI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
+#EXTINF:-1 tvg-id="dozhd" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://iptvxcdn.ml/dozhd.png", Dozhd
+http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 tvg-id="belsat" group-title="HÓNG TIN CHIẾN SỰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_Bie%C5%82sat_TV.png/220px-Logo_Bie%C5%82sat_TV.png", TVP Belsat
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ПЕРШИЙ
+https://tva.in.ua/live/first.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ПЕРШИЙ HD
+http://193.107.168.98:7006/play/526/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",1+1 марафон
+https://m3u8.ott.blue/watch/45/index.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",2+2 720х576
+http://91.146.94.234:10000/play/a04r
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV Серіал HD
+http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV Серіал r1
+http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV Серіал r2
+http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV Серіал r3
+http://cdnua05.hls.tv/625/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV 2 hd
+http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV 2 hd1
+http://cdnua05.hls.tv/921/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV 2 r1
+http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ICTV 2 r2
+http://cdnua05.hls.tv/427/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Новий канал
+http://91.146.94.234:10000/play/a04o
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Телеканал СТБ
+http://91.146.94.234:10000/play/a04l
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ТЕТ fas-tv*com
+http://91.146.94.234:10000/play/a04p
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",НТН 720х576
+http://91.146.94.234:10000/play/a04t
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Action TVOE Kino HD
+http://193.27.209.122/tvoje_kino_action/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Xit TVOE Kino HD
+http://193.27.209.122/tvoje_kino_hit/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Super+ HD
+http://193.27.209.122/super_plus/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",СОНЦЕ
+http://84.200.70.180:4642/bysid/6920
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Сонце HD TV 
+https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",СОНЦЕ 720х576
+http://91.146.94.234:10000/play/a058
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",FILM TV GROUP
+http://filmtvgroup.hopto.org:8080/FILM_TV_GROUP/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Новосілки ТБ
+http://filmtvgroup.hopto.org:8080/novosilkitb/video.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",TEST FILM TV
+http://filmtvgroup.hopto.org:8080/test/index.m3u8?token=FILM_TV_GROUP=t.me/Kanl_FILM_TV=R3JpZ29yaXl8fE1USXdOVEU1T0RKSGNrRm0=
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",kinosweet HD
+http://193.27.209.122/kinosweet/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Сine+ legend
+http://193.27.209.122/cine_plus_legend/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ZOOM
+http://91.146.94.234:10000/play/a054
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Usba TV - Україна
+https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Usba TV - Україна 2
+https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ДІМ
+https://cdnua03.hls.tv/hls/6154479a1319705257f2335762b18f51/4780/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Cine+ HD
+http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Cine+
+http://cdnua05.hls.tv/932/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Cine+ R
+http://cdnua05.hls.tv/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Твій серіал
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4870/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Твій серіал hd
+http://cdnua05.hls.tv/935/hls/8743361621b245838bee193c9ec28322/4870/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",КІНО ТА СЕРІАЛИ
+http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4867/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",КІНО ТА СЕРІАЛИ HD
+http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4867/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",4EVER Theater HD
+http://cdnua05.hls.tv/923/hls/8743361621b245838bee193c9ec28322/4837/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Серіал
+http://cdnua05.hls.tv/6516/hls/f62d71219200da4130d13b21d23fb23c/4891/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Серіал r
+http://cdnua05.hls.tv/6816/hls/f62d71219200da4130d13b21d23fb23c/4891/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Мелодрами HD
+http://cdnua05.hls.tv/7211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Мелодрами HD
+http://cdnua05.hls.tv/8211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Сімейні мелодрами+
+http://cdnua05.hls.tv/617/hls/f62d71219200da4130d13b21d23fb23c/4892/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Сімейні мелодрами+ HD
+http://cdnua05.hls.tv/0538/hls/8743361621b245838bee193c9ec28322/4892/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ОПЕР за викликом+
+http://cdnua05.hls.tv/614/hls/f62d71219200da4130d13b21d23fb23c/4889/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ОПЕР за викликом+ HD
+http://cdnua05.hls.tv/0941/hls/8743361621b245838bee193c9ec28322/4889/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ЖВЛ+ життя відомих людей
+http://cdnua05.hls.tv/622/hls/f62d71219200da4130d13b21d23fb23c/4895/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Один За Всіх
+http://cdnua05.hls.tv/216/hls/f62d71219200da4130d13b21d23fb23c/4909/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Невигадані Історії
+http://cdnua05.hls.tv/210/hls/f62d71219200da4130d13b21d23fb23c/4902/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Машина часу
+http://cdnua05.hls.tv/635/hls/f62d71219200da4130d13b21d23fb23c/4901/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Слідство ведуть екстрасенси
+http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4897/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ВІКТОРИНА HD
+http://cdnua05.hls.tv/221/hls/f62d71219200da4130d13b21d23fb23c/4910/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ВІКТОРИНА hd
+http://cdnua05.hls.tv/921/hls/f62d71219200da4130d13b21d23fb23c/4910/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",fun HD КОМЕДІЙНИЙ
+http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4898/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",МИ+ УКРАЇНА
+http://cdnua05.hls.tv/0338/hls/8743361621b245838bee193c9ec28322/4885/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Стосується кожного HD
+http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4882/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Стосується кожного
+http://cdnua05.hls.tv/0949/hls/8743361621b245838bee193c9ec28322/4882/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Одружені НАОСЛІП+
+http://cdnua05.hls.tv/619/hls/f62d71219200da4130d13b21d23fb23c/4893/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Одружені НАОСЛІП+ r
+http://cdnua05.hls.tv/6133/hls/f62d71219200da4130d13b21d23fb23c/4893/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Реаліті Шоу Врятуйте нашу сімю
+http://cdnua05.hls.tv/631/hls/f62d71219200da4130d13b21d23fb23c/4899/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Реаліті Шоу Врятуйте нашу сімю r
+http://cdnua05.hls.tv/6321/hls/f62d71219200da4130d13b21d23fb23c/4899/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суппер МАМА
+http://cdnua05.hls.tv/634/hls/f62d71219200da4130d13b21d23fb23c/4900/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суппер МАМА r
+http://cdnua05.hls.tv/6314/hls/f62d71219200da4130d13b21d23fb23c/4900/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Панянка селянка 
+http://cdnua05.hls.tv/6135/hls/f62d71219200da4130d13b21d23fb23c/4890/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Панянка селянка r
+http://cdnua05.hls.tv/6615/hls/f62d71219200da4130d13b21d23fb23c/4890/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",TAK TV HD
+https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/97/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Gags Network HD
+http://cdnua05.hls.tv/1236/hls/8743361621b245838bee193c9ec28322/4877/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Gags Network  
+http://95.67.12.82:9069
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Перший Кабельний
+http://91.226.35.134:8081/PK
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Світ на виворіт+ HD
+http://cdnua05.hls.tv/611/hls/f62d71219200da4130d13b21d23fb23c/4886/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Світ на виворіт+
+http://cdnua05.hls.tv/0538/hls/8743361621b245838bee193c9ec28322/4886/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Загублений Світ+
+http://cdnua05.hls.tv/620/hls/f62d71219200da4130d13b21d23fb23c/4894/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Орел та Решка
+http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4872/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ЗООСВІТ
+http://cdnua05.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4865/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ЗООСВІТ HD
+http://cdnua05.hls.tv/036/hls/8743361621b245838bee193c9ec28322/4865/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",TRAVEL channel
+http://cdnua05.hls.tv/544/hls/8743361621b245838bee193c9ec28322/307/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",TRAVELXP HD
+http://cdnua05.hls.tv/944/hls/8743361621b245838bee193c9ec28322/4806/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ONE PLANET
+http://cdnua05.hls.tv/915/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ONE PLANET HD
+http://cdnua05.hls.tv/916/hls/8743361621b245838bee193c9ec28322/4832/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Continent E HD
+http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4834/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",PROVENCE
+http://cdnua05.hls.tv/0436/hls/8743361621b245838bee193c9ec28322/4875/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ГОТУЄМО РАЗОМ
+http://cdnua05.hls.tv/0949/hls/8743361621b245838bee193c9ec28322/4881/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Continent E
+http://95.67.12.82:9083
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Київ HD TV 
+https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Київ
+https://demo-cdn.lanet.tv/9033.m3u8?key=5a5a2b04ed6a8b2cc488cc0a
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне КИЇВ HD
+http://cdnua05.hls.tv/777/hls/f62d71219200da4130d13b21d23fb23c/162/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Вінниця
+http://cdnua05.hls.tv/649/hls/f62d71219200da4130d13b21d23fb23c/4785/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Дніпро
+http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Житомир
+http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Запоріжжя
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Луцьк 
+http://193.107.168.98:7006/play/508/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Львів
+http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4794/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Полтава
+http://cdnua05.hls.tv/646/hls/f62d71219200da4130d13b21d23fb23c/4796/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Рівне
+http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4797/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Кропивницький
+http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Харків
+http://cdnua05.hls.tv/631/hls/f62d71219200da4130d13b21d23fb23c/4799/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Херсон
+http://cdnua05.hls.tv/633/hls/f62d71219200da4130d13b21d23fb23c/4801/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Хмельницький
+http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Одеса
+http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Суми
+http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Тернопiль
+http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Чернівці
+http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Чернігів
+http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Крим
+http://193.107.168.59:7005/play/436/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Крим TV 
+https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Культура HD TV 
+https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Культура
+http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/117/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Суспільне Миколаїв HD
+http://portal.ott.pink/watch/7763/index.m3u8?geo=auto&free=true&token=2B8378CADCB27AA393170BD7EDB7C0E9
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Орбiта tva.org.ua
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",OstWest 24
+http://95.67.12.82:9077
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Круг (Одеса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",4TV
+https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4838/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",5 КАНАЛ
+https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",7 КАНАЛ
+https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",8 Канал HD
+https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4051/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",8 канал HD TV
+https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Армія ТВ HD
+https://m3u8.ott.blue/watch/7572/index.m3u8?geo=auto&token=94450098895765784220366841698509 
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Перший Кабельний
+http://91.226.35.134:8081/PK 
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",24 канал TV 
+https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",24 Канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",КИЇВ 24
+https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",КИЇВ 
+http://84.200.70.180:4642/bysid/6990
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Ми+Україна HD
+http://84.200.70.180:4642/bysid/6975
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",СK 1 
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ПРЯМИЙ
+http://84.200.70.180:4642/bysid/6950
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ПРЯМИЙ HD
+https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ІСЛАНДІЯ
+https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",FREEдом
+http://95.67.106.242/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",FREEDOM
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",FREEДОМ HD
+https://cdnua03.hls.tv/176/hls/6154479a1319705257f2335762b18f51/91/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Ми Україна
+http://cdnua05.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4847/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",OBOZREVATEL
+http://cdnua05.hls.tv/942/hls/8743361621b245838bee193c9ec28322/3984/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",OBOZREVATEL HD
+http://cdnua05.hls.tv/778/hls/f62d71219200da4130d13b21d23fb23c/3984/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Нове тв 
+https://novoe.top/nove_tv.m3u8.jpg?m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Renome 
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",TVA
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Надія/N.K.
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ЕСПРЕСО
+http://84.200.70.180:4642/bysid/6980
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ЕСПРЕСО HD
+https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",РАДА
+http://193.107.168.98:7001/play/24/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",РАДА HD
+https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Belsat TV 
+https://irylek.ct8.pl/stream/belsat
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Полтавське ТВ
+http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",PTV Полтавское TV
+https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",4TV Тернопіль
+http://cdnua05.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4838/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Тернопіль 1
+http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Тернопiль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",НТК Коломия
+https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ТВА tva*org-ua
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ТВА tva*in-ua
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ГІТ (Волинь)
+http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",33 канал
+https://33news.org/33chanel/live/chunklist_w1484176056.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",33 канал (Хмельницький)
+https://33news.org/33chanel/live/chunklist_w459617257.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",МТМ Запоріжжя
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",1 Городский Кривий Ріг
+https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",1 Городский Одеса HD
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ЧОРНОМОРСКЕ HD TV
+https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Чорноморська ТРК
+https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Аверс tva.org.ua
+https://m3u8.ott.blue/watch/356/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",D1
+https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ДНІПРО ТВ
+http://cdnua05.hls.tv/0338/hls/8743361621b245838bee193c9ec28322/4880/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Балта ТВ HD
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Telekanal RAI 
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",СК1 (Житомир)
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",TIS TV
+https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ATR
+https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",ITV (Рівне)
+http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",Сфера ТВ
+http://cdn10.live-tv.od.ua:8081/sferarv/720p/playlist.m3u8
+#EXTINF:-1  group-title="HÓNG TIN CHIẾN SỰ",АПОСТРОФ
+https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
+
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV Regionalna
+https://tvreg.klemit.net/regionalna/stream/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVT 
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV Torun
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVT Zgorzelec 
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",13 Ulica HD
+http://185.236.229.62:9981/play/a03o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",4Fun Dance
+http://185.236.229.62:9981/play/a020
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",4Fun Kids
+http://185.236.229.62:9981/play/a01z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",4Fun.TV
+http://185.236.229.62:9981/play/a01y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",AMC
+http://185.236.229.62:9981/play/a05g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",AXN
+http://185.236.229.62:9981/play/a07a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",AXN HD
+http://185.236.229.62:9981/play/a07s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",AXN SPIN HD
+http://185.236.229.62:9981/play/a044
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",AXN White
+http://185.236.229.62:9981/play/a074
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",BBC Brit
+http://185.236.229.62:9981/play/a06r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",BBC CBeebies
+http://185.236.229.62:9981/play/a06s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",BBC Earth HD
+http://185.236.229.62:9981/play/a02o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",BBC FIRST
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",BBC Lifestyle HD
+http://185.236.229.62:9981/play/a06t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ DOMO HD
+http://185.236.229.62:9981/play/a05u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ FAMILY HD
+http://185.236.229.62:9981/play/a04z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ FILM HD
+http://185.236.229.62:9981/play/a04y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ FILM HD
+http://185.236.229.62:9981/play/a057
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ KUCHNIA
+http://185.236.229.62:9981/play/a053
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ PREMIUM HD
+http://185.236.229.62:9981/play/a04b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ SERIALE HD
+http://185.236.229.62:9981/play/a058
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+ SERIALE HD
+http://185.236.229.62:9981/play/a054
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CANAL+1 HD
+http://185.236.229.62:9981/play/a05s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CBS Reality HD
+http://185.236.229.62:9981/play/a02v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",CI Polsat HD
+http://185.236.229.62:9981/play/a07w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Cinemax 2 HD
+http://185.236.229.62:9981/play/a07r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Cinemax HD
+http://185.236.229.62:9981/play/a05p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Cinemax HD
+http://185.236.229.62:9981/play/a05m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Class TV Moda
+http://185.236.229.62:9981/play/a04s
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Comedy Central HD
+http://185.236.229.62:9981/play/a068
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Da Vinci
+http://185.236.229.62:9981/play/a024
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Disney Junior
+http://185.236.229.62:9981/play/a06n
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Disney XD
+http://185.236.229.62:9981/play/a07c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Dla Ciebie TV
+http://185.236.229.62:9981/play/a04u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",E! Entertainment
+http://185.236.229.62:9981/play/a03j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",EURONEWS ITALIAN SD PAL 1.8
+http://185.236.229.62:9981/play/a06q
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Epic Drama HD
+http://185.236.229.62:9981/play/a029
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Eska TV HD
+http://185.236.229.62:9981/play/a02f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",FX HD
+http://185.236.229.62:9981/play/a07u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",FilmBox Action
+http://185.236.229.62:9981/play/a033
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",FilmBox Extra HD
+http://185.236.229.62:9981/play/a036
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",FilmBox Family
+http://185.236.229.62:9981/play/a032
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",FilmBox Family
+http://185.236.229.62:9981/play/a037
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Filmbox Arthouse
+http://185.236.229.62:9981/play/a028
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Filmbox Premium HD
+http://185.236.229.62:9981/play/a02x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Fokus TV
+http://185.236.229.62:9981/play/a02g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Food Network HD
+http://185.236.229.62:9981/play/a073
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Fx Comedy HD
+http://185.236.229.62:9981/play/a07t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",HBO HD
+http://185.236.229.62:9981/play/a06k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",HBO2 HD
+http://185.236.229.62:9981/play/a05x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",HBO3 HD
+http://185.236.229.62:9981/play/a062
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",History 2 HD
+http://185.236.229.62:9981/play/a03l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",History HD
+http://185.236.229.62:9981/play/a07v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",KINO POLSKA HD
+http://185.236.229.62:9981/play/a05v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Kino Polska Muzyka
+http://185.236.229.62:9981/play/a030
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Kino TV HD
+http://185.236.229.62:9981/play/a031
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",MTV 00s
+http://185.236.229.62:9981/play/a066
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",MTV 90s
+http://185.236.229.62:9981/play/a07f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",MiniMini+ HD
+http://185.236.229.62:9981/play/a04e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Motowizja HD
+http://185.236.229.62:9981/play/a02r
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",NATIONAL GEO HD
+http://185.236.229.62:9981/play/a04d
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",NOVELAS+
+http://185.236.229.62:9981/play/a05a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",NOVELAS+
+http://185.236.229.62:9981/play/a05k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Nat Geo People HD
+http://185.236.229.62:9981/play/a06f
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",National Geographic Wild HD
+http://185.236.229.62:9981/play/a05z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Nick Jr
+http://185.236.229.62:9981/play/a065
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Nickelodeon
+http://185.236.229.62:9981/play/a067
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Nicktoons HD
+http://185.236.229.62:9981/play/a06a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Nowa TV
+http://185.236.229.62:9981/play/a02h
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Paramount Network Polska
+http://185.236.229.62:9981/play/a069
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Planete+ HD
+http://185.236.229.62:9981/play/a052
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polo TV
+http://185.236.229.62:9981/play/a02e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat 2 HD 
+http://185.236.229.62:9981/play/a042
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Cafe HD
+http://185.236.229.62:9981/play/a03z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Comedy Central Extra
+http://185.236.229.62:9981/play/a06c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Doku HD
+http://185.236.229.62:9981/play/a07z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Film HD
+http://185.236.229.62:9981/play/a040
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Games
+http://185.236.229.62:9981/play/a025
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat HD
+http://185.236.229.62:9981/play/a03v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Jim Jam
+http://185.236.229.62:9981/play/a07e
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat News 2
+http://185.236.229.62:9981/play/a03u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat News HD
+http://185.236.229.62:9981/play/a041
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat News Polityka HD
+http://185.236.229.62:9981/play/a07h
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Play HD
+http://185.236.229.62:9981/play/a03w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Rodzina HD
+http://185.236.229.62:9981/play/a079
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Seriale HD
+http://185.236.229.62:9981/play/a07b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Viasat Explore HD
+http://185.236.229.62:9981/play/a07i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Viasat History HD
+http://185.236.229.62:9981/play/a07o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Polsat Viasat Nature HD
+http://185.236.229.62:9981/play/a06g
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Puls 2 HD
+http://185.236.229.62:9981/play/a02y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Red Carpet TV
+http://185.236.229.62:9981/play/a02q
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Romance TV
+http://185.236.229.62:9981/play/a05j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",STARS.TV
+http://185.236.229.62:9981/play/a01x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",SciFi HD
+http://185.236.229.62:9981/play/a03k
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Stopklatka
+http://185.236.229.62:9981/play/a023
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Sundance HD
+http://185.236.229.62:9981/play/a03i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Super Polsat HD
+http://185.236.229.62:9981/play/a043
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TTV HD
+http://185.236.229.62:9981/play/a071
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV Okazje
+http://185.236.229.62:9981/play/a07m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV Okazje
+http://185.236.229.62:9981/play/a07l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV PULS HD
+http://185.236.229.62:9981/play/a034
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV Republika
+http://185.236.229.62:9981/play/a027
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV4 HD
+http://185.236.229.62:9981/play/a03x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TV6 HD
+http://185.236.229.62:9981/play/a03y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVN 24 HD
+http://185.236.229.62:9981/play/a06x
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVN 7 HD
+http://185.236.229.62:9981/play/a06y
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVN Fabula
+http://185.236.229.62:9981/play/a070
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVN HD
+http://185.236.229.62:9981/play/a06u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVN STYLE HD
+http://185.236.229.62:9981/play/a06v
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVN TURBO HD
+http://185.236.229.62:9981/play/a06w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP 1 HD
+http://185.236.229.62:9981/play/a05i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP 2 HD
+http://185.236.229.62:9981/play/a07p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP 3
+http://185.236.229.62:9981/play/a060
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP ABC
+http://185.236.229.62:9981/play/a02z
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP Dokument HD
+http://185.236.229.62:9981/play/a05b
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP HD
+http://185.236.229.62:9981/play/a02i
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP Historia
+http://185.236.229.62:9981/play/a035
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP INFO HD
+http://185.236.229.62:9981/play/a02j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP Kultura HD
+http://185.236.229.62:9981/play/a02t
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP Polonia
+http://185.236.229.62:9981/play/a08m
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP Rozrywka
+http://185.236.229.62:9981/play/a026
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP SERIALE
+http://185.236.229.62:9981/play/a02w
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP Sport HD
+http://185.236.229.62:9981/play/a05l
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVP Sport HD
+http://185.236.229.62:9981/play/a05c
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TVS
+http://185.236.229.62:9981/play/a02p
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",TeenNick
+http://185.236.229.62:9981/play/a055
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Travel Channel HD
+http://185.236.229.62:9981/play/a072
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Vatican Media Europa
+http://185.236.229.62:9981/play/a06o
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",WP
+http://185.236.229.62:9981/play/a02u
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Wydarzenia 24 HD
+http://185.236.229.62:9981/play/a06j
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Zoom TV
+http://185.236.229.62:9981/play/a02a
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",teleTOON+ HD
+http://185.236.229.62:9981/play/a051
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",wPolsce.pl
+http://185.236.229.62:9981/play/a022
+
+#EXTINF:-1 group-title="Campuchia" tvg-id="ApsaraTV11.kh",Apsara TV11 
+https://live.ams.com.kh/app/stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="BayonTV.kh",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="BayonTV.kh",Bayon TV 
+https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="BTVNews.kh",BTV News 
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CTV9.kh",CTV 9
+https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CTV9.kh",CTV 9 (720p)
+https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="FreshNews.kh",Fresh News (720p)
+https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="HangMeasHDTV.kh",Hang Meas HDTV (1080p)
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="iTVHD.kh",iTV HD
+http://43.252.18.195:5080/live/streams/itv.khmeretv.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="KomsanTV.kh",Komsan TV [Not 24/7]
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="MSJTV.kh" http-referrer="https://www.iptvservice.site/",MSJ TV (1080p)
+#EXTVLCOPT:http-referrer=https://www.iptvservice.site/
+https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="MSJTV.kh",MSJ TV (720p)
+http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="",Netlink TV (720p)
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="NTV.kh",NTV
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="PNN.kh",PNN (720p)
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="RasmeyHangMeasHDTV.kh",Rasmey Hang Meas HDTV (720p)
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="SEATV.kh",SEATV (1080p)
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="",SEATV-Radio (720p)
+https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TownTV.kh",Town TV
+https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TownTV.kh",Town TV (720p)
+https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TV3.kh",TV 3
+http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TV3.kh",TV 3 (720p)
+https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia
+http://live.happywatch99.com/livehd14/77bbe9df6a93cf229cd40f1400af00fa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia (1080p)
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TV5Cambodia.kh",TV5 Cambodia (720p)
+https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TVK.kh",TVK (720p)
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="TVK2.kh",TVK 2 (720p)
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="WikiTV.kh",WIKI TV (720p)
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="MyTV.kh",My TV
+http://43.252.18.195:5080/live/streams/mytv.m3u8
+#EXTINF:-1 group-title="Campuchia" tvg-id="CTN.kh",CTN (480p)
+http://43.252.18.195:5080/live/streams/ctntv.m3u8
+
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Mrtvnews.png",MRTV News
+https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV NRC
+https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Sports
+https://lb-as.cdn-perfprod.com/live/mrtvschannel5
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Farmers
+https://lb-as.cdn-perfprod.com/channel_mrtv
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Entertainment
+https://lb-as.cdn-perfprod.com/mrtventertainment
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",MITV
+https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/440px-Myanmar_National_TV_Logo.jpg",MNTV
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4
+https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4 HD
+https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",Channel 5Plus
+https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1709015344NIHZWL.png",Channel 7
+https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/1200px-Channelk.png",Channel K
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://burmese.dvb.no/logo-with-letters.png",DVB (MYANMAR CHAMPIONS LEAGUE)
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg" group-title="Leanbox",MWD Variety
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg" group-title="Leanbox",MWD Family
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg" group-title="Leanbox",MWD Shopping
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg" group-title="Leanbox",MWD Documentary
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD Movies
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD Series
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
+https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv2.png",TV2
+https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV3"  tvg-name="TV3" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv3.png",TV3
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="OKEY" tvg-name="Okey Tv" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/OkeyTv.png",Okey Tv
+https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
+https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
+https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
+https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv9.png",TV9
+https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/BeritaRtm.png",BERITA RTM
+https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="BERITARTM" tvg-name="BERITA RTM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/2880px-RTM_Asean_%282024%29.svg.png",RTM ASEAN
+https://pixman.mytvsuper.com.mp/Smart.php?id=Rtmasean
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TVSUKAN" tvg-name="SUKAN RTM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SukanRtm.png",SUKAN RTM
+https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Astro_Ria_%282024%29.png" group-title="Malaysia và Singapore",Astro Ria
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Astro_AEC_%282024%29.png" group-title="Malaysia và Singapore",Astro AEC
+http://php.jdshipin.com:8880/smt.php?id=AEC
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Astro_WLT.png" group-title="Malaysia và Singapore",Astro Wah Lai Toi
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Astro_QJ_%282024%29.png" group-title="Malaysia và Singapore",Astro QJ
+http://php.jdshipin.com:8880/smt.php?id=Quanjia
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png" group-title="Malaysia và Singapore",Astro Hua Hee Dai
+http://php.jdshipin.com:8880/smt.php?id=Huahee
+#EXTINF:-1 tvg-id="Astro.Sports.UHD.my" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/iqiyi2.png" group-title="Malaysia và Singapore",Astro iQiyi
+http://php.jdshipin.com:8880/smt.php?id=Qiyi
+#EXTINF:2 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channel5hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mediacorp_Channel_5_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel 5 HD
+https://cdn6.163189.xyz/live/ch5/stream.m3u8
+#EXTINF:3 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channel8hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Mediacorp_Channel_8_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel 8 HD
+https://cdn6.163189.xyz/live/ch8/stream.m3u8
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/d/d5/Mediacorp_Channel_U_2023.svg provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Channel U HD
+https://cdn6.163189.xyz/live/chu/stream.m3u8
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/suriahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mediacorp_Suria_2023.svg/250px-Mediacorp_Suria_2023.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Suria
+https://pixman.mytvsuper.com.mp/Smart.php?id=Suria
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/vasanthamhd" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714408%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=1000&Height=260" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Vasantham
+https://pixman.mytvsuper.com.mp/Smart.php?id=Vasantham
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/cnahd" tvg-logo="" provider="DAKLAKIPTV" provider-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/800px-CNA_new_logo.svg.png" provider-type="iptv", CNA (Domestic Feed)
+https://pixman.mytvsuper.com.mp/Smart.php?id=Mewatch_cna
+
+#EXTINF:-1 group-title="Malaysia và Singapore" tvg-id="TVRIWorld.id" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/TVRI-World.svg/1280px-TVRI-World.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RCTI_logo_2015.svg/2560px-RCTI_logo_2015.svg.png provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", RCTI HD
+https://pixman.mytvsuper.com.mp/Smart.php?id=Rcti
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Kompas_TV_%282016%29_logo.svg/2560px-Kompas_TV_%282016%29_logo.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Kompass
+https://pixman.mytvsuper.com.mp/Smart.php?id=Kompass
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Indosiar_2015.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Indosiar
+https://pixman.mytvsuper.com.mp/Smart.php?id=Indosiar
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2880px-Antv_logo.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", ANTV (KHÔNG PHẢI KÊNH CÔNG AN)
+https://pixman.mytvsuper.com.mp/Smart.php?id=Antv
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_Trans7.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Trans7
+https://pixman.mytvsuper.com.mp/Smart.php?id=Trans7_eko
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logo_Trans_TV.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TransTV
+https://pixman.mytvsuper.com.mp/Smart.php?id=Transtv
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/250px-LogoMetroTVsince2010.svg.png" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", Metro TV
+https://pixman.mytvsuper.com.mp/Smart.php?id=metrotv_eko
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/SCTV_Logo.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", SCTV (KHÔNG PHẢI KÊNH HÀI ĐẮK LẮK)
+https://pixman.mytvsuper.com.mp/Smart.php?id=SCTV
+#EXTINF:4 group-title="Malaysia và Singapore" aktv-server-group="AKTV" tvg-id="aktv/channeluhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" provider="DAKLAKIPTV" provider-logo="" provider-type="iptv", TVOne
+https://pixman.mytvsuper.com.mp/Smart.php?id=Tvone
+
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="🇰🇷 Hàn Quốc",KBS 1TV 
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="🇰🇷 Hàn Quốc",KBS 2TV 
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Drama 
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Joy 
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Life 
+http://132.145.84.42:9981/stream/channelid/224331961
+#EXTINF:-1 tvg-id="KBSLiveCamDokDo.kr" tvg-logo="https://i.imgur.com/7mZnPO5.png" group-title="🇰🇷 Hàn Quốc",KBS LiveCam DokDo (540p)
+http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="🇰🇷 Hàn Quốc",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="🇰🇷 Hàn Quốc",MBC 
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png?raw=true" group-title="🇰🇷 Hàn Quốc",SBS
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/512px-EBS_1TV_Logo.svg.png" group-title="🇰🇷 Hàn Quốc",EBS 1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/512px-EBS_2TV_Logo.svg.png" group-title="🇰🇷 Hàn Quốc",EBS 2 (400p)
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-logo="https://i.imgur.com/5wLJzb0.png" group-title="🇰🇷 Hàn Quốc",EBS E 
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-logo="https://i.imgur.com/62oo8Bx.png" group-title="🇰🇷 Hàn Quốc",EBS kids 
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-logo="https://i.imgur.com/aCeuhon.png" group-title="🇰🇷 Hàn Quốc",EBS+ 1 
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="🇰🇷 Hàn Quốc",EBS+ 2 
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="🇰🇷 Hàn Quốc",Yonhap News TV 
+https://ythls.kekikakademi.org/youtube/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
+#EXTINF:-1 tvg-id="YTN2.kr" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="🇰🇷 Hàn Quốc",YTN2 
+https://ythls.kekikakademi.org/youtube/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
+#EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="🇰🇷 Hàn Quốc",YTN
+https://ythls.kekikakademi.org/youtube/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+#EXTINF:-1 tvg-id="YTNDMB.kr" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="🇰🇷 Hàn Quốc",YTN DMB 
+#EXTINF:-1 tvg-id="YTNScience.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="🇰🇷 Hàn Quốc",YTN Science 
+https://ythls.kekikakademi.org/youtube/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/RTHK_TV_31A.svg/revision/latest?cb=20210325175806" group-title="Lastation", RTHK 31
+https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/RTHK_TV_32.svg/revision/latest?cb=20200511233323" group-title="Lastation", RTHK 32
+https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="港台電視 33" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a7/RTHK_TV_33.svg/800px-RTHK_TV_33.svg.png" group-title="Lastation", RTHK 33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="港台電視 34" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f9/RTHK_TV_34.svg/440px-RTHK_TV_34.svg.png" group-title="Lastation", RTHK 34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="港台電視 35" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/85/RTHK_TV_35.svg/1200px-RTHK_TV_35.svg.png" group-title="Lastation", RTHK 35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Lastation", HOY 77
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/72/HOY_78.png/revision/latest/scale-to-width-down/677?cb=20240605025155&path-prefix=vi" group-title="Lastation", HOY 78
+http://108.181.20.197/livehttpplay?channel_id=20191
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Lastation",TVB Jade
+http://p1.cvtv.xyz:81/Jade?token=live
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Lastation",TVB Jade SD
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Lastation",TVB Jade 4K
+http://92.112.21.169:20003/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-id="TVB-Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Lastation",TVB Plus
+http://110.235.82.60:8001/bysid/82
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="Lastation",TVB News
+http://110.235.82.60:8001/bysid/83
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Lastation",TVB Pearl
+http://110.235.82.60:8001/bysid/2
+#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Lastation", Phoenix Hong Kong
+http://110.235.82.60:8001/bysid/85
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Lastation", ViuTV Six
+http://110.235.82.60:8000/bysid/96
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Lastation", ViuTV
+http://110.235.82.60:8000/bysid/99
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/aomen1.png" group-title="Lastation", TDM Ou Mun
+http://60.246.171.122:8891/bysid/91
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/aomen2.png" group-title="Lastation", TDM Canal Macau
+http://60.246.171.122:8891/bysid/92
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/aomen5.png" group-title="Lastation", TDM Informacao
+http://60.246.171.122:8891/bysid/94
+
+#EXTINF:-1 tvg-id="320" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="🇹🇼 Đài Loan",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="320" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="🇹🇼 Đài Loan",TVBS HD
+https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs
+#EXTINF:-1 tvg-id="6060" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="🇹🇼 Đài Loan",TVBS ENTERTAINMENT
+https://pixman.mytvsuper.com.mp/Smart.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-id="6060" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tvbs-logo-42.png/200px-Tvbs-logo-42.png" group-title="🇹🇼 Đài Loan",TVBS NEWS
+https://pixman.mytvsuper.com.mp/Smart.php?id=tvbs_n
+#EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="🇹🇼 Đài Loan",FORMOSA TV
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 tvg-id="6026" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/43/TTV_Home_Channel_with_HD_2016.png" group-title="🇹🇼 Đài Loan",TTV
+http://108.181.20.197/livehttpplay?channel_id=20076
+#EXTINF:-1 tvg-id="6028" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="🇹🇼 Đài Loan",CTV
+http://108.181.20.197/livehttpplay?channel_id=20088
+#EXTINF:-1 tvg-id="6030" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/8a/CTS_Logo.png" group-title="🇹🇼 Đài Loan",CTS
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 tvg-id="6030" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png" group-title="🇹🇼 Đài Loan",PTS
+http://108.181.20.197/livehttpplay?channel_id=20087
+#EXTINF:-1 tvg-id="6030" tvg-logo="https://archive.org/download/20230102_20230102_1627/%E4%B8%AD%E5%A4%A9%E7%B6%9C%E5%90%88%E5%8F%B0.png" group-title="🇹🇼 Đài Loan",CTI Metro
+https://pixman.mytvsuper.com.mp/Smart.php?id=ctizhonghe
+#EXTINF:-1 tvg-id="6030" tvg-logo="https://media.cakeresume.com/image/upload/s--sOVsapEm--/c_pad,fl_png8,h_400,w_400/v1558072605/be4wqirlqy5ifmj7uasd.png" group-title="🇹🇼 Đài Loan",CTI Entertainment
+https://pixman.mytvsuper.com.mp/Smart.php?id=ctient
+#EXTINF:-1 tvg-id="6030" tvg-logo="https://media.cakeresume.com/image/upload/s--sOVsapEm--/c_pad,fl_png8,h_400,w_400/v1558072605/be4wqirlqy5ifmj7uasd.png" group-title="🇹🇼 Đài Loan",CTI News
+https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",TVK Cambodia News Live Event
 https://www.youtube.com/@tvkcambodia/live
@@ -359,7 +1643,7 @@ https://www.youtube.com/channel/UCG3Y40V4X4uSRM_O6w8Taig/live
 https://www.youtube.com/channel/UCvqqck2oSGLBlrXZW2OJfmA/live
 
 #EXTINF:-1  group-title="RADIO",WEST AFRICAN DRUM RADIO
-https://www.youtube.com/channel/UC2N5MlETlnpxW57iWtmvQFg
+https://www.youtube.com/channel/UC2N5MlETlnpxW57iWtmvQFg/live
 #EXTINF:-1 group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
 http://media.kythuatvov.vn:8001
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
@@ -786,7 +2070,7 @@ https://srv01.onlineradio.voaplus.com/kissfm
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-name="Y FM" tvg-logo="http://yfm.lk/wp-content/uploads/2018/04/y1.png" radio="true",Y FM
 http://live.trusl.com:1180/;
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-name="Y FM ENGLISH" tvg-logo="https://yesfmonline.com/images/logos/yes-fm-logo-about.png" radio="true",YES FM
-http://live.trusl.com:1150/listen?sid=1
+http://live.trusl.com:1150/listen.pls?sid=1
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-name="LAKHANDA" tvg-logo="https://yt3.googleusercontent.com/DpfKudlmh614XUdl3Fa2xgmuwPbZAlU7fzCcKWj39D7ZOWWYo1HpavPkL8mJAWcXpHSleu_Z7w=s900-c-k-c0x00ffffff-no-rj" radio="true",ITN Lakhanda FM
 https://cp12.serverse.com/proxy/itnfm?mp=/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzWNcMR.png" group-title="QUỐC TẾ",Pyongyang FM
@@ -804,27 +2088,27 @@ https://radio.bsod.kr/stream/?stn=kbs&ch=1fm
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s50603g.png" group-title="QUỐC TẾ",KBS Cool FM
 https://radio.bsod.kr/stream/?stn=kbs&ch=2fm
 #EXTINF:-1 tvg-logo="https://raw.gitmirror.com/sahyunw/live/main/kbshan.png" group-title="QUỐC TẾ",KBS Hanminjok Radio
-https://radio.bsod.kr/stream/playback?stn=kbs&ch=hanminjok
+https://radio.bsod.kr/stream/playback.pls?stn=kbs&ch=hanminjok
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/SBS_Love_FM.svg/revision/latest/scale-to-width-down/300?cb=20220626055938" group-title="QUỐC TẾ",SBS Love FM
-http://serpent0.duckdns.org:8088/sbs2fm
+http://serpent0.duckdns.org:8088/sbs2fm.pls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SBS_Power_FM.svg/revision/latest/scale-to-width-down/300?cb=20220626055857" group-title="QUỐC TẾ",SBS Power FM
-http://serpent0.duckdns.org:8088/sbsfm
+http://serpent0.duckdns.org:8088/sbsfm.pls
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/MBC_FM4U.jpg/revision/latest?cb=20220823072402" group-title="QUỐC TẾ",MBC FM4U
-http://serpent0.duckdns.org:8088/mbcfm 
+http://serpent0.duckdns.org:8088/mbcfm.pls 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/MBC_Standard_FM.jpg/revision/latest/smart/width/250/height/250?cb=20220823071356" group-title="QUỐC TẾ",MBC Standard FM
-https://radio.bsod.kr/stream/playback?stn=mbc&ch=sfm
+https://radio.bsod.kr/stream/playback.pls?stn=mbc&ch=sfm
 #EXTINF:-1 tvg-logo="https://img.imbc.com/broad/radio/s9_2015_main/quick/__icsFiles/afieldfile/2023/06/16/m_1_1.png" group-title="QUỐC TẾ",MBC Mini FM
-https://radio.bsod.kr/stream/playback?stn=mbc&ch=chm
+https://radio.bsod.kr/stream/playback.pls?stn=mbc&ch=chm
 #EXTINF:-1 tvg-logo="https://img.imbc.com/broad/radio/s9_2015_main/quick/__icsFiles/afieldfile/2023/06/16/m_1_1.png" group-title="QUỐC TẾ",AFN FM Humphreys
-https://radio.bsod.kr/stream/playback?stn=afn&city=humphreys
+https://radio.bsod.kr/stream/playback.pls?stn=afn&city=humphreys
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ",NHK World Radio
 https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/NHK_Radio_1_%282020%29.svg/revision/latest?cb=20210516114917" group-title="QUỐC TẾ",NHK Radio 1
-https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
+https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
 #EXTINF:-1 tvg-logo="http://gg.gg/19dbe9" group-title="QUỐC TẾ",NHK Radio 2
-https://radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8
+https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8
 #EXTINF:-1 tvg-logo="http://gg.gg/19dbed" group-title="QUỐC TẾ",NHK FM
-https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8
+https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s287011g.png" group-title="QUỐC TẾ",American Forces Radio Tokyo
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="QUỐC TẾ",J1 Hits
@@ -850,39 +2134,41 @@ http://kathy.torontocast.com:3340/;
 #EXTINF:-1 tvg-logo="https://asiadreamradio.torontocast.stream/stations/en/images/en/421173E9B37A442498AC9F215CA25971/JazzSakuraLogo2019.jpeg" group-title="QUỐC TẾ",Jazz Sakura
 https://kathy.torontocast.com:3330/;
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CRI China Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Radio_China_International.svg/220px-Radio_China_International.svg.png" group-title="QUỐC TẾ" radio="true",CRI China Plus
-https://sk.cri.cn/am846.m3u8
+http://sk.cri.cn/am846.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR1 NEWS" tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg" group-title="QUỐC TẾ" radio="true",CNR-1 News Radio
-https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR2 BUSINESS" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" group-title="QUỐC TẾ" radio="true",CNR-2 Business Radio
-https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191224/1577155745280.png" radio="true",CNR-3 Music Radio
-https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20200108/1578449381052.png" radio="true",CNR-4 Golden Radio
-https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025614670.jpg" radio="true",CNR-5 Cross-Strait Radio
-https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025635405.jpg" radio="true",CNR-6 Shenzhou Easy Radio
-https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR7" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190830/1567159925260.pngg" group-title="QUỐC TẾ" radio="true",CNR-7 Radio The Greater Bay
-https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/wyzs.png" group-title="QUỐC TẾ",CNR-9 Culture Service
-https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/lnzs.png" group-title="QUỐC TẾ",CNR-10 Elder Radio
-https://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/zgjtgb.jpg" group-title="QUỐC TẾ",CNR-16 Traffic Service
-https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
 #EXTINF:-1 tvg-chno="287" tvg-id="france24eng" tvg-name="CNR14" tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg" group-title="QUỐC TẾ" radio="true",CNR Hong Kong Service
-https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ez.png" group-title="QUỐC TẾ" radio="true",CRI EZFM
-https://sk.cri.cn/915.m3u8
+http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hitfm.png" group-title="QUỐC TẾ" radio="true",CRI Hit FM
-https://satellitepull.cnr.cn/live/live/wxhitfm/playlist.m3u8
+http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hyhq.png" group-title="QUỐC TẾ" radio="true",CRI Chinese Radio
-https://sk.cri.cn/hyhq.m3u8
+http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="QUỐC TẾ" radio="true",CRI News Radio
-https://sk.cri.cn/905.m3u8
+http://sk.cri.cn/905.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/sjhs.png" group-title="QUỐC TẾ" radio="true",CRI Overseas Radio
-https://sk.cri.cn/hxfh.m3u8
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1 1 tvg-chno="287" tvg-id="france24eng" group-title="QUỐC TẾ" tvg-logo="https://trangdichvu.com/wp-content/uploads/2019/10/duong-luoi-bo-la-gi.jpg" radio="true", FCK YOU CHEE-NA
+http://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJJTGB.png" group-title="QUỐC TẾ",BRFM Traffic Service
 http://ls.qingting.fm/live/336.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJXWGB.png" group-title="QUỐC TẾ",BRFM Newsradio
@@ -943,6 +2229,12 @@ https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8
 https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://cdn-radiotime-logos.tunein.com/s14481d.png" group-title="QUỐC TẾ" radio="true",RTHK Radio Putonghua
 http://stm.rthk.hk/radioptha
+#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://stream.881903.com/public/32762540412216622e67186ce344c74a/2019/12/4bd871097d8b07a64e3598963ad8e243.jpg" group-title="QUỐC TẾ" radio="true",Commercial 881
+https://live.881903.com/edge-aac/881hd/chunks.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJiMa6zEfgUTUu6mXCg_2ZwYDK0mnq5e4gxg&s" group-title="QUỐC TẾ" radio="true",Commercial 903
+https://live.881903.com/edge-aac/903hd/chunks.m3u8
+#EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJiMa6zEfgUTUu6mXCg_2ZwYDK0mnq5e4gxg&s" group-title="QUỐC TẾ" radio="true",Commercial 864
+https://live.881903.com/edge-aac/864sd/chunks.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/092/xin-cheng-cai-jing-tai-metro-finance-fm104.68ee386d.jpg" group-title="QUỐC TẾ" radio="true",Metro Finance
 https://1864288729.rsc.cdn77.org/1864288729/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng" tvg-name="RTHK Radio PTH" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/091/xin-cheng-zhi-xun-tai-metroinfo-fm997.91baf2b7.png" group-title="QUỐC TẾ" radio="true",Metro Info
@@ -1096,23 +2388,23 @@ https://radio.lnr.org.la/am
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMg1TmMky1QYSMefsN-c55l4Rc0-Z8npftUw&s" group-title="QUỐC TẾ" radio="true",LAO YOUTH RADIO
 https://radio.laoyouth-radio.com/stream
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand Live Events Network - AM 819
-https://cdn-edge-ott.prd.go.th/radio_edge/1dc8-965b-b634-d85c-42e8.stream_aac/chunklist_w2004308265_tkcHJkZW5kdGltZT0xNzQ0OTQ1OTE4JnByZHN0YXJ0dGltZT0xNzQ0ODU5NDU4JnByZGhhc2g9dEdnSWg4c0JQenFqT19lWWFyWldiUkRKbHkwX3lHSXBLd2xyOWFkY0hTdz0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8212/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand AM Network - AM 891
-https://cdn-edge-ott.prd.go.th/radio_edge/8f7a-f806-aaf3-9e23-7c51.stream_aac/chunklist_w1298918123_tkcHJkZW5kdGltZT0xNzQ0OTQ1OTcxJnByZHN0YXJ0dGltZT0xNzQ0ODU5NTExJnByZGhhc2g9VjVhOVRXV0hhR09aS1dWV0h5cGp4RmVUSUdXWlFQWFR0Ym1CRTE5bW5qTT0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8216/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand Education Network - AM 1467
-https://cdn-edge-ott.prd.go.th/radio_edge/4eb6-f1aa-5f0e-f176-02a4.stream_aac/chunklist_w2007832227_tkcHJkZW5kdGltZT0xNzQ0OTQ2MDA3JnByZHN0YXJ0dGltZT0xNzQ0ODU5NTQ3JnByZGhhc2g9T2pCa2ZORzhLeDFiakRKY1Z5MTNUdGg2dUx2NGZFMXBGWTBfMGc0VURHOD0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8018/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand English Service - FM 88
-https://cdn-edge-ott.prd.go.th/radio_edge/9190-e863-a5b1-f5ca-44f9.stream_aac/chunklist_w1008473810_tkcHJkZW5kdGltZT0xNzQ0OTQ2MDM3JnByZHN0YXJ0dGltZT0xNzQ0ODU5NTc3JnByZGhhc2g9Y2FpS1o3SVpwRHJObTNUWEI2emVoY1NZSkRFR1gxUGt1NUdBRkJ2akhWYz0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8200/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand FM Network - FM 92.5
-https://cdn-edge-ott.prd.go.th/radio_edge/c82e-c7ef-a290-7d29-059a.stream_aac/chunklist_w1178115844_tkcHJkZW5kdGltZT0xNzQ0OTQ2MDY3JnByZHN0YXJ0dGltZT0xNzQ0ODU5NjA3JnByZGhhc2g9MVJHS3UxTmZac2RZWk9jUGRJMnRaMklzd0ltZmN4b0xWWWptZnZ4R3B6WT0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8202/;
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand Top Radio - FM 93.5
-https://cdn-edge-ott.prd.go.th/radio_edge/3c3f-7562-9ccf-14e8-3f2f.stream_aac/chunklist_w1392869053_tkcHJkZW5kdGltZT0xNzQ0OTQ2MDk3JnByZHN0YXJ0dGltZT0xNzQ0ODU5NjM3JnByZGhhc2g9Yk05cy1yOHVOX19tSjMxSDlNTm4tbjdfTkVIOGw1YWxpbU10bEJMRmFvaz0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8204/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand Urban Service - FM 95.5
-https://cdn-edge-ott.prd.go.th/radio_edge/8315-a899-1549-f425-cdc7.stream_aac/chunklist_w1399339247_tkcHJkZW5kdGltZT0xNzQ0OTQ2MTM3JnByZHN0YXJ0dGltZT0xNzQ0ODU5Njc3JnByZGhhc2g9cDBPUnlYN3dodVRiWkZNTGlJTnEyS1JXMmtpQ0tKNG1IWlNEWXN2Tktjdz0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8206/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand Quality Newsradio - FM 97
-https://cdn-edge-ott.prd.go.th/radio_edge/f249-1715-bf4a-713e-8b3b.stream_aac/chunklist_w2113384430_tkcHJkZW5kdGltZT0xNzQ0OTQ2MTY0JnByZHN0YXJ0dGltZT0xNzQ0ODU5NzA0JnByZGhhc2g9UDNwR0ZxWnc1cENRQzdqN3lXVXdVYnhVVlNteG9HbTh1YTZHNDRJMUx2WT0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8208/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Radio Thailand Happy Family Network - FM 105
-https://cdn-edge-ott.prd.go.th/radio_edge/7dd9-bcac-b212-83c5-a2e1.stream_aac/chunklist_w584466732_tkcHJkZW5kdGltZT0xNzQ0OTQ2MTkwJnByZHN0YXJ0dGltZT0xNzQ0ODU5NzMwJnByZGhhc2g9YWhNUjgzM002cEVsTXpReXNGVUJaYkNNUk5yclNjeEp0dTBncm5CeVE4QT0=.m3u8?token=true&aes=true
+http://prdonline.prd.go.th:8210/;stream.mp3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static1.squarespace.com/static/51a013dee4b0a2a2d2ef73e9/t/537cd0dbe4b04d5ad21557e9/1400688860887/?format=1500w" group-title="QUỐC TẾ" radio="true",Royal Thai Army Radio
 http://fm94.tv5.co.th:8000/fm94ch3
 #EXTINF:-1 tvg-chno="291" tvg-id="france24eng"  tvg-logo="https://static.mytuner.mobi/media/tvos_radios/XE76PXWUQ4.png" group-title="QUỐC TẾ" radio="true",TERO Hitz FM
@@ -1140,94 +2432,95 @@ http://50.21.176.38:8010/vayofm
 http://aktv_stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
 
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-http://110.53.52.63:8888/newlive/live/hls/36/live.m3u8
+http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV藏语卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
 https://tv.vtibet.cn/h701F9MpxzPDyE.m3u8?secret=4646fdd23bc712f291978cd1acb6e0a8&time=67f6a94a
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=20220806032832",YNTV云南卫视 (The iDOLM@STER Cinderella Girls / Truyền Hình Vệ Tinh Vân Nam)
-http://39.164.160.249:9901/tsfile/live/0119_1.m3u8
+http://58.57.40.22:9901/tsfile/live/1047_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://dmg.cinderella-sl-stage.idolmaster-official.jp/_nuxt/images/logo_stage-14dc23a.png",东南卫视 / The iDOLM@STER Cinderella Girls Starlight Stage  (DERESUTE-TV/デレステテレビ) - Truyền Hình Đông Nam Phúc Kiến
-http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",福州广播电视台新闻综合频道 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
 http://zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",HEBTV河北卫视 (The iDOLM@STER Million Live & Million Live Theater Days TV2 / Truyền Hình Vệ Tinh Hà Bắc
-http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1044_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải
-http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+http://110.53.52.63:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海安多卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải (Tibetan Language Edition)
 http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/The_iDOLM%40STER_Shiny_Colors_Logo.png/revision/latest?cb=20220806103138",GDTV广东卫视 (The iDOLM@STER Shiny Colors - Truyền Hình Vệ Tinh Quảng Đông)
-http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://cdn.wikiwiki.jp/to/w/songforprism/FrontPage/::attach/songforprism_logo.png?rev=fa0d409d47759fe4fa5cda956d0de9e5&t=20231115193921",三沙卫视 (The iDOLM@STER Shiny Colors Song for Prism - Truyền Hình Tam Sa, tỉnh đảo Hải Nam
-https://ssws.hnntv.cn/ssws_01hnntv.m3u8?_upt=fd86ea751744052144
+http://61.138.128.226:19901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://gakuen.idolmaster-official.jp/assets/img/common/logo_color_w.png",GSTV甘肃卫视 (学園アイドルマスター - Truyền Hình vệ tinh Cam Túc)
-http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://cdn.akamai.steamstatic.com/steam/apps/1046480/capsule_616x353.jpg?t=1703662641",贵州卫视 / The iDOLM@STER PROJECT vα-liv - Truyền Hình Vệ Tinh Quý Châu
 http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Love_Live%21_logo_with_line.svg/640px-Love_Live%21_logo_with_line.svg.png",JLTV吉林卫视 - Truyền Hình Vệ Tinh Cát Lâm / LoveLive School Idol Project
-http://58.57.40.22:9901/tsfile/live/1042_1.m3u8#EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aqours_logo.svg/1200px-Aqours_logo.svg.png",CQTV重庆卫视 (Truyền hình Vệ tinh Trùng Khánh / Aqours)
-http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
+#EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Aqours_logo.svg/1200px-Aqours_logo.svg.png",CQTV重庆卫视 (Truyền hình Vệ tinh Trùng Khánh / Aqours)
+http://58.57.40.22:9901/tsfile/live/0142_1.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://yohane.net/dist/img/common/logo.png?ver=1.63",SXTV山西卫视 (Truyền Hình Vệ Tinh Sơn Tây / Genjitsu no Yohane Channel (幻日のヨハネ)
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",KBTV康巴卫视 / Saint Snow TV1
-http://218.89.240.144:59901/tsfile/1010_1.m3u8
+http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://static.wikia.nocookie.net/love-live/images/4/4e/Saint_Snow_Logo.png/revision/latest/scale-to-width-down/250?cb=20180130134207",HLTV黑龙江卫视 - Truyền Hình Hắc Long Giang / Saint Snow TV3
-http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1040_1.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/NijigakuAnimeAltLogo.svg/800px-NijigakuAnimeAltLogo.svg.png",BTV/BRTV北京卫视 / Nijigasaki Channel (ニジガク) - Truyền Hình Vệ tinh Bắc Kinh
-http://39.164.160.249:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.cn/tv/北京新闻.png" group-title="TRUNG QUỐC",BTV/BRTV北京卫视 / Nijigasaki News Channel (ニジガクニュースチャンネル) - Truyền Hình Tin tức Bắc Kinh
-http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+http://58.57.40.22:9901/tsfile/live/1032_1.m3u8
 #EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nav_abyssmare_on.png",TJTV天津卫视 - Truyền Hình Vệ Tinh Thiên Tân / Abyssmare Channel
-http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1034_1.m3u8
+#EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/nav_abyssmare_on.png".YBTV延边卫视 - Truyền hình vệ tinh Diện Biên, tỉnh Cát Lâm (Photon Maiden)
+http://satellitepull.cnr.cn/live/wxybws/playlist.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://lovelive-sif2.com/wordpress/wp-content/themes/sif2_gl_v1.2/assets/images/common/logo.png",НВК Саха / LLSIF-2 TV
 https://-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="LoveLive"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Liella%21_Official_Logo.svg/1200px-Liella%21_Official_Logo.svg.png",海南卫视 / Liella Channel - Truyền Hình tỉnh Đảo Hải Nam
-http://183.11.239.36:808/hls/124/index.m3u8
+http://58.57.40.22:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",兵团卫视 / Symphogear's S.O.N.G Channel
-https://mobilelive-cnc-cdn.ysp.cctv.cn/ysp/46622EE43205192F81B55D8BE7776CB562511D4C4CE05B355DF46B24B5C3F0D422D69C7444EA6174B36881561DAE877FFE2136020F01F7937210DFF706FF9688017733A0761E62CB195D45B352D66A12C59F7605B5DE658DA741BCD72D599E98D6B780D69EC703E9A2C3F756973F4AD0/2025990501_hd.m3u8?svrtime=1744220802&pid=600193252&m3u8_with_time_tag=2&cdn=5203&revoi=&app_id=519748109&guid=m9a78s3e_8pnjuhwy2o&ysign=4416f8df689795f1b5cfe0a76427c99f&ytime=1744220802&ytype=1
-#EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",CCTV-国家军事频道 / Symphogear's S.O.N.G National Military Channel
-http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-#EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/6/61/Symphogear_GX_key_art.png/revision/latest/scale-to-width-down/300?cb=20150704190700",GXTV广西卫视 / Symphogear GX-TV Channel / Truyền Hình Vệ Tinh Quảng Tây
 http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/3/3e/S.O.N.G._Emblem.png/revision/latest?cb=20191210181156",CCTV-7国家军事频道 / Symphogear's S.O.N.G National Military Channel
+http://58.57.40.22:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/6/61/Symphogear_GX_key_art.png/revision/latest/scale-to-width-down/300?cb=20150704190700",GXTV广西卫视 / Symphogear GX-TV Channel / Truyền Hình Vệ Tinh Quảng Tây
+http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 group-title="Symphogear"tvg-logo="https://static.wikia.nocookie.net/senkizesshousymphogear/images/d/d6/Symphogear_AXZ.jpg/revision/latest/scale-to-width-down/304?cb=20170823181437",NBS南京新闻综合 / Symphogear AXZ-TV Channel (Truyền hình Nam Kinh, tỉnh Giang Tô)
 http://nctv.top/Jhsdat/jstv5.php?id=nj1
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",广东大湾区卫视 / Project Sekai Colorful Stage feat. Hatsune Miku (プロジェクトセカイカラフルステージfeat.初音ミク)
-http://gmxw.7766.org:808/hls/132/index.m3u8
+http://tvbox6.icu/tv/dwqws.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://www.vocaloidnews.net/wp-content/uploads/2016/08/VNNFrench-A2.png",陕西卫视 / Vocaloid News Network - Truyền Hình Vệ Tinh Thểm Tây
-http://39.164.160.249:9901/tsfile/live/0136_1.m3u8
+http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8
 #EXTINF:-1 group-title="HPNM-TV"tvg-logo="https://hypnosismic-anime.com/assets/2nd/img/common/logo.png",HRB-TV 哈尔滨新闻综合频道 / Hypnosis Mic TV (ヒプノシスマイクテレビ / Truyền hình Cáp Nhĩ Tân, tỉnh Hắc Long Giang)
 https://stream.hrbtv.net/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite03/logo.png.webp",SBS苏州新闻综合频道频道 / Project Sekai VBS-TV (Vivid Bad Squad / Truyền hình Tô Châu, tỉnh Giang Tô)
 https://-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://cdn-xtrend.nikkei.com/atcl/contents/18/00640/00005/01.jpg?__scale=w:600,h:337&_sh=0170870d80",深圳卫视 - Truyền Hình vệ tinh Thâm Quyến, tỉnh Quảng Đông / PRSK-TV Domestic Channel
-http://iptv.huuc.edu.cn/hls/szhd.m3u8
+http://110.53.52.63:8888/newlive/live/hls/27/live.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/3rd/assets/images/common/unit/logo_unit-leoneed.png",NMTV内蒙古卫视 (Truyền Hình Vệ Tinh Nội Mông Cổ / LeoNeed)
-http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+http://110.53.52.63:8888/newlive/live/hls/45/live.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://pjsekai.sega.jp/assets/data/webp/character/unite02/logo.png.webp",LNTV辽宁卫视 (More More Jump - Truyền Hình Vệ Tinh Liêu Ninh)
-http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1035_1.m3u8
 #EXTINF:-1 group-title="PJSK-TV"tvg-logo="https://static.wikia.nocookie.net/projectsekai/images/6/63/Wonderlandsxswowtimelogo.png/revision/latest/scale-to-width-down/250?cb=20200214183406",SDTV山东卫视 (Wonderlands x Showtime - Truyền Hình Vệ Tinh Sơn Đông)
-http://39.164.160.249:9901/tsfile/live/0131_1.m3u8
+http://b.tvbox6.icu/tv/sdjy.m3u8
 #EXTINF:-1 group-title="D4DJ-TV"tvg-logo="https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A3%E3%83%83%E3%83%81-10.jpeg",上海东方卫视 (Truyền Hình Vệ Tinh Rồng Thuợng Hải / D4DJ-TV Groovy Mix Channel)
-http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 group-title="Bandori"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/BanG_Dream%21_logo.svg/640px-BanG_Dream%21_logo.svg.png",湖南卫视 (Truyền Hình Hồ Nam / Bang Dream TV)
-http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Tales_of_Arise_Box_Art.jpg",JSTV江苏卫视 (Truyền Hình Vệ Tinh Giang Tô / Tales of Arise Channel)
-http://iptv.huuc.edu.cn/hls/jshd.m3u8
+http://my.tmos.cn:15181/chs003.m3u8
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://img.atwiki.jp/aniwotawiki/attach/18577/5385/8tnu01000001hiqc.jpg",ZJTV浙江卫视 (Truyền Hình Vệ Tinh Chiết Giang / Hyperdimension Neptunia Channel)
-http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
+http://58.57.40.22:9901/tsfile/live/1029_1.m3u8
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://www.tv-tokyo.co.jp/anime/idolypride/images/teaserlogo.png",NXTV宁夏卫视 (Truyền Hình Vệ Tinh Ninh Hạ / Idoly Pride Channel (アイプラチャンネル)
 http://58.57.40.22:9901/tsfile/live/1054_1.m3u8
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://s3-ap-northeast-1.amazonaws.com/bmu-new-corp-production-public/bcb8415e-6741-40a8-9573-01fd8bd8af23.png",HBTV湖北卫视 (Truyền Hình Vệ Tinh Hồ Bắc/ Revue Starlight)
-http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
 #EXTINF:-1 group-title="Hololive"tvg-logo="https://kyodonewsprwire.jp/prwfile/release/M106909/202111304139/_prw_PI3fl_8j7IG60W.png"group-logo="https://images.microcms-assets.io/assets/6368857617454c2591b02acff18e76bb/47cd6bc838a4460cac509335e445271b/cover_logo_0709.png",SCTV四川卫视 (Truyền Hình Vệ tinh Tu Xuyên / Hololive Cover Corp)
-http://iptv.huuc.edu.cn/hls/schd.m3u8
+http://58.57.40.22:9901/tsfile/live/1046_1.m3u8
 #EXTINF:-1 group-title="Nijisanji"group-logo="https://www.siliconera.com/wp-content/uploads/2023/09/nijisanji-sustainability-statement-09052023.png?fit=1200%2C675"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nijisanji_EN_logo.svg/560px-Nijisanji_EN_logo.svg.png?20240308190751",JXTV江西卫视 (Truyền Hình Vệ tinh Giang Tây /Nijisanji Cover Corp)
-http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+http://58.57.40.22:9901/tsfile/live/1043_1.m3u8
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",QNBTV 黔南新闻综合频道频道 / Photon Maiden Channel (フォトンメイデンチャンネル) - Truyền Hình Kiềm Nam, tỉnh Quý Châu
 rtmp://tv.qntv.net/channellive/ch1
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://anime.d4dj-pj.com/wordpress/wp-content/themes/anime-d4dj-pj/assets/images/common/character/logo_photon-maiden.png",QNBTV2 黔南新闻综合频道频道 / Photon Maiden Channel (フォトンメイデンチャンネル) - Truyền Hình Kiềm Nam, tỉnh Quý Châu
 rtmp://tv.qntv.net/channellive/ch12
 #EXTINF:-1 group-title="Idol Game Channel"tvg-logo="https://i.pinimg.com/originals/da/41/41/da4141ebf473bb99b7cced20bfa9fc68.jpg",XMTV厦门卫视 / Uma Musume Pretty Derby Channel (Truyền hình vệ tinh Hạ Môn, tỉnh Phúc Kiến)
-https://live1b.kxm.xmtv.cn/xmtvbf/playlist.m3u8
+https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/198/1631523942979_3Kp24fIif.jpeg"group-title="Idol Radio Channel"radio="true",CNR-1 News Radio (Produced by Radio News Department of The iDOLM@STER)
 https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
