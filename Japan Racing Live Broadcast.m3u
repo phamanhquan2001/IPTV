@@ -1,8 +1,5 @@
 #EXTM3U url-tvg="https://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="JRA - Fukushima Airport ATC Audio" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",RJSF
-https://d.liveatc.net/rjsf
-
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継) (Audio)
@@ -48,17 +45,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-11 (BSイレブン競馬中継)
 https://vthanh.utako.moe/BS11/index.m3u8
 #EXTINF:-1 tvg-id="TVB-Plus" group-title="JRA / Hong Kong Cantonese Commentary Feed" tvg-logo="https://tv.truyenhinh.click/Logo/TVB-Plus/DoiTac-HieuHa",TVB Plus
-http://aktv_stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",28 AI 智慧賽馬
-http://aktv_stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
-#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",MYTV SUPER-18
-http://aktv_stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",翡翠综合台(北美)
-http://aktv_stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",WHR-LIVE
-https://yt-hls-get-v3.x0.to/youtube/?channel=UCSuzEzGo0zIK0wcpr8j46QQ/live
-#EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo=""https://www.nowtv.now.com/media/s-logo/630_e.png",NOW Sports Prime
-https://live.hkdvb.com/hls/live/630.m3u8?token=680446446315708
+https://www.youtube.com/channel/UCSuzEzGo0zIK0wcpr8j46QQ/live
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",HKJC Live Race Radio in Cantonese
 https://hkjclive-hls.akamaized.net/hls/live/2030947/can_hls/master.m3u8
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",HKJC Live Race Radio in Putonghua
