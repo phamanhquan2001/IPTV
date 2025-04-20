@@ -1,8 +1,8 @@
 #EXTM3U
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2
-https://cdn-azd204d.telewebion.com/ek/irinn2/live/576p/index.m3u8
+#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB2
+https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
 https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
