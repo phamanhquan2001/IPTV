@@ -57,14 +57,7 @@ https://www.youtube.com/watch?v=6Va13RpZLCM
 
 #J.League Live
 
-#EXTINF:-1 group-title="J.League Live",Urawa Reds vs Yokohama F Marinos (04/20/25)
-https://www.youtube.com/watch?v=cyAhZE9Nm3g
-#EXTINF:-1 group-title="J.League Live",Vissel Kobe vs Machida Zelvia (04/20/25)
-https://www.youtube.com/watch?v=k_j48bqv0eU
-#EXTINF:-1 group-title="J.League Live",Shimizu S-Pulse vs Avispa Fukuoka (04/20/25)
-https://www.youtube.com/watch?v=wTJndWRN8Tg
-#EXTINF:-1 group-title="J.League Live",Cerezo Osaka vs FC Tokyo (04/20/25)
-https://www.youtube.com/watch?v=pPa0fYVG0Q0
+#EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
@@ -87,8 +80,8 @@ https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/ind
 https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",Blue Archive Special Program for Japanese Server: 04/20/25 at 17:00 Hanoi Time / 16:00 Thimphu Time / 19:00 Tokyo Time
-https://www.youtube.com/watch?v=EqzwtrED0Rs
+#EXTINF:-1 group-title="Special Program",Arknights Lumen Plays EP12
+https://www.youtube.com/watch?v=9hKt-36A_f8
 
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
