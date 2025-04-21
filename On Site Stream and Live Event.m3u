@@ -26,37 +26,14 @@ https://tvpass.org/CSPAN2/sd
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
 https://www.youtube.com/watch?v=a0rvnPdip0w
-
-
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Nomination Day for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=Zh05umyFPA4
-
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
 
 #EXTINF:-1 group-title="Live Event",
 
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Main Stage Sector
-https://www.youtube.com/watch?v=LnAUFR5jyis
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Outdoor Theatre Sector
-https://www.youtube.com/watch?v=zzuTOidZOSE
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Sahara Sector
-https://www.youtube.com/watch?v=67f9t5bPyQY
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Mojave Sector
-https://www.youtube.com/watch?v=VKm3QlEdvoo
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Gobi Sector
-https://www.youtube.com/watch?v=ROT0X0BNy6s
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Yuma Sector
-https://www.youtube.com/watch?v=BZ6dMieEE94
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Qasar Sector (Saturday)
-https://www.youtube.com/watch?v=8Bkjm-wbMdg
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Qasar Sector (Sunday)
-https://www.youtube.com/watch?v=BHTC79fZ_8w
-#EXTINF:-1 group-title="Coachella 2025 2nd Weekend Live Presented by the Star of Lyra" tvg-logo="https://byvn.net/95kx",Qasar Sector (Monday)
-https://www.youtube.com/watch?v=6Va13RpZLCM
-
 #J.League Live
-
 #EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
@@ -65,15 +42,15 @@ https://www.youtube.com/watch?v=6Va13RpZLCM
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+https://xem.TruyenHinh.Click/CoBan/htv9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (YouTube Feed)
 https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (TV Feed)
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+https://xem.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="TpHCM1" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Vòng Xoay Điện Biên Phủ - Tp.HCM
 https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 #EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quận 2 - Tp.HCM
