@@ -15,7 +15,7 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3
 #EXTINF:-1 group-title="Market Open and Close",CNBC-AWAAZ
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="Market Open and Close",CNBC-BAJAR
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Bajar_NW18_MOB/output01/index.m3u8
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="Market Open and Close",Bloomberg QuickTake
 https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Market Open and Close",Bloomberg Asia Luve Event
@@ -30,6 +30,8 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 http://p1.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 group-title="Market Open and Close",FOX BUSINESS CHANNEL
 https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
+#EXTINF:-1 group-title="Market Open and Close",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_4.m3u8
 
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Al_Jazeera.svg/1200px-Al_Jazeera.svg.png",Al Jazeera English
 http://p1.cvtv.xyz:81/aj?token=live
