@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvOL70mH31XprwaoKqLHWhsLJD1oz7kkaQQ&s" radio="true",VOH FM 99.9Mhz
-https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Logo_VOH_FM_95%2C6_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest?cb=20230728073622&path-prefix=vi" radio="true",VOH FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/aJA9Yyb.png" radio="true",VOH AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio.vovFM999" group-title="🇻🇳 Vietnam Radio" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/Radio.vovFM999/Radio",VOH FM 99.9Mhz
+https://xem.TruyenHinh.Click/RadioVN/Radio.vovFM999/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="Radio.vovFM956" group-title="🇻🇳 Vietnam Radio" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/Radio.vovFM956/Radio",VOH FM 95.6Mhz
+https://xem.TruyenHinh.Click/RadioVN/Radio.vovFM956/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="Radio.vovAM610" group-title="🇻🇳 Vietnam Radio" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/Radio.vovAM610/Radio",VOH AM 610Khz
+https://xem.TruyenHinh.Click/RadioVN/Radio.vovAM610/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 roup-title="VIỆT NAM" tvg-logo="https://i.imgur.com/64ZucRJ.png",VOV MINORITIES SERVICE MEKONG
-http://media.kythuatvov.vn:8031
+https://xem.TruyenHinh.Click/RadioVN/Radio.vov4DBSCL/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="xshn.vn",Xổ số Hôm Nay
 https://www.youtube.com/channel/UC8Bfy0Ol7v-VF4lCE7rxuuQ/live
@@ -21,14 +21,18 @@ https://xem.TruyenHinh.Click/CoBan/vtv6hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",THĐT1 - Truyền Hình Đồng Tháp
 https://xem.TruyenHinh.Click/CoBan/143/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://i.imgur.com/TqAz7ET.png" group-title="🇻🇳| Địa phương",THĐT-RADIO - Truyền Hình Đồng Tháp
+https://xem.TruyenHinh.Click/RadioVN/Radio.DongThap/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg",CTV - Truyền Hình Cà Mau
 https://xem.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="🇻🇳 Vietnam Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg",CTV-RADIO - Truyền Hình Cà Mau
+https://xem.TruyenHinh.Click/RadioVN/Radio.CaMau/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="baclieu" tvg-logo="https://i.imgur.com/v6BIJKP.png" group-title="🇻🇳| Địa phương",BLTV - Truyền Hình Bạc Liêu
 https://xem.TruyenHinh.Click/CoBan/127/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
 https://www.youtube.com/channel/UCZ-Cm2q99E7vCysmu46MKMA/live
-#EXTINF:-1 tvg-id="cantho" tvg-logo="https://i.imgur.com/cl45VzX.png" group-title="🇻🇳| Địa phương",THTPCT - Truyền hình TP. Cần Thơ
-https://xem.TruyenHinh.Click/CoBan/135/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="cantho" tvg-logo="https://i.imgur.com/cl45VzX.png" group-title="🇻🇳| Địa phương",THTPCT-RADIO - Truyền hình TP. Cần Thơ
+https://xem.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Địa phương",STV1 - Truyền Hình Sóc Trăng
 https://xem.TruyenHinh.Click/CoBan/172/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="angiang" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",ATV1 - Truyền Hình An Giang
@@ -49,6 +53,8 @@ https://xem.TruyenHinh.Click/CoBan/178/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/155/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="kiengiang" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",KG1 - Truyền Hình Kiên Giang
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="kiengiang" tvg-logo="https://i.imgur.com/Gzrdm7o.png" group-title="🇻🇳| Địa phương",KG-RADIO - Truyền Hình Kiên Giang
+https://xem.TruyenHinh.Click/RadioVN/Radio.KienGiang/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",QRT - Truyền Hình Quảng Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="danang" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Đà Nẵng (Youtube Feed)
@@ -90,7 +96,7 @@ https://xem.TruyenHinh.Click/RadioVN/Radio.LongAn/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/164.png" radio="true", PTP RADIO PHU YEN
 https://xem.TruyenHinh.Click/RadioVN/Radio.PhuYen/TuyetDoiKhongKinhDoanh.m3u8  
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="http://thst.vn/Content/images/fm.png" radio="true", STV FM SOC TRANG
-http://42.1.64.42/MBF3929
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamf.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://w.ladicdn.com/s450x400/5ec394fc3354ff26568e1124/logo-fm1031mhz-20211008162127.png" radio="true", TTV11 RADIO
 https://xem.TruyenHinh.Click/RadioVN/Radio.TayNinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="http://www.thtg.vn/wp-content/themes/thtg/images/FM96_2.jpg" radio="true", TIEN GIANG
