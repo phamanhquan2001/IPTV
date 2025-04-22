@@ -32,11 +32,13 @@ https://www.youtube.com/watch?v=Zh05umyFPA4
 https://www.youtube.com/watch?v=q0o6T2KjRwE
 
 #EXTINF:-1 group-title="Live Event",
+#EXTINF:-1 group-title="IEM Counter-Strike Live",IEM Melbourne 2025 Live Camera
+https://www.youtube.com/watch?v=l_8DrACHpwY
+#EXTINF:-1 group-title="IEM Counter-Strike Live",IEM Melbourne 2025 Airport ATC Live
+https://d.liveatc.net/ymml3
+#EXTINF:-1 group-title="IEM Counter-Strike Live",Day 3 Live of Melbourne 2025 Live - Feed A 
 
-#EXTINF:-1 group-title="IEM Counter-Strike Live",Day 1 Live of Melbourne 2025 Live - Feed A 
-https://www.youtube.com/watch?v=HGNdQtkyTzs
-#EXTINF:-1 group-title="IEM Counter-Strike Live",Day 1 Live of Melbourne 2025 Live - Feed B
-https://www.youtube.com/watch?v=QNmo4epKS-E
+#EXTINF:-1 group-title="IEM Counter-Strike Live",Day 3 Live of Melbourne 2025 Live - Feed B
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Judicial Affairs
 
