@@ -32,8 +32,6 @@ https://www.youtube.com/watch?v=Zh05umyFPA4
 https://www.youtube.com/watch?v=q0o6T2KjRwE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Hanoi (Vietnam): Dazzling fireworks display
 https://www.youtube.com/watch?v=JvO8ywUSAhY
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",HCMX (Vietnam): The Reunification Day Rehearsal - Day 2
-https://www.youtube.com/watch?v=nX5O31zPj-c
 
 #EXTINF:-1 group-title="Live Event",
 
@@ -49,16 +47,10 @@ https://www.youtube.com/watch?v=QNmo4epKS-E
 #EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Bangkok (Thailand): Live reports by Leva for the 81st ESCAP Commission - Afternoon Session Day 2 Live
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_zbflbeo1/tl/main/st/0/t/5mmK7Oel39hsgKotQiWD0g/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3piZmxiZW8xL3RsL21haW4vc3QvMC90LzVtbUs3T2VsMzloc2dLb3RRaVdEMGcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTM5NzMwNH19fV19&Signature=m5ZTSFRcPVLsOqA6HXCrKzKtIQcHG-Ilv~5zEO7oOKpXKXb6LZ-6FO6BkS5lQ8--1ugeerpu-SDfiknxW6sOCXcDceqR015oAa7w2cFsciwqIOEgKE5Xa4nQqTRHMSIUmstAvmXgwsPakUQ72GG6XqiaX0kbUmn77jU6fWaRWFF8tSGavmIgzM8fHBCrAm~mdT9-SBFPFukfMcuELixipI-3KVJkKOG7Hcmc4KG0HIH-J7V9UAb~7cm-SoXFjolmmqMnxJjvtzG8vrG306W~ldN46E3QBxMP5Tj0nH11rZMd3NQYo1ihSQdhwO36iesSpf1VKjcyNd4vYDATlwVfrQ__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Bangkok (Thailand): Live reports by Leva for the 81st ESCAP Commission - Afternoon Session Day 2 Live (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_zbflbeo1/tl/main/st/0/t/5mmK7Oel39hsgKotQiWD0g/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3piZmxiZW8xL3RsL21haW4vc3QvMC90LzVtbUs3T2VsMzloc2dLb3RRaVdEMGcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTM5NzMwNH19fV19&Signature=m5ZTSFRcPVLsOqA6HXCrKzKtIQcHG-Ilv~5zEO7oOKpXKXb6LZ-6FO6BkS5lQ8--1ugeerpu-SDfiknxW6sOCXcDceqR015oAa7w2cFsciwqIOEgKE5Xa4nQqTRHMSIUmstAvmXgwsPakUQ72GG6XqiaX0kbUmn77jU6fWaRWFF8tSGavmIgzM8fHBCrAm~mdT9-SBFPFukfMcuELixipI-3KVJkKOG7Hcmc4KG0HIH-J7V9UAb~7cm-SoXFjolmmqMnxJjvtzG8vrG306W~ldN46E3QBxMP5Tj0nH11rZMd3NQYo1ihSQdhwO36iesSpf1VKjcyNd4vYDATlwVfrQ__&Key-Pair-Id=K31ANTJBLNVBEC
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
 
 #Heaven Burns Red Philippines Report Live
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",The Nora Aunor State Funeral
-https://www.youtube.com/watch?v=IDd3q80y1gM
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",Diocese of Caloocan holds mass in honor of Pope Francis
-https://www.youtube.com/watch?v=hdyqPDZRWms
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
