@@ -30,8 +30,6 @@ https://www.youtube.com/watch?v=a0rvnPdip0w
 https://www.youtube.com/watch?v=Zh05umyFPA4
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Vientiane (Laos): A grand gathering is currently underway to celebrate the 70th anniversary of the founding of the Lao People's Revolutionary Youth Union
-https://www.youtube.com/watch?v=BPbZdiQmjVU
 
 #EXTINF:-1 group-title="Live Event",
 
@@ -46,6 +44,11 @@ https://hlslive.shugiintv.go.jp/room12/amlst:room12/playlist.m3u8?DVR
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
 
+#Heaven Burns Red Philippines Report Live
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",The Nora Aunor State Funeral
+https://www.youtube.com/watch?v=IDd3q80y1gM
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",Diocese of Caloocan holds mass in honor of Pope Francis
+https://www.youtube.com/watch?v=hdyqPDZRWms
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
