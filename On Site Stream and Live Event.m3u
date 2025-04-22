@@ -24,12 +24,22 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from St. Peter Square in Vatican following Pope Francis death
+https://www.youtube.com/watch?v=_i8hcIpV4sQ
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
 https://www.youtube.com/watch?v=a0rvnPdip0w
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Zenless Zone Zero: Nomination Day for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=Zh05umyFPA4
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Lawyers for Kilmar Abrego Garcia holds news conference
+https://www.youtube.com/watch?v=k399xjvS8wo
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): US State Department Briefing
+https://www.youtube.com/watch?v=cVJwTptIJAQ
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",House of Commons (UK): British equalities minister address to Parliament after Supreme Court ruling on gender
+https://www.youtube.com/watch?v=4XS1NDzdhdw
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA): New York Archbishop Timothy Dolan hold mass for Pope Francis
+https://www.youtube.com/watch?v=gPZ17vYk0Jk
 
 #EXTINF:-1 group-title="Live Event",
 #EXTINF:-1 group-title="IEM Counter-Strike Live",IEM Melbourne 2025 Live Camera
