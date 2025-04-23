@@ -39,7 +39,10 @@ https://d.liveatc.net/ymml3
 #EXTINF:-1 group-title="IEM Counter-Strike Live",Day 4 Live of Melbourne 2025 Live - Feed B
 
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Internal Affairs and Connections
+https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Consumer Affairs
+https://hlslive.shugiintv.go.jp/room12/amlst:room12/playlist.m3u8?DVR
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
