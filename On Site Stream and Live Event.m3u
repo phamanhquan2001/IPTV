@@ -24,14 +24,12 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from St. Peter Square in Vatican following Pope Francis death
-https://www.youtube.com/watch?v=_i8hcIpV4sQ
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
 https://www.youtube.com/watch?v=a0rvnPdip0w
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Ramallah (State of Palestine): The president Mahmoud Abbas is leading the Palestinian Meeting and currently delivers the key speech
-https://www.youtube.com/watch?v=afsB08lV9Kg
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",House of Commons (UK): British Prime Minister Keith Stamer is taking question
+https://www.youtube.com/watch?v=t3OoomaxXFY
 
 #EXTINF:-1 group-title="Live Event",
 #EXTINF:-1 group-title="IEM Counter-Strike Live",IEM Melbourne 2025 Live Camera
