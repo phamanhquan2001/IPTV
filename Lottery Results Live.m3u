@@ -60,10 +60,11 @@ https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 https://www.youtube.com/channel/UCncIan-xLq8WE3Jn8tSIDPQ/live
 #EXTINF:-1 tvg-id="ninhthuan" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Ninh Thuận
 https://www.youtube.com/channel/UCksLkdTeS3lrr2oMQmxqmLQ/live
-#EXTINF:-1 tvg-id="sctv2hd" group-title="Miền Bắc / Vietlott" tvg-logo="https://cdn.hqth.me/logo/thumbs/64.png",SCTV2 HD - TodayTV
-https://xem.TruyenHinh.Click/CoBan/sctv2hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab4hd" group-title="Miền Bắc / Vietlott" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/vtvcab4hd/KenhCoBan",VTVCab4 – On Movies
-https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="SCTV2" group-title="Miền Bắc / Vietlott" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/2_fd5dc799.jpg",SCTV2 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
+https://sctv.locket.website/sctvonline.m3u8?protected=g3G1HM2s6VAksansdOmEvbMyay3vTdMzOLsNUFBa2ZlOo1oWdaB5MLsEdCt2GYX4d2e0nOPlhCeN52tYr7Hppw%3D%3D&channel=sctv2
+#EXTINF:-1 tvg-id="ON Movies" group-title="Miền Bắc / Vietlott" group-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/onmovies1_1675158864.webp",ON Movies 
+https://sctv.locket.website/box.m3u8?protected=huUpslAE7eGLDsdLKuxI0otgpdERnLiFj7CyFMWOSkM%2BD909JbY09KixO%2F%2Frv%2BaEGuyq3bxElJ%2BawoJJULUVuQ%3D%3D&channel=onmovie
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png" radio="true", BA RIA VUNG TAU
 https://xem.TruyenHinh.Click/RadioVN/Radio.BRVT/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png" radio="true", BAC LIEU
