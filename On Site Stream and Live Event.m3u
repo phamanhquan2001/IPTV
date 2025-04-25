@@ -40,7 +40,16 @@ https://d.liveatc.net/ymml3
 #EXTINF:-1 group-title="IEM Counter-Strike Live",
 
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
+https://hls.shugiin.go.jp/room01/amlst:room01/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Judicial Affairs
+https://hls.shugiintv.go.jp/room14/amlst:room14/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Education, Culture, Sports, Science and Technology
+https://hls.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health, Labour and Welfare
+https://hls.shugiintv.go.jp/room16/amlst:room16/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Environment
+https://hls.shugiintv.go.jp/room17/amlst:room17/playlist.m3u8?DVR
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",Kashima Antlers vs Nagoya Grampus Eight (04/25/25)
@@ -69,6 +78,12 @@ https://coca.dl.dropboxusercontent.com/s/6hvzywgjc1qkc8osjg884/%20%09%09%09%09%0
 https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 #EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quận 2 - Tp.HCM
 https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_720p/index.m3u8
+#EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",LoveLive Project Radio
+https://kathy.torontocast.com:2600/stream
+#EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",AniLeap Radio from Kings Amusement Creative Label
+https://www.youtube.com/@KAC_official/live
+#EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Jpop Music Radio from Avex
+https://www.youtube.com/@avexofficial/live
 
 #Special Program
 #EXTINF:-1 group-title="Special Program",Arknights Lumen Plays EP12
