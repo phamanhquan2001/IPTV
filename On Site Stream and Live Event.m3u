@@ -28,8 +28,6 @@ https://tvpass.org/CSPAN2/sd
 https://www.youtube.com/watch?v=a0rvnPdip0w
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",TP HCM: Sơ duyệt diễu binh diễu hành nhân kỷ niệm 50 năm giải phóng Miền Nam Thống Nhất Đất Nước
-https://www.youtube.com/watch?v=7brUwpLmcr0
 
 #EXTINF:-1 group-title="Live Event",
 #EXTINF:-1 group-title="IEM Counter-Strike Live",IEM Melbourne 2025 Live Camera
@@ -39,20 +37,10 @@ https://d.liveatc.net/ymml3
 #EXTINF:-1 group-title="IEM Counter-Strike Live",
 
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
-https://hls.shugiin.go.jp/room01/amlst:room01/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Judicial Affairs
-https://hls.shugiintv.go.jp/room14/amlst:room14/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Education, Culture, Sports, Science and Technology
-https://hls.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health, Labour and Welfare
-https://hls.shugiintv.go.jp/room16/amlst:room16/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Environment
-https://hls.shugiintv.go.jp/room17/amlst:room17/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
 
 #J.League Live
-#EXTINF:-1 group-title="J.League Live",Kashima Antlers vs Nagoya Grampus Eight (04/25/25)
-https://www.youtube.com/watchmv=HKKKpQDO80k
+#EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
@@ -62,17 +50,15 @@ https://www.youtube.com/watchmv=HKKKpQDO80k
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-http://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
-https://coca.dl.dropboxusercontent.com/s/m7i7p1ag60gbojb/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?htv9%20%09%09%09%09%09%09%09%09%09%09%20%09%09%09%09%09%09%09%09%09%09%09%09%09%20
+https://xem.TruyenHinh.Click/CoBan/htv9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (YouTube Feed)
 https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (TV Feed)
-https://coca.dl.dropboxusercontent.com/s/6hvzywgjc1qkc8osjg884/%20%09%09%09%09%09%09%09%09%09%09%09%09%09%09%20%E3%85%A4?.thethao%20%09%09%09%09%09%09%09%09%09%09%09%20&rlkey=2idwtfxilqm6r4ysa59d0i0bx
+https://xem.TruyenHinh.Click/CoBan/htvthethaohd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="TpHCM1" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Vòng Xoay Điện Biên Phủ - Tp.HCM
 https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 #EXTINF:-1 tvg-id="TpHCM2" group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Quận 2 - Tp.HCM
