@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="News Rewatch from broadcaster around the world",SBS WorldWatch (Australia)
+http://1.156.19.136:9981/stream/channelid/48231792?profile=pass
 
 #EXTINF:-1 group-title="Market Open and Close",CNBC (Europe/World)
 http://p1.cvtv.xyz:81/cnbc?token=live
