@@ -24,20 +24,16 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live by Hollow Special Operation Section 6 and New Eridu Public Security Joint Reporter Team: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
 https://www.youtube.com/watch?v=a0rvnPdip0w
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",2025年JRAブリーズアップセール中継
 https://www.youtube.com/watch?v=dRMhI65KiP8
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live by Hollow Special Operation Section 6 and New Eridy Public Security Joint Reporter Team: Buổi sơ duyệt diễu binh diễu hành Đại nhạc hội Live StarRail 2025 của nhà Honkai Star Rail nhân kỷ niệm 50 năm ngày giải phóng Miền Nam Thống Nhất Đất Nước
-https://www.youtube.com/watch?v=-VHGnUzXR2o
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Road to General Election 2025 in Singapore - Jalan Besar GRC: The People's Action Party (PAP) rallying at a promenade area outside UOB Plaza
+https://www.youtube.com/watch?v=6SSWou8whzQ
+
 #EXTINF:-1 group-title="Live Event",
-#EXTINF:-1 group-title="IEM Counter-Strike Live",IEM Melbourne 2025 Live Camera
-https://www.youtube.com/watch?v=l_8DrACHpwY
-#EXTINF:-1 group-title="IEM Counter-Strike Live",IEM Melbourne 2025 Airport ATC Live
-https://d.liveatc.net/ymml3
-#EXTINF:-1 group-title="IEM Counter-Strike Live",
 
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
