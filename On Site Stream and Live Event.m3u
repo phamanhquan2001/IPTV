@@ -45,7 +45,8 @@ https://www.youtube.com/watch?v=6SSWou8whzQ
 #EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
 
 #Heaven Burns Red Philippines Report Live
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live", Philippines Coast Guard hold press briefing
+https://www.youtube.com/watch?v=84N7yp6sUSc
 
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
