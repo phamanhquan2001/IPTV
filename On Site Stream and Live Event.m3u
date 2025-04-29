@@ -26,14 +26,8 @@ https://tvpass.org/CSPAN2/sd
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live by Hollow Special Operation Section 6 and New Eridu Public Security Joint Reporter Team: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
 https://www.youtube.com/watch?v=a0rvnPdip0w
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live by Hollow Special Operation Section 6 and New Eridu Public Security Joint Reporter Team: Pháo hoa nhân kỷ niệm 50 năm Giải phóng Miền Nam
-https://www.youtube.com/watch?v=fjXRt3GEYv0
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live by Hollow Special Operation Section 6 and New Eridu Public Security Joint Reporter Team: Không khí tại TP HCM trước thềm lễ diễu binh diễu hành Đại nhạc hội Live Star Rail 2025 của nhà Honkai Star Rail nhân kỷ niệm 50 năm ngày giải phóng Miền Nam Thống Nhất Đất Nước
-https://www.youtube.com/watch?v=MZJKg0M8MX4
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH", Washington DC (USA): White House Press Briefing
-https://www.youtube.com/live/H_Q7QqoBqc0?si=UuwfCzFnxib4Gh2N
 #EXTINF:-1 group-title="Live Event",
 
 
@@ -51,6 +45,12 @@ https://www.youtube.com/live/H_Q7QqoBqc0?si=UuwfCzFnxib4Gh2N
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://xem.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration},Feed #2: Bach Dang Whard - Bronya Rand and Belobog's army cannon firing
+https://events.vtvdigital.vn/livestream/thethao-360p.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration},Feed #3: Intersection between Nam Ky Khoi Nghia and Nguyen Dinh Chieu
+https://events.vtvdigital.vn/livestream/money-360p.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration},Feed #4: Intersection between Nam Ky Khoi Nghia and Le Loi
+https://events.vtvdigital.vn/livestream/khoplenh-360p.m3u8
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (YouTube Feed)
 https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (TV Feed)
