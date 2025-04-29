@@ -39,11 +39,15 @@ https://www.youtube.com/watch?v=wPpN-1g0fbE
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
 
 #J.League Live
-#EXTINF:-1 group-title="J.League Live",
+#EXTINF:-1 group-title="J.League Live",Cerezo Osaka vs Machida Zelvia (04/29/25)
+https://www.youtube.com/watch?v=keyvww-CQhY
+#EXTINF:-1 group-title="J.League Live",FC Tokyo vs Shimizu S Pulse (04/29/25)
+https://www.youtube.com/watch?v=VGmv-NWriSA
+#EXTINF:-1 group-title="J.League Live",Gamba Osaka vs Kyoto Sanga FC (04/29/25)
+https://www.youtube.com/watch?v=uQo4MqoNb7g
 
 #Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live", International Court of Justice - The hearing is now underway over Israeli occupation of Palestinian territories
-https://www.youtube.com/watch?v=284ZsLFbymo
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
 
 #Heaven Burns Red Philippines Report Live
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
@@ -51,10 +55,6 @@ https://www.youtube.com/watch?v=284ZsLFbymo
 #Sports Live
 #EXTINF:-1 tvg-id="vtv1hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://xem.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
-https://xem.TruyenHinh.Click/CoBan/vtv9hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="Trực tiếp diễu binh 50 năm GPMN" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 HD
-https://xem.TruyenHinh.Click/CoBan/htv9hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (YouTube Feed)
 https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Trực tiếp Cúp Truyền Hình HTV 2025 - The iDOLM@STER 20th Anniversary" tvg-logo="https://byvn.net/5PeA",HTVTT (TV Feed)
