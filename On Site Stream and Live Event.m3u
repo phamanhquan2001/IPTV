@@ -24,10 +24,13 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live by Hollow Special Operation Section 6 and New Eridu Public Security Joint Reporter Team: Sự kiện đặc biệt trực tiếp Đại nhạc hội diễu binh diễu hành Star Rail Live 2025 kỷ niệm 50 năm Giải phóng Miền Nam
-https://www.youtube.com/watch?v=a0rvnPdip0w
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",News Special Event Live from Honkai Star Rail: Polling Day and Results for 2025 General Election in Singapore (CNA)
 https://www.youtube.com/watch?v=q0o6T2KjRwE
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel) - Israel holds the Memorial Day amid war in Gaza
+https://www.youtube.com/watch?v=L8D1i-XJ9tM
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel) - Israel holds the Memorial Day at Nova site
+https://www.youtube.com/watch?v=NkTM3Kuq-RQ
+
 #EXTINF:-1 group-title="Live Event",
 
 
@@ -37,7 +40,8 @@ https://www.youtube.com/watch?v=q0o6T2KjRwE
 #EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live", International Court of Justice - The hearing trial is now underway on Israel's aid obligation on Gaza and West Bank
+https://www.youtube.com/watch?v=DZYq9xB3SCQ
 
 #Heaven Burns Red Philippines Report Live
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
