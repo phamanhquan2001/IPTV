@@ -2334,14 +2334,14 @@ https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-logo="https://i.imgur.com/pllIMGi.png" group-title="🇰🇷 Hàn Quốc",EBS+ 2 
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="YonhapNewsTV.kr" tvg-logo="https://i.imgur.com/3aLkU2I.png" group-title="🇰🇷 Hàn Quốc",Yonhap News TV 
-https://ythls.kekikakademi.org/youtube/channel/UCTHCOPwqNfZ0uiKOvFyhGwg.m3u8
+https://www.youtube.com/channel/UCTHCOPwqNfZ0uiKOvFyhGwg/live
 #EXTINF:-1 tvg-id="YTN2.kr" tvg-logo="https://i.imgur.com/g6Nhwmb.png" group-title="🇰🇷 Hàn Quốc",YTN2 
-https://ythls.kekikakademi.org/youtube/channel/UCDww6ExpwQS0TzmREIOo40Q.m3u8
+https://www.youtube.com/channel/UCDww6ExpwQS0TzmREIOo40Q/live
 #EXTINF:-1 tvg-id="YTN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png" group-title="🇰🇷 Hàn Quốc",YTN
-https://ythls.kekikakademi.org/youtube/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+https://www.youtube.com/channel/UChlgI3UHCOnwUGzWzbJ3H5w/live
 #EXTINF:-1 tvg-id="YTNDMB.kr" tvg-logo="https://i.imgur.com/50VQSBk.png" group-title="🇰🇷 Hàn Quốc",YTN DMB 
 #EXTINF:-1 tvg-id="YTNScience.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png/512px-YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="🇰🇷 Hàn Quốc",YTN Science 
-https://ythls.kekikakademi.org/youtube/channel/UCZdBJIbJz0P9xyFipgOj1fA.m3u8
+https://www.youtube.com/channel/UCZdBJIbJz0P9xyFipgOj1fA/live
 
 #EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/RTHK_TV_31A.svg/revision/latest?cb=20210325175806" group-title="Lastation", RTHK 31
 https://cdn5.163189.xyz/live/rthk31/stream.m3u8
@@ -2409,13 +2409,16 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",TVK Cambodia News Live Event
 https://www.youtube.com/@tvkcambodia/live
-
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",NEXTSPORTS Live Event
 https://www.youtube.com/@nextsports/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",ON Bóng Rổ Live Event
 https://www.youtube.com/@onbongro/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",CAF Africa Football Live
-https://www.youtube.com/@CAF_TV
+https://www.youtube.com/@CAF_TV/live
+#EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",CONCACAF Football Live
+https://www.youtube.com/@concacaf/live
+#EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",CONMEBOL Football Live
+https://www.youtube.com/@conmebol/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Weathernews Live (ウェザーニュース) / VIVA TVOne
 https://www.youtube.com/channel/UCNsidkYpIAQ4QaufptQBPHQ/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Live from Bhutan National Assembly by Missilis Industry Meeting Committee
@@ -2552,7 +2555,7 @@ https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
 https://www.youtube.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (KR)
 https://www.youtube.com/channel/UCw1DsweY9b2AKGjV4kGJP1A/live
-#EXTINF:-1 group-title="League of Legends Live",LCK Challengers Live
+#EXTINF:-1 group-title="League of Legends Live",LCK Challengers Live (KR)
 https://www.youtube.com/@LCKCL/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (Tiếng Việt)
 https://www.youtube.com/channel/UCm0P5i4TNItvgmPCZCGSyYA/live
@@ -2570,6 +2573,8 @@ https://www.youtube.com/@LEC/live
 https://www.youtube.com/channel/UCYfC038eP_cm9WNo5Cv-tBg/live
 #EXTINF:-1 group-title="eSports Live",ESL Counter Strike Live
 https://www.youtube.com/channel/UCPq2ETz4aAGo2Z-8JisDPIA/live
+#EXTINF:-1 group-title="eSports Live",BLAST Premier Live
+https://www.youtube.com/@BLASTPremier/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://images.emojiterra.com/twitter/v13.1/512px/1f1fa-1f1f3.png",United Nations Live
 https://www.youtube.com/channel/UC5O114-PQNYkurlTg6hekZw/live
 #EXTINF:-1 group-title="Youtube Live",WCS Nagoya Live
