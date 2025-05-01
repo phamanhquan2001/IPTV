@@ -28,8 +28,6 @@ https://tvpass.org/CSPAN2/sd
 https://www.youtube.com/watch?v=q0o6T2KjRwE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Astronaut steps out for ISS Spacewalks
 https://www.youtube.com/watch?v=MgZpWGy6Tc4
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",La Habana (Cuba): May Day Rallies
-https://www.youtube.com/watch?v=0UP8YGNpnZk
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Madrid (Spain): May Day Rallies
 https://www.youtube.com/watch?v=CWNWUv0amcY
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Paris (France): May Day Rallies
@@ -38,28 +36,6 @@ https://www.youtube.com/watch?v=dPLRXLAPt5c
 https://www.youtube.com/watch?v=KyGhNRg-T30
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): White House Press Briefing
 https://www.youtube.com/watch?v=VzzXlkliH-w
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: Red Dot United rally for Nee Soon GRC at the field along Yishun Central
-https://www.youtube.com/watch?v=8SIlb5fDikU
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: People's Action Party rally for Punggol GRC at Yusof Ishak Secondary School
-https://www.youtube.com/watch?v=8f5Ozm9alWA
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: People's Action Party rally for Sengkang GRC at North Vista Secondary School
-https://www.youtube.com/watch?v=H1a8ImFQhHg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: Progress Singapore Party rally for Pioneer SMC at Jurong West Stadium
-https://www.youtube.com/watch?v=JlYLoUyp34A
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: People's Power Party rally for Tampines GRC at field beside Concourse Bus Interchange
-https://www.youtube.com/watch?v=P9aY6p2_EN0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: Workers' Party rally for Hougang SMC at Anderson Serangoon Junior College
-https://www.youtube.com/watch?v=TMAvoNZ7lIc
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: Singapore Democratic Party rally for Sembawang SMC at Evergreen Primary School
-https://www.youtube.com/watch?v=ZCACdedXcYs
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: People's Action Party rally for Potong Pasir SMC at St. Andrew's Junior College
-https://www.youtube.com/watch?v=esuV69F7y1I
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: Independent candidate rally for Mountbatten SMC at Home of Athletics
-https://www.youtube.com/watch?v=iNxAfvR5vEk
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: People's Action Party rally for Aljunied GRC at Serangoon Stadium
-https://www.youtube.com/watch?v=sii-Lvi8PFM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Two days to go! Road to General Election in Singapore: People's Action Party rally for Tampines GRC at Temasek Junior College
-https://www.youtube.com/watch?v=tFDpp2p7jmk
 
 
 #EXTINF:-1 group-title="Live Event",Honkai Star Rail Live 2025: 50th of the Reunifcation! The Cosmos Resonates You! - Live broadcast from Shanghai
@@ -71,8 +47,8 @@ https://www.youtube.com/watch?v=sn2-kzNlS5E
 #EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
-
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",International Court of Justice - The trial hearing is now underway over Israeli's aid obligation in Gaza and West Bank
+https://www.youtube.com/watch?v=Y-2Ij0y6_-M
 #Heaven Burns Red Philippines Report Live
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
 
