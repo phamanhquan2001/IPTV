@@ -24,8 +24,10 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://tvpass.org/CSPAN2/sd
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",
-
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view of a chimney from Sistine Chapel ahead of May 7th Conclave Special Event
+https://www.youtube.com/watch?v=LoIsS1kkV4Q
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Israel-Gaza border after the Houthis from Yêmen launched the ballistic missiles attack onto Ben Gurion Intl Airport, promopting strong reponse from PM Netanyahu
+https://www.youtube.com/watch?v=V6VSO8qcJpc
 
 #EXTINF:-1 group-title="Live Event",
 
