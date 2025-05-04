@@ -76,14 +76,6 @@ https://aegis-cloudfront-1.tubi.video/fdd93041-1042-41bf-9200-8f9efe38ace5/playl
 https://www.youtube.com/channe/UCUeiz4v2oAxzTTZZfjzbv-A/live
 #EXTINF:-1 group-title="FORMULA 1 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
 https://p1.cvtv.xyz/f1?token=live
-#EXTINF:-1 group-title="FORMULA 1 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",FUJITV-NEXT
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
-#EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="gtasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
-#EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="spotv1" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/spotv.png",SPOTV1
-https://p1.cvtv.xyz/spo1?token=live
-#EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="spotv2" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/spotv2.png",SPOTV2
-https://p1.cvtv.xyz/spo2?token=live
 #EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
 https://p1.cvtv.xyz/mix?token=live
 #EXTINF:-1 group-title="KSA" tvg-id="TokyoMX2.jp" tvg-logo="https://pbs.twimg.com/profile_images/1830441873934290944/P4K8Sa9T_400x400.jpg",JCSA Live: Natlan's Horseracing Carnival Live
@@ -136,6 +128,8 @@ https://www.youtube.com/channel/UCAVR6Q0YgYa8xwz8rdg9Mrg/live
 https://www.youtube.com/channel/UCKIdwu806-KocBJufLAeArA/live
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="Special Program",NAR Hoyofair Live
 https://www.youtube.com/channel/UCb7ve-ncnLh41F4sYpFTcXA/live
+#EXTINF:-1 group-title="NAR / Terrestrial" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO-MX2 (TCK東京シティ競馬中継)
+http://luong.utako.moe/mx2test/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1366654752948297728/igIhYuCt_400x400.png" group-title="NAR",Hokkaido / Obihiro (北海道/帯広競馬場「ばんえい十勝」・CyGames プリンセスコネクトREDIVE杯)
 https://www.youtube.com/channel/UCyjlxPcoYAbpwlr5wjUA_5g/live
 https://media.tencam.cyl.nhk.jp/703/live_stream.m3u8
