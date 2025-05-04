@@ -29,7 +29,13 @@ https://tvpass.org/CSPAN2/sd
 
 #EXTINF:-1 group-title="Live Event",
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
+
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Land, Infrastructure, Transport and Tourism
+
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Foreign Affairs
+
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health, Labour and Welfare
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
