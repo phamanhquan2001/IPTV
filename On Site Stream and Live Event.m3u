@@ -20,9 +20,9 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+https://v17.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=RdqifU0xtKVWBHb1olSFJw&expires=1746577672&user_id=cTBQS2RaazVwZVZYd0RNMWE2aXdMVUlOSEtxV0pVQ1FWaGR1UHQ1Zg==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://tvpass.org/CSPAN2/sd
+https://v17.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=XrhCXuPtmqD10k4C_Z5BGQ&expires=1746577733&user_id=cTBQS2RaazVwZVZYd0RNMWE2aXdMVUlOSEtxV0pVQ1FWaGR1UHQ1Zg==
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view of a chimney from Sistine Chapel ahead of May 7th Conclave Special Event
 https://www.youtube.com/watch?v=LoIsS1kkV4Q
