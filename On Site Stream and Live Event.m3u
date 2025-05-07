@@ -24,10 +24,20 @@ https://v17.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=RdqifU0xtKVWBHb1ol
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://v17.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=XrhCXuPtmqD10k4C_Z5BGQ&expires=1746577733&user_id=cTBQS2RaazVwZVZYd0RNMWE2aXdMVUlOSEtxV0pVQ1FWaGR1UHQ1Zg==
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view of a chimney from Sistine Chapel ahead of May 7th Conclave Special Event
-https://www.youtube.com/watch?v=LoIsS1kkV4Q
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Israel-Gaza border after the Houthis from Yêmen launched the ballistic missiles attack onto Ben Gurion Intl Airport, promopting strong reponse from PM Netanyahu
-https://www.youtube.com/watch?v=V6VSO8qcJpc
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Vatican: Holy mass for the election of Papal conclave
+https://www.youtube.com/watch?v=ryYMZd3ZalI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from St. Peter Square as the Conclave begin today
+https://www.youtube.com/watch?v=ICxu-SQ15Q4
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",The Truth Tellers Summit
+https://www.youtube.com/watch?v=CpSqxQFY0o8
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Jury selection continues for the trial of P Diddy who is being acussed of sex trafficking
+https://www.youtube.com/watch?v=q0T_KeXyRfo
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Warsaw (Poland): EU foreign minister meeets for the informal meeting
+https://www.youtube.com/live/ZJP4n1mx_1w
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Vatican: Cardinals are set to voting for the new pope since Pope Francis died almost a month ago
+https://www.youtube.com/watch?v=vDsoWMOFafk
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH", Karachi (Pakistan): Live camera from Islamabad following India Operation Sindoor early this morning which prompted strong retaliatory strike from Pakistan
+https://www.youtube.com/watch?v=ubvSg31mAPM
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
