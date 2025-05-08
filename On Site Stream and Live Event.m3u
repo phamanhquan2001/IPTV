@@ -58,13 +58,11 @@ https://www.youtube.com/@USHouseClerk/live
 
 #EXTINF:-1 group-title="Live Event",
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Agriculture Forestry and Fisheries
-https://hlslive.shugiintv.go.jp/room17/amlst:room17/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Internal Affairs and Communications
 https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Commission on the Constitution
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Plenary sitting
+https://hlslive.shugiintv.go.jp/room00/amlst:room00/playlist.m3u8?DVR
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
