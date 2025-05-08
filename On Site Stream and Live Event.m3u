@@ -20,10 +20,9 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
-https://v17.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=RdqifU0xtKVWBHb1olSFJw&expires=1746577672&user_id=cTBQS2RaazVwZVZYd0RNMWE2aXdMVUlOSEtxV0pVQ1FWaGR1UHQ1Zg==
+https://v18.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=Kyvo3j4k-5TUvS2BpkkJIw&expires=1746691667&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://v17.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=XrhCXuPtmqD10k4C_Z5BGQ&expires=1746577733&user_id=cTBQS2RaazVwZVZYd0RNMWE2aXdMVUlOSEtxV0pVQ1FWaGR1UHQ1Zg==
-
+https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=As3pp4xvbL2cBMo8unn4zQ&expires=1746691734&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from India and Pakistan amid tension heating up
 https://www.youtube.com/watch?v=TbysOI7CsnE
@@ -357,8 +356,6 @@ https://www.youtube.com/watch?v=XoS2wFkKNrc
 https://www.youtube.com/channel/UCF5GcyFOwtMGiuNWioA9fOQ/live
 
 #Live Cam
-#EXTINF:-1  group-title="Yashio",Live Camera from Yashio City as they are trying to reach the driver trapped in the sinkhole
-https://www.youtube.com/watch?v=9SkXLPqjY70
 #EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
 https://www.youtube.com/watch?v=TZ2gfqEDtDA
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
