@@ -25,7 +25,11 @@ https://v18.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=Kyvo3j4k-5TUvS2Bpk
 https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=As3pp4xvbL2cBMo8unn4zQ&expires=1746691734&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from India and Pakistan amid tension heating up
-https://www.youtube.com/watch?v=TbysOI7CsnE
+https://www.youtube.com/watch?v=x6W1IrTNdI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
+https://www.youtube.com/watch?v=5sPAdFF62qI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
+https://www.youtube.com/watch?v=A5CeF2H23ds
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
