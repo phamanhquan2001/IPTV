@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Market Open and Close",CNBC (US)
+https://v14.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=b2u1ee4VnbsyWKHbIZbX1w&expires=1746690669&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
 #EXTINF:-1 group-title="Market Open and Close",CNBC (Europe/World)
 http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Indonesia
@@ -6,7 +8,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Africa
-
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
 #EXTINF:-1 group-title="Market Open and Close",CNBC-TV18
 https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="Market Open and Close",CNBC-AWAAZ
