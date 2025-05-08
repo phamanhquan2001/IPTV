@@ -61,7 +61,16 @@ https://www.youtube.com/@parliament_kbr/live
 #EXTINF:-1 group-title="Parliament Live",US House Clerk
 https://www.youtube.com/@USHouseClerk/live
 
-#EXTINF:-1 group-title="Live Event",
+#EXTINF:-1 group-title="Live Event",Live Camera from Bishkek (Kyrgyzstan) during 80th Anniversary of Victory Day Parade
+https://cam.kt.kg/cam17/stream.m3u8
+#EXTINF:-1 group-title="Live Event",Live Camera from Bishkek Ala-Too (Kyrgyzstan) during 80th Anniversary of Victory Day Parade
+https://cam.kt.kg/cam19/stream.m3u8
+#EXTINF:-1 group-title="Live Event",Live Camera from Bishkek Panorama (Kyrgyzstan) during 80th Anniversary of Victory Day Parade
+https://cam.kt.kg/cam16/stream.m3u8
+#EXTINF:-1 group-title="Live Event",Live Camera from Saint Petersburg (Russia) during 80th Anniversary of Victory Day Parade
+https://www.youtube.com/watch?v=VhGdKCs5KIA
+#EXTINF:-1 group-title="Live Event",Live Camera from Saint Petersburg' Winter Palace (Russia) during 80th Anniversary of Victory Day Parade
+https://www.youtube.com/watch?v=kjem5-kanuc
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Internal Affairs and Communications
 https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
@@ -510,3 +519,6 @@ https://www.youtube.com/watch?v=H7SvvCDNb_s
 https://www.youtube.com/watch?v=Jm8wRjD3xVA
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",McGregor Live Cam
 https://www.youtube.com/watch?v=cOmmvhDQ2HM
+
+#EXTINF:-1 group-title="Video Game Live Camera",Live Camera from Shanghai
+https://hd-auth.skylinewebcams.com/live.m3u8?a=dtcqfg290mhuqllc29p2dro160
