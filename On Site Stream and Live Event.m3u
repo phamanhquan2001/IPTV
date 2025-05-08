@@ -24,20 +24,7 @@ https://v17.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=RdqifU0xtKVWBHb1ol
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://v17.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=XrhCXuPtmqD10k4C_Z5BGQ&expires=1746577733&user_id=cTBQS2RaazVwZVZYd0RNMWE2aXdMVUlOSEtxV0pVQ1FWaGR1UHQ1Zg==
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Vatican: Holy mass for the election of Papal conclave
-https://www.youtube.com/watch?v=ryYMZd3ZalI
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from St. Peter Square as the Conclave begin today
-https://www.youtube.com/watch?v=ICxu-SQ15Q4
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",The Truth Tellers Summit
-https://www.youtube.com/watch?v=CpSqxQFY0o8
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Jury selection continues for the trial of P Diddy who is being acussed of sex trafficking
-https://www.youtube.com/watch?v=q0T_KeXyRfo
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Warsaw (Poland): EU foreign minister meeets for the informal meeting
-https://www.youtube.com/live/ZJP4n1mx_1w
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Vatican: Cardinals are set to voting for the new pope since Pope Francis died almost a month ago
-https://www.youtube.com/watch?v=vDsoWMOFafk
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Karachi (Pakistan): Live camera from Islamabad following India Operation Sindoor early this morning which prompted strong retaliatory strike from Pakistan
-https://www.youtube.com/watch?v=ubvSg31mAPM
+
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from India and Pakistan amid tension heating up
 https://www.youtube.com/watch?v=TbysOI7CsnE
 
@@ -68,13 +55,13 @@ https://www.youtube.com/@USHouseClerk/live
 
 #EXTINF:-1 group-title="Live Event",
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
-https://hlslive.shugiintv.go.jp/room01/amlst:room01/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Land, Infrastructure, Transport and Tourism
-https://hlslive.shugiintv.go.jp/room18/amlst:room18/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Foreign Affairs
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Agriculture Forestry and Fisheries
+https://hlslive.shugiintv.go.jp/room17/amlst:room17/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Internal Affairs and Communications
+https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Commission on the Constitution
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health, Labour and Welfare
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Plenary sitting
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
@@ -86,7 +73,7 @@ https://hlslive.shugiintv.go.jp/room18/amlst:room18/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
 
 #Sports Live
-#EXTINF:-1 group-title="Sports Live",AFC Women's Futsal Asian Cup Qualifiers Live
+#EXTINF:-1 group-title="Sports Live",AFC Women's Futsal Asian Cup Live
 https://youtube.com/@AFCAsianCup/live
 
 #Special Program
