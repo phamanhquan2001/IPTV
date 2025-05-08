@@ -2413,14 +2413,14 @@ https://radio.bsod.kr/stream/playback.pls?stn=mbc&ch=sfm
 https://radio.bsod.kr/stream/playback.pls?stn=mbc&ch=chm
 #EXTINF:-1 tvg-logo="https://img.imbc.com/broad/radio/s9_2015_main/quick/__icsFiles/afieldfile/2023/06/16/m_1_1.png" group-title="QUỐC TẾ" radio=true,AFN FM Humphreys
 https://radio.bsod.kr/stream/playback.pls?stn=afn&city=humphreys
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ" radio=true,NHK World Radio
-https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/NHK_Radio_1_%282020%29.svg/revision/latest?cb=20210516114917" group-title="QUỐC TẾ" radio=true,NHK Radio 1
-https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/19dbe9" group-title="QUỐC TẾ" radio=true,NHK Radio 2
-https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/19dbed" group-title="QUỐC TẾ" radio=true,NHK FM
-https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ" radio=true,NHKWorld-Radio (Multi-Language)
+https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ" radio=true,NHKWorld-Japan Radio
+https://nhkworld-radio.akamaized.net/hls/live/2115821/nhkworld-radio-rs4/index_rs4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/NHK_Radio_1_%282020%29.svg/revision/latest?cb=20210516114917" group-title="QUỐC TẾ" radio=true,NHK RADIO-1
+https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/19dbe9" group-title="QUỐC TẾ" radio=true,NHK-FM
+https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s287011g.png" group-title="QUỐC TẾ" radio=true,American Forces Radio Tokyo
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="QUỐC TẾ" radio=true,J1 Hits
