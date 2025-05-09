@@ -72,11 +72,21 @@ https://www.youtube.com/watch?v=VhGdKCs5KIA
 #EXTINF:-1 group-title="Live Event",Live Camera from Saint Petersburg' Winter Palace (Russia) during 80th Anniversary of Victory Day Parade
 https://www.youtube.com/watch?v=kjem5-kanuc
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Internal Affairs and Communications
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
+https://hlslive.shugiintv.go.jp/room01/amlst:room01/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Foreign Affairs
+https://hlslive.shugiintv.go.jp/room11/amlst:room11/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Financial Affairs
 https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
-
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Plenary sitting
-https://hlslive.shugiintv.go.jp/room00/amlst:room00/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Education Culture Sports Science and Technology
+https://hlslive.shugiintv.go.jp/room17/amlst:room17/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health Labour and Welfare
+https://hlslive.shugiintv.go.jp/room16/amlst:room16/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Economy Trade and Industry
+https://hlslive.shugiintv.go.jp/room12/amlst:room12/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Land Infrastructure Transport and Tourism
+https://hlslive.shugiintv.go.jp/room12/amlst:room12/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Reconstruction after Great East Japan Earthquake and Disaster Management
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
