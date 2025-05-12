@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=fAYU2TQSank
 https://www.youtube.com/watch?v=h1tMaVpSHbQ
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=Ur4QPVDGUFs
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel): Live Camera as Hamas released the Israeli-American hostage Edan Alexander
+https://www.youtube.com/watch?v=cimVxVM-qY8
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Manhattan (USA): Live from outside Lower Manhattan Court as trial is expected to underway today involving Sean Combs (P Diddy) sex trafficking
+https://www.youtube.com/watch?v=Xd1HPb6cl_Q
 
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
@@ -63,10 +67,15 @@ https://www.youtube.com/@USHouseClerk/live
 #EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Human Rights Treaty Bodies - 2877th Session 99th Meeting of Comittee of Rights of the Children
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_8yizkmmq/tl/main/st/0/t/RP0wJUmazF_WOvWqUzZBig/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzh5aXprbW1xL3RsL21haW4vc3QvMC90L1JQMHdKVW1hekZfV092V3FVelpCaWcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzEzMDAyM319fV19&Signature=MCbW8Z-gN1sTnK4De51R6OafP4xVMq3nX2-SxJfZV8r8IEpHpo7JxG6SKBglm8LYMIZDz3jK3vvXzPq6u5X3tF7QXu7vGZbClQDFjhgFQIt6QHWUO~3Gful00OYvlt4M0jrvLbk2pRh2OE8ECRhNK4RSrl8d1Zl~k~dFwGuyKIaSA8wtm~~uGzPuovvZyUw3z6BZYg9ghsO1jwoHLPd1VHxXKEBU6O--BqeSyLqf3wvdXAeXFKEaWQ~G6yIh6HNR9Bcr159QYMKxwC5RaulgQKoX03phx6Muo8Gvzh1KY~A8sSt9xX8wOrTKISzI09SAuQtbLJGt9FVkvwJwkX9r-g__&Key-Pair-Id=K31ANTJBLNVBEC
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Human Rights Treaty Bodies - 2877th Session 99th Meeting of Comittee of Rights of the Children (English Audio Feed)
+https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_8yizkmmq/tl/main/st/0/t/RP0wJUmazF_WOvWqUzZBig/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xXzh5aXprbW1xL3RsL21haW4vc3QvMC90L1JQMHdKVW1hekZfV092V3FVelpCaWcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzEzMDAyM319fV19&Signature=MCbW8Z-gN1sTnK4De51R6OafP4xVMq3nX2-SxJfZV8r8IEpHpo7JxG6SKBglm8LYMIZDz3jK3vvXzPq6u5X3tF7QXu7vGZbClQDFjhgFQIt6QHWUO~3Gful00OYvlt4M0jrvLbk2pRh2OE8ECRhNK4RSrl8d1Zl~k~dFwGuyKIaSA8wtm~~uGzPuovvZyUw3z6BZYg9ghsO1jwoHLPd1VHxXKEBU6O--BqeSyLqf3wvdXAeXFKEaWQ~G6yIh6HNR9Bcr159QYMKxwC5RaulgQKoX03phx6Muo8Gvzh1KY~A8sSt9xX8wOrTKISzI09SAuQtbLJGt9FVkvwJwkX9r-g__&Key-Pair-Id=K31ANTJBLNVBEC
+
 
 #Heaven Burns Red Philippines Report Live
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",2025 Philippines Election Special Live (ABS-CBN)
+https://www.youtube.com/watch?v=nhsW4jHDLiE
 
 #Sports Live
 #EXTINF:-1 group-title="Sports Live",AFC Women's Futsal Asian Cup Live
