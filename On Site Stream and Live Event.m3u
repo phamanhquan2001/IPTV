@@ -25,19 +25,11 @@ https://v18.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=Kyvo3j4k-5TUvS2Bpk
 https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=As3pp4xvbL2cBMo8unn4zQ&expires=1746691734&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from India and Pakistan amid tension heating up
-https://www.youtube.com/watch?v=MT3yNr19vFE
+https://www.youtube.com/watch?v=wh2d_vMr6nA
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
-https://www.youtube.com/watch?v=bRGqh9IfIgk
+https://www.youtube.com/watch?v=oi7-WZ1u3t4
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=d7nwJ4qQOKY
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel): Live Camera as Hamas is expected to release the Israeli-American hostage Edan Alexander which i belived that it's their attempts to paving the way for the ceasefire talks
-https://www.youtube.com/watch?v=aqPeVAsN1wg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",House of Commons (UK): The country's Home Secretary is speaking as he's is publishing the Immigration White Paper
-https://www.youtube.com/watch?v=sI06V8xaO2Y
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): The first White South African has finally arrived in US under President Trump's refugee plan
-https://www.youtube.com/watch?v=c2Gd1bHY29Q
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Manhattan City NYC (USA): Live camera from outside the court as opening statements is currently underway for the trials involving the sex trafficking case of Sean Combs (aka P Diddy)
-https://www.youtube.com/watch?v=Xd1HPb6cl_Q
+https://www.youtube.com/watch?v=SvOD0KrdLVc
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -74,8 +66,17 @@ https://www.youtube.com/@houseofassemblyvideolab9303/live
 #EXTINF:-1 group-title="Parliament Live",Korea National Assembly Live
 https://www.youtube.com/@NATV_korea/live
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health Labour and Welfare
+https://hlslive.shugiintv.go.jp/room16/amlst:room16/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Agriculture Forestry and Fisheries
+https://hlslive.shugiintv.go.jp/room17/amlst:room17/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Environment
+https://hlslive.shugiintv.go.jp/room13/amlst:room13/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Reconstruction after Great East Japan Earthquake and Disaster Management
+https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Plenary Sitting Sessions
 
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Political Reform
 
 #EXTINF:-1 group-title="Live Event",Samsung Galaxy S25 Livestream Showcase
 https://www.youtube.com/watch?v=3Ky8XiNDM14
@@ -88,15 +89,14 @@ https://www.youtube.com/watch?v=3Ky8XiNDM14
 
 
 #Heaven Burns Red Philippines Report Live
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",2025 Philippines Election Special Live (ABS-CBN)
-https://www.youtube.com/watch?v=nhsW4jHDLiE
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
 
 #Sports Live
 #EXTINF:-1 group-title="Sports Live",AFC Women's Futsal Asian Cup Live
 https://youtube.com/@AFCAsianCup/live
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",Bluer 
+#EXTINF:-1 group-title="Special Program",Blue Archive EN CM Arcie Livestream Show No.23
 https://www.youtube.com/watch?v=vNxK2OEvHJY
 
 
