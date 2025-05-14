@@ -58,18 +58,10 @@ https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing3.ae",Dubai Racing 3 (1080p)
 https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkyRacing1.au",Sky Racing 1 (720p) [Geo-blocked]
-https://skylivetab-new.akamaized.net/hls/live/2038780/sky1/index.m3u8
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkyRacing2.au",Sky Racing 2 (720p) [Geo-blocked]
-https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkyThoroughbredCentral.au",Sky Thoroughbred Central (720p) [Geo-blocked]
-https://skylivetab-new.akamaized.net/hls/live/2038782/stcsd/index.m3u8
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="SkySportsRacing.uk",Sky Sports Racing
-https://epg.pw/stream/2264f0d700519959c7acd3241bcc47df55ec5e6e0c2ef1885e3b645a9eca421f.ctv
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Racing TV UK
-https://stream1.freetv.fun/f37cbc5ea71b0fed3159c26d623830a7bc7a3e2b18966cffb49a85e91d9b03e8.ctv
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Racing.com TV
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Équidia Racing Trot TV (France) (Genshin Impact Fontaine Live)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",FanduelTV Extra Live
 https://aegis-cloudfront-1.tubi.video/fdd93041-1042-41bf-9200-8f9efe38ace5/playlist.m3u8
 #EXTINF:-1 group-title="Auction Sell Live" tvg-id="JBIS", JBIS Live
