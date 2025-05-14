@@ -20,9 +20,9 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
-https://v18.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=Kyvo3j4k-5TUvS2BpkkJIw&expires=1746691667&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
+https://v14.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=X0ZCQS6iiKVfk3i7AoaVYg&expires=1747259113&user_id=Z2ZNUnU5ZkxmM0ZTck96T1dtVlFYRGtlb1FjeEJUVnBjTlMyM3VNTQ==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=As3pp4xvbL2cBMo8unn4zQ&expires=1746691734&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
+https://v3.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=mrhT7Gj5QBmpJKPMEM7NiQ&expires=1747259189&user_id=Z2ZNUnU5ZkxmM0ZTck96T1dtVlFYRGtlb1FjeEJUVnBjTlMyM3VNTQ==
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from India and Pakistan amid tension heating up
 https://www.youtube.com/watch?v=wh2d_vMr6nA
@@ -30,14 +30,8 @@ https://www.youtube.com/watch?v=wh2d_vMr6nA
 https://www.youtube.com/watch?v=oi7-WZ1u3t4
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=SvOD0KrdLVc
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Doha (Qatar): US President Donald Trump is visiting and arrives
-https://www.youtube.com/watch?v=_oixvC_KKMo
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",US Naval Academy plebs in the annual grease climb match
-https://www.youtube.com/watch?v=EAV4AxTdWmg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA): Live Camera outside Lower Manhattan Court as the hip hop mogul Sean Combs (P Diddy) sex trafficking trials is n
-https://www.youtube.com/watch?v=-h10ADCjBtw
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Hanoi (Vietnam): People visiting the Quan Su Pagoda to witnessing the Buddha's relics from India
-https://www.youtube.com/watch?v=UMM6W0C6aXU
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): The Transport Ministry is testifying on department's budget
+https://www.youtube.com/watch?v=xq4pWd48_j4
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
