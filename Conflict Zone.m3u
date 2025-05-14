@@ -710,6 +710,8 @@ https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA/live
 https://www.youtube.com/channel/UC28hcmMG3TJv60Byo528VVg/live
 #EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Tuoi Tre News Live Event
 https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
+#EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Univision Noticias
+https://www.youtube.com/@univisionnoticias/live
 
 #EXTINF:-1 tvg-id="TV3" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
