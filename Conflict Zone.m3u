@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Market Open and Close",CNBC (US)
-https://v14.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=b2u1ee4VnbsyWKHbIZbX1w&expires=1746690669&user_id=aWlORlc2MHRGY3lSZTRKakVZMFMxZXplNXNrVFpaVmV2bnk1cG12Vw==
+https://v5.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=BKRwry3sx5CSlEh3qa4dTw&expires=1747320209&user_id=ZzFNZ3V4cHF1aWxqQ0Vrd0ZJelBIYmxsUm02M1VwaDFLb2laOGFJWg==
 #EXTINF:-1 group-title="Market Open and Close",CNBC (Europe/World)
 http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Indonesia
@@ -28,7 +28,7 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 #EXTINF:-1 group-title="Market Open and Close",Bloomberg
 http://p1.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 group-title="Market Open and Close",FOX BUSINESS CHANNEL
-https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
+https://v12.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8?token=a2Tb3tvKBeymxwb5CaA2_Q&expires=1747320302&user_id=ZzFNZ3V4cHF1aWxqQ0Vrd0ZJelBIYmxsUm02M1VwaDFLb2laOGFJWg==
 #EXTINF:-1 group-title="Market Open and Close",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
 #EXTINF:-1 group-title="Market Open and Close",Yahoo Finance
@@ -60,6 +60,8 @@ http://p1.cvtv.xyz:81/nhkw?token=live
 http://p1.cvtv.xyz:81/trtw?token=live
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW English
 http://p1.cvtv.xyz:81/dw?token=live
+#EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",FOX NEWS US
+https://v17.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8?token=yTqp7NACrKHuItjlL2aoQQ&expires=1747320351&user_id=ZzFNZ3V4cHF1aWxqQ0Vrd0ZJelBIYmxsUm02M1VwaDFLb2laOGFJWg==
 
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSArabic.il",I24 News Arabic 
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
