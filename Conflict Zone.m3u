@@ -1213,17 +1213,19 @@ https://strm.voh.com.vn/radio/channel1/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s",VOH FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,LAI CHAU (FM94.1MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,LTV-FM - Truyền Hình Lai Châu (FM94.1MHz)
 https://cloudstreamhntv.tek4tv.vn/events/laichau_radio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,SON LA (FM96MHz)
-https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,YEN BAI (FM92.1MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,STV-FM - Truyền Hình Sơn La (FM96MHz)
+https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,YTV-FM - Truyền Hình Yên Bái (FM92.1MHz)
 https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,HGTV-FM (FM92MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,HGTV-FM - Truyền Hình Hà Giang (FM92MHz)
 https://hagiangtv.vn/radio-live
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,TUYEN QUANG RADIO (FM95.6MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,THLC-FM - Truyền hình Lào Cai
+http://sohoa.truyenthanhthongminh.vn:80/sohoatinhlaocai
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,TTV-FM - Truyền Hình Tuyên Quang (FM95.6MHz)
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,THAI NGUYEN (FM106.5MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,TN1-FM - Truyền Hình Thái Nguyên (FM106.5MHz)
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,BAC KAN (FM99.3MHz)
 http://14.224.167.97:8080/hls/radio.m3u8
@@ -1231,16 +1233,16 @@ http://14.224.167.97:8080/hls/radio.m3u8
 https://media.bacgiangtv.vn/live/langsonradio_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,BAC GIANG (FM98.4MHz)
 https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,QNR1 (FM97.8MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,QNR1 - TTTT Tỉnh Quảng Ninh (FM97.8MHz)
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,QNR2 (FM94.7MHz)
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,QNR2 - TTTT Tỉnh Quảng Ninh (FM94.7MHz)
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,HANOI90
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,HANOI90-FM - Truyền Hình Hà Nội
 http://14.162.146.90:8000/HANOI90
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,HANOI96
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,HANOI96-FM - Truyền Hình Hà Nội
 http://222.252.21.96:8000/HANOI96
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,HA NAM FM
-http://sohoa.truyenthanhthongminh.vn/sohoatinhhanam
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,THHN-FM - Truyền hình Hà Nam
+http://sohoa.truyenthanhthongminh.vn:80/sohoatinhhanam
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,HAI PHONG FM93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,HAI PHONG FM102.2
@@ -1254,7 +1256,7 @@ https://stream.thingnet.vn/radio/bacninh_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,TBRV FM THAI BINH (FM97MHz)
 http://118.70.118.191:1935/tbtvlive/radio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,NAM DINH FM (FM97MHz)
-http://sohoa.truyenthanhthongminh.vn/sohoanamdinh
+http://sohoa.truyenthanhthongminh.vn:80/sohoanamdinh
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,HA NAM (FM93.3MHz)
 https://cdn.hanamtv.vn/live/285ead66b13795f434bb2e4834a98cbf17b/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,NINH BINH FM (FM98.1MHz) - T CHI DE Y DEN MOV
@@ -1290,7 +1292,7 @@ http://sohoa.truyenthanhthongminh.vn/tpbmt
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,DAK NONG (FM96.6MHz)
 https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,LAM DONG (FM97MHz)
-http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
+http://sohoa.truyenthanhthongminh.vn:80/lamdong
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,BPTV-FM (FM89.4MHz)
 https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,BTV-FM BINH DUONG (FM92.5MHz)
@@ -2510,14 +2512,16 @@ https://radio.bsod.kr/stream/playback.pls?stn=mbc&ch=sfm
 https://radio.bsod.kr/stream/playback.pls?stn=mbc&ch=chm
 #EXTINF:-1 tvg-logo="https://img.imbc.com/broad/radio/s9_2015_main/quick/__icsFiles/afieldfile/2023/06/16/m_1_1.png" group-title="QUỐC TẾ" radio=true,AFN FM Humphreys
 https://radio.bsod.kr/stream/playback.pls?stn=afn&city=humphreys
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ" radio=true,NHK World Radio
-https://nhkwlive-radio.akamaized.net/hls/live/2032384/radio-rs5/index_07.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/NHK_Radio_1_%282020%29.svg/revision/latest?cb=20210516114917" group-title="QUỐC TẾ" radio=true,NHK Radio 1
-https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ" radio=true,NHKWorld-Radio (Multi-Language)
+https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s" group-title="QUỐC TẾ" radio=true,NHKWorld-Japan Radio
+https://nhkworld-radio.akamaized.net/hls/live/2115821/nhkworld-radio-rs4/index_rs4.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/NHK_Radio_1_%282020%29.svg/revision/latest?cb=20210516114917" group-title="QUỐC TẾ" radio=true,NHK-RADIO 1
+https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
 #EXTINF:-1 tvg-logo="http://gg.gg/19dbe9" group-title="QUỐC TẾ" radio=true,NHK Radio 2
 https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/19dbed" group-title="QUỐC TẾ" radio=true,NHK FM
-https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/19dbed" group-title="QUỐC TẾ" radio=true,NHK-FM
+https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s287011g.png" group-title="QUỐC TẾ" radio=true,American Forces Radio Tokyo
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="QUỐC TẾ" radio=true,J1 Hits
