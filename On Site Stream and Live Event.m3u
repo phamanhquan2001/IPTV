@@ -31,6 +31,8 @@ https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 https://v14.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=X0ZCQS6iiKVfk3i7AoaVYg&expires=1747259113&user_id=Z2ZNUnU5ZkxmM0ZTck96T1dtVlFYRGtlb1FjeEJUVnBjTlMyM3VNTQ==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://v3.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=mrhT7Gj5QBmpJKPMEM7NiQ&expires=1747259189&user_id=Z2ZNUnU5ZkxmM0ZTck96T1dtVlFYRGtlb1FjeEJUVnBjTlMyM3VNTQ==
+#EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
+http://a.ru8.dpdns.org/now/331/master.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from India and Pakistan amid tension heating up
 https://www.youtube.com/watch?v=V8OxAIs-UHQ
