@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 group-title="2025 Roland Garros Live",Live Camera from Paris
+https://www.youtube.com/watch?v=OzYp4NRZlwQ
+#EXTINF:-1 group-title="2025 Roland Garros Live",WOWOW-LIVE
+http://luong.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://p1.cvtv.xyz/es1?token=live
+#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://p1.cvtv.xyz/es2?token=live
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRINN-2
