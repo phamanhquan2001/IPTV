@@ -63,6 +63,8 @@ http://p1.cvtv.xyz:81/dw?token=live
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",FOX NEWS US
 https://v17.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8?token=yTqp7NACrKHuItjlL2aoQQ&expires=1747320351&user_id=ZzFNZ3V4cHF1aWxqQ0Vrd0ZJelBIYmxsUm02M1VwaDFLb2laOGFJWg==
 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",GLZ Israel Army Radio
+http://glzwizzlv.bynetcdn.com/glz_mp3
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSArabic.il",I24 News Arabic 
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSEnglishWorld.il",I24 News English 
@@ -117,6 +119,8 @@ https://pbc.furrera.ps/musawahd/index.m3u8
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="PalestineEdu.ps",Palestine Edu (1080p)
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",Voice of Palestine Radio
+https://pbc.furrera.ps/voiceofpalestine/tracks-a1/mono.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PalestineMubasher.ps" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Mubasher (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://pbc.furrera.ps/palestinelivehd/index.m3u8
@@ -140,6 +144,10 @@ https://htvint.mada.ps/orient/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="NablusTV.ps",Nablus TV (1080p)
 https://htvint.mada.ps/nabluslive/index.m3u8
 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",IRIB World Radio (English)
+https://s2.cdn1.iranseda.ir/liveedge/radio-english/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",IRIB Iran Radio
+https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV (Dự phòng)
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV 
@@ -2700,14 +2708,16 @@ https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti5/chunklist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-logo="https://vn-static.rti.org.tw/img/fb-rti-logo.png",RTI International
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti6/chunklist.m3u8
+#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-logo="https://vn-static.rti.org.tw/img/fb-rti-logo.png",VOTA Radio
+http://video.ntua.edu.tw/live/ntua/index.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/inews.png" group-title="QUỐC TẾ" radio=true,BCC News Network
-http://n12.rcs.revma.com/78fm9wyy2tzuv
+http://n03a-eu.rcs.revma.com/78fm9wyy2tzuv
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s91545q.png" group-title="QUỐC TẾ" radio=true,BCC Country Network
-https://stream.rcs.revma.com/p2e3rfg3qtzuv
+http://n03a-eu.rcs.revma.com/p2e3rfg3qtzuv
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ipop.png" group-title="QUỐC TẾ" radio=true,BCC Pop Network
-http://n14.rcs.revma.com/aw9uqyxy2tzuv
+http://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/iradio.png" group-title="QUỐC TẾ" radio=true,BCC Music Network
-http://n07.rcs.revma.com/ks4vsmg3qtzuv
+http://n03a-eu.rcs.revma.com/ks4vsmg3qtzuv
 #EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/7d/d9/35166/c300.png" group-title="QUỐC TẾ" radio=true,ICRT FM
 http://live.leanstream.co/ICRTFM?args=tunein_aac
 #EXTINF:-1 tvg-logo="https://foxxradio.com/upload/tw/1620527368.jpg" group-title="QUỐC TẾ" radio=true,Asia FM 92.7
@@ -2718,6 +2728,8 @@ https://stream.rcs.revma.com/kydend74hv8uv
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cityfmtw.png" group-title="QUỐC TẾ" radio=true,City FM 90.1
 https://fm901.cityfm.com.tw:8083/901
+#EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cityfmtw.png" group-title="QUỐC TẾ" radio=true,Yêmen Al-Masirah Radio
+https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y5x4caXTAjQYAUF_Fuso_-EK4svPPMBZQf7FKAdZQ_4tTtDD307cfpv0hEwC41XWYx5x" group-title="QUỐC TẾ" radio=true,Myanmar Radio National Service
 https://lb-as.cdn-perfprod.com/live/myanma_radio
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y5x4caXTAjQYAUF_Fuso_-EK4svPPMBZQf7FKAdZQ_4tTtDD307cfpv0hEwC41XWYx5x" group-title="QUỐC TẾ" radio=true,Tha Pyay Radio
