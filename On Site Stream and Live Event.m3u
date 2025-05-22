@@ -3,10 +3,6 @@
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
 #EXTINF:-1 group-title="2025 Roland Garros Live",WOWOW-LIVE
 http://luong.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://p1.cvtv.xyz/es1?token=live
-#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
-http://p1.cvtv.xyz/es2?token=live
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRINN-2
@@ -28,24 +24,18 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
-https://v14.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=X0ZCQS6iiKVfk3i7AoaVYg&expires=1747259113&user_id=Z2ZNUnU5ZkxmM0ZTck96T1dtVlFYRGtlb1FjeEJUVnBjTlMyM3VNTQ==
+https://v15.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=ngmwnTAOX4nbRGCgEcoZpw&expires=1747925252&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://v3.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=mrhT7Gj5QBmpJKPMEM7NiQ&expires=1747259189&user_id=Z2ZNUnU5ZkxmM0ZTck96T1dtVlFYRGtlb1FjeEJUVnBjTlMyM3VNTQ==
+https://v18.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=TzTXqDPDNdqKGV9vDlb4kg&expires=1747925340&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from India and Pakistan amid tension heating up
-https://www.youtube.com/watch?v=V8OxAIs-UHQ
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
-https://www.youtube.com/watch?v=6He2XK3zx60
+https://www.youtube.com/watch?v=P3W59ybpVzM
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=5HtqPiWulzs
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera from Brooklyn Bridge as a Mexican navy vessels hits down that led two people dead
-https://www.youtube.com/watch?v=i045wTch3og
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera view of Gaza from Southern Israel
-https://www.youtube.com/watch?v=79kPNwOSe3c
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Bilbao (Spain): Live Camera from outisde Mamés Stadium as fans preparing for the Europa League finals between Tottenham against MU
-https://www.youtube.com/watch?v=uc0WZJi11U8
+https://www.youtube.com/watch?v=oqoigMi0ywA
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): The House of Representatives is voting on Trump's tax plan
+https://www.youtube.com/watch?v=jKnzRZKcM-U
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -87,7 +77,7 @@ https://tv-live.tpchannel.org/live/tv.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
 #EXTINF:-1 group-title="Parliament Live",Parliament TV (New Zealand)
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
-#EXTINF:-1 group-title="Parliament Live",Camera dei deputati
+#EXTINF:-1 group-title="Parliament Live",Camera dei deputati (Italia)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 group-title="Parliament Live",Legislative Assembly of El Salvador
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
