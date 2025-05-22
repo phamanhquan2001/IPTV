@@ -6,7 +6,7 @@
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
 
 #EXTINF:-1 group-title="Market Open and Close",CNBC (US)
-https://v5.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=BKRwry3sx5CSlEh3qa4dTw&expires=1747320209&user_id=ZzFNZ3V4cHF1aWxqQ0Vrd0ZJelBIYmxsUm02M1VwaDFLb2laOGFJWg==
+https://v17.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=puRWnKfQTizixDMTrO19rA&expires=1747925391&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
 #EXTINF:-1 group-title="Market Open and Close",CNBC (Europe/World)
 http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Indonesia
@@ -34,7 +34,7 @@ https://cdn3.skygo.mn/live/disk1/BloombergMon/HLS-FTA/BloombergMon.m3u8
 #EXTINF:-1 group-title="Market Open and Close",Bloomberg
 http://p1.cvtv.xyz:81/bb?token=live
 #EXTINF:-1 group-title="Market Open and Close",FOX BUSINESS CHANNEL
-https://v12.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8?token=a2Tb3tvKBeymxwb5CaA2_Q&expires=1747320302&user_id=ZzFNZ3V4cHF1aWxqQ0Vrd0ZJelBIYmxsUm02M1VwaDFLb2laOGFJWg==
+https://v17.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8?token=uI1TUpGkcMDhLXxRHOlqDw&expires=1747925454&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
 #EXTINF:-1 group-title="Market Open and Close",NDTV Profit
 https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/chunklist_1.m3u8
 #EXTINF:-1 group-title="Market Open and Close",Yahoo Finance
