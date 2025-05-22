@@ -81,6 +81,8 @@ https://tv-live.tpchannel.org/live/tv.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/hluttaw/playlist.m3u8
 #EXTINF:-1 group-title="Parliament Live",Parliament TV (New Zealand)
 https://ptvlive.kordia.net.nz/out/v1/daf20b9a9ec5449dadd734e50ce52b74/index.m3u8
+#EXTINF:-1 group-title="Parliament Live",Parliament Radio (New Zealand)
+http://radionz-ice.streamguys.com/parliament.mp3.m3u
 #EXTINF:-1 group-title="Parliament Live",Camera dei deputati (Italia)
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 group-title="Parliament Live",Legislative Assembly of El Salvador
@@ -90,10 +92,15 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Parliament Live",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Plenary Sitting Sessions
-https://hlslive.shugiintv.go.jp/room00/amlst:room00/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Political Reforms
-https://hlslive.shugiintv.go.jp/room01/amlst:room01/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
+
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health, Labour and Welfare
+
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Economy Trade and Industry
+
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Land Infrastructure Transport and Tourism
+
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Budget
 
 #EXTINF:-1 group-title="Live Event",
 
@@ -101,22 +108,17 @@ https://hlslive.shugiintv.go.jp/room01/amlst:room01/playlist.m3u8?DVR
 #EXTINF:-1 group-title="J.League Live",
 
 #Girls' Frontline UN Reporting Live
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Comission of Crime Prevention and Criminal Justice (CCPCJ): Day 7 Meeting Live
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_o1lzq9dr/tl/main/st/0/t/_FDX5YaiZhQ-ga04YdcuPw/index-s34.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX28xbHpxOWRyL3RsL21haW4vc3QvMC90L19GRFg1WWFpWmhRLWdhMDRZZGN1UHcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzk5ODU4NH19fV19&Signature=Dv-yjpI8sUsnl-olrpkK6Wi~CJkMkLFTXgRZReLzqM~RCwrjXfU0qvfG1FzudbNJqprthGuAt0SE95ElTYcHU17f5DUN4uKTh5Q160CA-HDRlcwF53aTmkHsSck8tRQhEFU1e72ePopUvaWUD6nxQbvrihZVzZe9Etjxs1TjIGzPlUtSvv19CMwVOuqFyfyu1Xd3rG20bchUhtYgOVdYQEgq8GykliD0Ov5fFPvs4H--ORtRj1OeDxM7J8VlWggVLfS6MRqeai23ZrqqYzzie7kNhrWAD0dwOm~s2jONjZRvITiG~HQVq3YRAnOebwsP1JX66J4GEct0INvDUAgdBg__&Key-Pair-Id=K31ANTJBLNVBEC
-#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",Comission of Crime Prevention and Criminal Justice (CCPCJ): Day 7 Meeting Live (English Audio Feed)
-https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_o1lzq9dr/tl/main/st/0/t/_FDX5YaiZhQ-ga04YdcuPw/index-s100.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX28xbHpxOWRyL3RsL21haW4vc3QvMC90L19GRFg1WWFpWmhRLWdhMDRZZGN1UHcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0Nzk5ODU4NH19fV19&Signature=Dv-yjpI8sUsnl-olrpkK6Wi~CJkMkLFTXgRZReLzqM~RCwrjXfU0qvfG1FzudbNJqprthGuAt0SE95ElTYcHU17f5DUN4uKTh5Q160CA-HDRlcwF53aTmkHsSck8tRQhEFU1e72ePopUvaWUD6nxQbvrihZVzZe9Etjxs1TjIGzPlUtSvv19CMwVOuqFyfyu1Xd3rG20bchUhtYgOVdYQEgq8GykliD0Ov5fFPvs4H--ORtRj1OeDxM7J8VlWggVLfS6MRqeai23ZrqqYzzie7kNhrWAD0dwOm~s2jONjZRvITiG~HQVq3YRAnOebwsP1JX66J4GEct0INvDUAgdBg__&Key-Pair-Id=K31ANTJBLNVBEC
+#EXTINF:-1 group-title="Girls' Frontline UN Reporting Live",
 
 
 #Heaven Burns Red Philippines Report Live
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
 
 #Sports Live
-#EXTINF:-1 group-title="Sports Live",AFC Women's Futsal Asian Cup Live
-https://youtube.com/@AFCAsianCup/live
+#EXTINF:-1 group-title="Sports Live",
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",Blue Archive EN CM Arcie Livestream Show No.23
-https://www.youtube.com/watch?v=vNxK2OEvHJY
+#EXTINF:-1 group-title="Special Program",Zenless Zone Zero 2.0 Special Program
 
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
