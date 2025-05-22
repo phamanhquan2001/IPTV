@@ -69,6 +69,10 @@ http://p1.cvtv.xyz:81/dw?token=live
 #EXTINF:-1 group-title="TIN TỨC QUỐC TẾ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",FOX NEWS US
 https://v17.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8?token=yTqp7NACrKHuItjlL2aoQQ&expires=1747320351&user_id=ZzFNZ3V4cHF1aWxqQ0Vrd0ZJelBIYmxsUm02M1VwaDFLb2laOGFJWg==
 
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",LLHZ Ground (Herzliya Airport)
+https://www.liveatc.net/play/llhz2_gnd.pls
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",LLHZ Tower (Herzliya Airport)
+https://www.liveatc.net/play/llhz2_twr.pls
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",GLZ Israel Army Radio
 http://glzwizzlv.bynetcdn.com/glz_mp3
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="i24NEWSArabic.il",I24 News Arabic 
@@ -2007,28 +2011,32 @@ https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9
 https://radio.bbs.bt/mix-ch
 #EXTINF:-1  group-title="RADIO",BBS-2 BHUTAN
 https://radio.bbs.bt/dz-ch
+#EXTINF:-1  group-title="RADIO",Kuzoo Radio (Dzhongkha)
+http://43.241.137.236:8000/kuzoodzo
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQTZ7dJbMy7bUpaKXlaY4CvUoxz7IzQasYg&s", VOV1
-http://113.164.229.226:7001/stream
+http://media.kythuatvov.vn:7001/listen.pls
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaRy8DNT2EyV0vPm1oye3N2o43VUthJ0_IdA&s", VOV2
-http://113.164.229.226:7003/stream
+http://media.kythuatvov.vn:7003/listen.pls
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQx1QbZewLeQWABiffxfgjp17UIRByi-lvag&s",VOV3
-http://113.164.229.226:7005/stream
+http://media.kythuatvov.vn:7005/listen.pls
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbkevQ4B-uXkprvQZ6wKCcSqdGnERaSazGVw&s",VOV MINORITIES SERVICE NORTH
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0FaMCi9-I6Ni1xsAZ6ReQfQQRvSeCVa2lA&s",VOV MINORITIES SERVICE HIGHLANDS
 https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQNhiNTxVkpJRnrGLfGs6MG5H2tqSW4_S9A&s",VOV MINORITIES SERVICE CENTRAL
 http://media.kythuatvov.vn:8035
+#EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtQNhiNTxVkpJRnrGLfGs6MG5H2tqSW4_S9A&s",VOV MINORITIES SERVICE HCMC
+http://media.kythuatvov.vn:7033/listen.pls
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://dvw7f7sqjk3ag.cloudfront.net/images/radio/64904.png", VOV MINORITIES SERVICE MEKONG
 http://media.kythuatvov.vn:8031
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2Q75utnoZ5wyxce99Xb7r3h0ZX2Au0GuFdQ&s",VOV WORLD SERVICE
 https://stream.vovmedia.vn/vov5
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://img.radios.com.br/radio/xl/radio140193_1660315263.jpg",VOV ENGLISH SERVICE
-https://stream-cdn.vov.vn/live/vov24_7-audio_only.m3u8
+https://str.vov.gov.vn/vovlive/vov247vov5English.sdp_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBmnLZ3-_NqDwr3upo_xYCff3upAVlIRJlw&s",VOVGT HANOI
-https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+http://media.kythuatvov.vn:7025/listen.pls
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLBmnLZ3-_NqDwr3upo_xYCff3upAVlIRJlw&s",VOVGT TPHCM
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+http://media.kythuatvov.vn:7023/listen.pls
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAEBReIvKRGhdi-cYk3A7p-JZFfnqWf66hQ&s",VOV MEKONGFM (VOVGT MEKONG)
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://i.ibb.co/xtm41Yyp/486609043-9668733523179342-2092789379023659257-n.jpg",VOV RADIO3260 (VOVGT DUYEN HAI)
@@ -4503,3 +4511,13 @@ https://radio.lnr.org.la/am
 https://radio.lnr.org.la/fm103
 #EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Radio FM 94.3 / Lao National Radio FM 94.3
 https://radio.lnr.org.la/fm94
+#EXTINF:-1 group-title="Idol Radio Channel",Gamindustri Security Radio
+http://lnwradio.hostsevenplus.com/9654/player.php
+#EXTINF:-1 group-title="Turkmen Radio",Radio Watan
+https://radio.telecom.tm/watan.mp3
+#EXTINF:-1 group-title="Turkmen Radio",Radio Çar Tarapdan
+https://radio.telecom.tm/tarap.mp3
+#EXTINF:-1 group-title="Turkmen Radio",Radio Miras
+https://radio.telecom.tm/miras.mp3
+#EXTINF:-1 group-title="Turkmen Radio",Radio Owazy
+https://radio.telecom.tm/owaz.mp3
