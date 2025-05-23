@@ -31,13 +31,11 @@ https://v18.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=TzTXqDPDNdqKGV9vD
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
-https://www.youtube.com/watch?v=P3W59ybpVzM
+https://www.youtube.com/watch?v=VDeXafGhdfI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=oqoigMi0ywA
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): The House of Representatives is voting on Trump's tax plan
-https://www.youtube.com/watch?v=jKnzRZKcM-U
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC (USA): State Department Briefing
-https://www.youtube.com/watch?v=npmBo6Af074
+https://www.youtube.com/watch?v=7vAXMQez_xQ
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",View of Israel-Gaza Border
+https://www.youtube.com/watch?v=HvyO8s2Om9Y
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -317,11 +315,11 @@ https://d.liveatc.net/rjtt_control
 #EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Twr/TCA)
 https://d.liveatc.net/rjtt_twr
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港一ターミナル (Tokyo Haneda Intl. Airport Terminal 1 Sector)
-https://www.youtube.com/watch?v=VuNYl3UvDgw
+https://www.youtube.com/watch?v=2f9NOSw-FqM
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector)
-https://www.youtube.com/watch?v=EEIVCc5hmMk
-#EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector Feed #2)
 https://www.youtube.com/watch?v=A0FCKcTuRHo
+#EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector Feed #2)
+https://www.youtube.com/watch?v=2Cd5tuB4vjU
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港T1/T3ターミナル (Tokyo Haneda Intl. Airport T1/T3 Sector)
 https://www.youtube.com/watch?v=DU-tsAEboZo
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港
@@ -405,13 +403,11 @@ https://www.youtube.com/channel/UCF5GcyFOwtMGiuNWioA9fOQ/live
 
 #Live Cam
 #EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
-https://www.youtube.com/watch?v=TZ2gfqEDtDA
+https://www.youtube.com/watch?v=CludWJf1vbc
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
 https://www.youtube.com/watch?v=oG5zz9Sjw3E
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #2)
 https://www.youtube.com/watch?v=Gd2Tm5jblbE
-#EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam
-https://www.youtube.com/watch?v=Q35i-Towo2g
 #EXTINF:-1  group-title="ANN Live Cam",関越自動車道・東松山IC付近
 https://www.youtube.com/watch?v=ZV3oCAKSNx0
 #EXTINF:-1  group-title="ANN Live Cam",中央自動車道・元八王子バス停付近
@@ -420,22 +416,16 @@ https://www.youtube.com/watch?v=FsL_KQz4gpw
 https://www.youtube.com/watch?v=YZcRxaKmvU4
 #EXTINF:-1  group-title="ANN Live Cam",東名高速道路・厚木IC付近
 https://www.youtube.com/watch?v=5rxOBb4V83I
-#EXTINF:-1  group-title="ANN Live Cam",羽田空港2ターミナル
-https://www.youtube.com/watch?v=A0FCKcTuRHo
 #EXTINF:-1  group-title="ANN Live Cam",渋谷スクランブル
-https://www.youtube.com/watch?v=TUd7JORZeWo
-#EXTINF:-1  group-title="ANN Live Cam",いやき坂イルミネーション
-https://www.youtube.com/watch?v=3krdhmBy3Kk
-#EXTINF:-1  group-title="ANN Live Cam",横浜・みなとみらい
-https://www.youtube.com/watch?v=orjgCwFT_lY
+https://www.youtube.com/watch?v=tujkoXI8rWM
 #EXTINF:-1  group-title="ANN Live Cam",江の島ビーチ
 https://www.youtube.com/watch?v=8o-jYN1XN88
 #EXTINF:-1  group-title="TBS Live Cam",横浜・みなとみらい
-https://www.youtube.com/watch?v=orjgCwFT_lY
+https://www.youtube.com/watch?v=x3P3N3VGvtU
 #EXTINF:-1  group-title="TBS Live Cam",東京・浅草寺
-https://www.youtube.com/watch?v=E1l9PcSGojU
+https://www.youtube.com/watch?v=LnrmP3Z1M-s
 #EXTINF:-1  group-title="TBS Live Cam",東京・新宿駅
-https://www.youtube.com/watch?v=BuWxAg761AQ
+https://www.youtube.com/watch?v=_zU8K43Twus
 
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
