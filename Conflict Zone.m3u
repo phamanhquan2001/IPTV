@@ -2533,6 +2533,8 @@ https://icecast.teveo.cu/3MCwWg3V
 https://icecast.teveo.cu/ktW3mW74
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/wqv46bsr447r.png" group-title="QUỐC TẾ" radio=true,Radio Cadena Habana
 https://icecast.teveo.cu/Jdq3Rbrg
+#EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/wqv46bsr447r.png" group-title="QUỐC TẾ" radio=true,Radio Habana Cuba
+https://icecast.teveo.cu/McW3fLhs
 #EXTINF:-1 channel-id="mjh-radio-ih-6157" tvg-id="mjh-radio-ih-6157" tvg-logo="https://i.iheart.com/v3/re/assets/images/3c268c71-295d-47d8-8015-5eb0c766295c.png" group-title="QUỐC TẾ" radio=true, KIIS 101.1
 https://i.mjh.nz/.r/radio-ih-6157.aac
 #EXTINF:-1 channel-id="mjh-radio-ih-6181" tvg-id="mjh-radio-ih-6181" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6764ac42de73b9d6cbb53fec" group-title="QUỐC TẾ" radio=true, GOLD104.3
