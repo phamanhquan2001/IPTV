@@ -42,6 +42,11 @@ https://www.youtube.com/watch?v=u4ZJzHkHaic
 https://www.youtube.com/watch?v=5uZa3-RMFos
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Bac Giang (Vietnam): The Ceremony of Buddism' relics
 https://www.youtube.com/watch?v=E72BU0nqkEs
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Hanoi (Vietnam): The visitation of the funeral of the Vietnamese former President Tran Duc Luong
+https://youtube.com/watch?v=HpqgikvFdkU
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Hanoi (Vietnam): The burial ceremony of the funeral of the Vietnamese former President Tran Duc Luong
+https://www.youtube.com/watch?v=EUdvnUy9x4I
+
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -119,8 +124,8 @@ https://hlslive.shugiintv.go.jp/room18/amlst:room18/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Sports Live",
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",Zenless Zone Zero 2.0 Special Program
-
+#EXTINF:-1 group-title="Special Program",Zenless Zone Zero 2.0 Special Program (via feed from Quan Tran) 
+https://www.youtube.com/watch?v=lGVx65lQ3lg
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
