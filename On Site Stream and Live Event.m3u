@@ -89,14 +89,13 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
-
+https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health, Labour and Welfare
-
+https://hlslive.shugiintv.go.jp/room16/amlst:room16/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Economy Trade and Industry
-
+https://hlslive.shugiintv.go.jp/room12/amlst:room12/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Land Infrastructure Transport and Tourism
-
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Budget
+https://hlslive.shugiintv.go.jp/room18/amlst:room18/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="Live Event",
 
