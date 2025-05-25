@@ -64,6 +64,8 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 http://cord-cutter.net:8080/live/X5xRz0/944877/76842.ts
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Équidia Racing Trot TV (France) (Genshin Impact Fontaine Live)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingtrot.m3u8
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Équidia TV (France) (Genshin Impact Fontaine Live)
+https://stream1.freetv.fun/87b91afaff69492a66c1f53e378a77daa1684e04e64abc84587b927775c4fb43.m3u8
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",FanduelTV Extra Live
 https://aegis-cloudfront-1.tubi.video/fdd93041-1042-41bf-9200-8f9efe38ace5/playlist.m3u8
 #EXTINF:-1 group-title="Auction Sell Live" tvg-id="JBIS", JBIS Live
