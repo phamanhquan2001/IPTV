@@ -3,6 +3,16 @@
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
 #EXTINF:-1 group-title="2025 Roland Garros Live",WOWOW-LIVE
 http://luong.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="2025 Roland Garros Live",ONSPORTS (VTVCAB3)
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+#EXTINF:-1 group-title="2025 Roland Garros Live",ONSPORTS NEWS PREMIUM (VTVCAB18)
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+#EXTINF:-1 group-title="2025 Roland Garros Live",EUROSPORT-1
+https://stream1.freetv.fun/ed1ac3ca2357f0d3dce49836cb6bcb6ef9204a753ecd8b52ea983b2cadfcbe4b.ctv
+#EXTINF:-1 group-title="2025 Roland Garros Live",EUROSPORT-2
+https://stream1.freetv.fun/c6c4bb232bbc38dc6d45dbf663b967033c0aa0c6770f09406e7c7a53af0672ae.ctv
+#EXTINF:-1 group-title="2025 Roland Garros Live",ROLAND GARROS RADIO
+https://rg2025.streamakaci.com/rgsiteen.mp3
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRINN-2
