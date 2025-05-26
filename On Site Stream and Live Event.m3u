@@ -50,9 +50,10 @@ http://a.ru8.dpdns.org/now/331/master.m3u8
 https://www.youtube.com/watch?v=VDeXafGhdfI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=7vAXMQez_xQ
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Hanoi (Vietnam): The burial ceremony of the funeral of the Vietnamese former President Tran Duc Luong
-https://www.youtube.com/watch?v=EUdvnUy9x4I
-
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel): Secretary of Department of Homeland Security Kristi Noem is visiting Israel
+https://www.youtube.com/watch?v=n-E-UtcuhJc
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Beijing (China): The Ministry of Foreign Affairs's Press Conference with Mao Ning
+https://www.youtube.com/watch?v=u7AnJiKSavA
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -113,14 +114,7 @@ https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/chunklist_w1146464129_b
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://pcradio.ru/images/stations/61b09cf2bfedb.jpg" group-title="Parliament Live" radio=true,MR5 PARLAMENTI ADASOK
 http://stream001.radio.hu:8080/mr5.aac
 
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Cabinet
-https://hlslive.shugiintv.go.jp/room15/amlst:room15/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Health, Labour and Welfare
-https://hlslive.shugiintv.go.jp/room16/amlst:room16/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Economy Trade and Industry
-https://hlslive.shugiintv.go.jp/room12/amlst:room12/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",Land Infrastructure Transport and Tourism
-https://hlslive.shugiintv.go.jp/room18/amlst:room18/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
 
 #EXTINF:-1 group-title="Live Event",
 
