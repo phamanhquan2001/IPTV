@@ -1985,6 +1985,26 @@ https://www.youtube.com/@OozoraSubaru/live
 #EXTINF:-1 group-title="VTuber Live",Tabino Sora (Theo Dòng Thời Sự)
 https://www.youtube.com/@tabino_sora_/live
 
+#EXTINF:-1  group-title="RADIO",ORTB Radio Bênin
+http://listen.radioking.com/radio/47608/stream/84430
+#EXTINF:-1  group-title="RADIO",EBC RADIO National - Bang Dream MYGO-RADIO (Ethiopia)
+https://stream.zeno.fm/ad402tap7yzuv
+#EXTINF:-1  group-title="RADIO",EBC RADIO FM97.1 - Bang Dream Ave Mujica The Die is Cast Radio Station (Ethiopia)
+https://stream.zeno.fm/rb6wbrap7yzuv
+#EXTINF:-1  group-title="RADIO",EBC RADIO FM104.7 - D4DJ Happy Around FM104.7 (Ethiopia)
+https://stream.zeno.fm/2xguamap7yzuv
+#EXTINF:-1  group-title="RADIO",NEPAL TRAFFIC RADIO
+https://betelgeuse.dribbcast.com/proxy/trafficradio?mp=/stream
+#EXTINF:-1  group-title="RADIO",ERT PROTO AMPHOREUS RADIO
+https://radiostreaming.ert.gr/ert-proto
+#EXTINF:-1  group-title="RADIO",ERT DEFTERO AMPHOREUS RADIO
+https://radiostreaming.ert.gr/ert-deftero
+#EXTINF:-1  group-title="RADIO",ERT TRITO AMPHOREUS RADIO
+https://radiostreaming.ert.gr/ert-trito
+#EXTINF:-1  group-title="RADIO",ERT SPOR AMPHOREUS RADIO
+https://radiostreaming.ert.gr/ert-erasport
+#EXTINF:-1  group-title="RADIO",AMPHOREUS Hypnerion Radio
+https://stream12.hosterion.pl/stream/hypnosradio/stream
 #EXTINF:-1  group-title="RADIO",PAKISTAN WORLD SERVICE
 https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12
 #EXTINF:-1  group-title="RADIO",PAKISTAN EXTERNAL SERVICE
@@ -2322,13 +2342,19 @@ https://stream.rfm.fr/rfm.mp3
 #EXTINF:-1 tvg-id="france24eng"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/54/Logo_NRJ_2016.png" group-title="QUỐC TẾ" radio=true,NRJ
 http://lbs-th2-2.nrjaudio.fm/fr/30001/aac_64.mp3
 #EXTINF:-1 tvg-id="france24eng"  tvg-logo="https://i.ibb.co/9kXMnkYN/2.jpg" group-title="QUỐC TẾ" radio=true,Radio Vatican Italiano
-https://radio.vaticannews.va/stream-it
+https://radio.vaticannews.va/stream-it.m3u
 #EXTINF:-1 tvg-id="france24eng"  tvg-logo="https://i.ibb.co/354QKwt7/3.jpg" group-title="QUỐC TẾ" radio=true,Radio Vatican English
-https://radio.vaticannews.va/stream-en
+https://radio.vaticannews.va/stream-en.m3u
 #EXTINF:-1 tvg-id="france24eng"  tvg-logo="https://i.ibb.co/YBWjdh7X/1.jpg" group-title="QUỐC TẾ" radio=true,Radio Vatican Tieng Viet
-https://radio.vaticannews.va/stream-vi
+https://radio.vaticannews.va/stream-vi.m3u
+#EXTINF:-1 tvg-id="france24eng"  tvg-logo="https://i.ibb.co/YBWjdh7X/1.jpg" group-title="QUỐC TẾ" radio=true,Radio Vatican Europa
+https://radio.vaticannews.va/stream-en.m3u
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://www.radio.net/300/rairadiouno.png?version=d70c9f4ae01df08c62b9726cf35556e0" group-title="QUỐC TẾ" radio=true,RAI GR Parlamento
+http://icestreaming.rai.it/7.mp3.m3u
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://www.radio.net/300/rairadiouno.png?version=d70c9f4ae01df08c62b9726cf35556e0" group-title="QUỐC TẾ" radio=true,Rai Radio 1
 http://icestreaming.rai.it/1.mp3
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://www.radio.net/300/rairadiouno.png?version=d70c9f4ae01df08c62b9726cf35556e0" group-title="QUỐC TẾ" radio=true,Rai Radio Sports 1
+http://icestreaming.rai.it/13.mp3.m3u
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://pbs.twimg.com/profile_images/1032181212549398528/cMCNpgVF_400x400.jpg0" group-title="QUỐC TẾ" radio=true,Rai Radio 2
 http://icestreaming.rai.it/2.mp3
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcg7YHyPejOR4YpOwGwJvxoOpZJCTJZVJd7g&s" group-title="QUỐC TẾ" radio=true,Rai Radio 3
@@ -2349,6 +2375,8 @@ https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r4_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_r5_madrid_main.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://assets.radioplayer.org/724/724505/600/600/kywx5mfr.png" group-title="QUỐC TẾ" radio=true,RNE Radio Exterior de España
 https://rtvelivestream.akamaized.net/rtvesec/rne/rne_re_main.m3u8
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://assets.radioplayer.org/724/724505/600/600/kywx5mfr.png" group-title="QUỐC TẾ" radio=true,Onda Madrid
+https://tvradio-1-23.secure2.footprint.net/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://play-lh.googleusercontent.com/PwCeIUB4bVCk1QqnmGdYQUFkNEe9mCuOWoGyZTOExgFhdGak_1NCerhnl5CTwNUhjw" group-title="QUỐC TẾ" radio=true,Cadena SER
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_MADRID.mp3
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://i1.sndcdn.com/avatars-000268520477-dhdoss-t1080x1080.jpg" group-title="QUỐC TẾ" radio=true,Cadena 100
@@ -2409,6 +2437,10 @@ http://mp3.polskieradio.pl:8080/;
 http://stream2.nadaje.com:11140/rdc
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0001/6862/brand.gif?tuZbnYzHpCuxRlkN8e_XMwS3TUWd4mET&itok=L4cFGrbG" group-title="QUỐC TẾ" radio=true,Radio Poland English
 http://mp3.polskieradio.pl:8908/;
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0001/6862/brand.gif?tuZbnYzHpCuxRlkN8e_XMwS3TUWd4mET&itok=L4cFGrbG" group-title="QUỐC TẾ" radio=true,Radio Złote Przeboje
+https://radiostream.pl/tuba8936-1.mp3
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0001/6862/brand.gif?tuZbnYzHpCuxRlkN8e_XMwS3TUWd4mET&itok=L4cFGrbG" group-title="QUỐC TẾ" radio=true,Radio Pogoda
+https://radiostream.pl/tuba140-1.mp3
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RMF_FM_logotyp_2022.png/220px-RMF_FM_logotyp_2022.png" group-title="QUỐC TẾ" radio=true,RMF FM
 http://rs6-krk2.rmfstream.pl/rmf_fm
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://www.radio.net/images/broadcasts/df/f7/10167/11/c300.png" group-title="QUỐC TẾ" radio=true,RMF MAXX
