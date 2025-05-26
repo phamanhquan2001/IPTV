@@ -50,12 +50,6 @@ http://a.ru8.dpdns.org/now/331/master.m3u8
 https://www.youtube.com/watch?v=VDeXafGhdfI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=7vAXMQez_xQ
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera from Gaza
-https://www.youtube.com/watch?v=tupSWYhQMYM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Liverpool (UK): The Liverpool FC is hosting the parade after getting defending champions yesterday
-https://www.youtube.com/watch?v=ekPoHPhDQho
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Dayton (USA): Closing remarks by NATO's secretary Mark Rutte during NATO conference
-https://www.youtube.com/watch?v=wktF0rkmVmw
 
 #EXTINF-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -107,6 +101,8 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Parliament Live",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
+#EXTINF:-1 group-title="Parliament Live",Radio Câmara
+https://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8
 #EXTINF:-1 group-title="Parliament Live",Hungarian Parliament (Youtube)
 https://www.youtube.com/@OrszaggyulesELO/live
 #EXTINF:-1 group-title="Parliament Live",Hungarian Parliament (Feed #1)
@@ -115,6 +111,8 @@ https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/chunklist_w278206
 https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/chunklist_w1146464129_b1564000.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://pcradio.ru/images/stations/61b09cf2bfedb.jpg" group-title="Parliament Live" radio=true,MR5 PARLAMENTI ADASOK
 http://stream001.radio.hu:8080/mr5.aac
+#EXTINF:-1 tvg-id="france24eng" tvg-logo="https://pcradio.ru/images/stations/61b09cf2bfedb.jpg" group-title="Parliament Live" radio=true,C-SPAN RADIO 1
+https://playerservices.streamtheworld.com/pls/CSPANRADIO.pls
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
 
