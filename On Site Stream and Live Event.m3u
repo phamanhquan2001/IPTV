@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="2025 Roland Garros Live",Live Camera from Paris
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
+#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-chno="2" tvg-id="France2.fr" epg-s="4" tvg-country="FR" group-title="FRANCE",FRANCE-2TV [1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
+#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-chno="47" tvg-id="France2.fr" epg-s="4" tvg-country="FR" group-title="FRANCE",FRANCE-2TV [SSAI][1080p-france.tv]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/ssai/france2.m3u8
 #EXTINF:-1 group-title="2025 Roland Garros Live",WOWOW-LIVE
 http://luong.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="2025 Roland Garros Live",ONSPORTS (VTVCAB3)
@@ -59,6 +63,8 @@ https://www.youtube.com/@ukparliament/live
 https://www.youtube.com/@CanalParlamento-Congreso_Es/live
 #EXTINF:-1 group-title="Parliament Live",Assemblée Nationale (FR)
 https://www.youtube.com/@lcpassembleenationale/live
+#EXTINF:-1 group-title="Parliament Live" tvg-chno="42" tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-country="FR" group-title="FRANCE",Public Sénat (FR) [480p-dailymotion.com]
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 group-title="Parliament Live",Parlimen Malaysia
 https://www.youtube.com/@ParlimenMalaysia1/live
 #EXTINF:-1 group-title="Parliament Live",Parlemen Indonesia
