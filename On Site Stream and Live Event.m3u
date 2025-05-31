@@ -47,11 +47,11 @@ https://v18.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=TzTXqDPDNdqKGV9vD
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
-https://www.youtube.com/watch?v=VDeXafGhdfI
+https://www.youtube.com/watch?v=MlmaxNVsMzQ
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=7vAXMQez_xQ
+https://www.youtube.com/watch?v=H9SHSW84Yik
 
-#EXTINF-1 group-title="Parliament Live",Bundestags (DE)
+#EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
 #EXTINF:-1 group-title="Parliament Live",UK Parliament
 https://www.youtube.com/@ukparliament/live
@@ -118,7 +118,32 @@ https://playerservices.streamtheworld.com/pls/CSPANRADIO.pls
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
 
-#EXTINF:-1 group-title="Live Event",
+#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - DRT1 Truyền Hình Đà Nẵng
+https://xem.TruyenHinh.Click/CoBan/137/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - VTV1
+https://xem.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - Báo Tuổi Trẻ (YouTube)
+https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
+#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - Báo Tuổi Trẻ Media (YouTube)
+https://www.youtube.com/c/TuoitreVn2015/live
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Nút Tây Cầu Rồng
+https://www.youtube.com/watch?v=VHxNpNjKurU&pp=ygUgVHLhu7FjIHRp4bq_cCBjYW1lcmEgxJDDoCBO4bq1bmc%3D
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Góc Nhìn Cầu Trần Thị Lý
+https://www.youtube.com/watch?v=JZRc7-Bvsfg
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Trang Phục Biểu Diễn Phương Trần
+https://www.youtube.com/watch?v=CaMkzNXwVcE&pp=0gcJCbAJAYcqIYzv
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Trước cống trường Nguyễn Huệ
+https://www.youtube.com/watch?v=xCNRP131kNY
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Bệnh Viện Đà Nẵng
+https://www.youtube.com/watch?v=AcndFyZebdc
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Cổng Sau BV C
+https://www.youtube.com/watch?v=muijHPW82vI
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: KS Hải Triều
+https://www.youtube.com/watch?v=PmhlLGhCq9k
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Đà Nẵng Ngày Nay
+https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: KS Meryland - Đà Nẵng Ngày Nay
+https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
