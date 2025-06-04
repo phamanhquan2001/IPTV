@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="2025 Roland Garros Live",Live Camera from Paris
-https://www.youtube.com/watch?v=OzYp4NRZlwQ
+https://youtu.be/OzYp4NRZlwQ
 #EXTINF:-1 group-title="2025 Roland Garros Live",WOWOW-LIVE
 http://luong.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="2025 Roland Garros Live",ONSPORTS (VTVCAB3)
@@ -24,35 +24,20 @@ http://p1.cvtv.xyz/live3?token=live
 #EXTINF:-1 group-title="2025 Roland Garros Live" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/event.png",CVmedia Live 4
 http://p1.cvtv.xyz/live4?token=live
 
-#EXTINF:-1 group-title="2025 선택",KBS
-https://www.youtube.com/watch?v=9gyhzGex2F8
-#EXTINF:-1 group-title="2025 선택",MBC
-https://www.youtube.com/watch?v=1FE5LSGBcgg
-#EXTINF:-1 group-title="2025 선택",SBS
-https://www.youtube.com/watch?v=IJGWaIHodEA
-#EXTINF:-1 group-title="2025 선택",YTN
-https://www.youtube.com/watch?v=FJfwehhzIhw
-#EXTINF:-1 group-title="2025 선택",YTN (2)
-https://www.youtube.com/watch?v=YEXJ2hBRlG4
-#EXTINF:-1 group-title="2025 선택",Yonhap News TV
-https://www.youtube.com/watch?v=6QZ_qc75ihU
-#EXTINF:-1 group-title="2025 선택",MBN
-https://www.youtube.com/watch?v=12OA6e5Uey0
-
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Live Camera from Toronto
-https://www.youtube.com/watch?v=zsEoRvGhO7I
+https://youtu.be/zsEoRvGhO7I
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Toronto Clock
-https://www.youtube.com/watch?v=r1jvJtYVmVY
+https://youtu.be/r1jvJtYVmVY
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Ottawa Live Cam
-https://www.youtube.com/watch?v=lLYosWv_AwQ
+https://youtu.be/lLYosWv_AwQ
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Ottawa Live Cam (#2)
-https://www.youtube.com/watch?v=ygedW8Q-pOc
+https://youtu.be/ygedW8Q-pOc
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Calgary Live Cam
-https://www.youtube.com/watch?v=MwcqP3ta6RI
+https://youtu.be/MwcqP3ta6RI
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Central Memorial Park Live Cam
-https://www.youtube.com/watch?v=xsRDTfuksyI
+https://youtu.be/xsRDTfuksyI
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Vancouver Live Cam
-https://www.youtube.com/watch?v=6lBCa81Axqg
+https://youtu.be/6lBCa81Axqg
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports VN
 https://www.youtube.com/@VALORANTChampionsTourVietnam/live
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports JP
@@ -87,19 +72,11 @@ https://v18.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=TzTXqDPDNdqKGV9vD
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
-https://www.youtube.com/watch?v=MlmaxNVsMzQ
+https://youtu.be/sSFl0PDeKAo
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=H9SHSW84Yik
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Istanbul as peace talks is underway between Russia and Ukraine
-https://www.youtube.com/watch?v=UawEgrA-cvc
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Maidan Square as peace talks is underway between Russia and Ukraine
-https://www.youtube.com/watch?v=MJ5bDImulGI&pp=0gcJCbAJAYcqIYzv
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Vilnius as NATO Eastern Flank Summit is now underway
-https://www.youtube.com/watch?v=YOLbQKZRmM0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Vilnius as NATO Eastern Flank Summit is now underway
-https://www.youtube.com/watch?v=YOLbQKZRmM0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Keir Starmer LIVE: Strategic Defence Review Launch in Scotland | DRM News
-https://m.youtube.com/watch?v=UyiUBB2MICU
+https://youtu.be/TZwPFTX6GcQ
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Saudi Arabia as Hajj 2025 is set to begins
+https://youtu.be/noyP-CCpfeQ
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -177,22 +154,22 @@ https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
 #EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - Báo Tuổi Trẻ Media (YouTube)
 https://www.youtube.com/c/TuoitreVn2015/live
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Nút Tây Cầu Rồng
-https://www.youtube.com/watch?v=VHxNpNjKurU&pp=ygUgVHLhu7FjIHRp4bq_cCBjYW1lcmEgxJDDoCBO4bq1bmc%3D
+https://youtu.be/VHxNpNjKurU&pp=ygUgVHLhu7FjIHRp4bq_cCBjYW1lcmEgxJDDoCBO4bq1bmc%3D
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Góc Nhìn Cầu Trần Thị Lý
-https://www.youtube.com/watch?v=JZRc7-Bvsfg
+https://youtu.be/JZRc7-Bvsfg
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Trang Phục Biểu Diễn Phương Trần
-https://www.youtube.com/watch?v=CaMkzNXwVcE&pp=0gcJCbAJAYcqIYzv
+https://youtu.be/CaMkzNXwVcE&pp=0gcJCbAJAYcqIYzv
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Trước cống trường Nguyễn Huệ
-https://www.youtube.com/watch?v=xCNRP131kNY
+https://youtu.be/xCNRP131kNY
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Bệnh Viện Đà Nẵng
-https://www.youtube.com/watch?v=AcndFyZebdc
+https://youtu.be/AcndFyZebdc
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Cổng Sau BV C
-https://www.youtube.com/watch?v=muijHPW82vI
+https://youtu.be/muijHPW82vI
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: KS Hải Triều
-https://www.youtube.com/watch?v=PmhlLGhCq9k
+https://youtu.be/PmhlLGhCq9k
 #EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Đà Nẵng Ngày Nay
 https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: KS Meryland - Đà Nẵng Ngày Nay
+#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: KS Meryland
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
 
 #J.League Live
@@ -203,14 +180,15 @@ https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/ind
 
 
 #Heaven Burns Red Philippines Report Live
-#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
+#EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",Comission on Appointments resumees deliberation of Marcos' key appointees
+https://youtu.be/pwld-55yDA4
 
 #Sports Live
-#EXTINF:-1 group-title="Sports Live",SCTV Billiards Cup 2025 - Third Day Scoreboard Live
-https://www.youtube.com/watch?v=NeiYXIl6TyM
+#EXTINF:-1 group-title="Sports Live",
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",
+#EXTINF:-1 group-title="Special Program",Genshin 5.7 Special Program
+https://youtu.be/IzGBN0zUeSs
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
@@ -237,83 +215,83 @@ https://www.youtube.com/@vivogamer8_earthquake_lite/live
 #EXTINF:-1 group-title="Earthquake Monitoring",EWRS
 https://www.youtube.com/@EGIC_Info/live
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taipei (Taiwan)
-https://www.youtube.com/watch?v=z_fY1pj1VBw
+https://youtu.be/z_fY1pj1VBw
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Dadaocheng Wharf (Taiwan)
-https://www.youtube.com/watch?v=Ndo_8RuefH4
+https://youtu.be/Ndo_8RuefH4
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Dajia Riverside (Taiwan)
-https://www.youtube.com/watch?v=fP4ecxfsJos
+https://youtu.be/fP4ecxfsJos
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Bishan Temple (Taiwan)
-https://www.youtube.com/watch?v=uvwfYzwY8tg
+https://youtu.be/uvwfYzwY8tg
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Jiantanshan Temple (Taiwan)
-https://www.youtube.com/watch?v=34h_Cy_n0Ok
+https://youtu.be/34h_Cy_n0Ok
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Maokong Jinan Temple (Taiwan)
-https://www.youtube.com/watch?v=215ahZ_0rTg
+https://youtu.be/215ahZ_0rTg
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Maokong Jinan Temple (Taiwan)
-https://www.youtube.com/watch?v=215ahZ_0rTg
+https://youtu.be/215ahZ_0rTg
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport
-https://www.youtube.com/watch?v=91PfFoqvuUk
+https://youtu.be/91PfFoqvuUk
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport (Feed #2)
-https://www.youtube.com/watch?v=68GFgzQxrXs
+https://youtu.be/68GFgzQxrXs
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport (Feed #3 with Graphic)
-https://www.youtube.com/watch?v=0D6QgDOdI6c
+https://youtu.be/0D6QgDOdI6c
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - Runway
-https://www.youtube.com/watch?v=q8Bb4CwpECQ
+https://youtu.be/q8Bb4CwpECQ
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - South Runway
-https://www.youtube.com/watch?v=y3_x8el5ZJY
+https://youtu.be/y3_x8el5ZJY
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan International Airport - North Runway
-https://www.youtube.com/watch?v=wWEnxWA7nnY
+https://youtu.be/wWEnxWA7nnY
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Yongan Fishing Harbor
-https://www.youtube.com/watch?v=tD_a03trUvE
+https://youtu.be/tD_a03trUvE
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Lala Mountains
-https://www.youtube.com/watch?v=YkIUZjVlhv4
+https://youtu.be/YkIUZjVlhv4
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Hutoushan Enviromental Parks
-https://www.youtube.com/watch?v=tu_gsIkNt-w
+https://youtu.be/tu_gsIkNt-w
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Xiao Wulai Skyward Park
-https://www.youtube.com/watch?v=neaiCec1kec
+https://youtu.be/neaiCec1kec
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Xiao Wulai Panoramic Park
-https://www.youtube.com/watch?v=hcGGNRfPvjM
+https://youtu.be/hcGGNRfPvjM
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Jianbanshan Siqin
-https://www.youtube.com/watch?v=3Za9y4z_Lzc
+https://youtu.be/3Za9y4z_Lzc
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Three Swimming Turtles
-https://www.youtube.com/watch?v=5YDXZ1aiR5Y
+https://youtu.be/5YDXZ1aiR5Y
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Daxi Bridge
-https://www.youtube.com/watch?v=oFJ6gCaBb_Q
+https://youtu.be/oFJ6gCaBb_Q
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Hutoushan Owl Forest Schools
-https://www.youtube.com/watch?v=yQSmajHyMhU
+https://youtu.be/yQSmajHyMhU
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Jianbanshan Plum Ochard
-https://www.youtube.com/watch?v=-xT1bZhWLuU
+https://youtu.be/-xT1bZhWLuU
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Jiaobanshan Eco Pond
-https://www.youtube.com/watch?v=XEbo8NzMTbQ
+https://youtu.be/XEbo8NzMTbQ
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Daxi Old Street
-https://www.youtube.com/watch?v=XUWjAsajKXg
+https://youtu.be/XUWjAsajKXg
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Shihmen Reservoir
-https://www.youtube.com/watch?v=GUCaVR88ZFU
+https://youtu.be/GUCaVR88ZFU
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Cihu Memorial Sculpture Park
-https://www.youtube.com/watch?v=pSQ0e-ZTZ5g
+https://youtu.be/pSQ0e-ZTZ5g
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Taoyuan Baling
-https://www.youtube.com/watch?v=nV-DKquUjFs
+https://youtu.be/nV-DKquUjFs
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Suzu
-https://www.youtube.com/watch?v=QVx30qT1_BI
+https://youtu.be/QVx30qT1_BI
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Suzu (HAB Feed)
-https://www.youtube.com/watch?v=u5geWhHfPz4
+https://youtu.be/u5geWhHfPz4
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Kenrokuen Gardens
-https://www.youtube.com/watch?v=ZpzNv_hNxPE
+https://youtu.be/ZpzNv_hNxPE
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Wajima (The place ravaged by the fire during last year ago' 2024 Sea of Japan Earthquake Disasters)
-https://www.youtube.com/watch?v=rXF9kQldlao
+https://youtu.be/rXF9kQldlao
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Ishikawa Perfectural HQ
-https://www.youtube.com/watch?v=mRG1LVFC9Qk
+https://youtu.be/mRG1LVFC9Qk
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Chichihama Sunset
-https://www.youtube.com/watch?v=qiQtdUTEAmI
+https://youtu.be/qiQtdUTEAmI
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Kanazawa Train Station
-https://www.youtube.com/watch?v=8HV_KnQvXgw
+https://youtu.be/8HV_KnQvXgw
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / Bike Resthouse
-https://www.youtube.com/watch?v=yK8wehBqIQI
+https://youtu.be/yK8wehBqIQI
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Ishikawa / HAB (Hokuriku Asahi Broadcasting) TV Station HQ
-https://www.youtube.com/watch?v=5PnQ_umAu_s
+https://youtu.be/5PnQ_umAu_s
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Shizuoka: A view from Mt. Fuji
-https://www.youtube.com/watch?v=3ltxADrccf8
+https://youtu.be/3ltxADrccf8
 #EXTINF:-1 group-title="Earthquake Monitoring Cam",Shizuoka Multiview Live Cam
-https://www.youtube.com/watch?v=emf8I1z-uso
+https://youtu.be/emf8I1z-uso
 
 
 #EXTINF:-1 group-title="Kyrgyzstan Live Camera",Bishkek (Feed #1)
@@ -350,9 +328,9 @@ https://d.liveatc.net/opla_atis
 #EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",Allama Iqbal International Airport (Gnd/Twr/App)
 https://d.liveatc.net/opla
 #EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",RCTP Taiwan Taipei Airport
-https://www.youtube.com/watch?v=GbvjIBkhOow
+https://youtu.be/GbvjIBkhOow
 #EXTINF:-1 group-title="ATC Audio" tvg-logo="https://byvn.net/2LZH",RCKH Taiwan Kaohsiung Airport
-https://www.youtube.com/watch?v=Ek7fqkVWHZY
+https://youtu.be/Ek7fqkVWHZY
 
 #EXTINF:-1 group-title="ATC Audio",FMMI Twr/App/Center
 https://d.liveatc.net/fmmi
@@ -410,39 +388,39 @@ https://d.liveatc.net/rjtt_control
 #EXTINF:-1  group-title="Airport Cam",Tokyo Haneda ATC Audio Live (Twr/TCA)
 https://d.liveatc.net/rjtt_twr
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港一ターミナル (Tokyo Haneda Intl. Airport Terminal 1 Sector)
-https://www.youtube.com/watch?v=2f9NOSw-FqM
+https://youtu.be/2f9NOSw-FqM
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector)
-https://www.youtube.com/watch?v=A0FCKcTuRHo
+https://youtu.be/A0FCKcTuRHo
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港二ターミナル (Tokyo Haneda Intl. Airport Terminal 2 Sector Feed #2)
-https://www.youtube.com/watch?v=2Cd5tuB4vjU
+https://youtu.be/2Cd5tuB4vjU
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港T1/T3ターミナル (Tokyo Haneda Intl. Airport T1/T3 Sector)
-https://www.youtube.com/watch?v=DU-tsAEboZo
+https://youtu.be/DU-tsAEboZo
 #EXTINF:-1  group-title="Airport Cam",東京・羽田空港
-https://www.youtube.com/watch?v=XLb0ghogfa8
+https://youtu.be/XLb0ghogfa8
 #EXTINF:-1  group-title="Airport Cam",大阪府・伊丹空港
 https://www.youtube.com/channel/UCur21TajiRsI1Da1GLzv7Lg/live
 #EXTINF:-1  group-title="Airport Cam",Itami Airport Audio Feed
 https://d.liveatc.net/rjoo1
 #EXTINF:-1  group-title="Airport Cam",愛知県・名古屋空港
-https://www.youtube.com/watch?v=LRgGBlcL4KU
+https://youtu.be/LRgGBlcL4KU
 #EXTINF:-1  group-title="Airport Cam",札幌市・新千歳空港
-https://www.youtube.com/watch?v=Azbdr5jbN6o
+https://youtu.be/Azbdr5jbN6o
 #EXTINF:-1  group-title="Airport Cam",帯広・帯広空港
-https://www.youtube.com/watch?v=3dg35n9DLX0
+https://youtu.be/3dg35n9DLX0
 #EXTINF:-1  group-title="Airport Cam",福島県・福島空港
-https://www.youtube.com/watch?v=FflwF8jzZuU
+https://youtu.be/FflwF8jzZuU
 #EXTINF:-1  group-title="Airport Cam",福島県・福島空港 (Feed #2)
-https://www.youtube.com/watch?v=4POboTWLmVw
+https://youtu.be/4POboTWLmVw
 #EXTINF:-1  group-title="Airport Cam",大阪府・関西国際空港
-https://www.youtube.com/watch?v=hbtZI9hG_SQ
+https://youtu.be/hbtZI9hG_SQ
 #EXTINF:-1  group-title="Airport Cam",兵庫県・神戸空港
-https://www.youtube.com/watch?v=UUCEJO_mFHw
+https://youtu.be/UUCEJO_mFHw
 #EXTINF:-1  group-title="Airport Cam",千葉県・成田空港
-https://www.youtube.com/watch?v=jWCdG6mTTkk
+https://youtu.be/jWCdG6mTTkk
 #EXTINF:-1  group-title="Airport Cam",千葉県・成田空港 (中央)
-https://www.youtube.com/watch?v=qhHlmcYv20w
+https://youtu.be/qhHlmcYv20w
 #EXTINF:-1  group-title="Airport Cam",千葉県・成田空港 (フルービエル)
-https://www.youtube.com/watch?v=e8IC_8iB5kY
+https://youtu.be/e8IC_8iB5kY
 #EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (APP)
 https://d.liveatc.net/rjaa_app_s
 #EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (ATIS)
@@ -492,35 +470,35 @@ https://d.liveatc.net/rjaa_twr2
 #EXTINF:-1  group-title="Airport Cam",Narita Airport Audio Feed (Tower)
 https://d.liveatc.net/rjaa_twr
 #EXTINF:-1  group-title="Airport Cam",福島第‐福島第一原子力発電所
-https://www.youtube.com/watch?v=XoS2wFkKNrc
+https://youtu.be/XoS2wFkKNrc
 #EXTINF:-1  group-title="Airport Cam",Meteo România
 https://www.youtube.com/channel/UCF5GcyFOwtMGiuNWioA9fOQ/live
 
 #Live Cam
 #EXTINF:-1  group-title="Amazon",Live Camera from Amazon Jungle (by ANN / TVAsahi)
-https://www.youtube.com/watch?v=CludWJf1vbc
+https://youtu.be/CludWJf1vbc
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #1)
-https://www.youtube.com/watch?v=oG5zz9Sjw3E
+https://youtu.be/oG5zz9Sjw3E
 #EXTINF:-1  group-title="ANN Live Cam",Kilauea Eruption Live Cam (USGS #2)
-https://www.youtube.com/watch?v=Gd2Tm5jblbE
+https://youtu.be/Gd2Tm5jblbE
 #EXTINF:-1  group-title="ANN Live Cam",関越自動車道・東松山IC付近
-https://www.youtube.com/watch?v=ZV3oCAKSNx0
+https://youtu.be/ZV3oCAKSNx0
 #EXTINF:-1  group-title="ANN Live Cam",中央自動車道・元八王子バス停付近
-https://www.youtube.com/watch?v=FsL_KQz4gpw
+https://youtu.be/FsL_KQz4gpw
 #EXTINF:-1  group-title="ANN Live Cam",群馬県高崎市高崎駅
-https://www.youtube.com/watch?v=YZcRxaKmvU4
+https://youtu.be/YZcRxaKmvU4
 #EXTINF:-1  group-title="ANN Live Cam",東名高速道路・厚木IC付近
-https://www.youtube.com/watch?v=5rxOBb4V83I
+https://youtu.be/5rxOBb4V83I
 #EXTINF:-1  group-title="ANN Live Cam",渋谷スクランブル
-https://www.youtube.com/watch?v=tujkoXI8rWM
+https://youtu.be/tujkoXI8rWM
 #EXTINF:-1  group-title="ANN Live Cam",江の島ビーチ
-https://www.youtube.com/watch?v=8o-jYN1XN88
+https://youtu.be/8o-jYN1XN88
 #EXTINF:-1  group-title="TBS Live Cam",横浜・みなとみらい
-https://www.youtube.com/watch?v=x3P3N3VGvtU
+https://youtu.be/x3P3N3VGvtU
 #EXTINF:-1  group-title="TBS Live Cam",東京・浅草寺
-https://www.youtube.com/watch?v=LnrmP3Z1M-s
+https://youtu.be/LnrmP3Z1M-s
 #EXTINF:-1  group-title="TBS Live Cam",東京・新宿駅
-https://www.youtube.com/watch?v=_zU8K43Twus
+https://youtu.be/_zU8K43Twus
 
 #EXTINF:-1 group-title="Mosque Camera"tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
@@ -555,25 +533,25 @@ https://.imamhossaintv.com/ih4.m3u8
 #EXTINF:-1 tvg-id="NhaTrang1" group-title="📍Nha Trang" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Nha Trang Bây Giờ
 https://www.youtube.com/@NhaTrang_rent/live
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Nút Giao Thông Tây Cầu Rồng
-https://www.youtube.com/watch?v=VHxNpNjKurU&pp=0gcJCX4JAYcqIYzv/live
+https://youtu.be/VHxNpNjKurU&pp=0gcJCX4JAYcqIYzv/live
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",BV Đà Nẵng
-https://www.youtube.com/watch?v=AcndFyZebdc
+https://youtu.be/AcndFyZebdc
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Cầu Trần Thị Lý
-https://www.youtube.com/watch?v=JZRc7-Bvsfg
+https://youtu.be/JZRc7-Bvsfg
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trang Phục biểu diễn Phương Trần Đà Nẵng
-https://www.youtube.com/watch?v=CaMkzNXwVcE
+https://youtu.be/CaMkzNXwVcE
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Camera cổng Sau bệnh viện C Đà Nẵng
-https://www.youtube.com/watch?v=muijHPW82vI
+https://youtu.be/muijHPW82vI
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Camera cổng trường Nguyễn Huệ Đà Nẵng
-https://www.youtube.com/watch?v=7gVcaJMfpVI
+https://youtu.be/7gVcaJMfpVI
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",CỔNG TRƯỜNG LÝ TỰ TRỌNG -12 LÝ TỰ TRỌNG
-https://www.youtube.com/watch?v=H1-QpBbMPNo
+https://youtu.be/H1-QpBbMPNo
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",TRƯỜNG LÝ TỰ TRỌNG - HƯỚNG KS SÔNG HÀN - 12 Lý Tự Trọng
-https://www.youtube.com/watch?v=jysOgkivUKQ
+https://youtu.be/jysOgkivUKQ
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",Trường Tiểu Học Lý Tự Trọng
-https://www.youtube.com/watch?v=Wa53eoX30rw
+https://youtu.be/Wa53eoX30rw
 #EXTINF:-1 tvg-id="Danang1" group-title="📍Đà Nẵng" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/TruyenHinh/DuLichVN",CAMERA PTZ KHÁCH SẠN HẢI TRIỀU ĐÀ NẴNG
-https://www.youtube.com/watch?v=PmhlLGhCq9k
+https://youtu.be/PmhlLGhCq9k
 
 #EXTINF:-1 group-title="⛪|Thánh Lễ",TGPSG Thánh lễ hằng ngày
 https://www.youtube.com/channel/UCc7qu2cB-CzTt8CpWqLba-g/live
@@ -609,35 +587,32 @@ https://www.youtube.com/@MariaVisionItalia/live
 https://www.youtube.com/@basilicadenazare/live
 
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Starship 24/7 Live
-https://www.youtube.com/watch?v=mhJRzQsLZGg
+https://youtu.be/mhJRzQsLZGg
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from ISS (with Earth view cam)
-https://www.youtube.com/watch?v=jKHvbJe9c_Y
+https://youtu.be/jKHvbJe9c_Y
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Cape Canaerval Base Multiview Cam
-https://www.youtube.com/watch?v=hAQ0rWK5j-U
+https://youtu.be/hAQ0rWK5j-U
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from ISS (Overview cam)
-https://www.youtube.com/watch?v=js_h8tCNH9s
+https://youtu.be/js_h8tCNH9s
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Gator's Cam)
-https://www.youtube.com/watch?v=FTw5xuq2swo
+https://youtu.be/FTw5xuq2swo
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (WuWa Male Rover Cam)
-https://www.youtube.com/watch?v=DpCNkxtZT30
+https://youtu.be/DpCNkxtZT30
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (WuWa Female Rover Cam)
-https://www.youtube.com/watch?v=tS2PHJmvJzo
+https://youtu.be/tS2PHJmvJzo
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Sentinel Cam)
-https://www.youtube.com/watch?v=IQV0DlS1Ew0
+https://youtu.be/IQV0DlS1Ew0
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Rocket Cam)
-https://www.youtube.com/watch?v=qw3uaLRrYNY
+https://youtu.be/qw3uaLRrYNY
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (BA Cam)
-https://www.youtube.com/watch?v=uH1W01t_lGc
+https://youtu.be/uH1W01t_lGc
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Nerdle Cam)
-https://www.youtube.com/watch?v=tFA8jo0Ejf8
+https://youtu.be/tFA8jo0Ejf8
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Lab Cam)
-https://www.youtube.com/watch?v=fy1bV9mkBbw
+https://youtu.be/fy1bV9mkBbw
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Live Camera from Cape Canaerval Base (Sapphire Cam)
-https://www.youtube.com/watch?v=H7SvvCDNb_s
+https://youtu.be/H7SvvCDNb_s
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",Space Coast Live
-https://www.youtube.com/watch?v=Jm8wRjD3xVA
+https://youtu.be/Jm8wRjD3xVA
 #EXTINF:-1 group-title="🛰️🚀📡|Space Station and Launch Live",McGregor Live Cam
-https://www.youtube.com/watch?v=cOmmvhDQ2HM
-
-#EXTINF:-1 group-title="Video Game Live Camera",Live Camera from Shanghai
-https://hd-auth.skylinewebcams.com/live.m3u8?a=dtcqfg290mhuqllc29p2dro160
+https://youtu.be/cOmmvhDQ2HM
