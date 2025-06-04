@@ -99,6 +99,27 @@ https://now14.g-mana.live/media/91517161-44ab-4e46-af70-e9fe26117d2e/mainManifes
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Channel13.il",Reshet 13 
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PalestineSatelliteChannel.ps" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36",Palestine Satellite Channel 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+https://pbc.furrera.ps/palestinehd/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 1
+https://ncdn.telewebion.com/tv1/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 2
+https://ncdn.telewebion.com/tv2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 3
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
+https://ncdn.telewebion.com/tv4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Nasim.ir",Nasim
+https://ncdn.telewebion.com/nasim/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
+https://ncdn.telewebion.com/irinn/live/playlist.m3u8
+#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRINN2
+https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
 
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AjyalTV.ps",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
@@ -158,40 +179,6 @@ https://htvint.mada.ps/nabluslive/index.m3u8
 https://s2.cdn1.iranseda.ir/liveedge/radio-english/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",IRIB Iran Radio
 https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV (Dự phòng)
-https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV 
-https://lenz.splus.ir/PLTV/88888888/224/3221226156/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 1
-https://ncdn.telewebion.com/tv1/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 2
-https://ncdn.telewebion.com/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 3
-https://ncdn.telewebion.com/tv3/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 4
-https://ncdn.telewebion.com/tv4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5 - Amphoreus Regional Channel
-https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 1 (Dự phòng)
-https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 2 (Dự phòng)
-https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 3 (Dự phòng)
-https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB 4 (Dự phòng)
-https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB5 - Amphoreus Regional Channel (Dự phòng)
-https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Nasim.ir",Nasim
-https://ncdn.telewebion.com/nasim/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN (Dự phòng)
-https://ncdn.telewebion.com/irinn/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
-https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRINN2 (Dự phòng)
-https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRINN2
-https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRIB AlAlam News Network (Cyberdimension Neptunia 4GO)
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
 
@@ -261,378 +248,321 @@ https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="SudanTV.sd",SudanTV (480p)
 https://tgn.bozztv.com/trn03/gin-sudantv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал +4
+
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал
+http://135.181.115.81:8000/play/a03a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал Вьетнамское время
 https://edge1.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 1 +4
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 1 Вьетнамское время
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 1 Региональная версия
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1HD_TOMSK.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 24
-http://130.193.73.10:8937/play/a00k
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 24 Юго-восточное азиатское время
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия Культура
-http://130.193.73.10:8937/play/a00m
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия Культура Вьетнамское время
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ОТР
-http://130.193.73.10:8937/play/a00e
+http://178.212.71.253:8000/play/9/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ
-http://130.193.73.10:8937/play/a00d
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ +4
+https://cdn.ntv.ru/ntv0/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ Вьетнамское время
 https://cdn.ntv.ru/ntv4/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ-Сериал
-http://130.193.73.10:8937/play/a03e
+https://cdn.ntv.ru/th_serial/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ-хит
-http://130.193.73.10:8937/play/a03f
+https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ-Право
-http://130.193.73.10:8937/play/a01s
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ-Стиль
-http://130.193.73.10:8937/play/a01t
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТВЦ
-http://130.193.73.10:8937/play/a00p
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Пятый канал
-http://130.193.73.10:8937/play/a00h
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Рен ТВ
-http://130.193.73.10:8937/play/a00i
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ
-http://130.193.73.10:8937/play/a01y
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",1-й Республиканский
-http://130.193.73.10:8937/play/a001
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Новороссия ТВ
-http://130.193.73.10:8937/play/a002
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Оплот ТВ HD
-http://130.193.73.10:8937/play/a003
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Оплот ТВ(2)
-http://130.193.73.10:8937/play/a004
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Юнион
-http://130.193.73.10:8937/play/a005
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Известия
-http://130.193.73.10:8937/play/a006
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",БелРос
-http://130.193.73.10:8937/play/a007
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Домашний
-http://130.193.73.10:8937/play/a008
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Звезда
-http://130.193.73.10:8937/play/a009
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", 360
-http://130.193.73.10:8937/play/a00q
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", 365 Дней
-http://130.193.73.10:8937/play/a01c
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Amedia 1
-http://130.193.73.10:8937/play/a02m
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Amedia 2
-http://130.193.73.10:8937/play/a02n
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Amedia Hit
-http://130.193.73.10:8937/play/a02o
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Amedia Premium HD
-http://130.193.73.10:8937/play/a02p
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Bollywood HD
-http://130.193.73.10:8937/play/a02l
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", CTC Kids
-http://130.193.73.10:8937/play/a017
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Flix Snip
-http://130.193.73.10:8937/play/a02r
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Game Show
-http://130.193.73.10:8937/play/a02i
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Hollywood HD
-http://130.193.73.10:8937/play/a02k
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", RTG HD
-http://130.193.73.10:8937/play/a01h
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Sci-Fi
-http://130.193.73.10:8937/play/a02q
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Shot TV
-http://130.193.73.10:8937/play/a022
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", TV1000 Action
-http://130.193.73.10:8937/play/a02t
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Travel Adventure
-http://130.193.73.10:8937/play/a026
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Viasat Explorer
-http://130.193.73.10:8937/play/a01j
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Viasat Nature
-http://130.193.73.10:8937/play/a01k
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Viasat Nature-History HD
-http://130.193.73.10:8937/play/a01l
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", World Fashion Ru
-http://130.193.73.10:8937/play/a01o
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Авто 24
-http://130.193.73.10:8937/play/a01p
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Авто Плюс
-http://130.193.73.10:8937/play/a027
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Да Винчи
-http://130.193.73.10:8937/play/a014
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Домашние животные
-http://130.193.73.10:8937/play/a02d
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Живая планета
-http://130.193.73.10:8937/play/a01m
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", КВН ТВ
-http://130.193.73.10:8937/play/a02h
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Карусель
-http://130.193.73.10:8937/play/a00a
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Кто есть кто
-http://130.193.73.10:8937/play/a02b
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Кухня ТВ
-http://130.193.73.10:8937/play/a02c
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Лен ТВ 24
-http://130.193.73.10:8937/play/a00l
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Мир 24
-http://130.193.73.10:8937/play/a00c
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Моя Планета
-http://130.193.73.10:8937/play/a02g
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Мульт Музыка
-http://130.193.73.10:8937/play/a00y
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Наука 2.0
-http://130.193.73.10:8937/play/a019
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", О!
-http://130.193.73.10:8937/play/a016
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Продвижение Москва
-http://130.193.73.10:8937/play/a01u
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", СТС Love
-http://130.193.73.10:8937/play/a01x
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Сапфир HD
-http://130.193.73.10:8937/play/a01e
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Сарафан ТВ
-http://130.193.73.10:8937/play/a01v
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Спас ТВ
-http://130.193.73.10:8937/play/a00o
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", ТНТ 4
-http://130.193.73.10:8937/play/a020
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", ТНТ HD
-http://130.193.73.10:8937/play/a01z
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Точка отрыва
-http://130.193.73.10:8937/play/a021
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Уник-Ум
-http://130.193.73.10:8937/play/a015
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Че!
-http://130.193.73.10:8937/play/a025
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",2x2
-http://130.193.73.10:8937/play/a01b
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",8 канал
-http://130.193.73.10:8937/play/a05a
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ani
-http://130.193.73.10:8937/play/a00t
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Classic Music
-http://130.193.73.10:8937/play/a044
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Dorama
-http://130.193.73.10:8937/play/a03v
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",FAN
-http://130.193.73.10:8937/play/a03w
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Filmbox
-http://130.193.73.10:8937/play/a03s
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Filmbox Arthouse
-http://130.193.73.10:8937/play/a03t
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Gulli
-http://130.193.73.10:8937/play/a00v
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",M-1 GLOBAL
-http://130.193.73.10:8937/play/a04n
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",MCM Top
-http://130.193.73.10:8937/play/a041
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ru TV
-http://130.193.73.10:8937/play/a03z
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",TLC
-http://130.193.73.10:8937/play/a01i
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",TNT Music
-http://130.193.73.10:8937/play/a040
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",TV1000
-http://130.193.73.10:8937/play/a02s
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",TV1000 Русское Кино
-http://130.193.73.10:8937/play/a02u
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Terra
-http://130.193.73.10:8937/play/a01f
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Terra HD
-http://130.193.73.10:8937/play/a01g
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Tiji
-http://130.193.73.10:8937/play/a05k
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",VIP Premiere HD
-http://130.193.73.10:8937/play/a03g
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Zee TV
-http://130.193.73.10:8937/play/a03x
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Бобер
-http://130.193.73.10:8937/play/a02a
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Боец
-http://130.193.73.10:8937/play/a04k
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Бокс ТВ
-http://130.193.73.10:8937/play/a047
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",В Гостях у Сказки
-http://130.193.73.10:8937/play/a0b2
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Время далекое и близкое
-http://130.193.73.10:8937/play/a03p
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Детский
-http://130.193.73.10:8937/play/a00w
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Диалоги о рыбалке
-http://130.193.73.10:8937/play/a04q
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Дикая охота HD
-http://130.193.73.10:8937/play/a04o
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Дикая рыбалка HD
-http://130.193.73.10:8937/play/a04p
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Дикий
-http://130.193.73.10:8937/play/a04s
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Доктор
-http://130.193.73.10:8937/play/a01q
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Дом Кино
-http://130.193.73.10:8937/play/a02v
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Еврокино
-http://130.193.73.10:8937/play/a02w
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Жара
-http://130.193.73.10:8937/play/a03y
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ЖиВи
-http://130.193.73.10:8937/play/a02e
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Иллюзион
-http://130.193.73.10:8937/play/a02y
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Индийское кино
-http://130.193.73.10:8937/play/a02z
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",История
-http://130.193.73.10:8937/play/a01a
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",КХЛ HD
-http://130.193.73.10:8937/play/a046
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кинеко HD
-http://130.193.73.10:8937/play/a03d
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кино ТВ HD
-http://130.193.73.10:8937/play/a030
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кинокомедия
-http://130.193.73.10:8937/play/a031
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киномикс
-http://130.193.73.10:8937/play/a032
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киносвидание
-http://130.193.73.10:8937/play/a033
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киносемья
-http://130.193.73.10:8937/play/a034
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киносерия
-http://130.193.73.10:8937/play/a035
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киноужас
-http://130.193.73.10:8937/play/a03r
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кинохит
-http://130.193.73.10:8937/play/a036
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Любимое кино
-http://130.193.73.10:8937/play/a037
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ля минор
-http://130.193.73.10:8937/play/a045
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",МАТЧ! Премьер
-http://130.193.73.10:8937/play/a04i
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",МУЗ ТВ
-http://130.193.73.10:8937/play/a042
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мама
-http://130.193.73.10:8937/play/a01r
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч Премьер HD
-http://130.193.73.10:8937/play/a04b
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч ТВ
-http://130.193.73.10:8937/play/a048
+https://cdn.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ТНТ4
+http://178.212.71.253:8000/play/106/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ТНТ
+http://178.212.71.253:8000/play/19/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",РЕН ТВ
+http://178.212.71.253:8000/play/11/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Матч!
+http://178.212.71.253:8000/play/3/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Точка РФ
+http://178.212.71.253:8000/play/61/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",RTG TV
+http://178.212.71.253:8000/play/71/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Живая природа
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",История
+http://178.212.71.253:8000/play/87/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Охота и Рыбалка
+http://178.212.71.253:8000/play/93/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Живая Планета
+http://178.212.71.253:8000/play/114/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Моя Планета
+http://178.212.71.253:8000/play/117/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Наука
+http://178.212.71.253:8000/play/88/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Большая азия
+http://178.212.71.253:8000/play/83/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Техно 24
+http://178.212.71.253:8000/play/63/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",5 Канал
+http://178.212.71.253:8000/play/5/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ТВЦ
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Спас
+http://178.212.71.253:8000/play/12/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",СТС
+http://178.212.71.253:8000/play/13/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Домашний
+http://178.212.71.253:8000/play/14/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ТВ3
+http://178.212.71.253:8000/play/15/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Пятница
+http://178.212.71.253:8000/play/16/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Звезда
+http://178.212.71.253:8000/play/17/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мир
+http://178.212.71.253:8000/play/18/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Первый Крымский
+http://178.212.71.253:8000/play/22/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мир 24
+http://178.212.71.253:8000/play/23/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Милет
+http://178.212.71.253:8000/play/24/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Первый Крымский HD
+http://178.212.71.253:8000/play/25/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG", Крым 24 HD
+http://178.212.71.253:8000/play/26/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Ялта ТВ
+http://178.212.71.253:8000/play/27/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Москва 24
+http://178.212.71.253:8000/play/28/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ИКС
+http://178.212.71.253:8000/play/29/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Mezzo
+http://178.212.71.253:8000/play/31/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Витрина
+http://178.212.71.253:8000/play/32/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Ювелирочка
+http://178.212.71.253:8000/play/35/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",РБК
+http://178.212.71.253:8000/play/36/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ТРО
+http://178.212.71.253:8000/play/37/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Телеканал 360
+http://178.212.71.253:8000/play/39/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Cinema
+http://178.212.71.253:8000/play/40/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ЦТВ
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Русский Роман
+http://178.212.71.253:8000/play/42/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",МузСоюз
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Сарафан
+http://178.212.71.253:8000/play/44/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Русский Детектив
+http://178.212.71.253:8000/play/45/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Русский Иллюзион
+http://178.212.71.253:8000/play/49/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Любимое кино
+http://178.212.71.253:8000/play/50/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Москва Доверие
+http://178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Индия
+http://178.212.71.253:8000/play/59/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Киносерия
+http://178.212.71.253:8000/play/64/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Киносат
+http://178.212.71.253:8000/play/66/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",365 дней
+http://178.212.71.253:8000/play/67/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Доктор
+http://178.212.71.253:8000/play/68/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Авто плюс
+http://178.212.71.253:8000/play/69/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Телеканал 360
+http://178.212.71.253:8000/play/72/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Наша Тема
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Суббота
+http://178.212.71.253:8000/play/75/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Кино ТВ
+http://178.212.71.253:8000/play/78/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Союз
+http://178.212.71.253:8000/play/80/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мир 24 HD
+http://178.212.71.253:8000/play/82/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Вместе-РФ
+http://178.212.71.253:8000/play/84/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Беларусь 24
+http://178.212.71.253:8000/play/89/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Ретро
+http://178.212.71.253:8000/play/90/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Усадьба
+http://178.212.71.253:8000/play/91/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Драйв
+http://178.212.71.253:8000/play/92/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Здоровое ТВ
+http://178.212.71.253:8000/play/94/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Домашние животные
+http://178.212.71.253:8000/play/95/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Психология 21
+http://178.212.71.253:8000/play/96/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Вопросы и ответы
+http://178.212.71.253:8000/play/97/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Дом Кино
+http://178.212.71.253:8000/play/99/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",НСТ
+http://178.212.71.253:8000/play/100/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG", CTC love
+http://178.212.71.253:8000/play/104/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG", Ю
+http://178.212.71.253:8000/play/105/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Конный Мир
+http://178.212.71.253:8000/play/108/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Соловьев Live
+http://178.212.71.253:8000/play/111/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",2x2
+http://178.212.71.253:8000/play/113/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Русский Бестселер
+http://178.212.71.253:8000/play/115/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",КВН ТВ
+http://178.212.71.253:8000/play/119/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",7TV
+http://178.212.71.253:8000/play/120/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",8 канал
+http://178.212.71.253:8000/play/121/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мосфильм. Золотая коллекция
+http://178.212.71.253:8000/play/124/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мужское Кино
+http://178.212.71.253:8000/play/126/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Киносемья
+http://178.212.71.253:8000/play/127/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Киносвидание
+http://178.212.71.253:8000/play/122/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Киномикс
+http://178.212.71.253:8000/play/70/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Кинохит
+http://178.212.71.253:8000/play/123/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Наше Новое Кино
+http://178.212.71.253:8000/play/128/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Кинопремьера HD
+http://178.212.71.253:8000/play/125/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Кинокомедия
+http://178.212.71.253:8000/play/85/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Родное Кино
+http://178.212.71.253:8000/play/136/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Победа
+http://178.212.71.253:8000/play/129/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Звезда+
+http://178.212.71.253:8000/play/130/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Ностальгия
+http://178.212.71.253:8000/play/131/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Кто Есть Кто
+http://178.212.71.253:8000/play/132/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Киноужас
+http://178.212.71.253:8000/play/133/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",7ТВ
+http://178.212.71.253:8000/play/381/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Известия
+http://178.212.71.253:8000/play/138/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Че
+http://178.212.71.253:8000/play/139/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Продвижение
+http://178.212.71.253:8000/play/140/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Жара
+http://178.212.71.253:8000/play/141/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",1HD
+http://178.212.71.253:8000/play/60/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",МузТВ
+http://178.212.71.253:8000/play/20/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Music Box Russia
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Шансон ТВ
+http://178.212.71.253:8000/play/76/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Bridge HD
+http://178.212.71.253:8000/play/98/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Bridge TV
+http://178.212.71.253:8000/play/110/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Bridge TV Rock
+http://178.212.71.253:8000/play/101/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",BridgeTV Hit
+http://178.212.71.253:8000/play/134/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Bridge TV classic
+http://178.212.71.253:8000/play/135/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Bridge TV Шлягер
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",ТНТ Music
+http://178.212.71.253:8000/play/137/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",RU.TV
+http://178.212.71.253:8000/play/38/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Cолнце
+http://178.212.71.253:8000/play/103/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мама
+http://178.212.71.253:8000/play/86/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",СТС Kids
+http://178.212.71.253:8000/play/112/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Ani
+http://178.212.71.253:8000/play/74/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Детский Мир
+http://178.212.71.253:8000/play/52/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Радость Моя
+http://178.212.71.253:8000/play/46/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Карусель
+http://178.212.71.253:8000/play/8/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Бобёр
+http://178.212.71.253:8000/play/77/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мульт
+http://178.212.71.253:8000/play/47/index.m3u8
+#EXTINF:-1 ggroup-title="🇷🇺 Nga và khối SNG",Мультимузыка
+http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Eurosport 1
+http://178.212.71.253:8000/play/143/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч ТВ HD
-http://130.193.73.10:8937/play/a049
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Арена HD
-http://130.193.73.10:8937/play/a04a
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Страна HD
-http://130.193.73.10:8937/play/a04j
+http://178.212.71.253:8000/play/34/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Страна
+http://178.212.71.253:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Арена
+http://178.212.71.253:8000/play/54/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Борец
+http://178.212.71.253:8000/play/55/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Игра
+http://178.212.71.253:8000/play/56/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч Премьер
+http://178.212.71.253:8000/play/57/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Футбол 1
-http://130.193.73.10:8937/play/a04c
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Футбол 1 HD
-http://130.193.73.10:8937/play/a04d
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Футбол 2
-http://130.193.73.10:8937/play/a04e
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Футбол 2 HD
-http://130.193.73.10:8937/play/a04f
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Футбол 3
-http://130.193.73.10:8937/play/a04g
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Футбол 3 HD
-http://130.193.73.10:8937/play/a04h
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мир
-http://130.193.73.10:8937/play/a00b
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мир баскетбола
-http://130.193.73.10:8937/play/a04m
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мир сериала
-http://130.193.73.10:8937/play/a038
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Морской
-http://130.193.73.10:8937/play/a02f
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Москва-24
-http://130.193.73.10:8937/play/a00r
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мосфильм. Золотая коллекция
-http://130.193.73.10:8937/play/a03i
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Моторспорт ТВ
-http://130.193.73.10:8937/play/a04r
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мужское кино
-http://130.193.73.10:8937/play/a039
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Музыка Первого
-http://130.193.73.10:8937/play/a043
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мульт
-http://130.193.73.10:8937/play/a00x
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мультимания
-http://130.193.73.10:8937/play/a00z
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НАШЕ НОВОЕ КИНО
-http://130.193.73.10:8937/play/a03b
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НСТ
-http://130.193.73.10:8937/play/a03c
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ностальгия
-http://130.193.73.10:8937/play/a02x
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Победа
-http://130.193.73.10:8937/play/a03h
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Поехали!
-http://130.193.73.10:8937/play/a01n
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Пятница
-http://130.193.73.10:8937/play/a018
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",РБК
-http://130.193.73.10:8937/play/a00s
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Радость Моя
-http://130.193.73.10:8937/play/a0g3
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Родное кино
-http://130.193.73.10:8937/play/a03j
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русская Комедия
-http://130.193.73.10:8937/play/a03k
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Детектив
-http://130.193.73.10:8937/play/a03o
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Иллюзион
-http://130.193.73.10:8937/play/a03m
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Роман
-http://130.193.73.10:8937/play/a03n
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский бестселлер
-http://130.193.73.10:8937/play/a03l
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",СТС
-http://130.193.73.10:8937/play/a01w
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Сапфир
-http://130.193.73.10:8937/play/a01d
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Солнце
-http://130.193.73.10:8937/play/a00u
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Экстрим
+http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Старт
-http://130.193.73.10:8937/play/a04l
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Суббота!
-http://130.193.73.10:8937/play/a03a
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТВ Сфера
-http://130.193.73.10:8937/play/a04t
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТВ-3
-http://130.193.73.10:8937/play/a03q
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Телекафе
-http://130.193.73.10:8937/play/a03u
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Усадьба
-http://130.193.73.10:8937/play/a024
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ю
-http://130.193.73.10:8937/play/a028
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ювелирочка
-http://130.193.73.10:8937/play/a023
+http://178.212.71.253:8000/play/81/index.m3u8
 #EXTINF:-1 tvg-id="belarus1" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Belarus-1.jpg/200px-Belarus-1.jpg", Belarus 1
-http://194.158.222.36:6101
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
 #EXTINF:-1 tvg-id="belarus2" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://seeklogo.com/images/B/belarus-2-logo-703A54CF7F-seeklogo.com.png", Belarus 2
-http://194.158.222.36:6107
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
 #EXTINF:-1 tvg-id="belarus3" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus3.png", Belarus 3
-http://194.158.222.36:6108
-#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus4.png", Belarus 4
-https://flu.vtv.by/bt4-non-by/index.m3u8
-#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus4.png", Belarus 5
-http://194.158.222.36:6109
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus5.png", Belarus 5
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus5.png", Belarus 5 Internet
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
 #EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Belarus_24.svg/revision/latest/scale-to-width-down/200?cb=20191008123534", Belarus 24
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
+#EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e8/FirstNews2024.webp/revision/latest/scale-to-width-down/250?cb=20240918133029&path-prefix=ru", Belarus First News HD
+http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 #EXTINF:-1 tvg-id="stv-by" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/stv-by4.png", STV
-http://194.158.222.36:6103
-#EXTINF:-1 tvg-id="ont-by" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/nt-by.png", ONT
-http://194.158.222.36:6102
-#EXTINF:-1 tvg-id="no_epg_news" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/ont-by.png", ONT Internet
-https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1 tvg-id="no_epg_news" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/ont-by.png", ONT
+http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
 #EXTINF:-1 tvg-id="ntv-belarus" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/ntv-belarus.png", NTV-Belarus
-http://194.158.222.36:6106
+http://194.158.222.36:6107
 #EXTINF:-1 tvg-id="rtr-belarus" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/rtr-belarus.png", RTR-Belarus
-http://194.158.222.36:6105
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://www.mtis.by/i/tv_a/mir.png",Mir Belarus
-http://194.158.222.36:6104
-#EXTINF:-1 tvg-id="no_epg_news" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/ont-by.png", ONT Internet
-https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv-belarus" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/ntv-belarus.png", NTV-Belarus
 http://194.158.222.36:6106
-#EXTINF:-1 tvg-id="rtr-belarus" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/rtr-belarus.png", RTR-Belarus
-http://194.158.222.36:6105
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://www.mtis.by/i/tv_a/mir.png",Mir Belarus
 http://194.158.222.36:6104
 #EXTINF:-1 tvg-id="tro" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belros.png", BelRos
@@ -641,28 +571,58 @@ http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 #EXTINF:-1 tvg-id="tro" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belros.png", 2TV Gruzia
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
-#EXTINF:-1 tvg-id="kazakh-tv" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Kazakh_TV_Logo.png/220px-Kazakh_TV_Logo.png", Qazaq TV
-https://kzkhtv.ultraiptv.com/kzkhtv/master.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="kazakhstan" tvg-name="Qazaqstan" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="kazakhstan" tvg-name="Qazaqstan International" tvg-logo="https://iptvxcdn.ml/kazakhstan.png",Qazaqstan International
-https://qazaqstantv-stream.qazcdn.com/international/international/chunks.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="astana" tvg-name="Astana" tvg-logo="https://iptvxcdn.ml/astana.png",Astana
-https://astanatv-stream.daitsuna.net/astanatv/astanatv/astanatv/astanatv_720/chunks.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="xabar" tvg-name="Хабар" tvg-logo="https://iptvxcdn.ml/xabar.png",Khabar
-https://live-khabar2.cdnvideo.ru/khabar2/khabar2.sdp/chunklist.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="xabar24" tvg-name="Хабар 24" tvg-logo="https://iptvxcdn.ml/xabar24.png",Khabar-24
-https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="el-arna" tvg-name="El Arna" tvg-logo="https://iptvxcdn.ml/el-arna.png",El Arna
-https://elarna-live.cdnvideo.ru/elarna/elarna/chunklist.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="pervy-kanal-eurasia-kz" tvg-name="Первый канал Евразия" tvg-logo="https://iptvxcdn.ml/pervy-kanal-eurasia-kz.png",Perviy Eurasia
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="sedmoi-kanal" tvg-name="Седьмой канал" tvg-logo="http://epg.it999.ru/img2/2572.png",Sedmoy Kanal
-https://stream.tv7.kz/hls/stream.m3u8
-#EXTINF:0 group-title="🇷🇺 Nga và khối SNG" tvg-id="almaty" tvg-name="Almaty TV" tvg-logo="https://iptvxcdn.ml/almaty.png",Almaty TV
-https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="atameken-business" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://astanait.edu.kz/wp-content/uploads/2022/05/7d334930931ce11af092b9219b333f9d.png", Atameken Business
-http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="AbaiTV.kz",Abai TV 
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="AlauTV.kz",Alau TV 
+https://otv.wotom.net/alau/stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Aqjaiyq.kz",Aqjaiyq 
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Aqtobe.kz",Aqtóbe 
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Atyray.kz",Atyraý 
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Balapan.kz",Balapan TV
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Ertis.kz",Ertis  
+https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Jambyl.kz",Jambyl  
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Kokshe.kz",Kókshe  
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="ManasTV.kg@SD",Manas TV 
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Mangystay.kz",Mańǵystaý
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Ontustik.kz",Ontústik 
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qazaqstan.kz",Qazaqstan TV  
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qazaqstan.kz",Qazaqstan TV International 
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qostanai.kz",Qostanai  
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qyzyljar.kz",Qyzyljar 
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qyzylorda.kz",Qyzylorda 
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Saryarqa.kz",Saryarqa  
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Semei.kz",Semeı 
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="KTK.kz",КТК  
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="KTK.kz",КТК  
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MTRK.kz",МТРК  
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Novoetelevidenie.kz",Новое телевидение  
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MuzzOne.kz",MuzzOne 
+https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="31Kanal.kz",31 Kanal
+https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Altyn_Asyr.png/revision/latest/scale-to-width-down/250?cb=20211225160159",Altyn Asyr
 https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Ashgabat_TV.png/revision/latest?cb=20211225160751",Asgabat
@@ -677,443 +637,490 @@ https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Yashlyk.png/revision/latest?cb=20211225160800",Yaslyk TV
 https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/tvmir-logo-65.png", Mir
+#EXTINF:-1 tvg-id="mir" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/tvmir-logo-65.png", Mir HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="mir-24" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://onair.mir24.tv/storage/app/uploads/public/5d6/f65/368/5d6f653687663422591825.jpg", Mir 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv-ru" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://iptvxcdn.ml/cctv-ru.png", CGTN Russian
-http://liveru.cgtn.com/200r/prog_index.m3u8
-#EXTINF:-1 tvg-id="nastoyaschee-vremia" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Current_Time_TV_Logo.png/220px-Current_Time_TV_Logo.png", Current Time TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
-#EXTINF:-1 tvg-id="rtvi" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/RTVI_Logo_magenta_fill_2021.png/1024px-RTVI_Logo_magenta_fill_2021.png", RTVI
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://bkm.beetv.kz/btv/live/hls/000000039.m3u8
-#EXTINF:-1 tvg-id="dozhd" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://iptvxcdn.ml/dozhd.png", Dozhd
-http://portal.ott.pink/watch/7319/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 tvg-id="belsat" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Logo_Bie%C5%82sat_TV.png/220px-Logo_Bie%C5%82sat_TV.png", TVP Belsat
-http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="C1.mn",C1 
+https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="CentralTV.mn",Central TV 
+https://cdn3.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="DreamTV.mn",Dream TV 
+https://cdn3.skygo.mn/live/disk1/Dreambox/HLS-FTA/Dreambox.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="EagleNews.mn",Eagle News HD 
+https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="",Education 
+https://cdn3.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="",Education 
+https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="ETV.mn",ETV 
+https://cdn3.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV25.mn",MN25 
+https://cdn2.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV25.mn",MN25 
+https://cdn2.skygo.mn/live/disk1/MN25/HLS-FTA/MN25.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNB.mn",MNB HD
+https://cdn3.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNB.mn",MNB SD
+https://live.mnb.mn/hls/mnb.stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBSport.mn",MNB Sport 
+https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBSport.mn",MNB Sport 
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBWorld.mn",MNB World 
+https://live.mnb.mn/hls/mnb_world.stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="",MNB Гэр бүл 
+https://live.mnb.mn/hls/mnb_family.stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBMongoliinMedee.mn",MNB Монголын Мэдээ 
+https://cdn3.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBMongoliinMedee.mn",MNB Монголын Мэдээ 
+https://live.mnb.mn/hls/mn2.stream.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MovieBox.mn",MovieBox 
+https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="NTV.mn",NTV 
+https://cdn2.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="NTV.mn",NTV 
+https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="ONTV.mn",ONTV 
+https://cdn3.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="SBN.mn",SBN 
+https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="StarTV.mn",Star TV 
+https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="StarTV.mn",Star TV 
+https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV5.mn",TV5 
+https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV5.mn",TV5 
+https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV8.mn",TV8 
+https://cdn3.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV9.mn",TV9 
+https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="UBS.mn",UBS 
+https://cdn3.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MUONT1.mn",МҮОНТ-1 HD 
+https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
 
-
-#EXTINF:-1 group-title="🇺🇦 U Cà",ПЕРШИЙ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ПЕРШИЙ
 https://tva.in.ua/live/first.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ПЕРШИЙ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ПЕРШИЙ HD
 http://193.107.168.98:7006/play/526/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Київ HD TV 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Київ HD TV 
 https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Київ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Київ
 https://demo-cdn.lanet.tv/9033.m3u8?key=5a5a2b04ed6a8b2cc488cc0a
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Вінниця
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Вінниця
 http://cdnua05.hls.tv/649/hls/f62d71219200da4130d13b21d23fb23c/4785/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Дніпро
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Дніпро
 http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4786/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Житомир
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Житомир
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4787/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Запоріжжя
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Запоріжжя
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Луцьк 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Луцьк 
 http://193.107.168.98:7006/play/508/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Львів
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Львів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4794/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Полтава
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Полтава
 http://cdnua05.hls.tv/646/hls/f62d71219200da4130d13b21d23fb23c/4796/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Рівне
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Рівне
 http://cdnua05.hls.tv/648/hls/f62d71219200da4130d13b21d23fb23c/4797/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Кропивницький
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Кропивницький
 http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Харків
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Харків
 http://cdnua05.hls.tv/631/hls/f62d71219200da4130d13b21d23fb23c/4799/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Херсон
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Херсон
 http://cdnua05.hls.tv/633/hls/f62d71219200da4130d13b21d23fb23c/4801/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Хмельницький
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Хмельницький
 http://cdnua05.hls.tv/632/hls/f62d71219200da4130d13b21d23fb23c/4800/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Одеса
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Одеса
 http://cdnua05.hls.tv/653/hls/f62d71219200da4130d13b21d23fb23c/4833/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Суми
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Суми
 http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4798/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Тернопiль
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Тернопiль
 http://cdnua05.hls.tv/647/hls/f62d71219200da4130d13b21d23fb23c/4789/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Чернівці
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Чернівці
 http://cdnua05.hls.tv/643/hls/f62d71219200da4130d13b21d23fb23c/4790/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Чернігів
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Чернігів
 http://cdnua05.hls.tv/645/hls/f62d71219200da4130d13b21d23fb23c/4791/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Крим
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Крим
 http://193.107.168.59:7005/play/436/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Крим TV 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Крим TV 
 https://ext.cdn.nashnet.tv/228.0.0.71/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Культура HD TV 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Культура HD TV 
 https://ext.cdn.nashnet.tv/228.0.0.141/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суспільне Миколаїв HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суспільне Миколаїв HD
 http://portal.ott.pink/watch/7763/index.m3u8?geo=auto&free=true&token=2B8378CADCB27AA393170BD7EDB7C0E9
-#EXTINF:-1 group-title="🇺🇦 U Cà",1+1 марафон
-http://nl01.sharavoz.tv/151/index.m3u8?token=9Upu8zNZAc5LNV
-#EXTINF:-1 group-title="🇺🇦 U Cà",1+1 International
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",1+1 марафон
+http://u.vipl.one/high/xhbn9vt3ru/866.m3u8
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",1+1 International
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/27652/
-#EXTINF:-1 group-title="🇺🇦 U Cà",2+2 sd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",2+2 sd
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/18657/
-#EXTINF:-1 group-title="🇺🇦 U Cà",2+2 HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",2+2 HD
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/27654/
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV Серіал HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV Серіал HD
 http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV Серіал r1
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV Серіал r1
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV Серіал r2
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV Серіал r2
 http://cdnua05.hls.tv/623/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV Серіал r3
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV Серіал r3
 http://cdnua05.hls.tv/625/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV 2 hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV 2 hd
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV 2 hd1
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV 2 hd1
 http://cdnua05.hls.tv/921/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV 2 r1
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV 2 r1
 http://cdnua05.hls.tv/922/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ICTV 2 r2
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ICTV 2 r2
 http://cdnua05.hls.tv/427/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Новий канал FHD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Новий канал FHD
 http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10043
-#EXTINF:-1 group-title="🇺🇦 U Cà",Новый канал
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Новый канал
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/18023/
-#EXTINF:-1 group-title="🇺🇦 U Cà",Новый Канал hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Новый Канал hd
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/43869/
-#EXTINF:-1 group-title="🇺🇦 U Cà",СТБ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",СТБ
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/503/
-#EXTINF:-1 group-title="🇺🇦 U Cà",СТБ hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",СТБ hd
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/61548/
-#EXTINF:-1 group-title="🇺🇦 U Cà",ТЕТ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ТЕТ
 http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10047
-#EXTINF:-1 group-title="🇺🇦 U Cà",ТЕТ sd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ТЕТ sd
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/59782/
-#EXTINF:-1 group-title="🇺🇦 U Cà",ТЕТ hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ТЕТ hd
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/29764/
-#EXTINF:-1 group-title="🇺🇦 U Cà",HTH HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",HTH HD
 http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10193
-#EXTINF:-1 group-title="🇺🇦 U Cà",НТН sd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",НТН sd
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/18019/
-#EXTINF:-1 group-title="🇺🇦 U Cà",НТН HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",НТН HD
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/32938/
-#EXTINF:-1 group-title="🇺🇦 U Cà",K1 HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",K1 HD
 http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10197
-#EXTINF:-1 group-title="🇺🇦 U Cà",K2 HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",K2 HD
 http://85.192.28.48/test/test.php?dj=eyJ1cmwiOiJodHRwOi8vdHYuaW5mb21pci5jb20udWEvc3RhbGtlcl9wb3J0YWwvc2VydmVyL2xvYWQucGhwIiwidG9rIjoiRDVBNzQ1QTQyRDI3QkYyM0Y1QjZBRjBCMjg1Q0NGMDUiLCJtYWMiOiIwMDoxQTo3OTo0Qzo3RDo5NiJ9&id=10198
-#EXTINF:-1 group-title="🇺🇦 U Cà",Iнтер+
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Iнтер+
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/34629/
-#EXTINF:-1 group-title="🇺🇦 U Cà",Iнтер+ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Iнтер+ HD
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/54742/
-#EXTINF:-1 group-title="🇺🇦 U Cà",Enter-фільм
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Enter-фільм
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/52584/
-#EXTINF:-1 group-title="🇺🇦 U Cà",Enter-фільм HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Enter-фільм HD
 http://bl2.provds.pw/~20144ee7dde9e0493f52c84a69603d888ca/61885/
-#EXTINF:-1 group-title="🇺🇦 U Cà",Action TVOE Kino HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Action TVOE Kino HD
 http://193.27.209.122/tvoje_kino_action/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Xit TVOE Kino HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Xit TVOE Kino HD
 http://193.27.209.122/tvoje_kino_hit/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Super+ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Super+ HD
 http://193.27.209.122/super_plus/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Сонце HD TV 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Сонце HD TV 
 https://tva.in.ua/live/sonce.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",FILM TV GROUP
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",FILM TV GROUP
 http://filmtv.zapto.org/FILM_TV_GROUP/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="🇺🇦 U Cà",Новосілки ТБ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Новосілки ТБ
 http://filmtv.zapto.org/novosilkitb/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="🇺🇦 U Cà",FILM TV Кінозал
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",FILM TV Кінозал
 http://filmtv.zapto.org/FILMTVKinozal/video.m3u8?token=Ijb9BSWre2eLJ3
-#EXTINF:-1 group-title="🇺🇦 U Cà",Бровари Кіно TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Бровари Кіно TV
 https://stream.gia.tv/giatv/giatv-88882com/88882com/chunks.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",kinosweet HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",kinosweet HD
 http://193.27.209.122/kinosweet/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Сine+ legend
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Сine+ legend
 http://193.27.209.122/cine_plus_legend/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Usba TV - Україна
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Usba TV - Україна
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Usba TV - Україна 2
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Usba TV - Україна 2
 https://fl1001.bozztv.com/ushba12/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Dim TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Dim TV
 http://185.236.229.62:9981/play/a04x
-#EXTINF:-1 group-title="🇺🇦 U Cà",ДІМ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ДІМ
 https://cdnua03.hls.tv/hls/6154479a1319705257f2335762b18f51/4780/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Твій серіал
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Твій серіал
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4870/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Твій серіал hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Твій серіал hd
 http://cdnua05.hls.tv/935/hls/8743361621b245838bee193c9ec28322/4870/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",КІНО ТА СЕРІАЛИ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",КІНО ТА СЕРІАЛИ
 http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4867/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",КІНО ТА СЕРІАЛИ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",КІНО ТА СЕРІАЛИ HD
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4867/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",4EVER Theater HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",4EVER Theater HD
 http://cdnua05.hls.tv/923/hls/8743361621b245838bee193c9ec28322/4837/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Серіал
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Серіал
 http://cdnua05.hls.tv/6516/hls/f62d71219200da4130d13b21d23fb23c/4891/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Серіал r
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Серіал r
 http://cdnua05.hls.tv/6816/hls/f62d71219200da4130d13b21d23fb23c/4891/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Мелодрами HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Мелодрами HD
 http://cdnua05.hls.tv/7211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Мелодрами HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Мелодрами HD
 http://cdnua05.hls.tv/8211/hls/f62d71219200da4130d13b21d23fb23c/4903/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Сімейні мелодрами+
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Сімейні мелодрами+
 http://cdnua05.hls.tv/617/hls/f62d71219200da4130d13b21d23fb23c/4892/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Сімейні мелодрами+ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Сімейні мелодрами+ HD
 http://cdnua05.hls.tv/0538/hls/8743361621b245838bee193c9ec28322/4892/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ОПЕР за викликом+
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ОПЕР за викликом+
 http://cdnua05.hls.tv/614/hls/f62d71219200da4130d13b21d23fb23c/4889/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ОПЕР за викликом+ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ОПЕР за викликом+ HD
 http://cdnua05.hls.tv/0941/hls/8743361621b245838bee193c9ec28322/4889/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ЖВЛ+ життя відомих людей
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ЖВЛ+ життя відомих людей
 http://cdnua05.hls.tv/622/hls/f62d71219200da4130d13b21d23fb23c/4895/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Один За Всіх
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Один За Всіх
 http://cdnua05.hls.tv/216/hls/f62d71219200da4130d13b21d23fb23c/4909/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Невигадані Історії
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Невигадані Історії
 http://cdnua05.hls.tv/210/hls/f62d71219200da4130d13b21d23fb23c/4902/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Машина часу
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Машина часу
 http://cdnua05.hls.tv/635/hls/f62d71219200da4130d13b21d23fb23c/4901/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Слідство ведуть екстрасенси
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Слідство ведуть екстрасенси
 http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4897/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ВІКТОРИНА HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ВІКТОРИНА HD
 http://cdnua05.hls.tv/221/hls/f62d71219200da4130d13b21d23fb23c/4910/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ВІКТОРИНА hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ВІКТОРИНА hd
 http://cdnua05.hls.tv/921/hls/f62d71219200da4130d13b21d23fb23c/4910/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",fun HD КОМЕДІЙНИЙ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",fun HD КОМЕДІЙНИЙ
 http://cdnua05.hls.tv/630/hls/f62d71219200da4130d13b21d23fb23c/4898/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",МИ+ УКРАЇНА
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",МИ+ УКРАЇНА
 http://cdnua05.hls.tv/0338/hls/8743361621b245838bee193c9ec28322/4885/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Стосується кожного HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Стосується кожного HD
 http://cdnua05.hls.tv/679/hls/f62d71219200da4130d13b21d23fb23c/4882/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Стосується кожного
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Стосується кожного
 http://cdnua05.hls.tv/0949/hls/8743361621b245838bee193c9ec28322/4882/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Одружені НАОСЛІП+
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Одружені НАОСЛІП+
 http://cdnua05.hls.tv/619/hls/f62d71219200da4130d13b21d23fb23c/4893/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Одружені НАОСЛІП+ r
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Одружені НАОСЛІП+ r
 http://cdnua05.hls.tv/6133/hls/f62d71219200da4130d13b21d23fb23c/4893/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Реаліті Шоу Врятуйте нашу сімю
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Реаліті Шоу Врятуйте нашу сімю
 http://cdnua05.hls.tv/631/hls/f62d71219200da4130d13b21d23fb23c/4899/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Реаліті Шоу Врятуйте нашу сімю r
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Реаліті Шоу Врятуйте нашу сімю r
 http://cdnua05.hls.tv/6321/hls/f62d71219200da4130d13b21d23fb23c/4899/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суппер МАМА iptv*org*ua
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суппер МАМА iptv*org*ua
 http://cdnua05.hls.tv/634/hls/f62d71219200da4130d13b21d23fb23c/4900/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Суппер МАМА r
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Суппер МАМА r
 http://cdnua05.hls.tv/6314/hls/f62d71219200da4130d13b21d23fb23c/4900/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Панянка селянка 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Панянка селянка 
 http://cdnua05.hls.tv/6135/hls/f62d71219200da4130d13b21d23fb23c/4890/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Панянка селянка r
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Панянка селянка r
 http://cdnua05.hls.tv/6615/hls/f62d71219200da4130d13b21d23fb23c/4890/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",TAK TV HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",TAK TV HD
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/97/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Gags Network HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Gags Network HD
 http://cdnua05.hls.tv/1236/hls/8743361621b245838bee193c9ec28322/4877/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Gags Network  
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Gags Network  
 http://95.67.12.82:9069
-#EXTINF:-1 group-title="🇺🇦 U Cà",viju+ PREMIERE
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",viju+ PREMIERE
 http://135.181.115.81:8000/play/a04b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇺🇦 U Cà",viju+ COMEDY
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",viju+ COMEDY
 http://135.181.115.81:8000/play/a046/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇺🇦 U Cà",viju TV1000
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",viju TV1000
 http://135.181.115.81:8000/play/a047/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇺🇦 U Cà",TV1000
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",TV1000
 http://65.21.85.175:8000/play/a011/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇺🇦 U Cà",TV1000 Action
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",TV1000 Action
 http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv
-#EXTINF:-1 group-title="🇺🇦 U Cà", viju TV1000 720x576
+#EXTINF:-1 group-title="🇺🇦 UKRAINA", viju TV1000 720x576
 http://109.248.236.51/viju_tv1000/mono.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",viju TV1000 Action 720x576
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",viju TV1000 Action 720x576
 http://109.248.236.51/viju_tv1000_action/mono.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Serial
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Serial
 http://ukr.ukrainske.tv/5001/erd/video.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino COMEDY
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino COMEDY
 http://ukr.ukrainske.tv/493/tvainua/video.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino MEGAHIT
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino MEGAHIT
 http://ukr.ukrainske.tv/492/tvainua/video.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino ACTION
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino ACTION
 http://ukr.ukrainske.tv/490/tvainua/video.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino
 http://ukr.ukrainske.tv/488/tvainua/video.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino World hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino World hd
 http://ukr.ukrainske.tv/9987/tvainua/video.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino World
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino World
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat KINO World hd
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat KINO World hd
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat KINO World HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat KINO World HD
 http://cdnua05.hls.tv/948/hls/8743361621b245838bee193c9ec28322/4816/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino HD
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino
 http://cdnua05.hls.tv/538/hls/8743361621b245838bee193c9ec28322/311/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino Action 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino Action 
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino Action HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino Action HD
 http://cdnua05.hls.tv/535/hls/8743361621b245838bee193c9ec28322/308/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino Megahit HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino Megahit HD
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino Megahit
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino Megahit
 http://cdnua05.hls.tv/144/hls/8743361621b245838bee193c9ec28322/3981/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino Comedy
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino Comedy
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Viasat Kino Comedy HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Viasat Kino Comedy HD
 http://cdnua05.hls.tv/537/hls/8743361621b245838bee193c9ec28322/309/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Kinowood
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Kinowood
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4844/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Kinosweet HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Kinosweet HD
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4876/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Kinosweet
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Kinosweet
 http://cdnua05.hls.tv/0939/hls/8743361621b245838bee193c9ec28322/4876/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Kinoliving
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Kinoliving
 http://cdnua05.hls.tv/524/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Kinoliving HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Kinoliving HD
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/4805/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Cine+ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Cine+ HD
 http://cdnua05.hls.tv/929/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Cine+
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Cine+
 http://cdnua05.hls.tv/932/hls/8743361621b245838bee193c9ec28322/4846/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",STAR FAMILY LV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",STAR FAMILY LV
 http://cdnua05.hls.tv/943/hls/8743361621b245838bee193c9ec28322/3996/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Ізмаіл ТВ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Ізмаіл ТВ
 http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",FOX
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",FOX
 http://45.143.108.110:2203/FOX
-#EXTINF:-1 group-title="🇺🇦 U Cà",FX Life
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",FX Life
 http://188.237.47.212:6008
-#EXTINF:-1 group-title="🇺🇦 U Cà",Орбiта tva.org.ua
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Орбiта tva.org.ua
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",OstWest 24
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",OstWest 24
 http://95.67.12.82:9077
-#EXTINF:-1 group-title="🇺🇦 U Cà",Телеканал Репортер Одеса 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Телеканал Репортер Одеса 
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Круг (Одеса)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Круг (Одеса)
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",4TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",4TV
 https://cdnua03.hls.tv/178/hls/6154479a1319705257f2335762b18f51/4838/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",УНІАН [720x576]
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",УНІАН [720x576]
 https://m3u8.ott.blue/watch/236/index.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="🇺🇦 U Cà",D1
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",D1
 https://m3u8.ott.blue/watch/7494/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="🇺🇦 U Cà",5 КАНАЛ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",5 КАНАЛ
 https://m3u8.ott.blue/watch/7/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="🇺🇦 U Cà",7 КАНАЛ fas-tv*com
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",7 КАНАЛ fas-tv*com
 https://ext.cdn.nashnet.tv/228.0.0.162/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",TV7+
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",8 канал HD TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",8 канал HD TV
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Армія ТВ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Армія ТВ HD
 https://m3u8.ott.blue/watch/7572/index.m3u8?geo=auto&token=94450098895765784220366841698509 
-#EXTINF:-1 group-title="🇺🇦 U Cà",Перший Кабельний
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Перший Кабельний
 http://91.226.35.134:8081/PK 
-#EXTINF:-1 group-title="🇺🇦 U Cà",24 канал TV 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",24 канал TV 
 https://ext.cdn.nashnet.tv/228.0.0.33/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",24 Канал
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",24 Канал
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",КИЇВ 24
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",КИЇВ 24
 https://ext.cdn.nashnet.tv/228.0.0.15/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ЕКО–ТВ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ЕКО–ТВ
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Eko TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Eko TV
 http://185.236.229.62:9981/play/a08h
-#EXTINF:-1 group-title="🇺🇦 U Cà",СK 1 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",СK 1 
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",I-UA tv 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",I-UA tv 
 https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ПРЯМИЙ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ПРЯМИЙ HD
 https://ext.cdn.nashnet.tv/228.0.0.122/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ІСЛАНДІЯ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ІСЛАНДІЯ
 https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",FREEдом
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",FREEдом
 http://95.67.106.242/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",FREEDOM
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",FREEDOM
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",FREEДОМ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",FREEДОМ HD
 http://185.236.229.62:9981/play/a04p
-#EXTINF:-1 group-title="🇺🇦 U Cà",Ми Україна
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Ми Україна
 http://cdnua05.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4847/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",OBOZREVATEL HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",OBOZREVATEL HD
 https://ext.cdn.nashnet.tv/228.0.0.148/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Нове тв 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Нове тв 
 https://novoe.top/nove_tv.m3u8.jpg?m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Надія/N.K.
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Надія/N.K.
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,ТРК Надія - Новий Канал (Первомайский)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,ТРК Надія - Новий Канал (Первомайский)
 http://178.217.215.57/mob/mystream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ЕСПРЕСО HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ЕСПРЕСО HD
 https://ext.cdn.nashnet.tv/228.0.0.191/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",РАДА
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",РАДА
 http://193.107.168.98:7001/play/24/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",РАДА HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",РАДА HD
 https://ext.cdn.nashnet.tv/228.0.0.24/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Belsat TV 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Belsat TV 
 https://irylek.ct8.pl/stream/belsat
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Полтавське ТВ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Полтавське ТВ
 http://cdn10.live-tv.od.ua:8081/hrpl/720p/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,PTV Полтавское TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,PTV Полтавское TV
 https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",4TV Тернопіль
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",4TV Тернопіль
 http://cdnua05.hls.tv/654/hls/f62d71219200da4130d13b21d23fb23c/4838/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Тернопіль 1
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Тернопіль 1
 http://185.53.79.12/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Тернопiль 1 HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Тернопiль 1 HD
 http://ott.columbus.te.ua/ternopil1/index.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,НТК Коломия
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,НТК Коломия
 https://stream.ntktv.ua/s/ntk/ntk.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,ТВА tva*org-ua
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,ТВА tva*org-ua
 http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,ТВА tva*in-ua
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,ТВА tva*in-ua
 http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ГІТ (Волинь)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ГІТ (Волинь)
 http://stream.uagit.tv/gittv.m3u8?key=iptv.org.ua
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,ГІТ (Луцьк)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,ГІТ (Луцьк)
 https://stream.uagit.tv/gittv.m3u8?cur=tva.org.ua&key=3i277
-#EXTINF:-1 group-title="🇺🇦 U Cà",33 канал
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",33 канал
 https://33news.org/33chanel/live/chunklist_w1484176056.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",33 канал (Хмельницький)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",33 канал (Хмельницький)
 https://33news.org/33chanel/live/chunklist_w459617257.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,МТМ Запоріжжя
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,МТМ Запоріжжя
 https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,1 Городский Кривий Ріг
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,1 Городский Кривий Ріг
 https://cdn1.live-tv.cloud/1tvkr/1tvkr-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,1 Городский Одеса HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,1 Городский Одеса HD
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ЧОРНОМОРСКЕ HD TV Black Sea
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ЧОРНОМОРСКЕ HD TV Black Sea
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Чорноморська ТРК Black Sea
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Чорноморська ТРК Black Sea
 https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",TV Rivne 1 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",TV Rivne 1 
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,ITV (Рівне)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,ITV (Рівне)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Аверс (Луцьк)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Аверс (Луцьк)
 https://avers.pp.ua/hls/efir.m3u8?key=iptv*org*ua
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Аверс tva.org.ua
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Аверс tva.org.ua
 https://m3u8.ott.blue/watch/356/video.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="🇺🇦 U Cà",ДНІПРО ТВ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ДНІПРО ТВ
 http://cdnua05.hls.tv/0338/hls/8743361621b245838bee193c9ec28322/4880/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ДНІПРО TV HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ДНІПРО TV HD
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Балта ТВ HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Балта ТВ HD
 http://194.50.51.34/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Telekanal RAI 
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Telekanal RAI 
 https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Глас
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Глас
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Чернівецький Промінь HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Чернівецький Промінь HD
 http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,СК1 (Житомир)
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,СК1 (Житомир)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,НТК
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,НТК
 http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",TIS TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",TIS TV
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",ATR
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",ATR
 https://ext.cdn.nashnet.tv/228.0.0.49/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Lale HD
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Lale HD
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Белсат
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Белсат
 https://m3u8.ott.blue/watch/149/index.m3u8?geo=auto&token=94450098895765784220366841698509
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,Сфера ТВ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,Сфера ТВ
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà" ,АПОСТРОФ
+#EXTINF:-1 group-title="🇺🇦 UKRAINA" ,АПОСТРОФ
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
-#EXTINF:-1 group-title="🇺🇦 U Cà",Karavan TV
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Karavan TV
 http://185.236.229.62:9981/play/a08l
-#EXTINF:-1 group-title="🇺🇦 U Cà",Milady
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Milady
 http://185.236.229.62:9981/play/a08i
-#EXTINF:-1 group-title="🇺🇦 U Cà",Nataly
+#EXTINF:-1 group-title="🇺🇦 UKRAINA",Nataly
 http://185.236.229.62:9981/play/a08j
 
 #EXTINF:-1 tvg-id="TVP.1.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tvp1-poland.png" group-title="HÓNG TIN CHIẾN SỰ",TVP1 Poland
@@ -1353,47 +1360,47 @@ https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
 #EXTINF:-1 group-title="Youtube News Live Stream"tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png",Univision Noticias
 https://www.youtube.com/@univisionnoticias/live
 
-#EXTINF:-1 tvg-id="MRTV" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
+#EXTINF:-1 tvg-id="MRTV" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="MRTVNEWS" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Mrtvnews.png",MRTV News
+#EXTINF:-1 tvg-id="MRTVNEWS" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Mrtvnews.png",MRTV News
 https://l1-xl1.myanmarnet.com/relay/mrtvnews/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="mrtvnrc" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV NRC
+#EXTINF:-1 tvg-id="mrtvnrc" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV NRC
 https://l1-xl1.myanmarnet.com/relay/mrtvnrc/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="mrtvschannel5" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Sports
+#EXTINF:-1 tvg-id="mrtvschannel5" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Sports
 https://lb-as.cdn-perfprod.com/live/arkasar_tv
-#EXTINF:-1 tvg-id="channel_mrtv_farmers" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Farmers
+#EXTINF:-1 tvg-id="channel_mrtv_farmers" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Farmers
 https://lb-as.cdn-perfprod.com/channel_mrtv
-#EXTINF:-1 tvg-id="mrtventertainment" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Entertainment
+#EXTINF:-1 tvg-id="mrtventertainment" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mrtvchannellogo.png",MRTV Entertainment
 https://lb-as.cdn-perfprod.com/mrtvschannel6
-#EXTINF:-1 tvg-id="mitv" group-title="Miến Điện" tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",MITV
+#EXTINF:-1 tvg-id="mitv" group-title="Leanbox" tvg-logo="https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",MITV
 https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="mntv" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/440px-Myanmar_National_TV_Logo.jpg",MNTV
+#EXTINF:-1 tvg-id="mntv" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Myanmar_National_TV_Logo.jpg/440px-Myanmar_National_TV_Logo.jpg",MNTV
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:-1 tvg-id="mrtv4" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4
+#EXTINF:-1 tvg-id="mrtv4" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-4/playlist.m3u8
-#EXTINF:-1 tvg-id="mrtv4hd" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4 HD
+#EXTINF:-1 tvg-id="mrtv4hd" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",MRTV-4 HD
 https://pplive.comquas.com:5443/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:-1 tvg-id="5plus" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",Channel 5Plus
+#EXTINF:-1 tvg-id="5plus" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1678162895qy6GQu.png",Channel 5Plus
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/playlist.m3u8
-#EXTINF:-1 tvg-id="channel7" group-title="Miến Điện" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1709015344NIHZWL.png",Channel 7
+#EXTINF:-1 tvg-id="channel7" group-title="Leanbox" tvg-logo="https://d8i23n05v6d5f.cloudfront.net/channels/1709015344NIHZWL.png",Channel 7
 https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8
-#EXTINF:-1 tvg-id="channelk" group-title="Miến Điện" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/1200px-Channelk.png",Channel K
+#EXTINF:-1 tvg-id="channelk" group-title="Leanbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Channelk.png/1200px-Channelk.png",Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="dvbmyanmar" group-title="Miến Điện" tvg-logo="https://burmese.dvb.no/logo-with-letters.png",DVB (MYANMAR CHAMPIONS LEAGUE)
+#EXTINF:-1 tvg-id="dvbmyanmar" group-title="Leanbox" tvg-logo="https://burmese.dvb.no/logo-with-letters.png",DVB (MYANMAR CHAMPIONS LEAGUE)
 https://live-stream.dvb.no/hls/stream_src/index.m3u8
-#EXTINF:-1 tvg-id="mwd" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Miến Điện",MWD
+#EXTINF:-1 tvg-id="mwd" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-id="mwd_variety" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg" group-title="Miến Điện",MWD Variety
+#EXTINF:-1 tvg-id="mwd_variety" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd-variety-80x80-e0a.jpg" group-title="Leanbox",MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-id="mwd_family" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg" group-title="Miến Điện",MWD Family
+#EXTINF:-1 tvg-id="mwd_family" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdfamily3-80x80-e0a.jpg" group-title="Leanbox",MWD Family
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 tvg-id="mwd_shopping" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg" group-title="Miến Điện",MWD Shopping
+#EXTINF:-1 tvg-id="mwd_shopping" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwdshopping3-80x80-e0a.jpg" group-title="Leanbox",MWD Shopping
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 tvg-id="mwd_document" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg" group-title="Miến Điện",MWD Documentary
+#EXTINF:-1 tvg-id="mwd_document" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwddoc-80x80-e0a.jpg" group-title="Leanbox",MWD Documentary
 http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1 tvg-id="mwd_movie" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Miến Điện",MWD Movies
+#EXTINF:-1 tvg-id="mwd_movie" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD Movies
 http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1 tvg-id="mwd_movie" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Miến Điện",MWD Series
+#EXTINF:-1 tvg-id="mwd_movie" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Leanbox",MWD Series
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv1.png",TV1
