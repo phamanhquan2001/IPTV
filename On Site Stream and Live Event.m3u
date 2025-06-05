@@ -23,6 +23,10 @@ https://7pal.short.gy/skyspt5nz
 http://p1.cvtv.xyz/live3?token=live
 #EXTINF:-1 group-title="2025 Roland Garros Live" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/event.png",CVmedia Live 4
 http://p1.cvtv.xyz/live4?token=live
+#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/event.png",TNT Sports
+https://v4.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8?token=2RY_rI5ekiq6JVBxuYbxAQ&expires=1749146424&user_id=dEtnbVZkdWhuZGhWQjd1YWlwdm8yajI5U2EySEI1eTJ5M0NHV244eQ==
+#EXTINF:-1 group-title="2025 Roland Garros Live" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/refs/heads/main/img/event.png",TruTV
+https://v14.thetvapp.to/hls/truTVEast/tracks-v2a1/mono.m3u8?token=1kcQlS_US5FwzaI2HvrzHw&expires=1749146594&user_id=dEtnbVZkdWhuZGhWQjd1YWlwdm8yajI5U2EySEI1eTJ5M0NHV244eQ==
 
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Live Camera from Toronto
 https://youtu.be/zsEoRvGhO7I
@@ -71,9 +75,9 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
-https://v15.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=ngmwnTAOX4nbRGCgEcoZpw&expires=1747925252&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
+https://v3.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=BCPLWah8lxTkulHbA8jbWQ&expires=1749146769&user_id=dEtnbVZkdWhuZGhWQjd1YWlwdm8yajI5U2EySEI1eTJ5M0NHV244eQ==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://stream1.freetv.fun/3baf6f9e86395d0102c2393637a782f2e149707175e160e59603e2498151ad16.ctv
+https://v3.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=0uPXysH2EYBnluK6ZM5IWQ&expires=1749146805&user_id=dEtnbVZkdWhuZGhWQjd1YWlwdm8yajI5U2EySEI1eTJ5M0NHV244eQ==
 #EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
 https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
