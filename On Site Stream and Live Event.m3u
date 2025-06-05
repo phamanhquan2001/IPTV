@@ -50,6 +50,12 @@ https://www.youtube.com/@ValorantEsportsKR/live
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
 https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (YouTube)
+https://youtu.be/Lwbp9WfLslc
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (YouTube)
+https://youtu.be/mJdhDuweBHM
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (YouTube)
+https://youtu.be/mJdhDuweBHM
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
@@ -67,7 +73,9 @@ https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
 https://v15.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=ngmwnTAOX4nbRGCgEcoZpw&expires=1747925252&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://v18.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=TzTXqDPDNdqKGV9vDlb4kg&expires=1747925340&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
+https://stream1.freetv.fun/3baf6f9e86395d0102c2393637a782f2e149707175e160e59603e2498151ad16.ctv
+#EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
+https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
