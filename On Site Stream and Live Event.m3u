@@ -51,7 +51,7 @@ https://v3.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=BCPLWah8lxTkulHbA8j
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://v3.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=0uPXysH2EYBnluK6ZM5IWQ&expires=1749146805&user_id=dEtnbVZkdWhuZGhWQjd1YWlwdm8yajI5U2EySEI1eTJ5M0NHV244eQ==
 #EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
-https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.m3u8
+https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
