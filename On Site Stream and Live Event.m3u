@@ -21,6 +21,9 @@ https://www.youtube.com/@VALORANTjp/live
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports KR
 https://www.youtube.com/@ValorantEsportsKR/live
 
+#EXTINF:-1 group-title="2025 FIFA Club World Cup Live Camera",USA Live Webcam
+https://www.youtube.com/watch?v=CWisr5zg3so
+
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRINN-2
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
@@ -59,8 +62,10 @@ http://a.ru8.dpdns.org/now/331/master.m3u8
 https://www.youtube.com/watch?v=BxEKoq3Moss
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=LAmrsn9sFoY
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live from Los Angeles as curfew currently in effect
-https://www.youtube.com/watch?v=RKURHr-MNDM
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live from Los Angeles skyline as curfew currently in effect amid anti-ICE protest
+https://www.youtube.com/watch?v=DNISKujZR_4
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Nvidia CEO is delivering keynote speech at VivaTech 2025
+https://www.youtube.com/watch?v=UmqDYWlPA8c
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
