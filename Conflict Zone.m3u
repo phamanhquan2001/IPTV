@@ -1773,6 +1773,9 @@ https://pixman.mytvsuper.com.mp/Smart.php?id=ctient
 #EXTINF:-1 tvg-id="6030" tvg-logo="https://media.cakeresume.com/image/upload/s--sOVsapEm--/c_pad,fl_png8,h_400,w_400/v1558072605/be4wqirlqy5ifmj7uasd.png" group-title="🇹🇼 Đài Loan",CTI News
 https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
 
+
+#EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",Genshin Impact Invokation TCG Matches Live
+https://www.youtube.com/@GITCG/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",TVK Cambodia News Live Event
 https://www.youtube.com/@tvkcambodia/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",NEXTSPORTS Live Event
