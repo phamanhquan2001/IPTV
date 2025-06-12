@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Radio Signal",UVB-76 Buzzer Radio Signal Live
+http://stream.priyom.org:8000/buzzer
+
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Live Camera from Toronto
 https://youtu.be/zsEoRvGhO7I
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Toronto Clock
