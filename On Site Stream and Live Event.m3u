@@ -61,6 +61,8 @@ http://a.ru8.dpdns.org/now/331/master.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
 https://www.youtube.com/watch?v=CJbgOy7KerA
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip (Feed #2)
+https://www.youtube.com/watch?v=fot8_pXYqGQ&pp=wgIGCgQQAhgB
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=wIY01Aiqy14
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live view from air crash site in India after a Air India flight bound to Gatwick Airport has suddenly crashed down at Ahmedabad (India)
