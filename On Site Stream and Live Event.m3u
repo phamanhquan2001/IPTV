@@ -81,14 +81,14 @@ https://www.youtube.com/watch?v=lK0PLBNZpko
 https://www.youtube.com/watch?v=52nt5-TleM8
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Tel Aviv after Iran launched retaliatory strike
 https://www.youtube.com/watch?v=ymgF6Z1FBbI
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Central Israel after Iran launched retaliatory strike
-https://www.youtube.com/watch?v=PJg5pz1K9_o
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Jerusalem after Iran launched retaliatory strike
-https://www.youtube.com/watch?v=wKPBAaC9rfE
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel emergency services in Bat Yam where the Iranian missile strike struck here
-https://www.youtube.com/watch?v=LXu6GrxoRSM
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Haifa after Iran launched retaliatory strike
+https://www.youtube.com/watch?v=3HYoXdL0kF4
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Scene of damage and rescue workers at a site where 4 killed in Iranian overnight retaliatory strike
-https://www.youtube.com/watch?v=2p87QQ01bEA
+https://www.youtube.com/watch?v=BtWQgzBhtrU
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Paris (France): Paris Air Show Opens
+https://www.youtube.com/watch?v=OiCHqHWfQLs&pp=0gcJCd4JAYcqIYzv
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Geneva (Switzerland): The UN Human Rights Councils (UNHRC) begins the new sessions meeting
+https://www.youtube.com/watch?v=bmTrwB0tS7k
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -144,6 +144,10 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 #EXTINF:-1 group-title="Parliament Live",Radio Câmara
 https://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8
+#EXTINF:-1 group-title="Parliament Live",National Assembly of Bhutan Live
+https://www.youtube.com/channel/UCPmoW3XMF3L5r7lJetO4UkQ/live
+#EXTINF:-1 group-title="Parliament Live",National Council of Bhutan Live (via BBS TV)
+https://www.youtube.com/channel/UCzZIEQX2fWAmsvztJjIb7eA/live
 #EXTINF:-1 group-title="Parliament Live",Hungarian Parliament (Youtube)
 https://www.youtube.com/@OrszaggyulesELO/live
 #EXTINF:-1 group-title="Parliament Live",Hungarian Parliament (Feed #1)
