@@ -17,20 +17,29 @@ https://youtu.be/MwcqP3ta6RI
 https://youtu.be/xsRDTfuksyI
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Vancouver Live Cam
 https://youtu.be/6lBCa81Axqg
+#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports (EN)
+https://www.youtube.com/@ValorantEsports/live
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports VN
 https://www.youtube.com/@VALORANTChampionsTourVietnam/live
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports JP
 https://www.youtube.com/@VALORANTjp/live
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports KR
 https://www.youtube.com/@ValorantEsportsKR/live
+#EXTINF:-1 group-title="2025 VCT Masters Toronto Live Co-Hoster Live",Hoang Luan
+https://www.youtube.com/@hoangluanblv/live
+#EXTINF:-1 group-title="2025 VCT Masters Toronto Live Co-Hoster Live",Bomman
+https://www.youtube.com/@Bomman/live
+
+#EXTINF:-1 group-title="2025 CONCACAF Gold Cup Live" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",CONCACAF Youtube Live
+https://www.youtube.com/@CONCACAF/live
 
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025",USA Live Webcam
 https://www.youtube.com/watch?v=CWisr5zg3so
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",TUDN
 https://263.org.vn/TUDN
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", Channel 5
+#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",Channel 5
 https://263.org.vn/Channel5
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg", DAZN 1 France
+#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",DAZN 1 France
 https://263.org.vn/dazn1fr
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",FPT Bóng Đắ Radio Podcast Live by Seele and Veliona
 https://www.youtube.com/@FPTBongdaOfficial/live
@@ -40,7 +49,7 @@ https://7pal.short.gy/tntus
 https://7pal.short.gy/trutvus
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="FIFA CLUB WORLD CUP 2025",US | TBS
 https://7pal.short.gy/tbsus
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="FIFA CLUB WORLD CUP 2025", Supersport PL
+#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="FIFA CLUB WORLD CUP 2025",Supersport PL
 https://7pal.short.gy/spersppl
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
