@@ -3,6 +3,33 @@
 #EXTINF:-1 group-title="Radio Signal",UVB-76 Buzzer Radio Signal Live
 http://stream.priyom.org:8000/buzzer
 
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | BBC1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
+https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | BBC2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
+https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | iTV1
+https://stream1.freetv.fun/itv1-1.ctv
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | iTV4
+https://stream1.freetv.fun/itv4-2.ctv
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",US | FOXSPORTS-1
+https://stream1.freetv.fun/fs-1-1.ctv
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",US | FOXSPORTS-2
+https://stream1.freetv.fun/fs-2-1.ctv
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",IS | RÚV-1
+https://stream1.freetv.fun/130d013011990539e0f67a971fb5aa7453f39e2d1429832031dc205db087b2b6.ctv
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",IS | RÚV-2
+https://stream1.freetv.fun/b7b6bac9e0e0e763a92c09f6fb16fdcae0df227aba26aeefb44947d27907a8cd.ctv
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",DE | ARD Das Erste
+https://stream1.freetv.fun/142b84d26959f6399cb75f7d18f2922140094fbe1b9a7baa38420e4c016243c9.ctv
+#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",DE | ZDF Sportstudio
+https://stream1.freetv.fun/zdf-1.ctv
+#EXTINF:-1 tvg-id="tro" group-title="2025 UEFA Women's Euro Live" tvg-logo="https://picon.ml/belros.png",GE | 1TV Gruzia
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Live Camera from Toronto
 https://youtu.be/zsEoRvGhO7I
 #EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Toronto Clock
