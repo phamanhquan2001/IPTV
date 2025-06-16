@@ -111,20 +111,20 @@ https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad64083
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Iran after Israel strike on IRIB's station
+https://www.youtube.com/watch?v=UfhXBrZGtFM
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
 https://www.youtube.com/watch?v=lK0PLBNZpko
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=52nt5-TleM8
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Tel Aviv after Iran launched retaliatory strike
 https://www.youtube.com/watch?v=ymgF6Z1FBbI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Tel Aviv skyline after Iran launched retaliatory strike
+https://www.youtube.com/watch?v=1W7jlAcII-k
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Haifa after Iran launched retaliatory strike
-https://www.youtube.com/watch?v=3HYoXdL0kF4
+https://www.youtube.com/watch?v=0cGi_0m9MxE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Scene of damage and rescue workers at a site where 4 killed in Iranian overnight retaliatory strike
-https://www.youtube.com/watch?v=BtWQgzBhtrU
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Paris (France): Paris Air Show Opens
-https://www.youtube.com/watch?v=OiCHqHWfQLs&pp=0gcJCd4JAYcqIYzv
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Geneva (Switzerland): The UN Human Rights Councils (UNHRC) begins the new sessions meeting
-https://www.youtube.com/watch?v=bmTrwB0tS7k
+https://www.youtube.com/watch?v=pDJ_Pynlaow
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
