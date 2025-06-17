@@ -113,6 +113,9 @@ https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad64083
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
+
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Iran
+https://www.youtube.com/watch?v=ttVHubqm2Fg
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
 https://m.youtube.com/watch?v=lK0PLBNZpko&pp=0gcJCdQJAYcqIYzv
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
