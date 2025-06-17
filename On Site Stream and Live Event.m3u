@@ -113,12 +113,10 @@ https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad64083
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Iran amid tensions growing between Israel and Iran
-https://www.youtube.com/watch?v=UfhXBrZGtFM
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East Region as tension intensify in Gaza Strip
-https://www.youtube.com/watch?v=lK0PLBNZpko
+https://m.youtube.com/watch?v=lK0PLBNZpko&pp=0gcJCdQJAYcqIYzv
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=52nt5-TleM8
+https://m.youtube.com/watch?v=52nt5-TleM8&pp=0gcJCdQJAYcqIYzv
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Tel Aviv amid tensions growing between Israel and Iran
 https://www.youtube.com/watch?v=ymgF6Z1FBbI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Tel Aviv skyline amid tensions growing between Israel and Iran
