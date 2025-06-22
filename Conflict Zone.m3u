@@ -5,8 +5,6 @@
 #EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500interlace=1 aspect-ratio=16:9 m3uautoload=3
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
 
-#EXTINF:-1 group-title="Market Open and Close",CNBC (US)
-https://v17.thetvapp.to/hls/CNBC/tracks-v2a1/mono.m3u8?token=puRWnKfQTizixDMTrO19rA&expires=1747925391&user_id=aTBVM1ZDZ29ZRmJ6OHMyRk1sbG5uOVQxTlhTWlFIb3RXY3VobzNRRg==
 #EXTINF:-1 group-title="Market Open and Close",CNBC (Europe/World)
 http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Indonesia
@@ -118,8 +116,30 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
 https://ncdn.telewebion.com/nasim/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB IRINN
 https://ncdn.telewebion.com/irinn/live/playlist.m3u8
-#EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRINN2
-https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Radio Iran
+https://s4.cdn3.iranseda.ir/liveedge/radio-iran/chunklist_w908611699.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Radio Tehran
+https://s6.cdn3.iranseda.ir/liveedge/radio-tehran/chunklist_w1749278326.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB English Radio
+https://s0.cdn1.iranseda.ir/liveedge/radio-english/chunklist_w6069534.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB World Service
+https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-studio110/chunklist_w371436720.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Arabic Radio
+https://s3.cdn1.iranseda.ir/liveedge/radio-arabic/chunklist_w1996609647.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Dari Radio
+https://s3.cdn1.iranseda.ir/liveedge/radio-boroon-dari/chunklist_w2108359170.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Radio Varzesh
+https://s3.cdn1.iranseda.ir/liveedge/radio-varzesh/chunklist_w1664070970.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Women's Sport Radio
+https://s3.cdn1.iranseda.ir/liveedge/radio-banovan/chunklist_w9530940.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Animax Kurdistan Radio
+https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/chunklist_w870357592.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Radio Nama Tehran
+https://s1.cdn3.iranseda.ir/liveedge/radio-nama-tehran/chunklist_w1661515054.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Radio Nama Iran
+https://s1.cdn3.iranseda.ir/liveedge/radio-nama-iran/chunklist_w1868479099.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB Radio Nama Varzesg
+https://s1.cdn3.iranseda.ir/liveedge/radio-nama-varzesh/chunklist_w1851252891.m3u8
 
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AjyalTV.ps",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
