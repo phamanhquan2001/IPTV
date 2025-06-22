@@ -30,34 +30,30 @@ https://stream1.freetv.fun/zdf-1.ctv
 #EXTINF:-1 tvg-id="tro" group-title="2025 UEFA Women's Euro Live" tvg-logo="https://picon.ml/belros.png",GE | 1TV Gruzia
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Live Camera from Toronto
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Live Camera from Toronto
 https://youtu.be/zsEoRvGhO7I
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Toronto Clock
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Toronto Clock
 https://youtu.be/r1jvJtYVmVY
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Ottawa Live Cam
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Ottawa Live Cam
 https://youtu.be/lLYosWv_AwQ
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Ottawa Live Cam (#2)
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Ottawa Live Cam (#2)
 https://youtu.be/ygedW8Q-pOc
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Calgary Live Cam
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Calgary Live Cam
 https://youtu.be/MwcqP3ta6RI
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Central Memorial Park Live Cam
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Central Memorial Park Live Cam
 https://youtu.be/xsRDTfuksyI
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Vancouver Live Cam
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam
 https://www.youtube.com/watch?v=H6EADDZRgCQ
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports (EN)
-https://www.youtube.com/@ValorantEsports/live
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports VN
-https://www.youtube.com/@VALORANTChampionsTourVietnam/live
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports JP
-https://www.youtube.com/@VALORANTjp/live
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live",Valorant eSports KR
-https://www.youtube.com/@ValorantEsportsKR/live
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live Co-Hoster Live",Hoang Luan
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (EN)
+https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP (VN)
+https://www.youtube.com/channel/UChG2EWuXoW7Tgof35WjbsnQ/live
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (JP)
+https://www.youtube.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
+#EXTINF:-1 group-title="2025 MSI (LoL) Live Co-Streamer Live",Sendo Yuuhi (VSPO Team from VTuber eSports Project)
+https://www.youtube.com/@SendoYuuhi/live
+#EXTINF:-1 group-title="2025 MSI (LoL) Live Co-Streamer Live",HoangLuan
 https://www.youtube.com/@hoangluanblv/live
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live Co-Hoster Live",Bomman
-https://www.youtube.com/@Bomman/live
-#EXTINF:-1 group-title="2025 VCT Masters Toronto Live Co-Hoster Live",TenZ
-https://www.youtube.com/@TenZ/live
 
 #EXTINF:-1 group-title="2025 CONCACAF Gold Cup Live" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",CONCACAF Youtube Live
 https://www.youtube.com/@CONCACAF/live
