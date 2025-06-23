@@ -112,6 +112,10 @@ http://a.ru8.dpdns.org/now/331/master.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Iran amid conflict
 https://www.youtube.com/watch?v=4GxCZTnf2Qc
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel Iran Live Camera
+https://www.youtube.com/watch?v=7HpElSUCQWc
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel Iran Live Camera (FEed #2)
+https://www.youtube.com/watch?v=HOmhqv0jHvo
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=joi-Xmoz9hU
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live camera view from Tel Aviv amid tensions growing between Israel and Iran
