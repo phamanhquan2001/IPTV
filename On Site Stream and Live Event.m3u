@@ -30,10 +30,19 @@ https://stream1.freetv.fun/zdf-1.ctv
 #EXTINF:-1 tvg-id="tro" group-title="2025 UEFA Women's Euro Live" tvg-logo="https://picon.ml/belros.png",GE | 1TV Gruzia
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Live Camera from Toronto
-https://youtu.be/zsEoRvGhO7I
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Toronto Clock
-https://youtu.be/r1jvJtYVmVY
+
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam
+https://www.youtube.com/watch?v=6lBCa81Axqg
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam (Feed #2)
+https://www.youtube.com/watch?v=BKO7wqh7QLw&pp=ygUVVmFuY291dmVyIExpdmUgQ2FtZXJh0gcJCb4JAYcqIYzv
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam (Feed #3)
+https://www.youtube.com/watch?v=SpBs0mo3sKE&pp=ygUVVmFuY291dmVyIExpdmUgQ2FtZXJh
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam (Feed #3)
+https://www.youtube.com/watch?v=U2fBkGo4KSw&pp=ygUVVmFuY291dmVyIExpdmUgQ2FtZXJh
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver False Creek Dock Live Cam
+https://www.youtube.com/watch?v=RHgZ4aRk8QM
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Skyline with 2010 Winter Olympic Games Village Vancouver (Was once used during 2010 Winter Olympic Games in Vancouver and now is a residential area)
+https://www.youtube.com/watch?v=tqVCrE5tKlo
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",Ottawa Live Cam
 https://youtu.be/lLYosWv_AwQ
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",Ottawa Live Cam (#2)
@@ -42,8 +51,6 @@ https://youtu.be/ygedW8Q-pOc
 https://youtu.be/MwcqP3ta6RI
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",Central Memorial Park Live Cam
 https://youtu.be/xsRDTfuksyI
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam
-https://www.youtube.com/watch?v=H6EADDZRgCQ
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (EN)
 https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP (VN)
