@@ -4,21 +4,17 @@
 http://stream.priyom.org:8000/buzzer
 
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | BBC1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=859e0fc9638e4f7f848412736bcc8bb9:ff4fcc6c04f31a1eaced59d91940c9a7
-https://nlziet-live.akamaized.net/L22/6e958e41/3e8eb32a.isml/.mpd
+https://stream1.freetv.fun/8ba271ad9a33dfd36babe01e6a4db11767c13f53569e6ec8b8f69d6a5866aa6f.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | BBC2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aef74d2bd07d4a8fb62c698bf837e7f6:0674de7571cd5047892f0012cf7c5238
-https://nlziet-live.akamaized.net/L3/75825848/a684e34a.isml/.mpd
+https://stream1.freetv.fun/980f8ba9a32a10e1ab91ee09c45ad6ca4b7b536c7a0173ad06a22d25439ba833.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | iTV1
 https://stream1.freetv.fun/itv1-1.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | iTV4
 https://stream1.freetv.fun/itv4-2.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",US | FOXSPORTS-1
-https://stream1.freetv.fun/2eed4308fab1bf62f54103364b3eecec3985f0e6ab9bdb656fe34814b560efd9.ctv
+https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",US | FOXSPORTS-2
-https://stream1.freetv.fun/fs-2-1.ctv
+https://stream1.freetv.fun/952f17ed6ddc4c6f54c7de57d1a9149562b95d74cac5aebffe14e0b340385b7a.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",IS | RÚV-1
 https://stream1.freetv.fun/130d013011990539e0f67a971fb5aa7453f39e2d1429832031dc205db087b2b6.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",IS | RÚV-2
@@ -43,21 +39,14 @@ https://www.youtube.com/watch?v=U2fBkGo4KSw&pp=ygUVVmFuY291dmVyIExpdmUgQ2FtZXJh
 https://www.youtube.com/watch?v=RHgZ4aRk8QM
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Skyline with 2010 Winter Olympic Games Village Vancouver (Was once used during 2010 Winter Olympic Games in Vancouver and now is a residential area)
 https://www.youtube.com/watch?v=tqVCrE5tKlo
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Ottawa Live Cam
-https://youtu.be/lLYosWv_AwQ
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Ottawa Live Cam (#2)
-https://youtu.be/ygedW8Q-pOc
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Calgary Live Cam
-https://youtu.be/MwcqP3ta6RI
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Central Memorial Park Live Cam
-https://youtu.be/xsRDTfuksyI
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (EN)
 https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP (VN)
 https://www.youtube.com/channel/UChG2EWuXoW7Tgof35WjbsnQ/live
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (JP)
 https://www.youtube.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
-#EXTINF:-1 group-title="2025 MSI (LoL) Live Co-Streamer Live",Sendo Yuuhi (VSPO Team from VTuber eSports Project)
+
+#EXTINF:-1 group-title="2025 MSI (LoL) Live Co-Streamer Live",Sendo Yuuhi (VSPO Team from Virtual eSports Project)
 https://www.youtube.com/@SendoYuuhi/live
 #EXTINF:-1 group-title="2025 MSI (LoL) Live Co-Streamer Live",HoangLuan
 https://www.youtube.com/@hoangluanblv/live
@@ -117,13 +106,17 @@ https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad64083
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel Iran Live Camera
-https://www.youtube.com/watch?v=7HpElSUCQWc
+https://www.youtube.com/watch?v=PnFcjVEz5nI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=Fmq3kT8hrc0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Berlin (Germany): Comissioner-General Philipe Lazzarini speaks to reporters
-https://www.youtube.com/watch?v=5uuJYp9JjBQ
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Doha (Qatar): Qatari PM and FM Mohammed bin Abdulrahman bin Jassim bin Jaber Al Thani and Lebanese PM Nawaf Salam hold joint news conference
-https://www.youtube.com/watch?v=JWlXSUxtuFs
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",EU leaders arrive for summit in Brussels
+https://www.youtube.com/watch?v=Hb3aOqjpp1w
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel): US Ambassador to Israel speaking after visiting Beersheba Hospital
+https://www.youtube.com/watch?v=x8emo2mONZ8
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Axiom Docking 4 Live: Astronauts from India, Poland and Hungary arrive at the spacestation
+https://www.youtube.com/watch?v=OFHQMUi3K7E
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Pentagon briefing on the leaked Iran Intelligence Report
+https://www.youtube.com/watch?v=U8kDilebJgM
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
