@@ -109,14 +109,6 @@ http://a.ru8.dpdns.org/now/331/master.m3u8
 https://www.youtube.com/watch?v=PnFcjVEz5nI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=Fmq3kT8hrc0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",EU leaders arrive for summit in Brussels
-https://www.youtube.com/watch?v=Hb3aOqjpp1w
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel): US Ambassador to Israel speaking after visiting Beersheba Hospital
-https://www.youtube.com/watch?v=x8emo2mONZ8
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Axiom Docking 4 Live: Astronauts from India, Poland and Hungary arrive at the spacestation
-https://www.youtube.com/watch?v=OFHQMUi3K7E
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Pentagon briefing on the leaked Iran Intelligence Report
-https://www.youtube.com/watch?v=U8kDilebJgM
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -217,6 +209,10 @@ https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/ind
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
 #EXTINF:-1 group-title="Live Event",Multiview 9 đài PT-TH sẽ sáp nhập theo chủ trương của quốc hội
 https://www.youtube.com/@justvthanh/live
+#EXTINF:-1 group-title="Live Event",Multiview 9 đài PT-TH sẽ sáp nhập theo chủ trương của quốc hội (Feed #1)
+https://www.youtube.com/watch?v=f-oglGm7at8
+#EXTINF:-1 group-title="Live Event",Multiview 9 đài PT-TH sẽ sáp nhập theo chủ trương của quốc hội (Feed #2)
+https://www.youtube.com/watch?v=_2f3ZpZRJes
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
