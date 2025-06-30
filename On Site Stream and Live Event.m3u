@@ -3,6 +3,16 @@
 #EXTINF:-1 group-title="Radio Signal",UVB-76 Buzzer Radio Signal Live
 http://stream.priyom.org:8000/buzzer
 
+
+#EXTINF:-1 group-title="2025 Wimbledon Live",Radio Wimbledon Live
+
+#EXTINF:-1 group-title="2025 Wimbledon Live",EUROSPORTS-1
+https://stream1.freetv.fun/eurosport-1-8.ctv
+#EXTINF:-1 group-title="2025 Wimbledon Live",EUROSPORTS-2
+https://stream1.freetv.fun/eurosport-2-21.ctv
+#EXTINF:-1 group-title="2025 Wimbledon Live",WOWOW-LIVE
+http://vthanh.utako.moe/wlive/index.m3u8
+
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | BBC1
 https://stream1.freetv.fun/8ba271ad9a33dfd36babe01e6a4db11767c13f53569e6ec8b8f69d6a5866aa6f.ctv
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | BBC2
