@@ -136,6 +136,8 @@ https://www.youtube.com/channel/UC4xAL1Lid7vrrm-xtxyyvwA/live
 https://www.youtube.com/channel/UCnGdAt3SbdkBt4mJ-23axyw/live
 #EXTINF:-1 group-title="Dubai" tvg-id="TokyoMX2.jp" tvg-logo="https://pbs.twimg.com/profile_images/1830441873934290944/P4K8Sa9T_400x400.jpg",Azur Lane's Dubai Racing Carnival Live
 https://www.youtube.com/channel/UCj3H-NEGJohQ6zJJc_330Gw/live
+#EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR / Terestial",TOKYOMX-2 (TCK東京シティ競馬中継 - BLUEPOCHGAMESリバース1999杯)
+https://stream1.freetv.fun/2c049839067b17194aa9f1008c69da0f66831017b605442d51d24a1931bd8c9c.ctv
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Voice Implemented
 https://www.youtube.com/channel/UCKz6vVzMrc_9ZDRNH7LnIxQ/live
 #EXTINF:-1 group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="NAR",Live Broadcast with AI Luppy Implemented
@@ -248,8 +250,6 @@ https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/himej
 https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/kouchi3.m3u8
 #EXTINF:-1 group-title="NAR",Saga (佐賀県/佐賀競馬場) (Geo-blocked)
 https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/saga3.m3u8
-#EXTINF:-1 tvg-id="keirin-auto" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=120&quality=75&version=20200413&width=240" group-title="Keirin/Autorace" ,ABEMA 競輪・オートレースチャンネル (Geo-Blocked)
-https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
 #EXTINF:-1 group-title="Keirin Live",Hokkaido / Hakodate (北海道/函館競輪場)
 https://www.youtube.com/channel/UC7Ehq9agmTeznt6XjZ5faLw/live
 #EXTINF:-1 group-title="Keirin Live",Aomori (青森県/青森競輪場)
