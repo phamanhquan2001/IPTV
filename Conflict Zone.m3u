@@ -3427,21 +3427,21 @@ https://streaming.kalohan.net/proxy/raliber?mp=/stream
 https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
-#EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV藏语卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
-https://tv.vtibet.cn/h701F9MpxzPDyE.m3u8?secret=4646fdd23bc712f291978cd1acb6e0a8&time=67f6a94a
+https://stream1.freetv.fun/xi-cang-wei-shi-40.ctv
+#EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",拉萨藏语综合
+rtmp://tv.lasatv.cn/channellive/lszypd
+#EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",阿坝藏语综合
+https://stream1.freetv.fun/2a40df2733c339b03dc2434409d2cf3b974c60a3ddb6e5ee4060f9cc51ccef22.ctv
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/IMAScg2010Logo.svg/revision/latest?cb=20220806032832",YNTV云南卫视 (The iDOLM@STER Cinderella Girls / Truyền Hình Vệ Tinh Vân Nam)
 https://hls-gateway.vpstv.net/streams/708863.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://dmg.cinderella-sl-stage.idolmaster-official.jp/_nuxt/images/logo_stage-14dc23a.png",东南卫视 / The iDOLM@STER Cinderella Girls Starlight Stage  (DERESUTE-TV/デレステテレビ) - Truyền Hình Đông Nam Phúc Kiến
 https://hls-gateway.vpstv.net/streams/708823.m3u8
-#EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",福州广播电视台新闻综合频道 (The iDOLM@STER Million Live & Million Live Theater Days TV1 / Truyền Hình Phúc Châu, tỉnh Phúc Kiến)
-http://zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/MLlogo2013.png/revision/latest?cb=20220806131130",HEBTV河北卫视 (The iDOLM@STER Million Live & Million Live Theater Days TV2 / Truyền Hình Vệ Tinh Hà Bắc
-http://58.57.40.22:9901/tsfile/live/1044_1.m3u8
+https://hls-gateway.vpstv.net/streams/476920.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải
 https://hls-gateway.vpstv.net/streams/708825.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/SideM2014logo.png/revision/latest?cb=20220807031655",QHBTV青海安多卫视 / The iDOLM@STER SIDEM - Truyền Hình Thanh Hải (Tibetan Language Edition)
-http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572
+https://stream1.freetv.fun/92241c9aa2d54e82c8b1215c75d1933afe4cd56f8c82e91f88d8472353387615.ctv
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/The_iDOLM%40STER_Shiny_Colors_Logo.png/revision/latest?cb=20220806103138",GDTV广东卫视 (The iDOLM@STER Shiny Colors - Truyền Hình Vệ Tinh Quảng Đông)
 https://hls-gateway.vpstv.net/streams/476914.m3u8
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://cdn.wikiwiki.jp/to/w/songforprism/FrontPage/::attach/songforprism_logo.png?rev=fa0d409d47759fe4fa5cda956d0de9e5&t=20231115193921",三沙卫视 (The iDOLM@STER Shiny Colors Song for Prism - Truyền Hình Tam Sa, tỉnh đảo Hải Nam
