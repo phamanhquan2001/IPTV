@@ -16,6 +16,8 @@ https://radio.wimbledon.com/live/centre/playlist_2.m3u8
 https://stream1.freetv.fun/eurosport-1-8.ctv
 #EXTINF:-1 group-title="2025 Wimbledon Live",EUROSPORTS-2
 https://stream1.freetv.fun/eurosport-2-21.ctv
+#EXTINF:-1 group-title="2025 Wimbledon Live",NHK-G
+http://vthanh.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="2025 Wimbledon Live",WOWOW-LIVE
 http://vthanh.utako.moe/wlive/index.m3u8
 
