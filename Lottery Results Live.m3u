@@ -33,9 +33,9 @@ https://xem.TruyenHinh.Click/RadioVN/Radio.CaMau/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/127/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="baria" tvg-logo="https://i.imgur.com/WEMfHas.png" group-title="🇻🇳| Địa phương",Bà Rịa Vũng Tàu
 https://www.youtube.com/channel/UCZ-Cm2q99E7vCysmu46MKMA/live
-#EXTINF:-1 tvg-id="cantho" tvg-logo="https://i.imgur.com/cl45VzX.png" group-title="🇻🇳| Địa phương",THTPCT-RADIO - Truyền hình TP. Cần Thơ
-https://xem.TruyenHinh.Click/CoBan/134/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Địa phương",STV1 - Truyền Hình Sóc Trăng
+#EXTINF:-1 tvg-id="cantho" tvg-logo="https://i.imgur.com/cl45VzX.png" group-title="🇻🇳| Địa phương",THTPCT1 - Truyền hình TP. Cần Thơ
+https://xem.TruyenHinh.Click/CoBan/135/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="soctrang" tvg-logo="https://i.imgur.com/VcDV4Bv.png" group-title="🇻🇳| Địa phương",THTPCT2 - Truyền hình TP. Cần Thơ 2
 https://xem.TruyenHinh.Click/CoBan/172/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="angiang" group-logo="https://i.imgur.com/ZCB4rmF.png" tvg-logo="https://i.imgur.com/0TkI4Ar.png" group-title="🇻🇳| Địa phương",ATV1 - Truyền Hình An Giang
 https://xem.TruyenHinh.Click/CoBan/122/TuyetDoiKhongKinhDoanh.m3u8
@@ -57,11 +57,11 @@ https://xem.TruyenHinh.Click/CoBan/155/TuyetDoiKhongKinhDoanh.m3u8
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-id="kiengiang" tvg-logo="https://i.imgur.com/Gzrdm7o.png" group-title="🇻🇳| Địa phương",KG-RADIO - Truyền Hình Kiên Giang
 https://xem.TruyenHinh.Click/RadioVN/Radio.KienGiang/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",QRT - Truyền Hình Quảng Nam
+#EXTINF:-1 tvg-id="quangnam" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",DNRT-2 - Truyền Hình Đà Nẵng
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-id="danang" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Đà Nẵng (Youtube Feed)
 https://www.youtube.com/channel/UCblRMKzykUsOCztfffoOVlQ/live
-#EXTINF:-1 tvg-id="danang" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",DRT1 - Truyền Hình Đà Nẵng
+#EXTINF:-1 tvg-id="danang" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",DNRT-1 - Truyền Hình Đà Nẵng
 https://xem.TruyenHinh.Click/CoBan/137/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://i.imgur.com/UaKnmmP.png" group-title="🇻🇳| Địa phương",Khánh Hòa
 https://www.youtube.com/channel/UCncIan-xLq8WE3Jn8tSIDPQ/live
