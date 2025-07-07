@@ -6,6 +6,13 @@ http://stream.priyom.org:8000/buzzer
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Live Cam
 https://www.youtube.com/@ktslive7961/live
 
+#EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live
+https://www.youtube.com/@ewc/live
+#EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+
 #EXTINF:-1 group-title="2025 Wimbledon Live",UK | BBC1
 https://stream1.freetv.fun/bbc-1--s-1.ctv
 #EXTINF:-1 group-title="2025 Wimbledon Live",Radio Wimbledon Live (Main Feed Commentary Live by Honkai Star Rail Commentary Team)
