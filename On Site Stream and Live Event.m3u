@@ -23,16 +23,16 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",1st Day Live - Valorant Stream A
-https://www.youtube.com/watch?v=M22lGdazc9Q&pp=0gcJCcEJAYcqIYzv
-#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",1st Day Live - Valorant Stream B
-https://www.youtube.com/watch?v=CX5mGD3ay6o
-#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",1st Day Live - Dota 2 Stream A
-https://www.youtube.com/watch?v=tTqB5r4lIrc
-#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",1st Day Live - Dota 2 Stream B
-https://www.youtube.com/watch?v=f1mIcBhH96Y
-#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",1st Day Live - Rennsports T1 Live by Hollow Special Operation Section 6 Commentary Team 
-https://www.youtube.com/watch?v=SbM_LgGItJo
+#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Valorant Stream A
+https://www.youtube.com/watch?v=N4kV8PbH7ss
+#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Valorant Stream B
+https://www.youtube.com/watch?v=Z9FzFmgTX0E
+#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Dota 2 Stream A
+https://www.youtube.com/watch?v=oVT-1T5lylQ
+#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Dota 2 Stream B
+https://www.youtube.com/watch?v=S5IRDrqhhRM
+#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Rennsports T1 Live by Hollow Special Operation Section 6 Commentary Team 
+https://www.youtube.com/watch?v=Z9JsQOgpmRU
 
 #EXTINF:-1 group-title="2025 Wimbledon Live",UK | BBC1
 https://stream1.freetv.fun/bbc-1--s-1.ctv
@@ -280,9 +280,9 @@ https://www.youtube.com/watch?v=UM8-8Cp3E88
 https://www.youtube.com/@qpvndigital/live
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",SPECIAL EVENT LIVE: Hoyofair Fan Art Special Program Dedicated for 1st Anniversary Special Edition of Zenless Zone Zero
+#EXTINF:-1 group-title="Special Program",SPECIAL EVENT LIVE: Hoyofair Fan Art Special Program Dedicated for 2nd Anniversary Special Edition of Zenless Zone Zero
 https://www.youtube.com/watch?v=IMUVib1jGRE
-#EXTINF:-1 group-title="Special Program",SPECIAL EVENT LIVE: Hoyofair Fan Art Special Program Dedicated for 1st Anniversary Special Edition of Zenless Zone Zero (OtakuRoo)
+#EXTINF:-1 group-title="Special Program",SPECIAL EVENT LIVE: Hoyofair Fan Art Special Program Dedicated for 2nd Anniversary Special Edition of Zenless Zone Zero (OtakuRoo)
 https://www.youtube.com/watch?v=9gPR7WTraY4&pp=ygUcSG95b2ZhaXIgWlpaIDFzdCBBbm5pdmVyc2FyeQ%3D%3D
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
@@ -679,7 +679,7 @@ https://radio.vaticannews.va/stream-vi
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore
 https://www.youtube.com/channel/UC4HqQT1uH3dzz_ZSR_mVUEw/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",Roman Catholic Archdiocese of Singapore Radio Live
-https://ais-sa8.cdnstream1.com/5033/playlist.m3u8?listeningSessionID=6604f23e00780569_33137329_4MfoqzVP_NjYuODUuODkuMjg6ODA!_000000i47Nw&downloadSessionID=0&listenerId=ba2c29ed2c6152ae0b77a7fe33da5810&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1744737520
+https://ais-sa8.cdnstream1.com/5033/playlist.m3u8?listeningSessionID=6604f23e00780569_33137329_4MfoqzVP_NjYuODUuODkuMjg6ODA!_000000i47Nw&downloadSessionID=0&listenerId=ba2c29ed2c6152ae0b77a7fe33da5810&aw_0_2nd.playerid=esPlayer&aw_0_2nd.skey=1744737520
 #EXTINF:-1 group-title="⛪|Thánh Lễ",AnboliTV
 https://www.youtube.com/channel/UCLaRapGrRHS0W5uyWnh-bpg/live
 #EXTINF:-1 group-title="⛪|Thánh Lễ",EWTN Live
