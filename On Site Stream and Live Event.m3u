@@ -23,8 +23,6 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Valorant Stream A
-https://www.youtube.com/watch?v=N4kV8PbH7ss
 #EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Valorant Stream B
 https://www.youtube.com/watch?v=Z9FzFmgTX0E
 #EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Dota 2 Stream A
@@ -33,6 +31,8 @@ https://www.youtube.com/watch?v=oVT-1T5lylQ
 https://www.youtube.com/watch?v=S5IRDrqhhRM
 #EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",2nd Day Live - Rennsports T1 Live by Hollow Special Operation Section 6 Commentary Team 
 https://www.youtube.com/watch?v=Z9JsQOgpmRU
+#EXTINF:-1 group-title="eSports World Cup 2025b Sub Feed Live",3rd Day Live - MSC Wild Card Live
+https://www.youtube.com/watch?v=mkqLHhRBs4k
 
 #EXTINF:-1 group-title="2025 Wimbledon Live",UK | BBC1
 https://stream1.freetv.fun/bbc-1--s-1.ctv
