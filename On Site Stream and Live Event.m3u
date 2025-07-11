@@ -35,9 +35,6 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Vietnamese Sub Feed Live",1st Day Live - MSC MLBB live
-https://www.youtube.com/watch?v=tCG18RR8gYQ
-
 
 #EXTINF:-1 group-title="2025 Wimbledon Live",UK | BBC1
 https://stream1.freetv.fun/bbc-1--s-1.ctv
@@ -84,16 +81,13 @@ https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam
 https://www.youtube.com/watch?v=6lBCa81Axqg
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam (Feed #2)
-https://www.youtube.com/watch?v=BKO7wqh7QLw&pp=ygUVVmFuY291dmVyIExpdmUgQ2FtZXJh0gcJCb4JAYcqIYzv
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam (Feed #3)
-https://www.youtube.com/watch?v=SpBs0mo3sKE&pp=ygUVVmFuY291dmVyIExpdmUgQ2FtZXJh
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam (Feed #3)
-https://www.youtube.com/watch?v=U2fBkGo4KSw&pp=ygUVVmFuY291dmVyIExpdmUgQ2FtZXJh
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver False Creek Dock Live Cam
-https://www.youtube.com/watch?v=RHgZ4aRk8QM
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Skyline with 2010 Winter Olympic Games Village Vancouver (Was once used during 2010 Winter Olympic Games in Vancouver and now is a residential area)
-https://www.youtube.com/watch?v=tqVCrE5tKlo
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Port Live Cam
+https://www.youtube.com/watch?v=15IXlNJjV1w
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Victoria Harbour Live Cam
+https://www.youtube.com/watch?v=ZvqDwjNoN7Y
+#EXTINF:-1 group-title="2025 MSI (LoL) Live",BC Arena Live Cam
+https://www.youtube.com/watch?v=8VRldPcnyY8?
+
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (EN)
 https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
 #EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP (VN)
