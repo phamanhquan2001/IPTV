@@ -14,6 +14,8 @@ http://stream.priyom.org:8000/buzzer
 https://www.youtube.com/@ktslive7961/live
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Airport Live Cam
 https://www.youtube.com/watch?v=s-t9az2f9tU&pp=ygUh6bm_5YWQ5bO256m65riv44Op44Kk44OW44Kr44Oh44Op
+#EXTINF:-1 group-title="Radio Signal",Kagoshima Live Cam
+https://www.youtube.com/@ktslive7961/live
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",2nd Day Live - Valorant
 https://www.youtube.com/watch?v=FMLtVroF3zo
@@ -24,10 +26,15 @@ https://www.youtube.com/watch?v=nZJuYdPAJLI
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",2nd Day Live - Fatal Fury City of the Wolves
 https://www.youtube.com/watch?v=hD2MoKwdhB4
 
+
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live
 https://www.youtube.com/@ewc/live
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (Arabic)
 https://www.youtube.com/@ewc_ar/live
+#EXTINF:-1 group-title="eSports World Cup 2025 Live",F eSports Live
+https://www.youtube.com/@fesportsvn/live
+#EXTINF:-1 group-title="eSports World Cup 2025 Live",FPT Bóng Đá Live
+https://www.youtube.com/@FPTbongdaofficial/live
 #EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (1080p)
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
@@ -273,14 +280,11 @@ https://www.youtube.com/watch?v=UM8-8Cp3E88
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
 
 #Sports Live
-#EXTINF:-1 group-title="Sports Live",Trực tiếp Hội thao võ chiến đấu tay không 2025
-https://www.youtube.com/@qpvndigital/live
+#EXTINF:-1 group-title="Sports Live",SEA V.League Live
+https://www.youtube.com/@kenhbongchuyenvietnam/live
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",SPECIAL EVENT LIVE: Hoyofair Fan Art Special Program Dedicated for 2nd Anniversary Special Edition of Zenless Zone Zero
-https://www.youtube.com/watch?v=IMUVib1jGRE
-#EXTINF:-1 group-title="Special Program",SPECIAL EVENT LIVE: Hoyofair Fan Art Special Program Dedicated for 2nd Anniversary Special Edition of Zenless Zone Zero (OtakuRoo)
-https://www.youtube.com/watch?v=9gPR7WTraY4&pp=ygUcSG95b2ZhaXIgWlpaIDFzdCBBbm5pdmVyc2FyeQ%3D%3D
+#EXTINF:-1 group-title="Special Program",
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
