@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Underwater Exploration",Nauttilus Feed #1
-https://www.youtube.com/watch?v=0lR6fx86V_4
-#EXTINF:-1 group-title="Underwater Exploration",Nauttilus Feed #2
-https://www.youtube.com/watch?v=tB_yJtbwRQE
-#EXTINF:-1 group-title="Underwater Exploration",Nauttilus Feed #3
-https://www.youtube.com/watch?v=mIUv2D440hg
-
 #EXTINF:-1 group-title="Radio Signal",UVB-76 Buzzer Radio Signal Live
 http://stream.priyom.org:8000/buzzer
 
@@ -14,20 +7,16 @@ http://stream.priyom.org:8000/buzzer
 https://www.youtube.com/@ktslive7961/live
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Airport Live Cam
 https://www.youtube.com/watch?v=s-t9az2f9tU&pp=ygUh6bm_5YWQ5bO256m65riv44Op44Kk44OW44Kr44Oh44Op
-#EXTINF:-1 group-title="Radio Signal",Kagoshima Live Cam
-https://www.youtube.com/@ktslive7961/live
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",2nd Day Live - Valorant
-https://www.youtube.com/watch?v=FMLtVroF3zo
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",2nd Day Live - MSC MLBB
-https://www.youtube.com/watch?v=ISZvF-CYsW8
+https://www.youtube.com/watch?v=MGyVCc4eAzw
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",2nd Day Live - DOTA2
-https://www.youtube.com/watch?v=nZJuYdPAJLI
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",2nd Day Live - Fatal Fury City of the Wolves
-https://www.youtube.com/watch?v=hD2MoKwdhB4
+https://www.youtube.com/watch?v=9BviVxKihPo
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",3rd Day Live - ALGS (Apex Legends Live)
+https://www.youtube.com/watch?v=sVBjgkz12pQ
 
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live
+#EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (Arabic)
 https://www.youtube.com/@ewc_ar/live
@@ -82,31 +71,6 @@ https://stream1.freetv.fun/574f1a24e21554d157a697d7bb248269b752cba9c8624c41f1f65
 https://stream1.freetv.fun/a8bd3818d6485945b3158947ef0e84af9ce645552916eb6092292833c2774e9f.ctv
 #EXTINF:-1 tvg-id="tro" group-title="2025 UEFA Women's Euro Live" tvg-logo="https://picon.ml/belros.png",GE | 2TV Gruzia
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
-
-
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Live Cam
-https://www.youtube.com/watch?v=6lBCa81Axqg
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Port Live Cam
-https://www.youtube.com/watch?v=15IXlNJjV1w
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",Vancouver Victoria Harbour Live Cam
-https://www.youtube.com/watch?v=ZvqDwjNoN7Y
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",BC Arena Live Cam
-https://www.youtube.com/watch?v=8VRldPcnyY8?
-
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (EN)
-https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP (VN)
-https://www.youtube.com/channel/UChG2EWuXoW7Tgof35WjbsnQ/live
-#EXTINF:-1 group-title="2025 MSI (LoL) Live",LCP Live (JP)
-https://www.youtube.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
-
-#EXTINF:-1 group-title="2025 MSI (LoL) Live Co-Streamer Live",Sendo Yuuhi (VSPO Team from Virtual eSports Project)
-https://www.youtube.com/@SendoYuuhi/live
-#EXTINF:-1 group-title="2025 MSI (LoL) Live Co-Streamer Live",HoangLuan
-https://www.youtube.com/@hoangluanblv/live
-
-#EXTINF:-1 group-title="2025 CONCACAF Gold Cup Live" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",CONCACAF Youtube Live
-https://www.youtube.com/@CONCACAF/live
 
 #EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025",USA Live Webcam
 https://www.youtube.com/watch?v=CWisr5zg3so
