@@ -1,9 +1,30 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Tour de France 2025 Live",J-SPORTS 4
+#EXTINF:-1 group-title="Tour de France 2025 Live",JP | J-SPORTS 4
 https://vthanh.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="Tour de France 2025 Live",ARD Das Erste
+#EXTINF:-1 group-title="Tour de France 2025 Live",DE | ARD Das Erste
 https://s6.hopslan.com/ardX/index.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",PT | RTP 1 (720p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",US | NBC-SPORTS
+https://stream1.freetv.fun/7623b1b1a6bbce35dadb6bcd84ff184bf930e667791b0ff4a02c4d0f37cf3573.ctv
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",IE | TG4 Nuacht
+https://stream1.freetv.fun/7a9aa21aff936eb02258feea07ec08abf4a7df0dbdf9d2e6835b67af6cdfff02.ctv
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",CO | CARACOL-TV
+https://stream1.freetv.fun/97b2af7751a2288b5829a7051e04cb285befcf8aea8c56a9b9ce8aeb6274a09c.ctv
+#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",CO | RCN-MÁS
+https://stream1.freetv.fun/9c9d5887f6867ae6fb50c315482bd280803563103fe6c8b85ed177889c255780.ctv
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Tour de France 2025 Live",UK | TNT Sports 1 FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Tour de France 2025 Live",UK | TNT Sports 2 FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Tour de France 2025 Live",UK | TNT Sports 3 FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Tour de France 2025 Live",UK | TNT Sports 4 FHD
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Tour de France 2025 Live",NZ | Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
 
 #EXTINF:-1 group-title="Radio Signal",UVB-76 Buzzer Radio Signal Live
 http://stream.priyom.org:8000/buzzer
@@ -28,24 +49,6 @@ https://www.youtube.com/@FPTbongdaofficial/live
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
-
-
-#EXTINF:-1 group-title="2025 Wimbledon Live",UK | BBC1
-https://stream1.freetv.fun/bbc-1--s-1.ctv
-#EXTINF:-1 group-title="2025 Wimbledon Live",Radio Wimbledon Live (Main Feed Commentary Live by Honkai Star Rail Commentary Team)
-https://radio.wimbledon.com/live/main/playlist_1.m3u8
-#EXTINF:-1 group-title="2025 Wimbledon Live",Radio Wimbledon Live (Court 1 Feed Commentary Live by Yuzuki Choco)
-https://radio.wimbledon.com/live/court1/playlist_1.m3u8
-#EXTINF:-1 group-title="2025 Wimbledon Live",Radio Wimbledon Live (Centre Court Feed Commentary Live by Houshou Marine)
-https://radio.wimbledon.com/live/centre/playlist_2.m3u8
-#EXTINF:-1 group-title="2025 Wimbledon Live",EUROSPORTS-1
-https://stream1.freetv.fun/eurosport-1-8.ctv
-#EXTINF:-1 group-title="2025 Wimbledon Live",EUROSPORTS-2
-https://stream1.freetv.fun/eurosport-2-21.ctv
-#EXTINF:-1 group-title="2025 Wimbledon Live",NHK-G
-http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="2025 Wimbledon Live",WOWOW-LIVE
-http://vthanh.utako.moe/wlive/index.m3u8
 
 #EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | iTV1
 https://stream1.freetv.fun/itv1-1.ctv
