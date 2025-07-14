@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Tour de France 2025 Live",J-SPORTS 4
-http://vthanh.utako.moe/js4/index.m3u8
+https://vthanh.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="Tour de France 2025 Live",ARD Das Erste
 https://s6.hopslan.com/ardX/index.m3u8
 
