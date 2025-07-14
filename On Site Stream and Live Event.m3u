@@ -4,9 +4,6 @@
 https://vthanh.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="Tour de France 2025 Live",DE | ARD Das Erste
 https://s6.hopslan.com/ardX/index.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",PT | RTP 1 (720p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",US | NBC-SPORTS
 https://stream1.freetv.fun/7623b1b1a6bbce35dadb6bcd84ff184bf930e667791b0ff4a02c4d0f37cf3573.ctv
 #EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",IE | TG4 Nuacht
@@ -34,8 +31,8 @@ https://www.youtube.com/@ktslive7961/live
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Airport Live Cam
 https://www.youtube.com/watch?v=s-t9az2f9tU&pp=ygUh6bm_5YWQ5bO256m65riv44Op44Kk44OW44Kr44Oh44Op
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",
-
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Free Fire (Lửa Chùa)
+https://www.youtube.com/watch?v=xgMUvNx5Llk
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
