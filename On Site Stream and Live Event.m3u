@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="AFF U23 Mandiri Cup Live",VN | VTV5
-https://xem.TruyenHinh.Click/CoBan/vtv5-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/LtrmGnHNkg301iwTAkicNg/1752589101/manifest/vtv5/playlist_480p.m3u8
 #EXTINF:-1 group-title="AFF U23 Mandiri Cup Live",VN | VTV7
-https://xem.TruyenHinh.Click/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/VNjPUOQAAlIGdZRIg-sHFA/1752589219/manifest/vtv7/playlist_480p.m3u8
 #EXTINF:-1 group-title="AFF U23 Mandiri Cup Live",VN | VTV Can Tho
-https://xem.TruyenHinh.Click/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/90mA1J7YqpklGE6m0qlflw/1752589276/manifest/vtv6/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="AFF U23 Mandiri Cup Live" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk1/KenhCoBan-TV3602",TV360+ 1
 https://xem.TruyenHinh.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk2" group-title="AFF U23 Mandiri Cup Live" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk2/KenhCoBan-TV3602",TV360+ 2
