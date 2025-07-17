@@ -1,11 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Informacão
+https://stream1.freetv.fun/943a8e49a5befff23d7a2247a1b7ee657fbeba3faac7d9a4c0cafae114c9ee8b.ctv
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Teledifusão de Macau	
+https://stream1.freetv.fun/8354c0fb68a1bfb58760168ee6b7272b9d5e766b2c7ecce76033fdc045b88e1e.ctv
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",Kanal 93 Natlan Sports Channel
+https://stream1.freetv.fun/04f3cb00d6d55dac1e551cb5df39872b9fb0cbb65c21345e04ca1ada30a09dcc.ctv
+
 #EXTINF:-1 group-title="AFF U23 Mandiri Cup Live",VN | VTV5
-https://vtvgolive-ssaimh.vtvdigital.vn/LtrmGnHNkg301iwTAkicNg/1752589101/manifest/vtv5/playlist_480p.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtv5-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="AFF U23 Mandiri Cup Live",VN | VTV7
-https://vtvgolive-ssaimh.vtvdigital.vn/VNjPUOQAAlIGdZRIg-sHFA/1752589219/manifest/vtv7/playlist_480p.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtv7-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="AFF U23 Mandiri Cup Live",VN | VTV Can Tho
-https://vtvgolive-ssaimh.vtvdigital.vn/90mA1J7YqpklGE6m0qlflw/1752589276/manifest/vtv6/playlist_480p.m3u8
+https://xem.TruyenHinh.Click/CoBan/vtv-can-tho/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk1" group-title="AFF U23 Mandiri Cup Live" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk1/KenhCoBan-TV3602",TV360+ 1
 https://xem.TruyenHinh.Click/CoBan2/tv360.sk1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tv360.sk2" group-title="AFF U23 Mandiri Cup Live" group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/tv360.sk2/KenhCoBan-TV3602",TV360+ 2
@@ -126,25 +133,6 @@ https://stream1.freetv.fun/a8bd3818d6485945b3158947ef0e84af9ce645552916eb6092292
 #EXTINF:-1 tvg-id="tro" group-title="2025 UEFA Women's Euro Live" tvg-logo="https://picon.ml/belros.png",GE | 2TV Gruzia
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025",USA Live Webcam
-https://www.youtube.com/watch?v=CWisr5zg3so
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",TUDN
-https://263.org.vn/TUDN
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",Channel 5
-https://263.org.vn/Channel5
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",DAZN 1 France
-https://263.org.vn/dazn1fr
-#EXTINF:-1 group-title="FIFA CLUB WORLD CUP 2025" tvg-logo="https://media.coliseum-online.com/2024/09/Coliseum-GSVA-News-Logo-for-FIFA-Club-World-Cup-2025-launched.jpg",FPT Bóng Đá Radio Podcast Live by Seele and Veliona
-https://www.youtube.com/@FPTBongdaOfficial/live
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/WYx6EPM.png" group-title="FIFA CLUB WORLD CUP 2025",US | TNT
-https://7pal.short.gy/tntus
-#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://i.imgur.com/r0pE4NJ.png" group-title="FIFA CLUB WORLD CUP 2025",US | truTV
-https://7pal.short.gy/trutvus
-#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="https://i.imgur.com/Ks8htcP.png" group-title="FIFA CLUB WORLD CUP 2025",US | TBS
-https://7pal.short.gy/tbsus
-#EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://i.imgur.com/Boxa3qc.png" group-title="FIFA CLUB WORLD CUP 2025",Supersport PL
-https://7pal.short.gy/spersppl
-
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
 https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
@@ -181,6 +169,9 @@ http://a.ru8.dpdns.org/now/331/master.m3u8
 https://www.youtube.com/watch?v=PnFcjVEz5nI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=Fmq3kT8hrc0
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Taipei (Taiwan) - The annual air-raid drill
+https://www.youtube.com/watch?v=2_QZyvXfi50
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Damascus (Syria) - View amid intensifying conflict
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -250,43 +241,17 @@ https://tab.parlament.hu:446/edgelive/smil:mkogytab.smil/chunklist_w1146464129_b
 http://stream001.radio.hu:8080/mr5.aac
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="https://pcradio.ru/images/stations/61b09cf2bfedb.jpg" group-title="Parliament Live" radio=true,C-SPAN RADIO 1
 https://playerservices.streamtheworld.com/pls/CSPANRADIO.pls
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",RÚV-2 (Iceland's Parliament Live)
+#EXTINF:-1 group-title="2025 Parliament Live",RÚV-2 (Iceland's Parliament Live)
 https://stream1.freetv.fun/b7b6bac9e0e0e763a92c09f6fb16fdcae0df227aba26aeefb44947d27907a8cd.ctv
+#EXTINF:-1 group-title="Parliament Live",TDM LegCo Macau
+https://stream1.freetv.fun/d072fab41e0e65731eed2538eeb79408d6d1ca8b7086832378ec3df38caa4b56.ctv
+#EXTINF:-1 group-title="Parliament Live",TDM LegCo Macau
+https://stream1.freetv.fun/d01e2a561a5a8882e20d317c2ed28336a074d22c5451da09a4fb8cecf744ae24.ctv
 
 #EXTINF:-1 group-title="Japan House of Representatives Comitee Meeting Live",
 
-#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - DRT1 Truyền Hình Đà Nẵng
-https://xem.TruyenHinh.Click/CoBan/137/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - VTV1
-https://xem.TruyenHinh.Click/CoBan/vtv1hd/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - Báo Tuổi Trẻ (YouTube)
-https://www.youtube.com/channel/UC47WI-kZXFf0H_f7pvaNCEQ/live
-#EXTINF:-1 group-title="Live Event",Trực tiếp Lễ hội Pháo hoa Đà Nẵng 2025: Tales of Festival 2025 - Báo Tuổi Trẻ Media (YouTube)
-https://www.youtube.com/c/TuoitreVn2015/live
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Nút Tây Cầu Rồng
-https://youtu.be/VHxNpNjKurU&pp=ygUgVHLhu7FjIHRp4bq_cCBjYW1lcmEgxJDDoCBO4bq1bmc%3D
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Góc Nhìn Cầu Trần Thị Lý
-https://youtu.be/JZRc7-Bvsfg
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Trang Phục Biểu Diễn Phương Trần
-https://youtu.be/CaMkzNXwVcE&pp=0gcJCbAJAYcqIYzv
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Trước cống trường Nguyễn Huệ
-https://youtu.be/xCNRP131kNY
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Bệnh Viện Đà Nẵng
-https://youtu.be/AcndFyZebdc
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Cổng Sau BV C
-https://youtu.be/muijHPW82vI
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: KS Hải Triều
-https://youtu.be/PmhlLGhCq9k
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: Đà Nẵng Ngày Nay
-https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8
-#EXTINF:-1 group-title="Live Event",Trực tiếp camera Lễ hội Pháo hoa Đà Nẵng 2025: KS Meryland
-https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
-#EXTINF:-1 group-title="Live Event",Multiview 9 đài PT-TH sẽ sáp nhập theo chủ trương của quốc hội
-https://www.youtube.com/@justvthanh/live
-#EXTINF:-1 group-title="Live Event",Multiview 9 đài PT-TH sẽ sáp nhập theo chủ trương của quốc hội (Feed #1)
-https://www.youtube.com/watch?v=ULmiO6R9R8w
-#EXTINF:-1 group-title="Live Event",Multiview 9 đài PT-TH sẽ sáp nhập theo chủ trương của quốc hội (Feed #2)
-https://www.youtube.com/watch?v=UM8-8Cp3E88
+
+#EXTINF:-1 group-title="Live Event",
 
 #J.League Live
 #EXTINF:-1 group-title="J.League Live",
