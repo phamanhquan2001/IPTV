@@ -34,11 +34,20 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 group-title="eSports World Cup 2025 Live" tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (1080p)
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Kanal Macau (Kanal-92)
+https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w847338466.m3u8
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Ou Mun (Kanal-91)
+https://globallive.tdm.com.mo/ch1/ch1.live/chunklist_w550256170.m3u8
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Ou Mun (Kanal-96)
+https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w938533498.m3u8
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Entertainment Channel (Kanal-95)
+https://globallive.tdm.com.mo/ch6/hd_ch6.live/chunklist_w2056714492.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Informacão
-https://stream1.freetv.fun/943a8e49a5befff23d7a2247a1b7ee657fbeba3faac7d9a4c0cafae114c9ee8b.ctv
-#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Teledifusão de Macau	
-https://stream1.freetv.fun/8354c0fb68a1bfb58760168ee6b7272b9d5e766b2c7ecce76033fdc045b88e1e.ctv
+https://globallive.tdm.com.mo/ch5/info_ch5.live/chunklist_w570740596.m3u8
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",Natlan Radio FM 100.7 Macau
+https://globallive.tdm.com.mo/live/rch2.live/chunklist_w947745568.m3u8
+#EXTINF:-1 group-title="Macau On-Site from Natlan Live",Natlan Radio Portugues FM 98 Macau
+https://globallive.tdm.com.mo/live/rch1.live/chunklist_w947745568.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",Kanal 93 Natlan Sports Channel
 https://stream1.freetv.fun/04f3cb00d6d55dac1e551cb5df39872b9fb0cbb65c21345e04ca1ada30a09dcc.ctv
 
