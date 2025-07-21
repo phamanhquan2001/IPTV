@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="📺| ONNA Network" tvg-logo="https://i.ibb.co/spCgh0Tf/1735283835605.png",ONi1 (Typhoon Wipha Update)
+https://truyenhinh.click/oni1?/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Live Cam
 https://www.youtube.com/@ktslive7961/live
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Airport Live Cam
