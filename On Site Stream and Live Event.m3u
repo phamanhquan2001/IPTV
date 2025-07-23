@@ -8,11 +8,11 @@ https://www.youtube.com/@ktslive7961/live
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Airport Live Cam
 https://www.youtube.com/watch?v=s-t9az2f9tU&pp=ygUh6bm_5YWQ5bO256m65riv44Op44Kk44OW44Kr44Oh44Op
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",MLBB
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",MLBB (Commentary Live by Saba Sameko)
 https://www.youtube.com/watch?v=vguLjcSvAT4
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Honor of Kings - Vương Giả Vinh Diệu
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Honor of Kings: Vương Giả Vinh Diệu (Commentary Live by Honkai Star Rail Amphoreus Reporter Team)
 https://www.youtube.com/watch?v=S5aYunVW73E
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Starcraft II
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Starcraft II (Commentary Live by Macross Delta Walküre Team)
 https://www.youtube.com/watch?v=qT0ZJc4P-Zw
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",
@@ -29,6 +29,10 @@ https://www.youtube.com/@fesportsvn/live
 https://www.youtube.com/@FPTbongdaofficial/live
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",VIRESA LIVE
 https://www.youtube.com/@vietnamesportsfederation-v7702/live
+#EXTINF:-1 group-title="eSports World Cup 2025 Live",HTVTT (YouTube Feed)
+https://www.youtube.com/@thethaohtv/live
+#EXTINF:-1 group-title="eSports World Cup 2025 Live"group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv-the-thao/KenhCoBan",HTVTT
+https://xem.TruyenHinh.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa",Al Quran Al Kareem TV (360p)
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa",Al Sunnah Al Nabawiyah TV (360p)
