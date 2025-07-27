@@ -65,9 +65,11 @@ https://stream1.freetv.fun/d84af604ce71894a0a10a6f3dd9a8ae7dc55e1264e67ea370c5bf
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing3.ae",Dubai Racing 3 (1080p)
 https://stream1.freetv.fun/109da49806b248e15eb60d3cdedf16564bdcbe5d799bea2fe7ac8db39734dd6e.ctv
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Racing.com TV
-https://stream1.freetv.fun/0e69f9b25cf2df94dcdb84eb8cd06d99b42da3d98ab49a3e668aa1e8920fea1a.ctv
+https://stream1.freetv.fun/c2f3e62e1dcff619ac4b01bb694327ce427acfdd3e741417f2ad10720178789b.ctv
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",SKY SPORTS RACING (UK)
-https://stream1.freetv.fun/9a371f9acb28a0cd848a5a1200eaabcf4b7ec9393c4ccc64c3818edd3b5e52a3.ctv
+https://stream1.freetv.fun/bee657cfb8def68b84ac19278d028093fdd33fdac1731a52d74096a87d4bf30a.ctv
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",RACING TV (UK)
+https://stream1.freetv.fun/e5d529590964950473e3c1edffe8c461c1b77df53a3c0aa441cedee54b987e60.ctv
 #EXTINF:-1 group-title="Genshin Fontaine League Live" tvg-chno="300" tvg-country="FR" group-title="EQUIDIA",300. LE GRAND DIRECT [1080p-equidia.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 group-title="Genshin Fontaine League Live" tvg-chno="301" tvg-country="FR" group-title="EQUIDIA",301. RACING GALOP [1080p-equidia.fr]
