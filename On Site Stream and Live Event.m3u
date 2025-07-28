@@ -5,20 +5,11 @@ https://www.youtube.com/@ktslive7961/live
 #EXTINF:-1 group-title="Radio Signal",Kagoshima Airport Live Cam
 https://www.youtube.com/watch?v=s-t9az2f9tU&pp=ygUh6bm_5YWQ5bO256m65riv44Op44Kk44OW44Kr44Oh44Op
 
-#EXTINF:-1 group-title="Free Concert Part Live",Ave Mujica 5th Concert Live: Nova Historia - 1st Day Live
-https://www.youtube.com/watch?v=4K0SUqLKQgI
-#EXTINF:-1 group-title="Free Concert Part Live",Ave Mujica 5th Concert Live: Nova Historia - 2nd Day Live
-https://www.youtube.com/watch?v=rRrCO6W4uNo
-
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Mobile
-https://www.youtube.com/watch?v=hZ--U__i40c
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",MLBB
-https://www.youtube.com/watch?v=19hrDOZTuiQ
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Vietnamese Live",MLBB
-https://www.youtube.com/watch?v=HLxyBe1icAc
+#EXTINF:-1 group-title="eSports World Cup 2025 Vietnamese Live",
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
@@ -98,66 +89,8 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 
-#EXTINF:-1 group-title="Tour de France 2025 Live",JP | J-SPORTS 4
-https://vthanh.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="Tour de France 2025 Live",DE | ARD Das Erste
-https://s6.hopslan.com/ardX/index.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",US | NBC-SPORTS
-https://stream1.freetv.fun/7623b1b1a6bbce35dadb6bcd84ff184bf930e667791b0ff4a02c4d0f37cf3573.ctv
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",IE | TG4 Nuacht
-https://stream1.freetv.fun/7a9aa21aff936eb02258feea07ec08abf4a7df0dbdf9d2e6835b67af6cdfff02.ctv
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",CO | CARACOL-TV
-https://stream1.freetv.fun/97b2af7751a2288b5829a7051e04cb285befcf8aea8c56a9b9ce8aeb6274a09c.ctv
-#EXTINF:-1 tvg-id="RTP1.pt" group-title="Tour de France 2025 Live",CO | RCN-MÁS
-https://stream1.freetv.fun/9c9d5887f6867ae6fb50c315482bd280803563103fe6c8b85ed177889c255780.ctv
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="Tour de France 2025 Live",UK | TNT Sports 1 FHD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="Tour de France 2025 Live",UK | TNT Sports 2 FHD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="Tour de France 2025 Live",UK | TNT Sports 3 FHD
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="Tour de France 2025 Live",UK | TNT Sports 4 FHD
-https://7pal.short.gy/tntspts4
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="Tour de France 2025 Live", Sky Sport1 NZ FHD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="Tour de France 2025 Live", Sky Sport2 NZ FHD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="Tour de France 2025 Live", Sky Sport3 NZ FHD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="Tour de France 2025 Live", Sky Sport4 NZ FHD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="Tour de France 2025 Live", Sky Sport5 NZ FHD
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="Tour de France 2025 Live", Sky Sport6 NZ FHD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="Tour de France 2025 Live", Sky Sport7 NZ FHD
-https://7pal.short.gy/skyspt7nz
-
 #EXTINF:-1 group-title="Radio Signal",UVB-76 Buzzer Radio Signal Live
 http://stream.priyom.org:8000/buzzer
-
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | iTV1
-https://stream1.freetv.fun/itv1-1.ctv
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",UK | iTV4
-https://stream1.freetv.fun/itv4-2.ctv
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",US | FOXSPORTS-1
-https://stream1.freetv.fun/bf9bc1dd55ec334ed7645a9de50ef1dfca6b83a702200c6ade3a6e268f159c06.ctv
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",US | FOXSPORTS-2
-https://stream1.freetv.fun/c556c63fed799dd253528812fa717d654a5d044be2812565d9bcf7a738ecfde3.ctv
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",DE | ARD Das Erste
-https://s6.hopslan.com/ardX/index.m3u8
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",DE | ZDF Sportstudio
-https://s6.hopslan.com/zdfX/index.m3u8
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",ES | RTVE-PLAY CADENA 1
-https://stream1.freetv.fun/9d9d52fa08114a83f2d7a3bf027d4f21285ee630402eeb628e12660cb0e46eda.ctv
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",ES | RTVE-PLAY CADENA 2
-https://stream1.freetv.fun/04b14e95a8ffaf33a6c7733c6250bebd49dfb7bac69f2b3c45292f9b06246db1.ctv
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",ES | RTVE-PLAY CADENA 3
-https://stream1.freetv.fun/574f1a24e21554d157a697d7bb248269b752cba9c8624c41f1f65cc963909637.ctv
-#EXTINF:-1 group-title="2025 UEFA Women's Euro Live",ES | RTVE-PLAY CADENA 4
-https://stream1.freetv.fun/a8bd3818d6485945b3158947ef0e84af9ce645552916eb6092292833c2774e9f.ctv
-#EXTINF:-1 tvg-id="tro" group-title="2025 UEFA Women's Euro Live" tvg-logo="https://picon.ml/belros.png",GE | 2TV Gruzia
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
@@ -191,13 +124,12 @@ https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad64083
 #EXTINF:-1 group-title="On-Site Live Channel", NOW Direct
 http://a.ru8.dpdns.org/now/331/master.m3u8
 
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Israel Iran Live Camera
-https://www.youtube.com/watch?v=PnFcjVEz5nI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
+https://www.youtube.com/watch?v=EoaOH7AgTKE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=Fmq3kT8hrc0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Taipei (Taiwan) - The annual air-raid drill
-https://www.youtube.com/watch?v=2_QZyvXfi50
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Damascus (Syria) - View amid intensifying conflict
+https://www.youtube.com/watch?v=O-gl6TaKIyw
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",US President Donald Trump meets with UK PM Keith Starmer
+https://www.youtube.com/watch?v=lzLmC0S0BLQ
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
