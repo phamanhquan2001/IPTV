@@ -1,14 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Radio Signal",Kagoshima Live Cam
-https://www.youtube.com/@ktslive7961/live
-#EXTINF:-1 group-title="Radio Signal",Kagoshima Airport Live Cam
-https://www.youtube.com/watch?v=s-t9az2f9tU&pp=ygUh6bm_5YWQ5bO256m65riv44Op44Kk44OW44Kr44Oh44Op
-
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Mobile
-https://www.youtube.com/watch?v=uG12yohpgyw
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Chess
-https://www.youtube.com/watch?v=IpYzlIZJw7g
+https://www.youtube.com/watch?v=vwskYqfpFfE
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",<LBB
+https://www.youtube.com/watch?v=eqrprWqafI8
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",
 
@@ -82,16 +77,6 @@ https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad64083
 https://www.youtube.com/watch?v=EoaOH7AgTKE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=O-gl6TaKIyw
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",US President Donald Trump ribbon-cutting for Aberdeen golf course
-https://www.youtube.com/watch?v=8Sdj0hE_M8E
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",UN agencies briefing on global humanitarian crises
-https://www.youtube.com/watch?v=IUjGr0bLIhg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Stockhold: 2nd day of trade talks between US and China
-https://www.youtube.com/watch?v=wXusy9y-XJE
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Cam from Gaza' Khan Younis
-https://www.youtube.com/watch?v=eBq84tFK1rg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Cam from Al-Aqsa Hospital
-https://www.youtube.com/watch?v=87BSDQWrm8E
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
