@@ -34,24 +34,17 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Kanal Macau (Kanal-92)
-https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w847338466.m3u8
+https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w1447248302.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Ou Mun (Kanal-91)
-https://globallive.tdm.com.mo/ch1/ch1.live/chunklist_w550256170.m3u8
-#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Ou Mun (Kanal-96)
-https://globallive.tdm.com.mo/ch3/ch3.live/chunklist_w938533498.m3u8
-#EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Entertainment Channel (Kanal-95)
-https://globallive.tdm.com.mo/ch6/hd_ch6.live/chunklist_w2056714492.m3u8
+https://globallive.tdm.com.mo/ch1/ch1.live/chunklist_w1645358365.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Informacão
-https://globallive.tdm.com.mo/ch5/info_ch5.live/chunklist_w570740596.m3u8
+https://globallive.tdm.com.mo/ch5/info_ch5.live/chunklist_w1690041433.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",Natlan Radio FM 100.7 Macau
-https://globallive.tdm.com.mo/live/rch2.live/chunklist_w947745568.m3u8
+https://globallive.tdm.com.mo/live/rch2.live/chunklist_w1480603126.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",Natlan Radio Portugues FM 98 Macau
-https://globallive.tdm.com.mo/live/rch1.live/chunklist_w947745568.m3u8
+https://globallive.tdm.com.mo/live/rch1.live/chunklist_w1992367914.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",Kanal 93 Natlan Sports Channel
 https://stream1.freetv.fun/04f3cb00d6d55dac1e551cb5df39872b9fb0cbb65c21345e04ca1ada30a09dcc.ctv
-
-#EXTINF:-1 group-title="Radio Signal",UVB-76 Buzzer Radio Signal Live
-http://stream.priyom.org:8000/buzzer
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
