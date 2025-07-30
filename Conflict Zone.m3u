@@ -5,8 +5,6 @@
 #EXTM3U url-tvg="http://content.stream-link.org/epg/guide.xml" tvg-shift=0 cache=500interlace=1 aspect-ratio=16:9 m3uautoload=3
 #EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600" 
 
-#EXTINF:-1 group-title="Market Open and Close",CNBC (Europe/World)
-http://p1.cvtv.xyz:81/cnbc?token=live
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Market Open and Close",CNBC-Arabiya
@@ -1030,6 +1028,13 @@ https://www.youtube.com/@narinmikure/live
 https://www.youtube.com/@shiranamiramune/live
 #EXTINF:-1 group-title="VTuber Live",Shiranami Ramune (VSPO! Team)
 https://www.youtube.com/@jirajisakilive
+
+#EXTINF:-1  group-title="RADIO",NHK-RADIO 2
+https://radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8
+#EXTINF:-1  group-title="RADIO",NHK-RADIO 1
+https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8
+#EXTINF:-1  group-title="RADIO",NHK-FM
+https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8
 
 #EXTINF:-1  group-title="RADIO",ORTB Radio Bênin
 http://listen.radioking.com/radio/47608/stream/84430
