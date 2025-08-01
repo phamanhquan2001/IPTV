@@ -2,15 +2,16 @@
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Mobile
 https://www.youtube.com/watch?v=P4h9sfa-0-o
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Chess
-https://www.youtube.com/watch?v=7vi5QRFK2Pw
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",MLBB
 https://www.youtube.com/watch?v=wBQnvZZb_IA
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",OWCS (Overwatch 2 Live)
+https://www.youtube.com/watch?v=7-FPwkn0H_8
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",
+#EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",C2NCEL LIVE
+https://www.youtube.com/@c2ncel/live
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Vietnamese Live (FPTPLAY Feed)",MLBB
-https://vips-livecdn.fptplay.net/MTUzNzM4MDF8dGhldGhhbzAzX214LnNtaWx8b3RoZXJ8MTc1NDA0MDIzNnwyNy4yLjEzNi4xMzh8OGI5YmFkYTYwMjBmNDkxOTU5ZWU5ZThjMGI2OTc1N2U/epzch1/thethao03_mx.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="eSports World Cup 2025 Vietnamese Live (FPTPLAY Feed)",Chess
+https://vips-livecdn.fptplay.net/MTUzNzM4MDF8dGhldGhhbzAyX214LnNtaWx8b3RoZXJ8MTc1NDA2MjE3NHwyNy4yLjEzNi4xMzh8OGU1MTMxMjgwNTZjZjA3ZmNmYWM1ZTdkZTA5MjE1MmM/epzch1/thethao02_mx.smil/chunklist_b1200000.m3u8
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
@@ -22,8 +23,6 @@ https://www.youtube.com/@fesportsvn/live
 https://www.youtube.com/@FPTbongdaofficial/live
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",VIRESA LIVE
 https://www.youtube.com/@vietnamesportsfederation-v7702/live
-#EXTINF:-1 group-title="eSports World Cup 2025 Live",C2NCEL LIVE
-https://www.youtube.com/@c2ncel/live
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",HTVTT (YouTube Feed)
 https://www.youtube.com/@thethaohtv/live
 #EXTINF:-1 group-title="eSports World Cup 2025 Live"group-logo="https://xem.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.truyenhinh.click/Logo/htv-the-thao/KenhCoBan",HTVTT
