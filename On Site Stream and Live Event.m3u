@@ -1,11 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="World Games 2025 Live",Opening Night Live by Hololive Productions Reporters Team
-https://livecdn.euw1-0005.jwplive.com/live/sites/KmKR5l4e/media/iBl22GXY/live.isml/.mpd
+#EXTINF:-1 group-title="World Games 2025 Live",Opening Night by Hololive Productions Reporter Team
+https://livecdn.euw1-0005.jwplive.com/live/sites/KmKR5l4e/media/iBl22GXY/live.isml/.m3u8
 #EXTINF:-1 group-title="World Games 2025 Live",CCTV5
 https://stream1.freetv.fun/cctv5--r-1.ctv
 #EXTINF:-1 group-title="World Games 2025 Live",CCTV5+
 https://stream1.freetv.fun/cctv5-plus--r-1.ctv
+#EXTINF:-1 group-title="World Games 2025 Live",ELTA-1
+https://stream1.freetv.fun/2ecad8567f3e24b1e06ab553729fdcafcd48b5632805d8750a3aa7ec85888d57.ctv
+#EXTINF:-1 group-title="World Games 2025 Live",ELTA-2
+https://stream1.freetv.fun/b331510e3bb5c860a1581ea536a8ae80561d3aada530aa14a2ccfc3b2fb799dc.ctv
+#EXTINF:-1 group-title="World Games 2025 Live",ELTA-3
+https://stream1.freetv.fun/856ed22587682becbe1652db868df045c927482ac4b5e4f44a5da77085d7b949.ctv
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Rainbow Six Siege X
 https://www.youtube.com/watch?v=txflgGzxYfc
