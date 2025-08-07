@@ -2,7 +2,10 @@
 
 #EXTINF:-1 group-title="World Games 2025 Live",Opening Night Live by Hololive Productions Reporters Team
 https://livecdn.euw1-0005.jwplive.com/live/sites/KmKR5l4e/media/iBl22GXY/live.isml/.mpd
-
+#EXTINF:-1 group-title="World Games 2025 Live",CCTV5
+https://stream1.freetv.fun/cctv5--r-1.ctv
+#EXTINF:-1 group-title="World Games 2025 Live",CCTV5+
+https://stream1.freetv.fun/cctv5-plus--r-1.ctv
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Rainbow Six Siege X
 https://www.youtube.com/watch?v=txflgGzxYfc
