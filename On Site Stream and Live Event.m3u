@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="World Games 2025 Live",Opening Night by Hololive Productions Reporter Team
-https://livecdn.euw1-0005.jwplive.com/live/sites/KmKR5l4e/media/iBl22GXY/live.isml/.m3u8
 #EXTINF:-1 group-title="World Games 2025 Live",CCTV5
 https://stream1.freetv.fun/cctv5--r-1.ctv
 #EXTINF:-1 group-title="World Games 2025 Live",CCTV5+
@@ -32,23 +30,21 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Rainbow Six Siege X
-https://www.youtube.com/watch?v=txflgGzxYfc
+https://www.youtube.com/watch?v=aMm5BkBRExM
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",CoD: Warzone
-https://www.youtube.com/watch?v=YXE9aV6iX5E
+https://www.youtube.com/watch?v=GnhkKQrTdak
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",FC Pro (Stream A)
-https://www.youtube.com/watch?v=Qymj-EjAvnk
+https://www.youtube.com/watch?v=2ww_-w2F0LM
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",FC Pro (Stream B)
-https://www.youtube.com/watch?v=JQZS0bFREH4
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Rainbow Six Siege X (Stream A)
-https://www.youtube.com/watch?v=_8JeGWSYO0o
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Rainbow Six Siege X (Stream B)
-https://www.youtube.com/watch?v=TfF-MnIU2n8
+https://www.youtube.com/watch?v=kQWz9utV5Xw
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Rainbow Six Siege X
+https://www.youtube.com/watch?v=ddl_0QrXbsI
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",CoD: Warzone
-https://www.youtube.com/watch?v=i7bMnbzbJLg
+https://www.youtube.com/watch?v=iHa4nHxQUmw
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",Tekken 8
-https://www.youtube.com/watch?v=4K5CiRfv0QU
+https://www.youtube.com/watch?v=khqMKrdjSaU
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",C2NCEL LIVE
 https://www.youtube.com/@c2ncel/live
