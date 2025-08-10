@@ -29,22 +29,13 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="World Games 2025 Live" tvg-id="Sport.sk",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Rainbow Six Siege X
-https://www.youtube.com/watch?v=4RLD3ptN540&pp=0gcJCa0JAYcqIYzv
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",CoD: Warzone
-https://www.youtube.com/watch?v=PqCwc9Y7-r4
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",FC Pro
-https://www.youtube.com/watch?v=tOm53ZUKUXw
+https://www.youtube.com/watch?v=-o_Cnnk_m2E
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",FC Pro
-https://www.youtube.com/watch?v=Epffv0_MBt8
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Rainbow Six Siege X
-https://www.youtube.com/watch?v=NOOCgH4rsQc
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",CoD: Warzone
-https://www.youtube.com/watch?v=AF5Xw1VO-VA
+https://www.youtube.com/watch?v=0tdm_fw_cvE
 
-#EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",Tekken 8
-https://www.youtube.com/watch?v=khqMKrdjSaU
+#EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",C2NCEL LIVE
 https://www.youtube.com/@c2ncel/live
