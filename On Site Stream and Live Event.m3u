@@ -29,11 +29,13 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="World Games 2025 Live" tvg-id="Sport.sk",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",FC Pro
-https://www.youtube.com/watch?v=-o_Cnnk_m2E
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
+https://www.youtube.com/watch?v=HSYf-PNk3E0&pp=0gcJCa0JAYcqIYzv
 
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",FC Pro
-https://www.youtube.com/watch?v=0tdm_fw_cvE
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý (Feed A)
+https://www.youtube.com/watch?v=qsAc6gXGvNI
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý (Feed B)
+https://www.youtube.com/watch?v=aLcWT2zdkzc
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",
 
@@ -105,11 +107,48 @@ https://v3.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=0uPXysH2EYBnluK6ZM
 https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
-https://www.youtube.com/watch?v=EoaOH7AgTKE
+https://www.youtube.com/watch?v=xtpqVz6wtD0
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East (Feed 2)
+https://www.youtube.com/watch?v=Qjxe7geoNa8
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=O-gl6TaKIyw
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Smoke rises amid ongoing wildfire at Southern France
-https://www.youtube.com/watch?v=-65PKreaf9g
+https://www.youtube.com/watch?v=u6mKGnYBQvE
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine (Feed 2)
+https://www.youtube.com/watch?v=hzWzwELWbIM
+
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Nagasaki
+https://www.youtube.com/watch?v=Afx0uSGrzp8
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Kagoshima Airport
+https://www.youtube.com/watch?v=SD_YRhx-1u0&pp=ygUb44Op44Kk44OW44Kr44Oh44Op6bm_5YWQ5bO2
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Kagoshima
+https://www.youtube.com/watch?v=hEYMQsjYIJc&pp=ygUb44Op44Kk44OW44Kr44Oh44Op6bm_5YWQ5bO2
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ocean Hotel Iwato
+https://www.youtube.com/watch?v=ox3uu-PmgtM&pp=ygUb44Op44Kk44OW44Kr44Oh44Op6bm_5YWQ5bO2
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Mie/Aichi/Gifu
+https://www.youtube.com/watch?v=Z06GZaUauHk&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5bKQ6Zic
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Shizuoka
+https://www.youtube.com/watch?v=0mU21R0ypjA&pp=ygUY44Op44Kk44OW44Kr44Oh44Op6Z2Z5bKh
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Niigata
+https://www.youtube.com/watch?v=g9SJeUH0sWc&pp=ygUe44Op44Kk44OW44Kr44Oh44Op5paw5r2f6LaF6LaK
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Shiga
+https://www.youtube.com/watch?v=saTR9Uwhij8&pp=ygUb44Op44Kk44OW44Kr44Oh44Op5ruL6LOA55yM
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Kyoto Railway
+https://www.youtube.com/watch?v=u7cj3PC5V58&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5Lqs6YO9
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Shimane
+https://www.youtube.com/watch?v=c-dZM2mHc7c&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5bO25qC5
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Shimane (Feed #2)
+https://www.youtube.com/watch?v=STKhZ7otpNY&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5bO25qC5
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Hiroshima Airport
+https://www.youtube.com/watch?v=N-RaF9wDx8g&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5bqD5bO2
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Yamaguchi
+https://www.youtube.com/watch?v=R2COtgqOLdU&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5bGx5Y-j
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Fukuoka
+https://www.youtube.com/watch?v=E5R5PPezu7k&pp=ygUY44Op44Kk44OW44Kr44Oh44Op56aP5bKh
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Saga
+https://www.youtube.com/watch?v=7zY_rW_I5do&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5L2Q6LOA
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Oita
+https://www.youtube.com/watch?v=sFhl7CFnNZA&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5aSn5YiG
+#EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Miyazaki
+https://www.youtube.com/watch?v=T3uOuFisD4A&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5a6u5bSO
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
@@ -117,8 +156,22 @@ https://www.youtube.com/@Bundestag/live
 https://www.youtube.com/@ukparliament/live
 #EXTINF:-1 group-title="Parliament Live",Congreso de los Diputados (ES)
 https://www.youtube.com/@CanalParlamento-Congreso_Es/live
+#EXTINF:-1 group-title="Parliament Live" tvg-id="CanalParlamento.es",Canal Parlamento - Congreso de los Diputados (ES)
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 group-title="Parliament Live" tvg-id="CongresodelosDiputados1.es",Congreso de los Diputados 1 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 group-title="Parliament Live" tvg-id="CongresodelosDiputados2.es",Congreso de los Diputados 2 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+#EXTINF:-1 group-title="Parliament Live" tvg-id="CongresodelosDiputados3.es",Congreso de los Diputados 3 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+#EXTINF:-1 group-title="Parliament Live" tvg-id="CongresodelosDiputados4.es",Congreso de los Diputados 4 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+#EXTINF:-1 group-title="Parliament Live" tvg-id="CongresodelosDiputados5.es",Congreso de los Diputados 5 (360p) [Not 24/7]
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
 #EXTINF:-1 group-title="Parliament Live",Assemblée Nationale (FR)
 https://www.youtube.com/@lcpassembleenationale/live
+#EXTINF:-1 group-title="Parliament Live" tvg-chno="1682" tvg-logo="https://picserve.netplus.ch/channels/lcp.png" tvg-country="FR" group-title="NETPLUS.TV",LCP [FR]
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
 #EXTINF:-1 group-title="Parliament Live" tvg-chno="42" tvg-id="PublicSenat2424.fr" epg-s="2013" tvg-country="FR" group-title="FRANCE",Public Sénat (FR) [480p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 group-title="Parliament Live",Parlimen Malaysia
