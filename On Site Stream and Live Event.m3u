@@ -30,12 +30,14 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
-https://www.youtube.com/watch?v=HSYf-PNk3E0&pp=0gcJCa0JAYcqIYzv
+https://www.youtube.com/watch?v=-tnXIyOM_SM
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Battlegrounds (PC)
+https://www.youtube.com/watch?v=F3dHGWyTfX0&pp=0gcJCa0JAYcqIYzv
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý (Feed A)
-https://www.youtube.com/watch?v=qsAc6gXGvNI
+https://www.youtube.com/watch?v=Ff4eoQueNEs
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý (Feed B)
-https://www.youtube.com/watch?v=aLcWT2zdkzc
+https://www.youtube.com/watch?v=BGBXh8f6Rms
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",
 
