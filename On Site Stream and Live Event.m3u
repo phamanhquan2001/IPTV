@@ -259,7 +259,8 @@ https://hlslive.shugiintv.go.jp/room03/amlst:room03/playlist.m3u8?DVR
 https://www.youtube.com/@kenhbongchuyenvietnam/live
 
 #Special Program
-#EXTINF:-1 group-title="Special Program",
+#EXTINF:-1 group-title="Special Program",Special Live Coverage from La Vang Temple ahead of Annual Pilgrimage
+https://www.youtube.com/@lavang.tgphue/live
 
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
