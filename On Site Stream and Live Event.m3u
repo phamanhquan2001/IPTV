@@ -29,9 +29,15 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 group-title="World Games 2025 Live" tvg-id="Sport.sk",:Šport (1080p)
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Battlegrounds
+https://www.youtube.com/watch?v=UqOp2WQs_4g
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
+https://www.youtube.com/watch?v=CCsfN83GyB4
 
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý
+https://www.youtube.com/watch?v=1EdbTCJClvc
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",PUBG Battlegrounds
+https://www.youtube.com/watch?v=fx8kIwqG6Do
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",
 
