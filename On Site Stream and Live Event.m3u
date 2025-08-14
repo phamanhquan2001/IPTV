@@ -33,11 +33,19 @@ http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 https://www.youtube.com/watch?v=ELid70lxDbw
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
 https://www.youtube.com/watch?v=DGxfPzUnXJA
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Rocket League
+https://www.youtube.com/watch?v=fL2aGO70KyQ
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Tekken 8
+https://www.youtube.com/watch?v=lEylifzirWg
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý
 https://www.youtube.com/watch?v=9FRKUrJw7Ls
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",PUBG Battlegrounds
 https://www.youtube.com/watch?v=BR704Tyf4G8&pp=0gcJCa0JAYcqIYzv
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Rocket League
+https://www.youtube.com/watch?v=QdIF23VktHE
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Tekken 8
+https://www.youtube.com/watch?v=b2iL6A5tsUU
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",
 
