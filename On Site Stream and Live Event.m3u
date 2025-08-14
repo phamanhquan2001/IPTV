@@ -1,27 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="World Games 2025 Live",CCTV5
-https://stream1.freetv.fun/cctv5--r-1.ctv
-#EXTINF:-1 group-title="World Games 2025 Live",CCTV5+
-https://stream1.freetv.fun/cctv5-plus--r-1.ctv
-#EXTINF:-1 group-title="World Games 2025 Live",ELTA-1
-https://stream1.freetv.fun/2ecad8567f3e24b1e06ab553729fdcafcd48b5632805d8750a3aa7ec85888d57.ctv
-#EXTINF:-1 group-title="World Games 2025 Live",ELTA-2
-https://stream1.freetv.fun/b331510e3bb5c860a1581ea536a8ae80561d3aada530aa14a2ccfc3b2fb799dc.ctv
-#EXTINF:-1 group-title="World Games 2025 Live",ELTA-3
-https://stream1.freetv.fun/856ed22587682becbe1652db868df045c927482ac4b5e4f44a5da77085d7b949.ctv
-#EXTINF:-1 group-title="World Games 2025 Live",TVTokyo
-https://vn.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="World Games 2025 Live",ORF-1
-https://stream1.freetv.fun/orf-1-1.ctv
-#EXTINF:-1 group-title="World Games 2025 Live" tvg-id="AbuDhabiSports1.ae",Abu Dhabi Sports 1 (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 group-title="World Games 2025 Live" tvg-id="AbuDhabiSports2.ae",Abu Dhabi Sports 2 (1080p)
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 group-title="World Games 2025 Live" tvg-id="M4Sport.hu",M4 Sport (1080p)
-http://146.59.85.40:89/m4hd/index.m3u8
-#EXTINF:-1 group-title="World Games 2025 Live" tvg-id="M4Sport.hu",M4 Sport (1080p)
-http://194.76.186.33:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="Special Event Live",Coca-Cola Stage:0 eSports Highschool Championship Grand Finals Live - League of Legends (Sendo Yuuhi from VSPO Live)
+https://www.youtube.com/@SendoYuuhi/live
+
 #EXTINF:-1 group-title="World Games 2025 Live" tvg-id="M4Sport.hu",M4 Sport (576p)
 http://194.76.186.33:8000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="World Games 2025 Live" tvg-id="CTSport.cz",ČT Sport (720p)
@@ -30,9 +11,9 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Battlegrounds
-https://www.youtube.com/watch?v=ELid70lxDbw
+https://www.youtube.com/watch?v=zA3TBCnIrmU
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
-https://www.youtube.com/watch?v=DGxfPzUnXJA
+https://www.youtube.com/watch?v=pzvMUxn1GpQ
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Rocket League
 https://www.youtube.com/watch?v=fL2aGO70KyQ
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Tekken 8
@@ -47,7 +28,8 @@ https://www.youtube.com/watch?v=QdIF23VktHE
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Tekken 8
 https://www.youtube.com/watch?v=b2iL6A5tsUU
 
-#EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",
+#EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",Street Fighter 6
+https://www.youtube.com/watch?v=hTF6ntcLhpk
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",C2NCEL LIVE
 https://www.youtube.com/@c2ncel/live
