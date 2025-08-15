@@ -3,30 +3,23 @@
 #EXTINF:-1 group-title="Special Event Live",Coca-Cola Stage:0 eSports Highschool Championship Grand Finals Live - League of Legends (Sendo Yuuhi from VSPO Live)
 https://www.youtube.com/@SendoYuuhi/live
 
-#EXTINF:-1 group-title="World Games 2025 Live" tvg-id="M4Sport.hu",M4 Sport (576p)
-http://194.76.186.33:8000/play/a02p/index.m3u8
-#EXTINF:-1 group-title="World Games 2025 Live" tvg-id="CTSport.cz",ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="World Games 2025 Live" tvg-id="Sport.sk",:Šport (1080p)
-http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Battlegrounds
-https://www.youtube.com/watch?v=zA3TBCnIrmU
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
 https://www.youtube.com/watch?v=pzvMUxn1GpQ
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
+https://www.youtube.com/watch?v=zA3TBCnIrmU
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Rocket League
-https://www.youtube.com/watch?v=fL2aGO70KyQ
+https://www.youtube.com/watch?v=8qCTX2rmrKM
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Tekken 8
-https://www.youtube.com/watch?v=lEylifzirWg
+https://www.youtube.com/watch?v=ydWgrFAZIDM
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý
-https://www.youtube.com/watch?v=9FRKUrJw7Ls
+https://www.youtube.com/watch?v=dFl2YDcq1ks&pp=0gcJCa0JAYcqIYzv
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",PUBG Battlegrounds
-https://www.youtube.com/watch?v=BR704Tyf4G8&pp=0gcJCa0JAYcqIYzv
+https://www.youtube.com/watch?v=lqx33ZmVbU8
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Rocket League
-https://www.youtube.com/watch?v=QdIF23VktHE
+https://www.youtube.com/watch?v=YaBYbeCLKRA
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Tekken 8
-https://www.youtube.com/watch?v=b2iL6A5tsUU
+https://www.youtube.com/watch?v=TIwgOXIM4KM
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",Street Fighter 6
 https://www.youtube.com/watch?v=hTF6ntcLhpk
