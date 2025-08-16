@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Special Event Live",Coca-Cola Stage:0 eSports Highschool Championship Grand Finals Live - League of Legends (Sendo Yuuhi from VSPO Live)
-https://www.youtube.com/@SendoYuuhi/live
-
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Battlegrounds
 https://www.youtube.com/watch?v=pzvMUxn1GpQ
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",TFT - Đấu Trường Chân Lý
@@ -12,22 +9,14 @@ https://www.youtube.com/watch?v=8qCTX2rmrKM
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Tekken 8
 https://www.youtube.com/watch?v=ydWgrFAZIDM
 
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",TFT - Đấu Trường Chân Lý
-https://www.youtube.com/watch?v=dFl2YDcq1ks&pp=0gcJCa0JAYcqIYzv
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",PUBG Battlegrounds
+https://www.youtube.com/watch?v=hJ8JFx_9X9c
+
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",PUBG Battlegrounds
-https://www.youtube.com/watch?v=lqx33ZmVbU8
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Rocket League
-https://www.youtube.com/watch?v=YaBYbeCLKRA
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Tekken 8
-https://www.youtube.com/watch?v=TIwgOXIM4KM
+https://www.youtube.com/watch?v=6VUXeHDtUtM
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Ch2 Live",Street Fighter 6
 https://www.youtube.com/watch?v=hTF6ntcLhpk
-
-#EXTINF:-1 group-title="eSports World Cup 2025 Watch Party Live",C2NCEL LIVE
-https://www.youtube.com/@c2ncel/live
-
-#EXTINF:-1 group-title="eSports World Cup 2025 Vietnamese Live (FPTPLAY Feed)",
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
@@ -94,13 +83,17 @@ https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad64083
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
 https://www.youtube.com/watch?v=xtpqVz6wtD0
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East (Feed 2)
-https://www.youtube.com/watch?v=Qjxe7geoNa8
+https://www.youtube.com/watch?v=7kAtkJBh1Cg
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=u6mKGnYBQvE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine (Feed 2)
-https://www.youtube.com/watch?v=hzWzwELWbIM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Taiwan amid Typhoon Podul
-https://www.youtube.com/watch?v=xJ2Cf7WUT80
+https://www.youtube.com/watch?v=hzWzwELWbIM&pp=0gcJCa0JAYcqIYzv
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Portugal: Firefighters battling amid ongoing wildfure
+https://www.youtube.com/watch?v=nwe9LD96Obk
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Maidan Square (Kiev) after this morning Vietnam time summit between US President Donald Trump and Russian President Vladimir Putin
+https://www.youtube.com/watch?v=tHpBFtp1g5w
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from White House after this morning Vietnam time summit between US President Donald Trump and Russian President Vladimir Putin
+https://www.youtube.com/watch?v=fPUa-9UfMOU&pp=ygUVTGl2ZSBDYW0gV2hpdGUgaG9pdXNl
 
 #EXTINF:-1 group-title="Banjir Terkini di Jepun" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Kumamoto
 https://www.youtube.com/watch?v=MAs18xtaP4M
