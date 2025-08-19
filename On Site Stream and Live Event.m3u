@@ -1,10 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Crossfire - Đột Kích Trong Tầm Ngắm
+https://www.youtube.com/watch?v=7kHdXm-aqsI
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Naraka Bladepoint
 https://www.youtube.com/watch?v=PY-hCA8HRH4
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Counter-Strike 2 (Feed B)
 https://www.youtube.com/watch?v=cTf-LQ3M-oA
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Crossfire - Đột Kích Trong Tầm Ngắm (Feed A)
+https://www.youtube.com/watch?v=2cNHQjElqOg
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Crossfire - Đột Kích Trong Tầm Ngắm (Feed B)
+https://www.youtube.com/watch?v=SHgnCjkJ-h8
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
