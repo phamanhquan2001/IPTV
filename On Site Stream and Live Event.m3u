@@ -52,6 +52,12 @@ https://globallive.tdm.com.mo/live/rch1.live/chunklist_w1992367914.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",Kanal 93 Natlan Sports Channel
 https://stream1.freetv.fun/04f3cb00d6d55dac1e551cb5df39872b9fb0cbb65c21345e04ca1ada30a09dcc.ctv
 
+#Live Police Chases by Neverness to Everness Police Chase Show
+#EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
+https://www.youtube.com/@LivePoliceChases/live
+#EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
+https://www.youtube.com/@CarChaseChannelABC/live
+
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
 https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
