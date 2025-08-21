@@ -146,11 +146,11 @@ https://www.youtube.com/channel/UCUeiz4v2oAxzTTZZfjzbv-A/live
 #EXTINF:-1 group-title="FORMULA 1 LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png",Sky Sport F1
 https://stream1.freetv.fun/02567ba326dbf09bd368ac23800f01a546d4579387fd63c8a6ed8fa2ff2d1d79.ctv
 #EXTINF:-1 group-title="FORMULA 1 LIVE" tvg-id="FujiTVNEXT.jp" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://vn.utako.moe/fuji_next/index.m3u8
+https://ca01.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="skymix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/1200px-Sky_Sport_Mix_Logo_2022.svg.png",Sky Sport Mix
 https://stream1.freetv.fun/c6f7296c9101cde4d999a00d70ba9c8cf850b195509d1e3244d894d6ae9931ac.ctv
 #EXTINF:-1 group-title="MOTOGP LIVE" tvg-id="NitteleGPlus.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://vn.utako.moe/ntvgplus/index.m3u8
+https://ca01.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 group-title="KSA" tvg-id="TokyoMX2.jp" tvg-logo="https://pbs.twimg.com/profile_images/1830441873934290944/P4K8Sa9T_400x400.jpg",JCSA Live: Natlan's Horseracing Carnival Live
 https://www.youtube.com/channel/UC4xAL1Lid7vrrm-xtxyyvwA/live
 #EXTINF:-1 group-title="KSA" tvg-id="TokyoMX2.jp" tvg-logo="https://pbs.twimg.com/profile_images/1830441873934290944/P4K8Sa9T_400x400.jpg",Medina Raccourse Live: Amphoreus's Horseracing Carnival Live
@@ -204,7 +204,7 @@ https://www.youtube.com/channel/UCKIdwu806-KocBJufLAeArA/live
 #EXTINF:-1 tvg-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_nar.png" group-title="Special Program",NAR Hoyofair Live
 https://www.youtube.com/channel/UCb7ve-ncnLh41F4sYpFTcXA/live
 #EXTINF:-1 group-title="NAR / Terrestrial" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO-MX2 (TCK東京シティ競馬中継)
-https://freejptv.com/171.php?id=tokyo_mx2
+https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1366654752948297728/igIhYuCt_400x400.png" group-title="NAR",Hokkaido / Obihiro (北海道/帯広競馬場「ばんえい十勝」・CyGames プリンセスコネクトREDIVE杯)
 https://www.youtube.com/channel/UCyjlxPcoYAbpwlr5wjUA_5g/live
 https://www.youtube.com/watch?v=3dg35n9DLX0&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5biv5bqD
