@@ -1,24 +1,48 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="2025 US Tennis Open Live",EUROSPORTS-1
+https://stream1.freetv.fun/eurosport-1--ak-1.ctv
+#EXTINF:-1 group-title="2025 US Tennis Open Live",EUROSPORTS-2
+https://stream1.freetv.fun/eurosport-2--ak-1.ctv
+#EXTINF:-1 group-title="2025 US Tennis Open Live",WOWOW-LIVE
+https://mt01.utako.moe/wlive/index.m3u8
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="2025 US Tennis Open Live", Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="2025 US Tennis Open Live", Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="2025 US Tennis Open Live", Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="2025 US Tennis Open Live", Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="2025 US Tennis Open Live", Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="2025 US Tennis Open Live", Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="2025 US Tennis Open Live", Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="2025 US Tennis Open Live", Sky Sport Premier League FHD
+https://7pal.short.gy/skyspt8nz
+#EXTINF:-1 group-title="2025 US Tennis Open Live",Live cam from New York
+https://www.youtube.com/watch?v=rnXIjl_Rzy4
+
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",Live cam from Paris
+https://www.youtube.com/watch?v=OzYp4NRZlwQ
+
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Crossfire - Đột Kích Trong Tầm Ngắm
-https://www.youtube.com/watch?v=UKO82O7rI_s&pp=0gcJCa0JAYcqIYzv
-#EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Naraka Bladepoint
-https://www.youtube.com/watch?v=acaA2vFntuQ
+https://www.youtube.com/watch?v=ciNpU-4LuDE
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Street Fighter 6
-https://www.youtube.com/watch?v=6x--CsY8zgw
+https://www.youtube.com/watch?v=ypFUZSxJkoQ
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Counter-Strike 2
-https://www.youtube.com/watch?v=x1iTg24AZFs
+https://www.youtube.com/watch?v=moWWP7rtvkc
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Counter-Strike 2 (Feed B)
-https://www.youtube.com/watch?v=GxuxBfWoI_8
+https://www.youtube.com/watch?v=cTf-LQ3M-oA
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Counter-Strike 2 (Feed A)
-https://www.youtube.com/watch?v=nQz-FOc4RTk
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Crossfire - Đột Kích Trong Tầm Ngắm (Feed A)
-https://www.youtube.com/watch?v=PwFkUZ1RB-k
-#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Crossfire - Đột Kích Trong Tầm Ngắm (Feed B)
-https://www.youtube.com/watch?v=22_bHWcmoVs
+https://www.youtube.com/watch?v=rV_4kNR_Zhw
+#EXTINF:-1 group-title="eSports World Cup 2025 English Live",Crossfire - Đột Kích Trong Tầm Ngắm
+https://www.youtube.com/watch?v=3qe7rfwFLvQ
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Street Fighter 6
-https://www.youtube.com/watch?v=dq-SVIz7bME
+https://www.youtube.com/watch?v=q1WD1MjO4fA
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
