@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="VCT Pacific Road to Finals Tokyo Live Cam",Live Cam from Tokyo
+https://www.youtube.com/watch?v=gFRtAAmiFbE&pp=ygU644Op44Kk44OW44Kr44Oh44Op5riL6LC3IO-8iOOBmeOCieOBl-OBjeOBk-OBruOBm-OBi-OBhO-8iQ%3D%3D
+https://www.youtube.com/watch?v=tujkoXI8rWM&pp=ygUZ44Op44Kk44OW44Kr44Oh44Op5riL6LC3IA%3D%3D
+https://www.youtube.com/watch?v=DBWgFXSMr-8&pp=ygUZ44Op44Kk44OW44Kr44Oh44Op5riL6LC3IA%3D%3D
+https://www.youtube.com/watch?v=27C_NaWNVUo&pp=ygUZ44Op44Kk44OW44Kr44Oh44Op5riL6LC3IA%3D%3D
+https://www.youtube.com/watch?v=_zU8K43Twus&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5paw5a6_
+https://www.youtube.com/watch?v=ErHJBXTmm2Q&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5paw5a6_
+https://www.youtube.com/watch?v=lA6TaaMGgDo&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5paw5a6_
+https://www.youtube.com/@kabukicho-1/live
+https://www.youtube.com/@kabukicho-2/live
+
+#EXTINF:-1 group-title="LCP Road to Finals Danang Live Cam",Live Cam from Danang
+https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8
+#EXTINF:-1 group-title="LCP Road to Finals Danang Live Cam",Live Cam from Danang Bridge
+https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
+#EXTINF:-1 group-title="LCP Road to Finals Danang Live Cam",Live Cam from Danang Hoi An
+https://livevn.piepme.com/camhls/14789.402a1e77e3ea1fcd2b2a36be6c2c4caa_720p/index.m3u8
+
 #EXTINF:-1 group-title="2025 US Tennis Open Live",EUROSPORTS-1
 https://stream1.freetv.fun/eurosport-1--ak-1.ctv
 #EXTINF:-1 group-title="2025 US Tennis Open Live",EUROSPORTS-2
@@ -29,18 +47,18 @@ https://www.youtube.com/watch?v=rnXIjl_Rzy4
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Crossfire - Đột Kích Trong Tầm Ngắm
-https://www.youtube.com/watch?v=jOxLCytAEzI
+https://www.youtube.com/watch?v=gAW1gwd3ziI
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Street Fighter 6
-https://www.youtube.com/watch?v=SRs-47Roypo
+https://www.youtube.com/watch?v=Rpifg4qpkO8
 #EXTINF:-1 group-title="eSports World Cup 2025 Arabic Live",Counter-Strike 2
-https://www.youtube.com/watch?v=7OtzWp6t7_0
+https://www.youtube.com/watch?v=yCj1tyhVbSs
 
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Counter-Strike 2
-https://www.youtube.com/watch?v=nbvO31jUDXM
+https://www.youtube.com/watch?v=aepQg7iHjcY
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Crossfire - Đột Kích Trong Tầm Ngắm
-https://www.youtube.com/watch?v=uhgrs4S6Aus
+https://www.youtube.com/watch?v=TCmtua3Wc54
 #EXTINF:-1 group-title="eSports World Cup 2025 English Live",Street Fighter 6
-https://www.youtube.com/watch?v=CvooHM5yn3Q
+https://www.youtube.com/watch?v=LIiEDx0OZUQ
 
 #EXTINF:-1 group-title="eSports World Cup 2025 Live",EWC Main Feed Live (English)
 https://www.youtube.com/@ewc/live
