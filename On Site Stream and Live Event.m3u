@@ -1,5 +1,42 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-ONE
+https://stream1.freetv.fun/bbc-1--s-1.ctv
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-TWO
+https://stream1.freetv.fun/bbc-two-2.ctv
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TG4 Nuacht
+https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",RTVE LA1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",1TV GPB
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",RAI
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-1
+https://stream1.freetv.fun/ch-ng-tsn-1-1.ctv
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-2
+https://stream1.freetv.fun/ch-ng-tsn-2-1.ctv
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-3
+https://stream1.freetv.fun/ch-ng-tsn-3-1.ctv
+#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-4
+https://stream1.freetv.fun/414ed4377df2509cfe3976eb5bc1d6dd12701cf4bc111c0476e2b827253444ea.ctv
+#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport1 NZ FHD
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport2 NZ FHD
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport3 NZ FHD
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport4 NZ FHD
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport5 NZ FHD
+https://7pal.short.gy/skyspt5nz
+#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport6 NZ FHD
+https://7pal.short.gy/skyspt6nz
+#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport7 NZ FHD
+https://7pal.short.gy/skyspt7nz
+
 #EXTINF:-1 group-title="2025 US Tennis Open Live",US Open Radio (Livestream)
 https://cdn3.wowza.com/1/NmFHV2NUN0x2c0dk/MkRnMHVH/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="2025 US Tennis Open Live",ESPN
@@ -99,9 +136,9 @@ https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
 https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
-https://v3.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=BCPLWah8lxTkulHbA8jbWQ&expires=1749146769&user_id=dEtnbVZkdWhuZGhWQjd1YWlwdm8yajI5U2EySEI1eTJ5M0NHV244eQ==
+https://v12.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=-XWVASB6lNMf148pgz3rQA&expires=1756126556&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://v3.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=0uPXysH2EYBnluK6ZM5IWQ&expires=1749146805&user_id=dEtnbVZkdWhuZGhWQjd1YWlwdm8yajI5U2EySEI1eTJ5M0NHV244eQ==
+https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8zhkT2Q&expires=1756126603&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
 #EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
 https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
 
