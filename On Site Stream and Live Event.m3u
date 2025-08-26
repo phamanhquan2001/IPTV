@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="VTV Vietnam Today",VTV Vietnam Today
+https://events.vtvdigital.vn/livestream/money-720p.m3u8
+
 #EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-ONE
 https://stream1.freetv.fun/bbc-1--s-1.ctv
 #EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-TWO
