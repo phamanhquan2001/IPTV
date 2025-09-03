@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="VTV Vietnam Today",VTV Vietnam Today
-https://events.vtvdigital.vn/livestream/money-720p.m3u8
-
 #EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-ONE
 https://stream1.freetv.fun/bbc-1--s-1.ctv
 #EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-TWO
@@ -74,17 +71,6 @@ https://live.usopen.org/hls/live/2031788/usopen/pc3_6.m3u8
 https://live.usopen.org/hls/live/2031789/usopen/pc4_6.m3u8
 #EXTINF:-1 group-title="2025 US Tennis Open Live",Court Practice 5 (by Hyakumatenbara Salome)
 https://live.usopen.org/hls/live/2031791/usopen/pc5_6.m3u8
-
-#EXTINF:-1 group-title="VCT Pacific Road to Finals Tokyo Live Cam",Live Cam from Tokyo
-https://www.youtube.com/watch?v=gFRtAAmiFbE&pp=ygU644Op44Kk44OW44Kr44Oh44Op5riL6LC3IO-8iOOBmeOCieOBl-OBjeOBk-OBruOBm-OBi-OBhO-8iQ%3D%3D
-https://www.youtube.com/watch?v=tujkoXI8rWM&pp=ygUZ44Op44Kk44OW44Kr44Oh44Op5riL6LC3IA%3D%3D
-https://www.youtube.com/watch?v=DBWgFXSMr-8&pp=ygUZ44Op44Kk44OW44Kr44Oh44Op5riL6LC3IA%3D%3D
-https://www.youtube.com/watch?v=27C_NaWNVUo&pp=ygUZ44Op44Kk44OW44Kr44Oh44Op5riL6LC3IA%3D%3D
-https://www.youtube.com/watch?v=_zU8K43Twus&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5paw5a6_
-https://www.youtube.com/watch?v=ErHJBXTmm2Q&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5paw5a6_
-https://www.youtube.com/watch?v=lA6TaaMGgDo&pp=ygUY44Op44Kk44OW44Kr44Oh44Op5paw5a6_
-https://www.youtube.com/@kabukicho-1/live
-https://www.youtube.com/@kabukicho-2/live
 
 #EXTINF:-1 group-title="LCP Road to Finals Danang Live Cam",Live Cam from Danang
 https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8
