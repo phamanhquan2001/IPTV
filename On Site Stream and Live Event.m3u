@@ -44,48 +44,6 @@ https://7pal.short.gy/skyspt6nz
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport7 NZ FHD
 https://7pal.short.gy/skyspt7nz
 
-#EXTINF:-1 group-title="2025 US Tennis Open Live",US Open Radio (Livestream)
-https://cdn3.wowza.com/1/NmFHV2NUN0x2c0dk/MkRnMHVH/hls/live/playlist.m3u8
-#EXTINF:-1 group-title="2025 US Tennis Open Live",ESPN
-https://stream1.freetv.fun/espn-1-1.ctv
-#EXTINF:-1 group-title="2025 US Tennis Open Live",ESPN-2
-https://stream1.freetv.fun/espn2-sd-1.ctv
-#EXTINF:-1 group-title="2025 US Tennis Open Live",ESPN-NEWS
-https://stream1.freetv.fun/espn-news-3.ctv
-#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 体育频道" group-title="2025 US Tennis Open Live",CCTV-5 体育频道
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 体育赛事 HD" group-title="2025 US Tennis Open Live",CCTV-5+ 体育赛事 HD
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-#EXTINF:-1 group-title="2025 US Tennis Open Live",SPOTV-1
-https://stream1.freetv.fun/spotv-1--wj-1.ctv
-#EXTINF:-1 group-title="2025 US Tennis Open Live",SPOTV-2
-https://stream1.freetv.fun/spotv-2--wj-1.ctv
-#EXTINF:-1 group-title="2025 US Tennis Open Live",EUROSPORTS-1
-https://stream1.freetv.fun/eurosport-1--ak-1.ctv
-#EXTINF:-1 group-title="2025 US Tennis Open Live",EUROSPORTS-2
-https://stream1.freetv.fun/eurosport-2--ak-1.ctv
-#EXTINF:-1 group-title="2025 US Tennis Open Live",WOWOW-LIVE
-https://mt01.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="2025 US Tennis Open Live",Live cam from New York
-https://www.youtube.com/watch?v=rnXIjl_Rzy4
-#EXTINF:-1 group-title="2025 US Tennis Open Live",Court Practice 1 (by Shirakami Fubuki)
-https://live.usopen.org/hls/live/2031651/usopen/pc1_6.m3u8
-#EXTINF:-1 group-title="2025 US Tennis Open Live",Court Practice 2 (by Usada Pekora)
-https://live.usopen.org/hls/live/2031787/usopen/pc2_6.m3u8
-#EXTINF:-1 group-title="2025 US Tennis Open Live",Court Practice 3 (by Houshou Marine)
-https://live.usopen.org/hls/live/2031788/usopen/pc3_6.m3u8
-#EXTINF:-1 group-title="2025 US Tennis Open Live",Court Practice 4 (by Robocosan)
-https://live.usopen.org/hls/live/2031789/usopen/pc4_6.m3u8
-#EXTINF:-1 group-title="2025 US Tennis Open Live",Court Practice 5 (by Hyakumatenbara Salome)
-https://live.usopen.org/hls/live/2031791/usopen/pc5_6.m3u8
-
-#EXTINF:-1 group-title="LCP Road to Finals Danang Live Cam",Live Cam from Danang
-https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_720p/index.m3u8
-#EXTINF:-1 group-title="LCP Road to Finals Danang Live Cam",Live Cam from Danang Bridge
-https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
-#EXTINF:-1 group-title="LCP Road to Finals Danang Live Cam",Live Cam from Danang Hoi An
-https://livevn.piepme.com/camhls/14789.402a1e77e3ea1fcd2b2a36be6c2c4caa_720p/index.m3u8
-
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Live cam from Paris
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
 
