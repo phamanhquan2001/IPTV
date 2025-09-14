@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live",Day 2 Live (TVER Feed)
-https://ssai-variants.streaks.jp/v5/tver-splive/050a322e4dd0487a8a51cf940ae15320/ca2b2854789e4495acf5b01bd57f8b85/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-215-13262/985a167b-4de5-4b86-ac92-59284ebd856f/1.m3u8?session=985a167b-4de5-4b86-ac92-59284ebd856f&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1zcGxpdmUtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OX0.2vLx56naJZbq6eo2AFjzplTUTW_cJvvr0-y6U_wk-qM
+#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
+https://mt01.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live",Day 2 Live Morning Sessions (TVER Feed)
+https://ssai-variants.streaks.jp/v5/tver-splive/050a322e4dd0487a8a51cf940ae15320/ca2b2854789e4495acf5b01bd57f8b85/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-215-13262/b0fe33bc-2254-4372-8664-5a08eaafe741/3.m3u8?session=b0fe33bc-2254-4372-8664-5a08eaafe741&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1zcGxpdmUtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OX0.2vLx56naJZbq6eo2AFjzplTUTW_cJvvr0-y6U_wk-qM
 
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Live cam from Paris
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
