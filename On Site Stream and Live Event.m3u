@@ -11,27 +11,33 @@ https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
 #EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live",Day 2 Live Evening Sessions (TVER Feed)
 https://ssai-variants.streaks.jp/v5/tver-splive/f111ee6e4b3d49ab9e5cc3c840f4f216/96eb5c91bbf44380a1ae4eaebfbf5e94/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-215-13261/44619c76-4faf-46d3-ab33-73ce914f870e/3.m3u8?session=44619c76-4faf-46d3-ab33-73ce914f870e&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1zcGxpdmUtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OX0.2vLx56naJZbq6eo2AFjzplTUTW_cJvvr0-y6U_wk-qM
 
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VALO2ASIA (Pre and After Match Press Conference)
+https://www.youtube.com/@VALO2ASIA/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Live cam from Paris
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (EMEA)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",Bomman (Mai Nam Hải)
+https://www.youtube.com/@Bomman/live
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",Brim Cánh Cụt
+https://www.youtube.com/@BrimCanhCut/live
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (EMEA)
 https://www.youtube.com/@VALORANTEsportsEMEA/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (VN)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (VN)
 https://www.youtube.com/@VALORANTChampionsTourVietnam/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (EN)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (EN)
 https://www.youtube.com/@ValorantEsports/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (JP)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (JP)
 https://www.youtube.com/@VALORANTjp/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (AR)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (AR)
 https://www.youtube.com/@VALORANTArabia/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (ID)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (ID)
 https://www.youtube.com/@VALORANTEsportsIndonesia/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (BR)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (BR)
 https://www.youtube.com/@valorantesportsbr/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (CN)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (CN)
 https://www.youtube.com/@VALORANTEsportsCN/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (HK/TW)
 https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (KR)
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (KR)
 https://www.youtube.com/@ValorantEsportsKR/live
 
 #EXTINF:-1 group-title="Emergency Update",
