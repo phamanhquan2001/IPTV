@@ -1,26 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://mt01.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",France-2
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",France-3
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTINF:-1 group-title="2025 World Athletics Championship Tokyo 2025 Live",Day 2 Live Evening Sessions (TVER Feed)
-https://ssai-variants.streaks.jp/v5/tver-splive/f111ee6e4b3d49ab9e5cc3c840f4f216/96eb5c91bbf44380a1ae4eaebfbf5e94/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-215-13261/44619c76-4faf-46d3-ab33-73ce914f870e/3.m3u8?session=44619c76-4faf-46d3-ab33-73ce914f870e&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1zcGxpdmUtbGl2ZS1jZG4udHZlci5qcCIsIm9mZnNldCI6OX0.2vLx56naJZbq6eo2AFjzplTUTW_cJvvr0-y6U_wk-qM
+#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok
+https://www.youtube.com/watch?v=Q71sLS8h9a4
+#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok (Feed #2)
+https://www.youtube.com/watch?v=UemFRPrl1hk
+#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Bangkok
+https://youtu.be/a_bUVExv_Cg
 
-#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VALO2ASIA (Pre and After Match Press Conference)
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul
+https://www.youtube.com/watch?v=-JhoMGoAfFc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWzSBwkJ4AkBhyohjO8%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul (Feed #2)
+https://www.youtube.com/watch?v=ahSMyLJcp48&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul (Feed #3)
+https://www.youtube.com/watch?v=3Uf3w-UHB4U&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul Station Plaza
+https://www.youtube.com/watch?v=-u536iqt-Pk&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Gyeongbokgung
+https://www.youtube.com/watch?v=EPrqF0HOi9o&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Gwanghwamun Boulevard
+https://www.youtube.com/watch?v=zuWxsbV-mlA&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Jamsil Bridge
+https://www.youtube.com/watch?v=ZopiySgQjsc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seokchon Bridge
+https://www.youtube.com/watch?v=3HFJPDI5LHs
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Dongdaemun Design Plaza
+https://www.youtube.com/watch?v=GOt7UVVp-5Y
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seogang Bridge
+https://www.youtube.com/watch?v=_gmTN6ssF7I
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Lottle World Plaza
+https://www.youtube.com/watch?v=JIQPCfb9Qs0
+
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",VALO2ASIA (After Match Press Conference)
 https://www.youtube.com/@VALO2ASIA/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Live cam from Paris
-https://www.youtube.com/watch?v=OzYp4NRZlwQ
+https://hd-auth.skylinewebcams.com/live.m3u8?a=rbkam0bpno8s34kl9fh4udstf6
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",Live cam from Le Havre
+https://youtu.be/26Itj3KNnXg
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Bomman (Mai Nam Hải)
 https://www.youtube.com/@Bomman/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Brim Cánh Cụt
 https://www.youtube.com/@BrimCanhCut/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Tenz
 https://www.youtube.com/@TenZ/live
+#EXTINF:-1 group-title="2025 VCT Champions Paris Live",Tumi
+https://www.youtube.com/@Tumiii/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (EMEA)
 https://www.youtube.com/@VALORANTEsportsEMEA/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (VN)
@@ -43,46 +66,6 @@ https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
 https://www.youtube.com/@ValorantEsportsKR/live
 
 #EXTINF:-1 group-title="Emergency Update",
-
-#EXTINF:-1 group-title="2025 The International Live (Dota 2)",23 Dota TV
-https://www.youtube.com/@23DotaTV/live
-
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-ONE
-https://stream1.freetv.fun/bbc-1--s-1.ctv
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",BBC-TWO
-https://stream1.freetv.fun/bbc-two-2.ctv
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TG4 Nuacht
-https://dx4452e0qv6r9.cloudfront.net/tg4_vod_national.m3u8
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",RTVE LA1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",1TV GPB
-https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",RAI
-https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-1
-https://stream1.freetv.fun/ch-ng-tsn-1-1.ctv
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-2
-https://stream1.freetv.fun/ch-ng-tsn-2-1.ctv
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-3
-https://stream1.freetv.fun/ch-ng-tsn-3-1.ctv
-#EXTINF:-1 group-title="2025 Women's Rugby World Cup Live",TSN-4
-https://stream1.freetv.fun/414ed4377df2509cfe3976eb5bc1d6dd12701cf4bc111c0476e2b827253444ea.ctv
-#EXTINF:-1 tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.postimg.cc/wxDNzRcQ/sky-sport-1.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport1 NZ FHD
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 tvg-id="SKY.Sport.2.nz" tvg-logo="https://i.postimg.cc/KvFM8c0S/sky_sport_2.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport2 NZ FHD
-https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 tvg-id="SKY.Sport.3.nz" tvg-logo="https://i.postimg.cc/L88gjCdx/sky_sport_3.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport3 NZ FHD
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 tvg-id="SKY.Sport.4.nz" tvg-logo="https://i.postimg.cc/52KYgBbb/sky-sport-4.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport4 NZ FHD
-https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 tvg-id="SKY.Sport.5.nz" tvg-logo="https://i.postimg.cc/3wyyckxp/sky_sport_5.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport5 NZ FHD
-https://7pal.short.gy/skyspt5nz
-#EXTINF:-1 tvg-id="SKY.Sport.6.nz" tvg-logo="https://i.postimg.cc/LsrqKmJW/sky_sport_6.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport6 NZ FHD
-https://7pal.short.gy/skyspt6nz
-#EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="2025 Women's Rugby World Cup Live", Sky Sport7 NZ FHD
-https://7pal.short.gy/skyspt7nz
 
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Kanal Macau (Kanal-92)
 https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w1447248302.m3u8
