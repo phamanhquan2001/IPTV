@@ -1081,7 +1081,7 @@ https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Youtube Live",LNTV1 Laos Live Event
 https://www.youtube.com/channel/UCh8r4Noa2sL6QjOiuAOzUvg/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Tetra_characters.PNG/revision/latest/scale-to-width-down/250?cb=20211209210108",BBS Bhutan (Live National Council of Bhutan by Tetra Line Meeting Commitee)
-https://www.youtube.com/channel/UCzZIEQX2fWAmsvztJjIb7eA/live
+http://localhost:8000/redirect.m3u8?url=https://www.youtube.com/@bbsbhutan/live
 #EXTINF:-1 group-title="Youtube Live",BBS Channel 2 Bhutan
 https://www.youtube.com/channel/UCWPola-KayVUJZstymaP4KQ/live
 #EXTINF:-1 group-title="Youtube Live",VFF Channel
@@ -1228,6 +1228,8 @@ https://www.youtube.com/@LCKCL/live
 https://www.youtube.com/@LCKTiengViet/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (EN)
 https://www.youtube.com/@LCKglobal/live
+#EXTINF:-1 group-title="League of Legends Live",LTK League the K4sen Live (EN)
+http://localhost:8000/redirect.m3u8?url=https://www.youtube.com/@lolthek4sen/live
 #EXTINF:-1 group-title="League of Legends Live",EMEA Masters
 https://www.youtube.com/@EMEAMasters/live
 #EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
@@ -3922,6 +3924,7 @@ https://radio.telecom.tm/tarap.mp3
 https://radio.telecom.tm/miras.mp3
 #EXTINF:-1 group-title="Turkmen Radio",Radio Owazy
 https://radio.telecom.tm/owaz.mp3
+
 
 
 
