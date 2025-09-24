@@ -433,14 +433,12 @@ http://htvint.mada.ps:8889/orient/index.m3u8
 https://htvint.mada.ps/orient/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="NablusTV.ps",Nablus TV (1080p)
 https://htvint.mada.ps/nabluslive/index.m3u8
-
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",IRIB World Radio (English)
 https://s2.cdn1.iranseda.ir/liveedge/radio-english/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ",IRIB Iran Radio
 https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="IRINN2.ir",IRIB AlAlam News Network (Cyberdimension Neptunia 4GO)
 https://lenz.splus.ir/PLTV/88888888/224/3221226157/index.m3u8
-
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlJazeeraMubasher.qa",Al Manar TV (Lebanon)
 https://edge.fastpublish.me/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ"tvg-id="AlMayadeenTV.lb",Al Mayadeen (576p)
@@ -1081,7 +1079,7 @@ https://www.youtube.com/channel/UC_OBG47Y3PswSHnMWSlrgZA/live
 #EXTINF:-1 group-title="Youtube Live",LNTV1 Laos Live Event
 https://www.youtube.com/channel/UCh8r4Noa2sL6QjOiuAOzUvg/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Tetra_characters.PNG/revision/latest/scale-to-width-down/250?cb=20211209210108",BBS Bhutan (Live National Council of Bhutan by Tetra Line Meeting Commitee)
-http://localhost:8000/redirect.m3u8?url=https://www.youtube.com/@bbsbhutan/live
+https://www.youtube.com/@bbsbhutan/live
 #EXTINF:-1 group-title="Youtube Live",BBS Channel 2 Bhutan
 https://www.youtube.com/channel/UCWPola-KayVUJZstymaP4KQ/live
 #EXTINF:-1 group-title="Youtube Live",VFF Channel
@@ -1229,7 +1227,7 @@ https://www.youtube.com/@LCKTiengViet/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (EN)
 https://www.youtube.com/@LCKglobal/live
 #EXTINF:-1 group-title="League of Legends Live",LTK League the K4sen Live (EN)
-http://localhost:8000/redirect.m3u8?url=https://www.youtube.com/@lolthek4sen/live
+https://www.youtube.com/@lolthek4sen/live
 #EXTINF:-1 group-title="League of Legends Live",EMEA Masters
 https://www.youtube.com/@EMEAMasters/live
 #EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
@@ -3924,6 +3922,7 @@ https://radio.telecom.tm/tarap.mp3
 https://radio.telecom.tm/miras.mp3
 #EXTINF:-1 group-title="Turkmen Radio",Radio Owazy
 https://radio.telecom.tm/owaz.mp3
+
 
 
 
