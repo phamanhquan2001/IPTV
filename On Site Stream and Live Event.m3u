@@ -1,35 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok
-https://www.youtube.com/watch?v=Q71sLS8h9a4
-#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok (Feed #2)
-https://www.youtube.com/watch?v=UemFRPrl1hk
-#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Bangkok
-https://youtu.be/a_bUVExv_Cg
-
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul
-https://www.youtube.com/watch?v=-JhoMGoAfFc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWzSBwkJ4AkBhyohjO8%3D
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul (Feed #2)
-https://www.youtube.com/watch?v=ahSMyLJcp48&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul (Feed #3)
-https://www.youtube.com/watch?v=3Uf3w-UHB4U&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul Station Plaza
-https://www.youtube.com/watch?v=-u536iqt-Pk&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Gyeongbokgung
-https://www.youtube.com/watch?v=EPrqF0HOi9o&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Gwanghwamun Boulevard
-https://www.youtube.com/watch?v=zuWxsbV-mlA&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Jamsil Bridge
-https://www.youtube.com/watch?v=ZopiySgQjsc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seokchon Bridge
-https://www.youtube.com/watch?v=3HFJPDI5LHs
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Dongdaemun Design Plaza
-https://www.youtube.com/watch?v=GOt7UVVp-5Y
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seogang Bridge
-https://www.youtube.com/watch?v=_gmTN6ssF7I
-#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Lottle World Plaza
-https://www.youtube.com/watch?v=JIQPCfb9Qs0
-
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",VALO2ASIA (After Match Press Conference)
 https://www.youtube.com/@VALO2ASIA/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",Live cam from Paris
@@ -66,6 +36,36 @@ https://www.youtube.com/@VALORANTEsportsCN/live
 https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
 #EXTINF:-1 group-title="2025 VCT Champions Paris Live",VCT Valorant (KR)
 https://www.youtube.com/@ValorantEsportsKR/live
+
+#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok
+https://www.youtube.com/watch?v=Q71sLS8h9a4
+#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok (Feed #2)
+https://www.youtube.com/watch?v=UemFRPrl1hk
+#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Bangkok
+https://youtu.be/a_bUVExv_Cg
+
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul
+https://www.youtube.com/watch?v=-JhoMGoAfFc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWzSBwkJ4AkBhyohjO8%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul (Feed #2)
+https://www.youtube.com/watch?v=ahSMyLJcp48&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul (Feed #3)
+https://www.youtube.com/watch?v=3Uf3w-UHB4U&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul Station Plaza
+https://www.youtube.com/watch?v=-u536iqt-Pk&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Gyeongbokgung
+https://www.youtube.com/watch?v=EPrqF0HOi9o&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Gwanghwamun Boulevard
+https://www.youtube.com/watch?v=zuWxsbV-mlA&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Jamsil Bridge
+https://www.youtube.com/watch?v=ZopiySgQjsc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWw%3D
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seokchon Bridge
+https://www.youtube.com/watch?v=3HFJPDI5LHs
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Dongdaemun Design Plaza
+https://www.youtube.com/watch?v=GOt7UVVp-5Y
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seogang Bridge
+https://www.youtube.com/watch?v=_gmTN6ssF7I
+#EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Lottle World Plaza
+https://www.youtube.com/watch?v=JIQPCfb9Qs0
 
 #EXTINF:-1 group-title="Emergency Update",
 
@@ -123,11 +123,11 @@ https://www.youtube.com/watch?v=xtpqVz6wtD0
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=u6mKGnYBQvE
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Hong Kong as HK along with Vietnam braces for Super Typhoon Ragasa
-https://www.youtube.com/watch?v=CohHTjPhwXw
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Taiwan as it braces for Super Typhoon Ragasa
-https://www.youtube.com/watch?v=Pi-N5qY4PLk
+https://www.youtube.com/watch?v=_5ggFV2cWA0
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Super Typhoon Ragasa Tracking
 https://www.youtube.com/watch?v=UtazLaEAtJA
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",NASA launches mission to study space weather
+https://www.youtube.com/watch?v=_e5zCIWmn8o
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA): World leaders arriving for 80th UNGA
 https://www.youtube.com/watch?v=IPKT_2KJTpo
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",New York City (USA): World leaders gathering for 80th UNGA
