@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok
-https://www.youtube.com/watch?v=Q71sLS8h9a4
-#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Sukhumvit, Bangkok (Feed #2)
-https://www.youtube.com/watch?v=UemFRPrl1hk
-#EXTINF:-1 group-title="2025 SEA Games 33 Thailand Live",Live Cam from Bangkok
-https://youtu.be/a_bUVExv_Cg
-
 #EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul
 https://www.youtube.com/watch?v=-JhoMGoAfFc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWzSBwkJ4AkBhyohjO8%3D
 #EXTINF:-1 group-title="2025 VCT Game Changers Championship Live",Live Cam from Seoul (Feed #2)
@@ -89,8 +82,8 @@ https://www.youtube.com/watch?v=u6mKGnYBQvE
 https://www.youtube.com/watch?v=0Pf5D791yNI
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Cam from White House as the goverment shutdown is looming (chimes at 11:01am Vietnam Time tomorrow)
 https://www.youtube.com/watch?v=Fu8vYoIkaeM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera as Global Sumud Flotilla is having on the way to break onto the Gaza despite threat from Israel
-https://www.youtube.com/channel/UCewbcOYhSE8Say-rSAaUVOA/live
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Kuala Lumpur: Pakistani PM Shehbaz Sharif visit
+https://www.youtube.com/watch?v=YNXvB84FN50
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
