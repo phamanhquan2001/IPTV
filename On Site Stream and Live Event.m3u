@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="2025 VCT Game Changers Championship Live and 2025 APEC Live",KBS 1TV 
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="2025 VCT Game Changers Championship Live and 2025 APEC Live",KBS 2TV 
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="2025 VCT Game Changers Championship Live and 2025 APEC Live",MBC 
+https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png?raw=true" group-title="🇰🇷 Hàn Quốc",SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="2025 VCT Game Changers Championship Live and 2025 APEC Live",Live Cam from Seoul
 https://www.youtube.com/watch?v=-JhoMGoAfFc&pp=ygURbGl2ZSBjYW1lcmEgU2VvdWzSBwkJ4AkBhyohjO8%3D
 #EXTINF:-1 group-title="2025 VCT Game Changers Championship Live and 2025 APEC Live",Live Cam from Seoul (Feed #2)
