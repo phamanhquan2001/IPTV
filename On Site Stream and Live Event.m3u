@@ -1,5 +1,41 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Worlds 2025 Live",LCP (VN)
+https://www.youtube.com/@lolesports_vn/live
+#EXTINF:-1 group-title="Worlds 2025 Live",LCP Live (EN)
+https://www.youtube.com/@lolesports/live
+#EXTINF:-1 group-title="Worlds 2025 Live",LCP Live (JP)
+https://www.youtube.com/@LoLeSportsJP/live
+#EXTINF:-1 group-title="Worlds 2025 Live",LCK (KR)
+https://www.youtube.com/@LCK/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Hoàng Luân
+https://www.youtube.com/@hoangluanBLV/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Optimus
+https://www.youtube.com/@Optimus96/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Văn Tùng
+https://www.youtube.com/@VanTung/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Levi
+https://www.youtube.com/@Levi97/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Tùng Lâm
+https://www.youtube.com/@LCPTungLam/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Đức Mạnh
+https://www.youtube.com/@MelodyDucManh/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Sendo Yuuhi
+https://www.youtube.com/@SendoYuuhi/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Raizin
+https://www.youtube.com/@raizinLOL/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Syaruru
+https://www.youtube.com/@syaruruch/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Takaya Special
+https://www.youtube.com/@takayaspecial/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Caedrel
+https://www.youtube.com/@Caedrel/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Karni
+https://www.youtube.com/@Karnilol/live
+#EXTINF:-1 group-title="Worlds 2025 Live",Jskillz
+https://www.youtube.com/@jskiIIz/live
+
 #EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="2025 VCT Game Changers Championship Live and 2025 APEC Live",KBS 1TV 
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="2025 VCT Game Changers Championship Live and 2025 APEC Live",KBS 2TV 
