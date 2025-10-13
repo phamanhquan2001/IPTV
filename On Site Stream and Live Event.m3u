@@ -1,6 +1,19 @@
 #EXTM3U
 
-
+#EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Beijing (Play in and Swiss Stage)
+https://gctxyhwc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8
+#EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Shanghai: Home of the Hoyoverse HQ (Playoff stage)
+https://tfpy3gr3uomttgr31hcjt8rzdncb1fisg17uffi5zgmumpp3s433qcpzs4.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=e8550e1f2faaab361345493d-176034199841838&wsIPSercert=a1cceca409dfe8496f7611a35cea039c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Shanghai: Home of the Hoyoverse HQ (Playoff stage) (Feed #2)
+https://tfpy3gr3uomttgr31hcjt8rzdncbzfisg17uffi5zgmumpp3s433qcpzs4.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=4875ccbbe732c3a5f818cdcc-176034209472689&wsIPSercert=a1cceca409dfe8496f7611a35cea039c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Shanghai: Home of the Hoyoverse HQ (Playoff stage) (Feed #3)
+https://tfpy3gr3uomttgr31hcjt8rzdncbafisg17uffi5zgmumpp3s433qcpzs4.100ycdn.com/live-ws.kksmg.com/live/sdi4/1760342152.ts?wsSession=53b6bb0539f1184ac38faeb1-176034214748806&wsIPSercert=a1cceca409dfe8496f7611a35cea039c&wsBindIP=1&wsApp=HLS&wsiphost=local
+#EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Shanghai: Home of the Hoyoverse HQ (Playoff stage) (Feed #4)
+https://tfpy3gr3uomttgr31hcjt8rzdncbwfisg17uffi5zgmumpp3s433qcpzs4.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=c7976419a810d0fcf4e69d0a-176034221826676&wsIPSercert=a1cceca409dfe8496f7611a35cea039c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Shanghai: Home of the Hoyoverse HQ (Playoff stage) (Feed #5)
+https://tfpy3gr3uomttgr31hcjt8rzdncb1fisg17uffi5zgmumpp3s433qcpzs4.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=e8550e1f2faaab361345493d-176034227169392&wsIPSercert=a1cceca409dfe8496f7611a35cea039c&wsiphost=local&wsBindIP=1
+#EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Chengdu (Finals)
+https://gctxyhwc.liveplay.myqcloud.com/gc/zsslsjjfsd_1_md.m3u8
 #EXTINF:-1 group-title="Worlds 2025 Live",LCP (VN)
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 group-title="Worlds 2025 Live",LCP Live (EN)
