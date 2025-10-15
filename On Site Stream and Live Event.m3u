@@ -14,6 +14,8 @@ https://tfpy3gr3uomttgr31hcjt8rzdncbwfisg17uffi5zgmumpp3s433qcpzs4.100ycdn.com/l
 https://tfpy3gr3uomttgr31hcjt8rzdncb1fisg17uffi5zgmumpp3s433qcpzs4.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=e8550e1f2faaab361345493d-176034227169392&wsIPSercert=a1cceca409dfe8496f7611a35cea039c&wsiphost=local&wsBindIP=1
 #EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Chengdu (Finals)
 https://gctxyhwc.liveplay.myqcloud.com/gc/zsslsjjfsd_1_md.m3u8
+#EXTINF:-1 group-title="Worlds 2025 Live",Bilibili (Host broadcaster)
+https://d1--ov-gotcha207b.bilivideo.com/live-bvc/980336/live_50329118_9516950_1500/index.m3u8?expires=1760514682&len=0&oi=453204317&pt=web&qn=150&trid=100760a5d9ce0577d303538fa1901668ef44&bmt=1&sigparams=cdn,expires,len,oi,pt,qn,trid,bmt&cdn=ov-gotcha207&sign=246993982377fe15a0987c7b0b2d2440&site=5fb98ac15f5caa19e81b4466f3be2e8f&free_type=0&mid=0&sche=ban&bvchls=1&trace=0&isp=other&rg=other&pv=other&suffix=1500&media_type=0&long_ab_id=45&long_ab_flag_value=test&hot_cdn=909789&deploy_env=prod&strategy_ids=112&pp=rtmp&score=100&strategy_types=1&info_source=hot_cache&hdr_type=0&sk=fbef17ca58771d9e98dcabf7a834508f&source=puv3_onetier&origin_bitrate=1007&flvsk=df7c9e536bc02a269a879af2f36807aa&p2p_type=-1&long_ab_flag=live_default_longitudinal&sl=10&strategy_version=latest&codec=0&vd=bc&src=puv3&order=2
 #EXTINF:-1 group-title="Worlds 2025 Live",LCP (VN)
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 group-title="Worlds 2025 Live",LCP Live (EN)
