@@ -2745,6 +2745,10 @@ http://live.trusl.com:1180/;
 http://live.trusl.com:1150/listen.pls?sid=1
 #EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="LAKHANDA" tvg-logo="https://yt3.googleusercontent.com/DpfKudlmh614XUdl3Fa2xgmuwPbZAlU7fzCcKWj39D7ZOWWYo1HpavPkL8mJAWcXpHSleu_Z7w=s900-c-k-c0x00ffffff-no-rj",ITN Lakhanda FM
 https://cp12.serverse.com/proxy/itnfm?mp=/stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzWNcMR.png" group-title="QUỐC TẾ" radio=true,Korean Central Broadcasting Station (KCBS) - Đài Phát Thanh TW Triều Tiên
+https://radio.intchoson.com/kcbs/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzWNcMR.png" group-title="QUỐC TẾ" radio=true,Voice of Korean Radio (VOK) - Đài Tiếng Nói Triều Tiên
+https://radio.intchoson.com/vok/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzWNcMR.png" group-title="QUỐC TẾ" radio=true,Pyongyang FM
 https://listen7.myradio24.com/69366
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/KBS_Radio_1_logo.svg/1920px-KBS_Radio_1_logo.svg.png" group-title="QUỐC TẾ" radio=true,KBS World Radio Vietnamese
@@ -3712,8 +3716,7 @@ https://stream.rcast.net/67902
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
 
 #EXTINF:-1  tvg-id="KoreanCentralTelevision.kp"tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://tv.nknews.org/tvdash/stream.mpd
+https://tv.intchoson.com/kctv/main_stream.m3u8
 
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
 https://stream1.freetv.fun/xi-cang-wei-shi-40.ctv
@@ -3926,6 +3929,7 @@ https://radio.telecom.tm/tarap.mp3
 https://radio.telecom.tm/miras.mp3
 #EXTINF:-1 group-title="Turkmen Radio",Radio Owazy
 https://radio.telecom.tm/owaz.mp3
+
 
 
 
