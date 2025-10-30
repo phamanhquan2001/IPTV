@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="FFWS Free Fire 2025 Live",Live Cam from Jakarta
+https://www.youtube.com/watch?v=wRkiMPFU8ok
+#EXTINF:-1 group-title="FFWS Free Fire 2025 Live",FFWS 2025 Live
+https://www.youtube.com/@GarenaFreeFireEsportsVN/live
+
 #EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Beijing (Play in and Swiss Stage)
 https://gctxyhwc.liveplay.myqcloud.com/gc/dlst03_1_md.m3u8
 #EXTINF:-1 group-title="Worlds 2025 Live",Live Camera from Shanghai: Home of the Hoyoverse HQ (Playoff stage)
@@ -91,7 +96,7 @@ https://stream.zeno.fm/ebqnzkvyv9duv
 #EXTINF:-1 group-title="Emergency Update",JIS Update on Hurricane Melissa
 https://www.youtube.com/@WatchJIS/live
 #EXTINF:-1 group-title="Emergency Update",Hurricane Melissa Multicam
-https://www.youtube.com/watch?v=mCT5dMOdDC0
+https://www.youtube.com/watch?v=P2QAw99C7gA
 #EXTINF:-1 group-title="Emergency Update",Live Camera from Devon House Intersection as CAT5 Hurricane Melissa is heading towards Jamaica
 https://www.youtube.com/watch?v=F6oDQm5XQwQ&pp=ygUTTGl2ZSBDYW1lcmEgSmFtYWljYdIHCQkGCgGHKiGM7w%3D%3D
 #EXTINF:-1 group-title="Emergency Update",Live Camera from Half Way Tree as CAT5 Hurricane Melissa is heading towards Jamaica
@@ -154,12 +159,12 @@ https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8z
 https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
-https://www.youtube.com/watch?v=xtpqVz6wtD0
+https://www.youtube.com/watch?v=0fohzXQ_egQ
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=u6mKGnYBQvE
+https://www.youtube.com/watch?v=K87Ij5ymlM4
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Cam from White House amid ongoing goverment shutdown
 https://www.youtube.com/watch?v=Fu8vYoIkaeM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Busan (South Korea): US President Donald Trump meet Chinese' Xi Jinping
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Tel Aviv (Israel): Ultra-Orthodox Jews protesting against military conscription
 https://www.youtube.com/watch?v=h506XZCrMQw
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
