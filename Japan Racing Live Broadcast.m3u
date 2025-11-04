@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs14
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs14
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",函館(函館競馬場)
 https://www.youtube.com/watch?v=s--MDmshT3I&pp=ygUY5Ye96aSo44Op44Kk44OW44Kr44Oh44Op
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",札幌(札幌競馬場)
@@ -44,27 +44,27 @@ https://variants.streaks.jp/v5/gch/3574632644584e489abdb4da3a3737c6/23096a4137b8
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",JRA Main Feed Live
 https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/hls-live/1/7o9m416gor08x6ed/ARcFLyoZvHTzhYj2qJb8CSVa_1000_640x360.stream/chunklist.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tojikiston_1.webp/120px-Tojikiston_1.webp.png",TVT - TV Tokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
-https://proxy.utako.moe/ph.php?&isp=1&id=gd07
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd07
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
-https://proxy.utako.moe/ph.php?&isp=1&id=gd01
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd01
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://proxy.utako.moe/ph.php?&isp=1&id=bs11
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs11
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",FujiTV / フジテレビ (みんなのＫＥＩＢＡ)
-https://proxy.utako.moe/ph.php?&isp=1&id=gd05
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd05
 #EXTINF:-1 group-title="JRA / Kansai Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",KTV Kansai Television / 関西テレビ (競馬BEAT)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx03
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gx03
 #EXTINF:-1 group-title="JRA / Kansai Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kbs" tvg-logo="https://i.namu.wiki/i/DTpXI6bjguEBRCPudoJ2cB0u6d-6-tvBKibBv3yh5osTToIopFSM_ZDlSplJDUmD9AeqOX2z0OavRw6cuiMorQ.svg",KBS Kyoto Television / KBS京都 (うまDOKI)
 https://mt01.utako.moe/kbs/video.m3u8
 #EXTINF:-1 group-title="JRA / Kansai Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="kbs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/SUN_TV_MNC-Group.svg/revision/latest/scale-to-width-down/300?cb=20150420140705",SUN Television / サンテレビ (うまDOKI)
-https://proxy.utako.moe/ph.php?&isp=1&id=gx07
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gx07
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TVTokyo / BSテレビ東 (ウイニング競馬)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs05
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs05
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs_fuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png",BS Fuji HD / BSフジ (BSスーパーKEIBA)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs06
+https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs06
 #EXTINF:-1 group-title="JRA / BS Channel" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS-11 (BSイレブン競馬中継)
-https://freejptv.com/171.php?id=bs11
+https://nl00.utako.moe/BS11/index.m3u8
 #EXTINF:-1 tvg-id="TVB-Plus" group-title="JRA / Hong Kong Cantonese Commentary Feed" tvg-logo="https://tv.truyenhinh.click/Logo/TVB-Plus/DoiTac-HieuHa",TVB Plus
-https://stream1.freetv.fun/391d21caea3269c8477f1c3fc0f24bbfded5d4f4fcf1d63d96b5cd8574792a34.ctv
+https://stream1.freetv.fun/6ade45822dc9265d4aba6c1854bfd6a2635b13d96624929150024f662eca25d7.ctv
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-logo="https://static.wikia.nocookie.net/2790939b-c993-45d5-b3bd-e2c45e82171c/scale-to-width/755",WHR-LIVE
 https://www.youtube.com/channel/UCSuzEzGo0zIK0wcpr8j46QQ/live
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",HKJC Live Race Radio in Cantonese
@@ -74,21 +74,17 @@ https://hkjclive-hls.akamaized.net/hls/live/2030947/pth_hls/master.m3u8
 #EXTINF:-1 group-title="JRA / Hong Kong Cantonese Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",HKJC Live Race Radio in English
 https://hkjclive-hls.akamaized.net/hls/live/2030947/eng_hls/master.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing.ae",Dubai Racing (1080p)
-https://stream1.freetv.fun/a043077ec9f87071982e54ac85b9badae6f7293bf5c55207c96baa52f79f5cf9.ctv
-#EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing2.ae",Dubai Racing 1 (1080p)
-https://stream1.freetv.fun/5bf760de8276a48c41dbc513638238a1d0845b9efea372e56b9477282215ab47.ctv
+https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing2.ae",Dubai Racing 2 (1080p)
-https://stream1.freetv.fun/d84af604ce71894a0a10a6f3dd9a8ae7dc55e1264e67ea370c5bf8d60d259be5.ctv
+https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing3.ae",Dubai Racing 3 (1080p)
-https://stream1.freetv.fun/109da49806b248e15eb60d3cdedf16564bdcbe5d799bea2fe7ac8db39734dd6e.ctv
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Racing.com TV
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist.m3u8
+#EXTINF:-1 group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="DubaiRacing3.ae",Fanduel Racing
+https://stream1.freetv.fun/fanduel-racing-1.ctv
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",RACING TV (UK)
-https://o4.sundaytueday.store/uk-racingtv.m3u8?auth_key=1758854927-be76b863f1e1d0da8f34279ba6a0c945-00000000000000000000000000000000-f044ddd93d1d9e16c653b549cca2ed4f
+https://stream1.freetv.fun/7b8228172e58e2ecf6b0d87a9c6190b64bf02bb49c0e712850467fcf652082b3.ctv
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",SKY SPORT RACING (UK)
-https://o2.sundaytueday.store/uk-skysportracing.m3u8?auth_key=1758854913-be76b863f1e1d0da8f34279ba6a0c945-00000000000000000000000000000000-fb05febb0b686c675fd4bb39137c806f
-#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Fanduel Racing TV
-https://o3.sundaytueday.store/pre32.m3u8?auth_key=1758855044-be76b863f1e1d0da8f34279ba6a0c945-00000000000000000000000000000000-9bbd33f08686b730701b5df13c9ffb39
+https://stream1.freetv.fun/57324979670da3d2392f18c5fd2bf12b81a29002ffd59b5c10c25302994fa851.ctv
 #EXTINF:-1 group-title="Genshin Fontaine League Live" tvg-chno="300" tvg-country="FR" group-title="EQUIDIA",300. LE GRAND DIRECT [1080p-equidia.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 group-title="Genshin Fontaine League Live" tvg-chno="301" tvg-country="FR" group-title="EQUIDIA",301. RACING GALOP [1080p-equidia.fr]
