@@ -44,6 +44,8 @@ http://tv123.vvvv.ee/live.php/?ch=23
 http://tv123.vvvv.ee/live.php/?ch=7
 #EXTINF:-1 group-title=2025 National Games of China Live",RTHK-32
 http://tv123.vvvv.ee/live.php/?ch=13
+#EXTINF:-1 group-title=2025 National Games of China Live",RTHK-36
+https://rthktv36-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch36)/index.m3u8
 #EXTINF:-1 group-title=2025 National Games of China Live",VIUTV
 http://tv123.vvvv.ee/live.php/?ch=9
 #EXTINF:-1 group-title=2025 National Games of China Live",TDM Desporte
