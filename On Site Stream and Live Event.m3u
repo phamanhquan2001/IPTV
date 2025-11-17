@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title=2025 AIC Arena of Valor Live",Vietnamese (Commentary Live by Hololive DEV_IS REGLOSS Team)
 https://www.youtube.com/@LienQuanMobilesportsGarena/live
 #EXTINF:-1 group-title=2025 AIC Arena of Valor Live",Taiwanese (Commentary Live by Hololive DEV_IS FLOW GLOW Team)
@@ -42,16 +43,16 @@ https://e1-eu3.angelcam.com/cameras/108540/streams/hls/playlist.m3u8?token=eyJ0e
 https://e1-eu3.angelcam.com/cameras/108548/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NjMyNzMxOTEsIm5iZiI6MTc2MzI3MzA3MSwiZXhwIjoxNzYzMjgwMzkxLCJkaWQiOiIxMDg1NDgifQ%2E%2DPcPGZ1F3NBtWaBhOUI%5FuudjDiQVkzt%5F1WAQpFKNVJE
 #EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Live Camera from Manila Checkpoint (Feed #4)
 https://e1-eu8.angelcam.com/cameras/108466/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NjMyNzMyMzgsIm5iZiI6MTc2MzI3MzExOCwiZXhwIjoxNzYzMjgwNDM4LCJkaWQiOiIxMDg0NjYifQ%2EXdu5fLUqWx8%2DxIPcu3xdwVAY2o97TLjZ%2Dj2zvFusaYc
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",4th Day Live (in English)
-https://www.youtube.com/watch?v=GEDcZaJe0NQ
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",4th Day Live (in Indonesian)
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",5th Day Live (in English)
+https://www.youtube.com/watch?v=-HoAIA03uBE
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",5th Day Live (in Indonesian)
 https://www.youtube.com/watch?v=olYdmKvdbgs
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",4th Day Live (in Filipino)
-https://www.youtube.com/watch?v=ztDoWTUlN4E
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",4th Day Live (in Arabic)
-https://www.youtube.com/watch?v=ALXXqBoRwkk
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",4th Day Live (in Chinese)
-https://www.youtube.com/watch?v=agNI5nH-04w
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",5th Day Live (in Filipino)
+https://www.youtube.com/watch?v=_o4AhKrOHiw
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",5th Day Live (in Arabic)
+https://www.youtube.com/watch?v=7qJMKwUhkcQ
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",5th Day Live (in Chinese)
+https://www.youtube.com/watch?v=ImIl4f-DFME
 
 #EXTINF:-1 group-title=2025 National Games of China Live",CCTV-5
 http://tv123.vvvv.ee/live.php/?ch=61
