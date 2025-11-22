@@ -49,42 +49,15 @@ https://e1-eu3.angelcam.com/cameras/108548/streams/hls/playlist.m3u8?token=eyJ0e
 #EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Live Camera from Manila Checkpoint (Feed #4)
 https://e1-eu8.angelcam.com/cameras/108466/streams/hls/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9%2EeyJpYXQiOjE3NjMyNzMyMzgsIm5iZiI6MTc2MzI3MzExOCwiZXhwIjoxNzYzMjgwNDM4LCJkaWQiOiIxMDg0NjYifQ%2EXdu5fLUqWx8%2DxIPcu3xdwVAY2o97TLjZ%2Dj2zvFusaYc
 #EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 1st Day Live (in English)
-https://www.youtube.com/watch?v=gZdL7fACemE
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 1st Day Live (in Indonesian)
+https://www.youtube.com/watch?v=z_ho8blB9qE
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 3rd Day Live (in Indonesian)
 https://www.youtube.com/watch?v=MOA4wcQIsjk
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 1st Day Live (in Filipino)
-https://www.youtube.com/watch?v=i0gz6k0fg_8
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 1st Day Live (in Arabic)
-https://www.youtube.com/watch?v=xCjNTgJb7zs
-#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 1st Day Live (in Chinese)
-https://www.youtube.com/watch?v=98-oXrxc1KU
-
-#EXTINF:-1 group-title=2025 National Games of China Live",CCTV-5
-http://tv123.vvvv.ee/live.php/?ch=61
-#EXTINF:-1 group-title=2025 National Games of China Live",CCTV-5+
-http://tv123.vvvv.ee/live.php/?ch=62
-#EXTINF:-1 group-title=2025 National Games of China Live",广东体育频道 (The iDOLM@STER Shiny Colors Sports Channel)
-http://tv123.vvvv.ee/live.php/?ch=23
-#EXTINF:-1 group-title=2025 National Games of China Live",TVB PLUS
-http://tv123.vvvv.ee/live.php/?ch=7
-#EXTINF:-1 group-title=2025 National Games of China Live",RTHK-32
-http://tv123.vvvv.ee/live.php/?ch=13
-#EXTINF:-1 group-title=2025 National Games of China Live",RTHK-36
-https://rthktv36-vos-live.akamaized.net/Content/HLS/Live/channel(rthk_ch36)/index.m3u8
-#EXTINF:-1 group-title=2025 National Games of China Live",VIUTV
-http://tv123.vvvv.ee/live.php/?ch=9
-#EXTINF:-1 group-title=2025 National Games of China Live",TDM Desporte
-http://tv123.vvvv.ee/live.php/?ch=16
-#EXTINF:-1 group-title=2025 National Games of China Live",Live Camera from Guangdong
-https://gctxyhwc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8
-#EXTINF:-1 group-title=2025 National Games of China Live",Live Camera from Hong Kong
-https://www.youtube.com/watch?v=vlINsdjDN28&pp=ygUVTGl2ZSBDYW1lcmEgSG9uZyBLb25n
-#EXTINF:-1 group-title=2025 National Games of China Live",Live Camera from Hong Kong (Feed #2)
-https://www.youtube.com/watch?v=ojDbpgZgWiQ&pp=ygUVTGl2ZSBDYW1lcmEgSG9uZyBLb25n
-#EXTINF:-1 group-title=2025 National Games of China Live",Live Camera from Macao
-https://www.youtube.com/watch?v=ctYalRx7kY4&pp=ygURTGl2ZSBDYW1lcmEgTWFjYXXSBwkJAwoBhyohjO8%3D
-#EXTINF:-1 group-title=2025 National Games of China Live",Live Camera from Macao (Feed #2)
-https://www.youtube.com/watch?v=ffUznsd-pxU
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 3rd Day Live (in Filipino)
+https://www.youtube.com/watch?v=6aNXzpS2dOg
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 3rd Day Live (in Arabic)
+https://www.youtube.com/watch?v=3bvU_Iix6CE
+#EXTINF:-1 group-title=2025 KIC Honor of Kings Live",Playoff 3rd Day Live (in Chinese)
+https://www.youtube.com/watch?v=svu2QPR7tl8&pp=0gcJCQwKAYcqIYzv
 
 #EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", NBT
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
