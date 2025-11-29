@@ -60,6 +60,37 @@ https://toiyeuvietnam.dpdns.org/CoBan/htv7/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/htv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv-the-thao" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
 https://toiyeuvietnam.dpdns.org/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-1" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-1/KenhCoBan",THVL-1 - Báo và Truyền hình Vĩnh Long
+https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-2/KenhCoBan",THVL-2 - Báo và Truyền hình Vĩnh Long
+https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-3" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-3/KenhCoBan",THVL-3 - Báo và Truyền hình Vĩnh Long
+https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vinh-long-4" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vinh-long-4/KenhCoBan",THVL-4 - Báo và Truyền hình Vĩnh Long
+https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="tra-vinh" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tra-vinh/KenhCoBan",THVL-5 - Báo và Truyền hình Vĩnh Long
+https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab3hd/KenhBoSung",ON Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab18hd/KenhBoSung",ON Sports News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab6hd/KenhBoSung",ON Sports+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
+#EXTINF:-1 tvg-id="vtvcab-23-golf-channel" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab-23-golf-channel/KenhCoBan",VTVcab 23 - Golf Channel(Kênh VTV Cab)
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 
 #EXTINF:-1 tvg-id="voh877" group-title="SEA Games 33 2025 Thailand Live - Radio Coverage" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s",HTV RADIO FM 87.7Mhz - Radio Football Coverage by Todoroki Hajime and Juufuutei Raden
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
