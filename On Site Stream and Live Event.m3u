@@ -98,7 +98,9 @@ https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",VTC The Thao Vietnam Live (by Nijisanji' VOLTACTION Commentary Team)
 https://wwww.youtube.com/@TheThaoVietnamOfficial/live
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",VTV Sports YouTube Feed
-https://wwww.youtube.com/@TheThaoVietnamOfficial/@vtvthethaoofficial/live
+https://wwww.youtube.com/@vtvthethaoofficial/live
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",HTV Sports YouTube Feed
+https://wwww.youtube.com/@thethaohtv/live
 
 #EXTINF:-1 group-title="SEA Games 33 2025 Thailand Live - Indonesia",RCTI
 https://stream1.freetv.fun/rcti--a-1.ctv
