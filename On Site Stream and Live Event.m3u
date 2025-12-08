@@ -59,8 +59,8 @@ https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
+#EXTVLCOPT: http-referrer=https://hoiquan.click/ tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
+https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh#EXTINF:-1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh
@@ -89,9 +89,6 @@ https://www.youtube.com/channel/UCrI4iNMPZ2vT_G-TqRO6yrw/live
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",HTV Sports YouTube Feed
 https://www.youtube.com/@thethaohtv/live
 
-
-#EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam",THVLI Feed (Commentary Live by Hyakumatenbara Salome)
-https://seagames.thvli.vn/seagame/thvli-seagame/live-1080p/chunks.m3u8?app=170712&sig=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjIsInVpZCI6IjYxZTQ0ZGE0LTlmMjYtNDMyYS04Y2VjLWMzOGE4NDRjOTc4ZSIsImFwcCI6MTcwNzEyLCJkZXYiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJjaXAiOiIyNy4yLjEzNi45OSIsInBsYSI6IndlYiIsImlhdCI6MTc2NTE4MzIwNn0.mND9JzicaC-j94NQ_--LGYJSySyfm9FruE2MjOtkvgM
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam",VTVPRIME Feed (Commentary Live by Shirogane Noel)
 https://liveh34.vtvprime.vn/hls/SEAGAME/01.m3u8
 
