@@ -89,6 +89,12 @@ https://www.youtube.com/@vtvthethaoofficial/live
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",HTV Sports YouTube Feed
 https://www.youtube.com/@thethaohtv/live
 
+
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam",THVLI Feed (Commentary Live by Hyakumatenbara Salome)
+https://seagames.thvli.vn/seagame/thvli-seagame/live-1080p/chunks.m3u8?app=170712&sig=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjIsInVpZCI6IjYxZTQ0ZGE0LTlmMjYtNDMyYS04Y2VjLWMzOGE4NDRjOTc4ZSIsImFwcCI6MTcwNzEyLCJkZXYiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQyLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJjaXAiOiIyNy4yLjEzNi45OSIsInBsYSI6IndlYiIsImlhdCI6MTc2NTE4MzIwNn0.mND9JzicaC-j94NQ_--LGYJSySyfm9FruE2MjOtkvgM
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam",VTVPRIME Feed (Commentary Live by Shirogane Noel)
+https://liveh34.vtvprime.vn/hls/SEAGAME/01.m3u8
+
 #EXTINF:-1 group-title="SEA Games 33 2025 Thailand Live - Indonesia",RCTI
 https://stream1.freetv.fun/rcti--a-1.ctv
 
