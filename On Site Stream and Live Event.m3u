@@ -333,6 +333,16 @@ https://www.youtube.com/watch?v=Lj8OWF6nzcg
 #Special Program
 #EXTINF:-1 group-title="Special Program",
 
+#EXTINF:-1 group-title="Vietnam Online",Vòng Xoay ĐBP (TP HCM)
+https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_480p/index.m3u8
+#EXTINF:-1 group-title="Vietnam Online",Quận 2 (TP HCM)
+https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_480p/index.m3u8
+#EXTINF:-1 group-title="Vietnam Online",Đà Nẵng
+https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/index.m3u8
+#EXTINF:-1 group-title="Vietnam Online",Khách Sạn Merry (Đà Nẵng)
+https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
+
+
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
 #EXTINF:-1 group-title="Earthquake Monitoring",JDQ
