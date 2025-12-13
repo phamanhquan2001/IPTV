@@ -1,28 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-chno="2" ch-number="2" tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://media-mvtv.imgix.net/channel/115_y_fFG0J46IoYNzUjVKatsbL7vZByxiMqTm.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", NBT
-https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-
-#EXTINF:-1 tvg-chno="7" ch-number="7" tvg-id="T SPORT.th" tvg-name="T SPORT" tvg-logo="https://media-mvtv.imgix.net/channel/119_y_OhjxHr9fqS2i0NJvPUlcL85mn6e4FoIu.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", T SPORT
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://load1.v2h-cdn.com/digitaltv/tsport/playlist.m3u8
-
-
-#EXTINF:-1 tvg-chno="31" ch-number="31" tvg-id="ONE.th" tvg-name="ONE" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", ONE
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-
-#EXTINF:-1 tvg-chno="32" ch-number="32" tvg-id="Thairath.th" tvg-name="Thairath" tvg-logo="https://media-mvtv.imgix.net/channel/131_y_iJmHlFadZ0G8EhIYMw2A3OfbN1Qpzgou.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", Thairath
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
-
-#EXTINF:-1 tvg-chno="33" ch-number="33" tvg-id="3HD.th" tvg-name="3HD" tvg-logo="https://media-mvtv.imgix.net/channel/132_y_TFYiXWvrUf4s8tbIwJ29S3zMNeqghGmB.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", 3HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-
-#EXTINF:-1 tvg-chno="34" ch-number="34" tvg-id="Amarin.th" tvg-name="Amarin" tvg-logo="https://media-mvtv.imgix.net/channel/133_y_kLIyaJt3VoGD8sqrHnhKPjZUQ0RE6mu4.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", Amarin
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
-
-#EXTINF:-1 tvg-chno="35" ch-number="35" tvg-id="7HD.th" tvg-name="7HD" tvg-logo="https://media-mvtv.imgix.net/channel/134_y_YTkIZJDsbmX26owPRpAFSfW0eyz95vn4.png" group-title="SEA Games 33 2025 Thailand Live - Host Broadcasters", 7HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
-
 #EXTINF:-1 tvg-id="vtv1-hd" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv1-hd/KenhCoBan",VTV1 HD
 https://toiyeuvietnam.dpdns.org/CoBan/vtv1-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://xem.hoiquan.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.hoiquan.click/Logo/vtv2-hd/KenhCoBan",VTV2 HD
@@ -57,27 +34,6 @@ https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-3/TuyetDoiKhongKinhDoanh.m3u8
 https://toiyeuvietnam.dpdns.org/CoBan/vinh-long-4/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="tra-vinh" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tra-vinh/KenhCoBan",THVL-5 - Báo và Truyền hình Vĩnh Long
 https://toiyeuvietnam.dpdns.org/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="VTV Cab" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/ tvg-id="vtvcab16hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab16hd/KenhBoSung",ON Football
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh#EXTINF:-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab16hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vtvcab3hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab3hd/KenhBoSung",ON Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab3hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vtvcab18hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab18hd/KenhBoSung",ON Sports News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab18hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vtvcab6hd" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="SEA Games 33 2025 Thailand Live - Vietnam" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab6hd/KenhBoSung",ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/vtvcab6hd/ToChaThangVThanh
-#EXTINF:-1 tvg-id="vtvcab-23-golf-channel" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtvcab-23-golf-channel/KenhCoBan",VTVcab 23 - Golf Channel(Kênh VTV Cab)
-https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ha-noi-1" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-1/KenhCoBan",Hà Nội 1
 https://toiyeuvietnam.dpdns.org/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",Hà Nội 2
@@ -88,6 +44,12 @@ https://www.youtube.com/@TheThaoVietnamOfficial/live
 https://www.youtube.com/channel/UCrI4iNMPZ2vT_G-TqRO6yrw/live
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/ha-noi-2/KenhCoBan",HTV Sports YouTube Feed
 https://www.youtube.com/@thethaohtv/live
+
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - eSport Live",MLBB
+https://www.youtube.com/watch?v=gQh69Vf4Tts
+#EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - eSport Live",FIFA Online
+https://www.youtube.com/watch?v=reJo6i30iH0
+
 
 #EXTINF:-1 tvg-id="ha-noi-2" group-title="SEA Games 33 2025 Thailand Live - Vietnam",VTVPRIME Feed (Commentary Live by Shirogane Noel)
 https://liveh34.vtvprime.vn/hls/SEAGAME/01.m3u8
