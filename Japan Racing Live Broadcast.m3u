@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継)
-https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/bs14
+https://variants.streaks.jp/v5/gch/80ed9a4585ea445c854b8cc82c8490ae/184cb7cc3c02474d97535f1cfd2668cc/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",函館(函館競馬場)
 https://www.youtube.com/watch?v=s--MDmshT3I&pp=ygUY5Ye96aSo44Op44Kk44OW44Kr44Oh44Op
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",札幌(札幌競馬場)
@@ -21,27 +21,23 @@ https://www.youtube.com/watch?v=E5R5PPezu7k&pp=ygUg56aP5bKhIOODqeOCpOODluOCq-ODo
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",福岡空港(小倉競馬場)
 https://www.youtube.com/watch?v=CzgSFUAbE9s&pp=ygUg56aP5bKhIOODqeOCpOODluOCq-ODoeODqSDlpKnnpZ4%3D
 
-#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継) (Audio)
-https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/ecd841919704447dbb7d007717aad478/manifest_8_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
-#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継) (Muted)
-https://variants.streaks.jp/v5/gch/84cc1dfc24fe488e826c5e8cc0c96893/ecd841919704447dbb7d007717aad478/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネル 2 (中央競馬パドック中継) (Muted)
-https://variants.streaks.jp/v5/gch/a8fdd0e4800e4ce6b07b215aad3b2806/a0c7a78eb9004174974fadfaf03b997c/manifest_2.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/acbf47bbdfec4c8aa8a3bb870dec0975/38e4483e4c434bd6a08943d9c4c468ce/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネル 2 (中央競馬パドック中継) (Audio)
-https://variants.streaks.jp/v5/gch/a8fdd0e4800e4ce6b07b215aad3b2806/a0c7a78eb9004174974fadfaf03b997c/manifest_6_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/acbf47bbdfec4c8aa8a3bb870dec0975/38e4483e4c434bd6a08943d9c4c468ce/manifest_6_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネルWeb Channel 3 (Muted)
-https://variants.streaks.jp/v5/gch/f47a9bdffe44489795040595597eaba5/34aacd295605441d8a5223c345894ed5/manifest_3.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/d2596ba17a2a4265a65324b00d0b47b4/fe6447d4576d4ad3baed8c0b2dca0b27/manifest_5.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネルWeb Channel 3 (Audio)
-https://variants.streaks.jp/v5/gch/f47a9bdffe44489795040595597eaba5/34aacd295605441d8a5223c345894ed5/manifest_7_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/d2596ba17a2a4265a65324b00d0b47b4/fe6447d4576d4ad3baed8c0b2dca0b27/manifest_7_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネルWeb Channel 4 (Muted)
-https://variants.streaks.jp/v5/gch/e26dbdf18c454ffab9a32f93611c63d8/fab256fbb5094a0486739959274a366d/manifest_1.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/7c08bb020c404e53ac20258c282debbc/9bf25a63e97f42a988f26c3abfec6d9c/manifest_7_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネルWeb Channel 4 (Audio)
-https://variants.streaks.jp/v5/gch/e26dbdf18c454ffab9a32f93611c63d8/fab256fbb5094a0486739959274a366d/manifest_8_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/7c08bb020c404e53ac20258c282debbc/9bf25a63e97f42a988f26c3abfec6d9c/manifest_5.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネルWeb Channel 5 (Muted)
-https://variants.streaks.jp/v5/gch/3574632644584e489abdb4da3a3737c6/23096a4137b8409ebc227abd9e6c4fd9/manifest_3.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
+https://variants.streaks.jp/v5/gch/9cb08fbe7c5040fa9b9eb2d4059d8593/78a24c9ed25e4252a5b946bbef565f85/manifest_5.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネルWeb Channel 5 (Audio)
-https://variants.streaks.jp/v5/gch/3574632644584e489abdb4da3a3737c6/23096a4137b8409ebc227abd9e6c4fd9/manifest_7_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
-#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",JRA Main Feed Live
+https://variants.streaks.jp/v5/gch/9cb08fbe7c5040fa9b9eb2d4059d8593/78a24c9ed25e4252a5b946bbef565f85/manifest_7_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
+#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",URA Main Feed Live
 https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/hls-live/1/7o9m416gor08x6ed/ARcFLyoZvHTzhYj2qJb8CSVa_1000_640x360.stream/chunklist.m3u8
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tojikiston_1.webp/120px-Tojikiston_1.webp.png",TVT - TV Tokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
 https://zhenix-px.netgenx.site/iptv/zhenxen/master_playlist/gd07
