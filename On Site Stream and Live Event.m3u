@@ -23,12 +23,21 @@ https://toiyeuvietnam.dpdns.org/CoBan/htv9-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htv-the-thao" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
 https://toiyeuvietnam.dpdns.org/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
 
-#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",1st Day Live
-https://www.youtube.com/watch?v=l2AJW4LBW3A
+#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",English
+https://www.youtube.com/@MLBBesportsofficial/live
+#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Arabic
+https://www.youtube.com/@MLBBEsportsMENA/live
+#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Indonesian
+https://www.youtube.com/@MPLIndonesia/live
+#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Malaysian
+https://www.youtube.com/@mpl-malaysia/live
+#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Turkish
+https://www.youtube.com/@mobilelegendstr/live
+#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Japanese
+https://www.youtube.com/@MobileLegendsBangBangJapan/live
 
-
-#EXTINF:-1 group-title="Emergency Update",
-
+#EXTINF:-1 group-title="Emergency Update",RNV Radio from Venezuela amid alleged US strikes
+http://rnv.lorini.net:29100/RNVINFORMATIVO.m3u
 
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Kanal Macau (Kanal-92)
 https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w1447248302.m3u8
@@ -87,6 +96,8 @@ https://www.youtube.com/watch?v=-FSD_OsZaCw
 https://www.youtube.com/watch?v=V_0az0lQ6Ww
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Venezuela
 https://www.youtube.com/watch?v=2heQSC2hqEg
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Santiago (Chilê): People took down to the street celebrating the news from US operation after the sudden strike on Caracas and led to the swift arrest of Venezuelan President Nicolás Maduro
+https://www.youtube.com/watch?v=WPvva6Eb7mo&
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
