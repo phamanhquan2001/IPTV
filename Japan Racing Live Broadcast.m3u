@@ -81,6 +81,10 @@ https://stream1.freetv.fun/fanduel-racing-1.ctv
 https://stream1.freetv.fun/7b8228172e58e2ecf6b0d87a9c6190b64bf02bb49c0e712850467fcf652082b3.ctv
 #EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",SKY SPORT RACING (UK)
 https://stream1.freetv.fun/57324979670da3d2392f18c5fd2bf12b81a29002ffd59b5c10c25302994fa851.ctv
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Fanduel Racing
+https://t.freetv.fun/live/fanduel-racing.ctv
+#EXTINF:-1  group-title="JRA /  English Commentary Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="RacingTV.uk",Fanduel TV
+https://t.freetv.fun/live/fanduel-tv.ctv
 #EXTINF:-1 group-title="Genshin Fontaine League Live" tvg-chno="300" tvg-country="FR" group-title="EQUIDIA",300. LE GRAND DIRECT [1080p-equidia.fr]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 group-title="Genshin Fontaine League Live" tvg-chno="301" tvg-country="FR" group-title="EQUIDIA",301. RACING GALOP [1080p-equidia.fr]
