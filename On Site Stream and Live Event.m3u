@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",Live Camera from Milano
+https://www.youtube.com/watch?v=dsoM6TYIkOI
+
+
+#EXTINF:-1 group-title="2026 AFC U23 Asian Cup Live",Al Quran Al Kareem
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 group-title="2026 AFC U23 Asian Cup Live",Al Sunnah Al Nabawiyah TV (360p)
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="htv1" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv1/KenhCoBan",HTV1
+https://toiyeuvietnam.dpdns.org/CoBan/htv1/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv2" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv2/KenhCoBan",HTV2
+https://toiyeuvietnam.dpdns.org/CoBan/htv2/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv3/KenhCoBan",HTV3
+https://toiyeuvietnam.dpdns.org/CoBan/htv3/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv4/KenhCoBan",HTV4
+https://toiyeuvietnam.dpdns.org/CoBan/htv4/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv7-hd" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv7-hd/KenhCoBan",HTV7 HD
+https://toiyeuvietnam.dpdns.org/CoBan/htv7-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv9-hd" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv9-hd/KenhCoBan",HTV9 HD
+https://toiyeuvietnam.dpdns.org/CoBan/htv9-hd/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-id="htv-the-thao" group-title="2026 AFC U23 Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/htv-the-thao/KenhCoBan",HTV Thể Thao
+https://toiyeuvietnam.dpdns.org/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
+
+#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",1st Day Live
+https://www.youtube.com/watch?v=l2AJW4LBW3A
+
+
 #EXTINF:-1 group-title="Emergency Update",
 
 
