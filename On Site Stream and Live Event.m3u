@@ -116,16 +116,27 @@ https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8z
 #EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
 https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
 
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Watch Live
+https://www.youtube.com/watch?v=AaQ9o_qSHjE
+https://www.youtube.com/@KLWWorldNews8/live
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
 https://www.youtube.com/watch?v=0fohzXQ_egQ
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Gaza
-https://www.youtube.com/watch?v=-FSD_OsZaCw
+https://www.youtube.com/watch?v=o1LbCf6KJL0
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Tehran (Iran) amid ongoing protests
+https://www.youtube.com/watch?v=-zGuR1qVKrU
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=V_0az0lQ6Ww
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Venezuela
 https://www.youtube.com/watch?v=2heQSC2hqEg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Santiago (Chilê): People took down to the street celebrating the news from US operation after the sudden strike on Caracas and led to the swift arrest of Venezuelan President Nicolás Maduro
-https://www.youtube.com/watch?v=WPvva6Eb7mo&
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live from Outside New York court as Venezuelan President Nicolas Maduro and his wife make it's first appearance
+https://www.youtube.com/watch?v=PzsVrWQsaJc
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live from Outside Brooklyn jail where Venezuelan President Nicolas Maduro is held here
+https://www.youtube.com/watch?v=q8NqKSDqQ8Y&pp=0gcJCU0KAYcqIYzv
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",National Assembly Inauguration Sessions from Caracas (Venezuela) amid outrage over US strike
+https://www.youtube.com/watch?v=yHfO09-cEyc
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",The UNSC (United Nations Security Council) is set for emergency meeting over US operations in Venezuela
+https://www.youtube.com/watch?v=GuT50TlBxXM
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
