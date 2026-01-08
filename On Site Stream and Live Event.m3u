@@ -117,7 +117,6 @@ https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8z
 https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Watch Live
-https://www.youtube.com/watch?v=AaQ9o_qSHjE
 https://www.youtube.com/@KLWWorldNews8/live
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
 https://www.youtube.com/watch?v=0fohzXQ_egQ
@@ -129,12 +128,16 @@ https://www.youtube.com/watch?v=-zGuR1qVKrU
 https://www.youtube.com/watch?v=V_0az0lQ6Ww
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Venezuela
 https://www.youtube.com/watch?v=2heQSC2hqEg
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Caracas (Venezuela)
-https://www.youtube.com/watch?v=yjVIlDUNvPM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Venezuela-Columbina border
-https://www.youtube.com/watch?v=btRkM9rGr1I
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live from inside court as Nick Reiner charged with murder with his parent
-https://www.youtube.com/watch?v=WFAgWcfnYUE
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",White House briefing in wake of fatal incident in Minneapolis where a woman had been shot to dead by ICE
+https://www.youtube.com/watch?v=7sPQxjCpTno
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Los Angeles: Clergy goes on protests rallies to denouncing ICE following fatal shooting incident in Minneapolis
+https://www.youtube.com/watch?v=Es4IoN2X5Mo
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Los Angeles: State Governor Gavin Newsom speaking State of the State address
+https://www.youtube.com/watch?v=Rxw2M1XJzCY
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Washington DC: Hearing session on White House East Wing renovations
+https://www.youtube.com/watch?v=27lwoIGyFSw
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Venezuela' Youth Rallies for Maduro release
+https://www.youtube.com/watch?v=ojDgxVRCTx0
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
