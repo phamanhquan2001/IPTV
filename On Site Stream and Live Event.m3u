@@ -159,6 +159,18 @@ https://www.youtube.com/channel/UCwyuvrVtIg0xjH2qPufk3RQ/live
 https://www.youtube.com/@Platinum-apartmentsAu/live
 #EXTINF:-1 group-title="2026 Australian Open Live",Talos-II Bluezone
 https://www.youtube.com/watch?v=jhjiCEhoCzM
+#EXTINF:-1 group-title="2026 Australian Open Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png", Eurosport 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
+#EXTINF:-1 group-title="2026 Australian Open Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png", Eurosport 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 
 #EXTINF:-1 group-title="2026 AFC U23 Asian Cup Live",Al Quran Al Kareem
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
