@@ -130,12 +130,14 @@ https://t.freetv.fun/live/espn.m3u8
 https://t.freetv.fun/live/espn2.m3u8
 #EXTINF:-1 group-title="2026 Australian Open Live",AO-RADIO
 https://audio-edge-jfbmv.sin.d.radiomast.io/32fda7c0-5457-4c24-8afb-d7ab1b9f9fc0
+#EXTINF:-1 group-title="2026 Australian Open Live",AO-RADIO Youtube Feed
+https://www.youtube.com/watch?v=akujhpeka00
 #EXTINF:-1 group-title="2026 Australian Open Live",Brisbane Live Camera
 https://www.youtube.com/channel/UCwyuvrVtIg0xjH2qPufk3RQ/live
 #EXTINF:-1 group-title="2026 Australian Open Live",Melbourne Live Camera
 https://www.youtube.com/@Platinum-apartmentsAu/live
 #EXTINF:-1 group-title="2026 Australian Open Live",Talos-II Bluezone
-https://www.youtube.com/watch?v=635GbejB40E
+https://www.youtube.com/watch?v=vV8Vzd8nVgA
 #EXTINF:-1 group-title="2026 Australian Open Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png", Eurosport 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
