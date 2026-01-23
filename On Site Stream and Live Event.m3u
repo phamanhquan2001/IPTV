@@ -7,19 +7,19 @@ https://youtu.be/ph1vpnYIxJk
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",Live Camera from Vatican (and Service)
 https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_g_tokyo",NHK G
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_e_tokyo",NHK E
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd02
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_bs",NHK BS
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs11
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_bsp_4k",NHK BS4K
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs01
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="ntv",NTV
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd03
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="fuji_tv",Fuji TV
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd05
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="tv_tokyo",TV Tokyo
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/gd07
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="Rai1.it@SD",Rai 1 (720p)
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="Rai1.it@SD",Rai 1 (576p) [Geo-blocked]
@@ -123,7 +123,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 
 #EXTINF:-1 group-title="2026 Australian Open Live",WOWOW-LIVE
-https://zhenix-px.netgenx.site/live_stream/zhenxen/master_playlist/bs20
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=0
 #EXTINF:-1 group-title="2026 Australian Open Live",ESPN
 https://t.freetv.fun/live/espn.m3u8
 #EXTINF:-1 group-title="2026 Australian Open Live",ESPN-2
