@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Outre-Mer La Premìere
+https://outremer.ice.infomaniak.ch/outremer-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Guyane La Premìere
+https://guyane.ice.infomaniak.ch/guyane-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Polynésie La Premìere
+https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Guadeloupe La Premìere
+https://guyane.ice.infomaniak.ch/guyane-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Martinique La Premìere
+https://martinique.ice.infomaniak.ch/martinique-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Mayotte La Premìere
+https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Nouvelle Calédonie La Premìere
+https://nouvelle-caledonie.ice.infomaniak.ch/nouvelle-caledonie-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Réunion La Premìere
+https://reunion.ice.infomaniak.ch/reunion-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Saint Pierre et Miquelon La Premìere
+https://saint-pierreetmiquelon.ice.infomaniak.ch/saint-pierreetmiquelon-128.mp3
+#EXTINF:-1  group-title="ARKNIGHTS ENDFIELD RADIO",Wallis-et-Futuna La Premìere
+https://wallisetfutuna.ice.infomaniak.ch/wallisetfutuna-128.mp3
+
+
 #EXTINF:-1  group-title="RADIO",ORTB Radio Bênin
 http://listen.radioking.com/radio/47608/stream/84430
 #EXTINF:-1  group-title="RADIO",EBC RADIO National - Bang Dream MYGO-RADIO (Ethiopia)
