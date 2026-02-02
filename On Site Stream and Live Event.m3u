@@ -6,6 +6,12 @@ https://www.youtube.com/watch?v=dsoM6TYIkOI
 https://youtu.be/ph1vpnYIxJk
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",Live Camera from Vatican (and Service)
 https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
+#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",ONSPORTS
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
+#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",ONSPORTS+
+https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
+#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",ONSPORTS NEWS
+https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_g_tokyo",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=0
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_e_tokyo",NHK E
@@ -121,46 +127,6 @@ https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="CBFTDT.ca@SD",Ici Radio-Canada Télé (1080p) [Geo-blocked]
 https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
-
-#EXTINF:-1 group-title="2026 Australian Open Live",WOWOW-LIVE
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=0
-#EXTINF:-1 group-title="2026 Australian Open Live",ESPN
-https://t.freetv.fun/live/espn.m3u8
-#EXTINF:-1 group-title="2026 Australian Open Live",ESPN-2
-https://t.freetv.fun/live/espn2.m3u8
-#EXTINF:-1 group-title="2026 Australian Open Live",AO-RADIO
-https://audio-edge-jfbmv.sin.d.radiomast.io/32fda7c0-5457-4c24-8afb-d7ab1b9f9fc0
-#EXTINF:-1 group-title="2026 Australian Open Live",AO-RADIO Youtube Feed
-https://www.youtube.com/watch?v=q15BXU23ToA
-#EXTINF:-1 group-title="2026 Australian Open Live",Brisbane Live Camera
-https://www.youtube.com/channel/UCwyuvrVtIg0xjH2qPufk3RQ/live
-#EXTINF:-1 group-title="2026 Australian Open Live",Melbourne Live Camera
-https://www.youtube.com/@Platinum-apartmentsAu/live
-#EXTINF:-1 group-title="2026 Australian Open Live",Talos-II Bluezone
-https://www.youtube.com/watch?v=IaGOwmCBxf4&pp=0gcJCYcKAYcqIYzv
-#EXTINF:-1 group-title="2026 Australian Open Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Eurosport1hd.png", Eurosport 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01a665d487aa4c1c898c9eb0ff1a21df:a0b9df5f92e6b218ddb6aa40a2cd996d
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
-#EXTINF:-1 group-title="2026 Australian Open Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eurosport2hd.png", Eurosport 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=657707bbd1e240e08bd6969df27fef7c:364e00581c1432f4175e4a2e8e0cd57e
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
-
-#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",English
-https://www.youtube.com/@MLBBesportsofficial/live
-#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Arabic
-https://www.youtube.com/@MLBBEsportsMENA/live
-#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Indonesian
-https://www.youtube.com/@MPLIndonesia/live
-#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Malaysian
-https://www.youtube.com/@mpl-malaysia/live
-#EXTINF:-1 group-title="MLBB Live M7 World Championships 2026 Live",Turkish
-https://www.youtube.com/@mobilelegendstr/live
 
 #EXTINF:-1 group-title="Emergency Update",RNV Radio from Venezuela amid alleged US strikes
 http://rnv.lorini.net:29100/RNVINFORMATIVO.m3u
