@@ -52,12 +52,12 @@ https://7pal.short.gy/skyspt5nz
 https://7pal.short.gy/skyspt6nz
 #EXTINF:-1 tvg-id="SKY.Sport.7.nz" tvg-logo="https://i.postimg.cc/G2G4b6Ym/sky_sport_7.png" group-title="2026 Winter Olympic Games Milano Cortina Live", Sky Sport7 NZ FHD
 https://7pal.short.gy/skyspt7nz
-#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://i.postimg.cc/PJMNwZSG/Sky-Sport-PL.png" group-title="2026 Winter Olympic Games Milano Cortina Live", Sky Sport Premier League FHD
-https://7pal.short.gy/skyspt8nz
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",NBC US
-https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.ctv
+#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",USA-NETWORK
+https://t.freetv.fun/live/usa-network-east.ctv
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",Rede Globo
-https://t.freetv.fun/live/globo-rj-2.ctv
+https://t.freetv.fun/live/globo-mg.ctv
 #EXTINF:-1 tvg-id="DasErste.de@HD" group-title="2026 Winter Olympic Games Milano Cortina Live",ARD Das Erste HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
 #EXTINF:-1 group-title="Đức" group-title="2026 Winter Olympic Games Milano Cortina Live",ZDF
