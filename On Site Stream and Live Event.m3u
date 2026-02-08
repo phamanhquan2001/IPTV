@@ -17,19 +17,21 @@ https://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",ONSPORTS NEWS
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_g_tokyo",NHK G
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_e_tokyo",NHK E
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_bs",NHK BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="nhk_bsp_4k",NHK BS4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="ntv",NTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="fuji_tv",Fuji TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=0
-#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="tv_tokyo",TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=0
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="tv_tokyo",TVTokyo
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+#EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="tv_tokyo",TVAsahi
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="",Rai Sport 2
 http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="RaiSport.it@HD",Rai Sport HD
