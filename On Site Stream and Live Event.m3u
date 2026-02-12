@@ -11,9 +11,9 @@ https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/ninochannel12/playlis
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel Olympic
 https://5952e4052db.nino208.x10.mx/v1/livestream/twitch.tv/ninochannel0102/playlist.m3u8
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",VTV2
-https://vtvgolive-vtv.vtvdigital.vn/hsufcPUGoZULqoxWePmXlg/1770817622/vtvgo/vtv2-360p.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",VTV7
-https://vtvgolive-vtv.vtvdigital.vn/NdkFRBOdboHqNRCWiquMRQ/1770817194/vtvgo/vtv7-360p.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",ONSPORTS
 https://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live",ONSPORTS+
@@ -118,6 +118,74 @@ https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
 https://hls.iill.top/api/Eurosport-1/index.m3u8
 #EXTINF:-1 group-title="2026 Winter Olympic Games Milano Cortina Live" tvg-id="CBFTDT.ca@SD",EUROSPORTS-2
 https://hls.iill.top/api/Eurosport-2/index.m3u8
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago
+https://www.youtube.com/watch?v=cAjWS3GsNSk
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #2)
+https://www.youtube.com/watch?v=8Vn3fQnY_J0
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #3)
+https://www.youtube.com/watch?v=E9FK3QGdpqE
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (NA)
+https://www.youtube.com/@valorant_americas/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (Pacific)
+https://www.youtube.com/@VCTPacific/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (EMEA)
+https://www.youtube.com/@vctEMEA/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (VN)
+https://www.youtube.com/@VALORANTChampionsTourVietnam/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (EN)
+https://www.youtube.com/@ValorantEsports/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (JP)
+https://www.youtube.com/@VALORANTjp/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (AR)
+https://www.youtube.com/@VALORANTArabia/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (ID)
+https://www.youtube.com/@VALORANTEsportsIndonesia/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (BR)
+https://www.youtube.com/@valorantesportsbr/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (CN)
+https://www.youtube.com/@VALORANTEsportsCN/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (HK/TW)
+https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (KR)
+https://www.youtube.com/@ValorantEsportsKR/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Aogiri Eito
+https://www.youtube.com/channel/UC4Xuz67FNRr69ILv2b7ZRBA/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Asakura Shino
+https://www.youtube.com/channel/UCTxoJgb4DzMd7tiM8cvf4PA/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Aosora Popo
+https://www.youtube.com/@Aosorapopo_arp/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Aoi Crescent
+https://www.youtube.com/@AoiCrescent_ARP/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live".Live Camera from Paulista
+https://www.youtube.com/watch?v=Hv6AQhQqAJ0&pp=ygUVTGl2ZSBDYW1lcmEgU2FvIFBhdWxv
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCP (VN)
+https://www.youtube.com/@lolesports_vn/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",VCS Live
+https://www.youtube.com/@vcslmht/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCP Live (EN)
+https://www.youtube.com/@lolesports/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCP Live (JP)
+https://www.youtube.com/@LoLeSportsJP/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCK Challengers Live (KR)
+https://www.youtube.com/@LCKCL/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCK (Tiếng Việt)
+https://www.youtube.com/@LCKTiengViet/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCK (EN)
+https://www.youtube.com/@LCKglobal/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LTK League the K4sen Live (EN)
+https://www.youtube.com/@lolthek4sen/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",CBLOL (PT)
+https://www.youtube.com/@CBLOL/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LJL (JP)
+https://www.youtube.com/@official_LJL/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LEC
+https://www.youtube.com/@LEC/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCS
+https://www.youtube.com/@LCS/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",PCS (HK)
+https://www.youtube.com/@lolpcstw/live
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Sendo Yuuhi (VSPO! Team)
+https://www.youtube.com/@sendoyuuhi/live
 
 #EXTINF:-1 group-title="Emergency Update",RNV Radio from Venezuela amid alleged US strikes
 http://rnv.lorini.net:29100/RNVINFORMATIVO.m3u
