@@ -88,6 +88,8 @@ https://www.youtube.com/@LCKCL/live
 https://www.youtube.com/@LCKTiengViet/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (EN)
 https://www.youtube.com/@LCKglobal/live
+#EXTINF:-1 group-title="League of Legends Live",LPL (EN)
+https://www.youtube.com/@LPL_English/live
 #EXTINF:-1 group-title="League of Legends Live",LTK League the K4sen Live (EN)
 https://www.youtube.com/@lolthek4sen/live
 #EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
@@ -283,6 +285,12 @@ https://www.youtube.com/channel/UCS5l_Y0oMVTjEos2LuyeSZQ/live
 https://www.youtube.com/channel/UC2xXx1m1jeL0W84_0jTg-Yw/live
 #EXTINF:-1 group-title="VTuber Live",Tatsumaki Chise
 https://www.youtube.com/channel/UCoW8qQy80mKH0RJTKAK-nNA/live
+#EXTINF:-1 group-title="VTuber Live",Aotsuki Remia
+https://www.youtube.com/@RemiaAotsuki/live
+#EXTINF:-1 group-title="VTuber Live",Kuroha Arya
+https://www.youtube.com/@aryakuroha/live
+#EXTINF:-1 group-title="VTuber Live",Riko Solari
+https://www.youtube.com/@rikosolari/live
 #EXTINF:-1 group-title="VTuber Live",Hizuki Yui
 https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg/live
 #EXTINF:-1 group-title="VTuber Live",Kuga Reo
