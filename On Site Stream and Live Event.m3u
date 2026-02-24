@@ -110,7 +110,7 @@ https://www.youtube.com/@CarChaseChannelABC/live
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
-https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
+https://live-azd1101.telewebion.ir/ek/irinn2/live/576p/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (YouTube)
 https://youtu.be/Lwbp9WfLslc
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (YouTube)
@@ -137,6 +137,8 @@ https://v12.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=-XWVASB6lNMf148pgz
 https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8zhkT2Q&expires=1756126603&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
 #EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
 https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
+#EXTINF:-1 group-title="On-Site Live Channel",CourtTV
+https://www.youtube.com/@CourtTV
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Watch Live
 https://www.youtube.com/@KLWWorldNews8/live
@@ -269,9 +271,7 @@ https://www.youtube.com/watch?v=Lj8OWF6nzcg
 #EXTINF:-1 group-title="Heaven Burns Red Philippines Report Live",
 
 #Sports Live
-#EXTINF:-1 group-title="FPT Sports Live",U23 Asian Cup 2026 - Australia vs China
-https://vips-livecdn.fptplay.net/MTUzNzM4MDF8dGhldGhhbzE1X214LnNtaWx8b3RoZXJ8MTc2ODEzMDc2MXwyNy4yLjEzNy4xNjV8MzU3NzQ0ZWY2YmY1ZDdjZDNmMWZlYjg5ODI2YmQwOWI/fnxch1/thethao15_mx.smil/chunklist_b1200000.m3u8
-
+#EXTINF:-1 group-title="FPT Sports Live",
 #Special Program
 #EXTINF:-1 group-title="Special Program",
 
