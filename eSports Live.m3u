@@ -28,26 +28,26 @@ https://www.youtube.com/channel/UCkM1U9GSsmsQImoiPovJvHA/live
 https://www.youtube.com/@Strinova-JP/live
 #EXTINF:-1 group-title="Strinova Live",AzurLane JP
 https://www.youtube.com/channel/UCnUzafAtfncBzTml2muIUEQ/live
+#EXTINF:-1 group-title="Valorant Live",VCT Valorant (Arabic)
+https://www.twitch.tv/valorantesports_ar
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (NA)
-https://www.youtube.com/@valorant_americas/live
+https://www.twitch.tv/valorant_americas
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (Pacific)
 https://www.youtube.com/@VCTPacific/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EMEA)
-https://www.youtube.com/@vctEMEA/live
+https://www.twitch.tv/valorant_emea
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (VN)
 https://www.youtube.com/@VALORANTChampionsTourVietnam/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (EN)
 https://www.youtube.com/@ValorantEsports/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (JP)
-https://www.youtube.com/@VALORANTjp/live
-#EXTINF:-1 group-title="Valorant Live",VCT Valorant (AR)
-https://www.youtube.com/@VALORANTArabia/live
+https://www.twitch.tv/valorant_jpn
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (ID)
 https://www.youtube.com/@VALORANTEsportsIndonesia/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (BR)
-https://www.youtube.com/@valorantesportsbr/live
+https://www.twitch.tv/valorant_br
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (CN)
-https://www.youtube.com/@VALORANTEsportsCN/live
+https://www.twitch.tv/valorantesports_cn
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (HK/TW)
 https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (KR)
@@ -69,11 +69,11 @@ https://www.youtube.com/channel/UC6BVqXGIminjUKrrSeTqcZw/live
 #EXTINF:-1 group-title="Valorant Challengers Live",VCT Valorant (Challengs Turkiye)
 https://www.youtube.com/@VALORANTChallengersTR/live
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (LATAM)
-https://www.youtube.com/@VALORANTChallengersAmericas/live
+https://www.twitch.tv/valorant_la
 #EXTINF:-1 group-title="Valorant Live",VCT Valorant (Challengers Spain)
 https://www.youtube.com/@LVPesVALORANT/live
-#EXTINF:-1 group-title="League of Legends Live",LTA North Live
-https://www.youtube.com/@LTANorth/live
+#EXTINF:-1 group-title="Valorant Live",VCT Valorant (TH)
+https://www.twitch.tv/valorant_th
 #EXTINF:-1 group-title="League of Legends Live",LCP (VN)
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 group-title="League of Legends Live",VCS Live
@@ -81,7 +81,7 @@ https://www.youtube.com/@vcslmht/live
 #EXTINF:-1 group-title="League of Legends Live",LCP Live (EN)
 https://www.youtube.com/@lolesports/live
 #EXTINF:-1 group-title="League of Legends Live",LCP Live (JP)
-https://www.youtube.com/@LoLeSportsJP/live
+https://www.twitch.tv/leagueoflegendsjp
 #EXTINF:-1 group-title="League of Legends Live",LCK Challengers Live (KR)
 https://www.youtube.com/@LCKCL/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (Tiếng Việt)
@@ -89,11 +89,11 @@ https://www.youtube.com/@LCKTiengViet/live
 #EXTINF:-1 group-title="League of Legends Live",LCK (EN)
 https://www.youtube.com/@LCKglobal/live
 #EXTINF:-1 group-title="League of Legends Live",LPL (EN)
-https://www.youtube.com/@LPL_English/live
+https://www.twitch.tv/lplenglish
 #EXTINF:-1 group-title="League of Legends Live",LTK League the K4sen Live (EN)
 https://www.youtube.com/@lolthek4sen/live
 #EXTINF:-1 group-title="League of Legends Live",CBLOL (PT)
-https://www.youtube.com/@CBLOL/live
+https://www.twitch.tv/cblol
 #EXTINF:-1 group-title="League of Legends Live",LJL (JP)
 https://www.youtube.com/@official_LJL/live
 #EXTINF:-1 group-title="League of Legends Live",LEC
@@ -101,9 +101,11 @@ https://www.youtube.com/@LEC/live
 #EXTINF:-1 group-title="League of Legends Live",LCS
 https://www.youtube.com/@LCS/live
 #EXTINF:-1 group-title="League of Legends Live",PCS (HK)
-https://www.youtube.com/@lolpcstw/live
+https://www.twitch.tv/lolesportstw
 #EXTINF:-1 group-title="League of Legends Live",LOL Wild Rift Live VN
-https://www.youtube.com/@@TocChien/live
+https://www.youtube.com/@TocChien/live
+#EXTINF:-1 group-title="League of Legends Live",LCP Live (LATAM)
+https://www.twitch.tv/lolesportsla
 #EXTINF:-1 group-title="League of Legends Live",TFT Live VN
 https://www.youtube.com/@DTCLVN/live
 #EXTINF:-1 group-title="League of Legends Live",TFT Live
@@ -133,10 +135,14 @@ https://www.youtube.com/@MobileLegends5v5MOBA/live
 https://www.youtube.com/@EternalReturnGame/live
 #EXTINF:-1 group-title="Youtube Live",Delta Force eSports Live (Chiến Thần Delta Force)
 https://www.youtube.com/@ChienThanDeltaForce/live
-#EXTINF:-1 group-title="Youtube Live",Delta Force ID Livc
+#EXTINF:-1 group-title="Youtube Live",Delta Force ID Live
 https://www.youtube.com/@garenadfid/live
 #EXTINF:-1 group-title="Youtube Live",VIRESA Live
 https://www.youtube.com/channel/UCG3Y40V4X4uSRM_O6w8Taig/live
+#EXTINF:-1 group-title="Youtube Live",ESL Dota 2 Live
+https://www.twitch.tv/esl_dota2
+#EXTINF:-1 group-title="Youtube Live",ESL Starcraft Live
+https://www.twitch.tv/esl_sc2
 #EXTINF:-1 group-title="VTuber Live" tvg-logo="https://stickershop.line-scdn.net/stickershop/v1/product/7833222/LINEStorePC/main.png?v=1",Seseren Live Illustration
 https://www.youtube.com/@Seseren_KR/live
 #EXTINF:-1 group-title="VTuber Live",Rizuna Live (ASMR)
