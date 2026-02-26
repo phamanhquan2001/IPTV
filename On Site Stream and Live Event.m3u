@@ -10,6 +10,14 @@ https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live" tvg-id="nhk_e_tokyo",NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live" tvg-id="nhk_bs",Paralympic YT Channel
 https://www.youtube.com/channel/UCi8n36NkW2uCQSFZNiYtuMQ/live
 
@@ -20,7 +28,7 @@ https://www.youtube.com/watch?v=8Vn3fQnY_J0
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #3)
 https://www.youtube.com/watch?v=E9FK3QGdpqE
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #4)
-https://www.youtube.com/watch?v=E9FK3QGdpqE&pp=ygUUU2FudGlhZ28gTGl2ZSBDYW1lcmE%3D
+https://www.youtube.com/watch?v=E9FK3QGdpqE
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #5)
 https://www.youtube.com/watch?v=KHkevkcT0bg
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (NA)
