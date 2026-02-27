@@ -22,15 +22,15 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 https://www.youtube.com/channel/UCi8n36NkW2uCQSFZNiYtuMQ/live
 
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago
-https://www.youtube.com/watch?v=cAjWS3GsNSk
+https://www.youtube.com/watch?v=E9FK3QGdpqE
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #2)
-https://www.youtube.com/watch?v=8Vn3fQnY_J0
+https://www.youtube.com/watch?v=wr8kGiBr1CE
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #3)
-https://www.youtube.com/watch?v=E9FK3QGdpqE
-#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #4)
-https://www.youtube.com/watch?v=E9FK3QGdpqE
-#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #5)
 https://www.youtube.com/watch?v=KHkevkcT0bg
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #4)
+https://www.youtube.com/watch?v=o5bedndIYIQ
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #5)
+https://www.youtube.com/watch?v=_hElzf7C1D8
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (NA)
 https://www.youtube.com/@valorant_americas/live
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (Pacific)
@@ -63,9 +63,10 @@ https://www.youtube.com/channel/UCTxoJgb4DzMd7tiM8cvf4PA/live
 https://www.youtube.com/@Aosorapopo_arp/live
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Aoi Crescent
 https://www.youtube.com/@AoiCrescent_ARP/live
-#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Live Camera from Paulista
-https://www.youtube.com/watch?v=Hv6AQhQqAJ0&pp=ygUVTGl2ZSBDYW1lcmEgU2FvIFBhdWxv
-
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Live Camera from São Paulo
+https://www.youtube.com/watch?v=tMYtrEBNVAU
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Live Camera from São Paulo (Feed #2)
+https://www.youtube.com/watch?v=AX74XKJZdJM
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCP (VN)
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",VCS Live
