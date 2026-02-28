@@ -21,6 +21,8 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 #EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live" tvg-id="nhk_bs",Paralympic YT Channel
 https://www.youtube.com/channel/UCi8n36NkW2uCQSFZNiYtuMQ/live
 
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VALO2ASIA (Press Conference Only)
+https://www.youtube.com/@VALO2ASIA/live
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago
 https://www.youtube.com/watch?v=E9FK3QGdpqE
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Live Camnera from Santiago (Feed #2)
@@ -55,14 +57,15 @@ https://www.youtube.com/@VALORANTEsportsCN/live
 https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
 #EXTINF:-1 group-title="2026 VCT Masters Santiago Live",VCT Valorant (KR)
 https://www.youtube.com/@ValorantEsportsKR/live
-#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Aogiri Eito
-https://www.youtube.com/channel/UC4Xuz67FNRr69ILv2b7ZRBA/live
-#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Asakura Shino
-https://www.youtube.com/channel/UCTxoJgb4DzMd7tiM8cvf4PA/live
-#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Aosora Popo
-https://www.youtube.com/@Aosorapopo_arp/live
-#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Aoi Crescent
-https://www.youtube.com/@AoiCrescent_ARP/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Kuga Leo
+https://www.youtube.com/@kugaleo_Q/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Tumi
+https://www.youtube.com/@tumiii
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Bomman (Mai Nam Hải)
+https://www.youtube.com/@Bomman/live
+#EXTINF:-1 group-title="2026 VCT Masters Santiago Live",Brim Cánh Cụt
+https://www.youtube.com/@BrimCanhCut/live
+
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Live Camera from São Paulo
 https://www.youtube.com/watch?v=tMYtrEBNVAU
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Live Camera from São Paulo (Feed #2)
