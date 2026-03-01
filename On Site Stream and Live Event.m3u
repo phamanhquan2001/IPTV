@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",VTV5 Tây Nam Bộ
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",HTVTT
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+
 #EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live",Live Camera from Milano
 https://www.youtube.com/watch?v=dsoM6TYIkOI
 #EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live",Live Camera from Venice
