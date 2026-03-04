@@ -14,6 +14,9 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",Live Camera from Perth
+https://www.youtube.com/watch?v=uakxJIafWcw&pp=ygURUGVydGggTGl2ZSBDYW1lcmE%3D
+#EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",Live Camera from Perth
 
 #EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live",Live Camera from Milano
 https://www.youtube.com/watch?v=dsoM6TYIkOI
@@ -93,6 +96,8 @@ https://www.youtube.com/@crazyguyFPS
 https://www.youtube.com/watch?v=tMYtrEBNVAU
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Live Camera from São Paulo (Feed #2)
 https://www.youtube.com/watch?v=AX74XKJZdJM
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Live Camera from São Paulo (Feed #3)
+https://www.youtube.com/watch?v=5mTSqGv2wNY
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",LCP (VN)
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",VCS Live
@@ -300,7 +305,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5617
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/2.m3u8
 
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",VTV Vietnam Today (Phase Connect Live)
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://toiyeuvietnam.dpdns.org/OnliveTV/vietnamtoday/Free.m3u8
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",CNN News US (Japanese)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",BBC News UK (Japanese)
@@ -312,25 +317,17 @@ https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",CNBC (US)
 https://t.freetv.fun/live/cnbc.m3u8
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",CGTN English (China)
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",CGTN Russia (China)
-https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-#EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",CGTN Spainsh (China)
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",CGTN French (China)
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",CGTN Arabic (China)
-https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",RT Russia Today (Russia)
 https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
-#EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",RT India (Russia)
-https://rt-india.rttv.com/dvr/rtindia/tracks-v4a1/rewind-43200.ts.m3u8?filter.tracks=v1v2v3v4a1
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",WION News (India)
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",NHKWorld=Japan
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",ABC News (AU)
 https://c.mjh.nz/abc-news.m3u8
+#EXTINF:-1 group-title="International News Channel"tvg-id="AlArabyTV2.qa",Rossiya-24
+http://178.212.71.253:8000/play/7/index.m3u8
 
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",TDM Kanal Macau (Kanal-92)
 https://globallive.tdm.com.mo/ch2/ch2.live/chunklist_w1447248302.m3u8
@@ -379,7 +376,7 @@ https://v12.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=-XWVASB6lNMf148pgz
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8zhkT2Q&expires=1756126603&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
 #EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
-https://stream1.freetv.fun/c29e8c934dd21442a5db12d34c6af3092602ec2deee97fad6408314ca424edfa.ctv
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 group-title="On-Site Live Channel",CourtTV
 https://www.youtube.com/@CourtTV/live
 
