@@ -15,8 +15,14 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",Live Camera from Perth
-https://www.youtube.com/watch?v=uakxJIafWcw&pp=ygURUGVydGggTGl2ZSBDYW1lcmE%3D
-#EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",Live Camera from Perth
+https://www.youtube.com/watch?v=uakxJIafWcw
+#EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",Live Camera from Sydney
+https://www.youtube.com/watch?v=7pcL-0Wo77U
+#EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",LoveLive Project Radio
+https://kathy.torontocast.com:2600/stream
+#EXTINF:-1 tvg-id="tv360-11" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",HTVTT (YouTube)
+https://www.youtube.com/@htvsportsofficial/live
+
 
 #EXTINF:-1 group-title="2026 Winter Paralympic Games Milano Cortina Live",Live Camera from Milano
 https://www.youtube.com/watch?v=dsoM6TYIkOI
