@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",VTV5 Tây Nam Bộ
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv5-tay-nam-bo/KenhCoBan.m3u8
+https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",VTV7
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",HTVTT
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv-the-thao/KenhCoBan.m3u8
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",HTV4
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/htv4/KenhCoBan.m3u8
+https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tv360-9" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-9/KenhCoBan.png",TV360+ 9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360-10" group-title="2026 AFC Women's Asian Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-10/KenhCoBan.png",TV360+ 10
