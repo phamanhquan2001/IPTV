@@ -379,7 +379,7 @@ https://v12.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=-XWVASB6lNMf148pgz
 #EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
 https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8zhkT2Q&expires=1756126603&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
 #EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+https://t.freetv.fun/live/livenow-from-fox.ctv
 #EXTINF:-1 group-title="On-Site Live Channel",CourtTV
 https://www.youtube.com/@CourtTV/live
 
