@@ -32,27 +32,8 @@ https://www.twitch.tv/alfrea
 https://www.twitch.tv/syaruru3
 #EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",TakayaSpecial
 https://www.twitch.tv/takayaspecial
-
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 World Baseball Classics Live",FOXSPORTS-2 US
-https://t.freetv.fun/live/fox-sports-2-1.ctv
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 World Baseball Classics Live",FOXSPORTS-1 US
-https://t.freetv.fun/live/fox-sports-3.ctv
-#EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="2026 World Baseball Classics Live",FS 1
-https://7pal.short.gy/fs1us
-#EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="2026 World Baseball Classics Live", FS 2
-https://7pal.short.gy/fs2us
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 World Baseball Classics Live",ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/153ikz1689746051.png" group-title="2026 World Baseball Classics Live", TNT Sports 1 FHD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="2026 World Baseball Classics Live", TNT Sports 2 FHD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iwotea1701768457.png" group-title="2026 World Baseball Classics Live", TNT Sports 3 FHD
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/81twnr1689746183.png" group-title="2026 World Baseball Classics Live", TNT Sports 4 FHD
-https://7pal.short.gy/tntspts4
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/za5ba01689746204.png" group-title="2026 World Baseball Classics Live", TNT Sports 5 FHD
-https://7pal.short.gy/tntspts5
+#EXTINF:-1 group-title="First Stand Live Event 2026 in São Paulo Live",Hoàng Sama
+https://www.youtube.com/@BLVHo%C3%A0ngSama297/live
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/vtv5-taynambo.png" group-title="2026 AFC Women's Asian Cup Live",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8
