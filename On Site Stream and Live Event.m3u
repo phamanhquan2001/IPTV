@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Emergency Update"
+#EXTINF:-1 group-title="Emergency Update",Special Live Coverage for the Funerals of Cardinal Jean-Baptiste Pham Minh Man from Archdiocese of Saigon
+https://www.youtube.com/@tonggiaophansaigon/live
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
