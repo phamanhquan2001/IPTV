@@ -258,10 +258,18 @@ https://www.youtube.com/@CourtTV/live
 https://www.youtube.com/watch?v=-JhoMGoAfFc
 #EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Berlin (VCT EMEA)
 https://www.youtube.com/watch?v=IRqboacDNFg
-#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Tokyo Shibuya Crossings (VSPO! Showdown) (ANN Feed)
-https://www.youtube.com/watch?v=8H3nRCFVR6Y
-#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Tokyo Shibuya Crossings (VSPO! Showdown) (FujiTV Feed)
-https://www.youtube.com/watch?v=dfVK7ld38Ys
+#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #1)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177457398936910&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
+#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #2)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177457398936910&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
+#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #3)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177457398936910&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
+#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #4)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177457398936910&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
+#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #5)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177457398936910&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
+#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shenzhen (StellaSora Lore and Legends Tactician's Crown)
+https://gctxyhwc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Zone Map Live
 https://www.youtube.com/@DDCyprus1Click/live
