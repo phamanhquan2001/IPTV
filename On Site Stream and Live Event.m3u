@@ -1,7 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Emergency Update",Special Live Coverage from NASA SLS as it set for Artemis II Launch
-https://www.youtube.com/watch?v=sMjFelAApxY
+#EXTINF:-1 group-title="2026 HTV Cup Live",HTVTT (TV Feed)
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="2026 HTV Cup Live",HTVTT (YouTube Feed)
+https://www.youtube.com/@HTVThethaoofficial/live
+#EXTINF:-1 group-title="2026 HTV Cup Live",VOH-M RADIO FM 92 / 92.5 MHz (Trung tâm Phát thanh VOH)
+https://strm.voh.com.vn/radio/channel6/playlist.m3u8
+#EXTINF:-1 group-title="2026 HTV Cup Live",LoveLive Project Radio (dedicating for my favorite Lovelive seiyuu)
+https://kathy.torontocast.com:2600/stream
+#EXTINF:-1 group-title="2026 HTV Cup Live",Anileap Radio
+https://www.youtube.com/@KAC_official/live
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
