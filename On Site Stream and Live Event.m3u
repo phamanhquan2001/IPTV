@@ -47,19 +47,19 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="PressTV.ir",Press TV
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB-TV1
-https://live-azd1105.telewebion.ir/ek/tv1/live/480p/index.m3u8
+https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6ndKkPM/irib2.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB-TV2
-https://live-azd1103.telewebion.ir/ek/tv2/live/480p/index.m3u8
+https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4YQsfv9/irib3.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB-TV3
-https://live-azd1105.telewebion.ir/ek/tv3/live/480p/index.m3u8
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/D5S2Q2z/irib4.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB-TV4
-https://live-azd1106.telewebion.ir/ek/tv4/live/576p/index.m3u8
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB5.ir" group-title="HÓNG TIN CHIẾN SỰ",IRIB-Tehran (Amphoreus Regional Channel)
-https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="Nasim.ir",Nasim
-https://live-azd1101.telewebion.ir/ek/nasim/live/480p/index.m3u8
+https://ncdn.telewebion.ir/nasim/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hVkbvpQ/irinn.png" group-title="HÓNG TIN CHIẾN SỰ",IRIB-IRINN
-https://live-azd1103.telewebion.ir/ek/irinn/live/480p/index.m3u8
+https://ncdn.telewebion.ir/irinn/live/playlist.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AjyalTV.ps",Ajyal TV
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 group-title="HÓNG TIN CHIẾN SỰ" tvg-id="AjyalTV.ps",Ajyal TV (720p)
@@ -232,7 +232,7 @@ https://www.youtube.com/@CarChaseChannelABC/live
 
 #Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
 #EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
-https://live-azd1101.telewebion.ir/ek/irinn2/live/576p/index.m3u8
+https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (YouTube)
 https://youtu.be/Lwbp9WfLslc
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (YouTube)
