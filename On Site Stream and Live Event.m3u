@@ -1,5 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="2026 World Cup Live",VTV3
+https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtvcantho" group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/HCpqatZ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}",VTV Cần Thơ
+https://live-a.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/AgamSNe.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}",VTV7
+https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png",Fuji TV
+http://arva.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_1.png",NHK E
+http://arva.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png",NHK G
+http://arva.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png",NTV
+http://arva.netgenx.site/stream/jp/ntv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="jp2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png",NHK G (subch)
+http://arva.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
+
 #EXTINF:-1 group-title="2026 HTV Cup Live",HTVTT (TV Feed)
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="2026 HTV Cup Live",HTVTT (YouTube Feed)
@@ -10,6 +27,8 @@ https://strm.voh.com.vn/radio/channel6/playlist.m3u8
 https://kathy.torontocast.com:2600/stream
 #EXTINF:-1 group-title="2026 HTV Cup Live",Anileap Radio
 https://www.youtube.com/@KAC_official/live
+#EXTINF:-1 group-title="2026 HTV Cup Live",Anisong FM
+https://en.anison.fm/resources/anison.m3u
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
