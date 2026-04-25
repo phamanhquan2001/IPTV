@@ -18,7 +18,7 @@ https://www.youtube.com/@NCT_CATV/live
 https://www.youtube.com/@JRKyotoStationLiveCam/live
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",阪神(阪神競馬場)
 https://www.youtube.com/watch?v=PQ4rir7RHFE&pp=ygUZ6Ziq56WeIOODqeOCpOODluOCq-ODoeODqQ%3D%3D
-#EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",小倉(小倉競馬場)
+#EXTINF:-1 group-title=" Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",小倉(小倉競馬場)
 https://www.youtube.com/watch?v=E5R5PPezu7k&pp=ygUg56aP5bKhIOODqeOCpOODluOCq-ODoeODqSDlpKnnpZ4%3D
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",福岡空港(小倉競馬場)
 https://www.youtube.com/watch?v=CzgSFUAbE9s&pp=ygUg56aP5bKhIOODqeOCpOODluOCq-ODoeODqSDlpKnnpZ4%3D
@@ -40,7 +40,7 @@ https://variants.streaks.jp/v5/gch/9cb08fbe7c5040fa9b9eb2d4059d8593/78a24c9ed25e
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネルWeb Channel 5 (Audio)
 https://variants.streaks.jp/v5/gch/9cb08fbe7c5040fa9b9eb2d4059d8593/78a24c9ed25e4252a5b946bbef565f85/manifest_7_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png",URA Main Feed Live
-https://eqlive-eqj128pfeu-live.eq-hls.wselive.stream.ne.jp/hls-live/1/7o9m416gor08x6ed/ARcFLyoZvHTzhYj2qJb8CSVa_1000_640x360.stream/chunklist.m3u8
+https://www.youtube.com/user/jraofficial/live
 #EXTINF:-1 group-title="JRA / Kanto Region" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tojikiston_1.webp/120px-Tojikiston_1.webp.png",TVT - TV Tokyo (Televizioni Tojikiston) / テレビ東 (ウイニング競馬)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="JRA / NHK" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK General Channel / NHK総合テレビ
