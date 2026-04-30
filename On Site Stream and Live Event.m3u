@@ -1,34 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="2026 World Cup Live",VTV3
-https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv3-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="vtvcantho" group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/HCpqatZ.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}",VTV Cần Thơ
 https://live-a.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/AgamSNe.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}",VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png",Fuji TV
-http://arva.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_1.png",NHK E
-http://arva.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png",NHK G
-http://arva.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="gd03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png",NTV
-http://arva.netgenx.site/stream/jp/ntv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="jp2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png",NHK G (subch)
-http://arva.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.BCZUlRcsSnlx6VaCTPNKkTyTNK-Dv6gqDEb6QZUEiOczn4KfyqSQXw.eGfD9MO-UtJ7rUGy.jRaSnx_1uGU0jhjnYXph5o49e8uzWLHaBW7gP-I.theLwpgTFV4jECJfuf-1hQ&mode=hls
-
-#EXTINF:-1 group-title="2026 HTV Cup Live",HTVTT (TV Feed)
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="2026 HTV Cup Live",HTVTT (YouTube Feed)
-https://www.youtube.com/@HTVThethaoofficial/live
-#EXTINF:-1 group-title="2026 HTV Cup Live",VOH-M RADIO FM 92 / 92.5 MHz (Trung tâm Phát thanh VOH)
-https://strm.voh.com.vn/radio/channel6/playlist.m3u8
-#EXTINF:-1 group-title="2026 HTV Cup Live",LoveLive Project Radio (dedicating for my favorite Lovelive seiyuu)
-https://kathy.torontocast.com:2600/stream
-#EXTINF:-1 group-title="2026 HTV Cup Live",Anileap Radio
-https://www.youtube.com/@KAC_official/live
-#EXTINF:-1 group-title="2026 HTV Cup Live",Anisong FM
-https://en.anison.fm/resources/anison.m3u
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV7 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8
+#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10 HD
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv10-hd/KenhCoBan.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png",TV Asahi (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
