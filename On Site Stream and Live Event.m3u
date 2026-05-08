@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 SEA eSports Nations Cup Live",PUBG-M (Solo Mode)
+https://www.youtube.com/watch?v=AI2erwK20zs
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 SEA eSports Nations Cup Live",VNG Total Football Day 1
+https://www.youtube.com/watch?v=T5QvJ8rlgkY
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 SEA eSports Nations Cup Live",CF-Legends Day 1
+https://www.youtube.com/watch?v=12dlnpinM4Mg
+
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2 HD
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv2-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3 HD
