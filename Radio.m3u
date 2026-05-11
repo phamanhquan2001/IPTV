@@ -127,12 +127,12 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Logo_VOH-M_FM_92-92%2C5_MHz_%28%C4%90%C3%A0i_Ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_TP.HCM%29.png/revision/latest/scale-to-width-down/200?cb=20251129151735&path-prefix=vi", HTV RADIO FM92.5MHz
 https://strm.voh.com.vn/radio/channel6/playlist.m3u8
 
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://byvn.net/W0ms" radio=true,STV-RADIO - Baáo và Truyền hình Sơn La
-https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://byvn.net/W0ms" radio=true,ĐBTV-RADIO - Báo và Truyền hình Điện Biên
+https://live.mediatech.vn/live/28535437e79046746c1bf9787970a876038/chunklist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://byvn.net/W0ms" radio=true,STV-RADIO - Báo và Truyền hình Sơn La
+https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://yt3.googleusercontent.com/WhYhTigacYJ_uemuW4bQHXNUmmstC3_qaPzhLBipbJ7m9kDjUzpK-mHzagihCogE-g8eErWlJGc=s900-c-k-c0x00ffffff-no-rj" radio=true,THLC-RADIO - Báo và Truyền hình Lào Cai
-https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96-zuuFTogPk5nu4EprYtOCaCt5_JdpPNpe57O9RrvfV9eB7CUCejNFgn9E1s-EUPDgE&usqp=CAU" radio=true,TTV-RADIO - Báo và Truyền hình Tuyên Quang
-https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
+https://baolaocai.vn/radio
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://thainguyentv.vn/stores/tpl_site_cfg_logo/2025/072025/01/08/logo-thainguyentvvn20250701080015.jpg?rt=20250701080015" radio=true,TNTV-RADIO Tahiti Nui Thái Nguyên - Báo và Truyền hình Thái Nguyên
 https://radio.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK39M54WqVK57t9MArYKg059HZ0RjmzUfOkw&s" radio=true,LSTV-RADIO - Báo và Truyền hình Lạng Sơn
@@ -148,11 +148,9 @@ http://14.162.146.90:8000/HANOI90
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIO4WBIFqHCwb2YzHt3XmD6Yh7iFsOQsL7vA&s" radio=true,HANOITV-RADIO FM 96 - Báo và Truyền hình Hà Nội
 http://222.252.21.96:8000/HANOI96
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/21VaHPT.png" radio=true,THP FM 93.7 - Báo và Truyền hình Hải Phòng
-https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
+https://live-hq.evgcdn.net/live/2853ef29ebf29c64155acb32d102dd69a4a/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/pEFj2vE.png" radio=true,THP FM 102.2 - Báo và Truyền hình Hải Phòng
-https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CuZ6JFmn5rbE43t3RKgaL9yPVHziv9gzRg&s" radio=true,THP3-FM - Báo và Truyền hình Hải Phòng
-https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
+https://live-hq.evgcdn.net/live/285c1421f29d05045909836b37313898e2f/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://yt3.googleusercontent.com/3FpAai8v4Ad25R_bqVLvcp2Urv5I8TTV5Vn8CBaGBDvI4HDU-QYgnpLkk9QH-D6WIkVeIIj58u0=s900-c-k-c0x00ffffff-no-rj" radio=true,HYTV-RADIO - Báo và Truyền hình Hưng Yên
 https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,NBTV-RADIO - Báo và Truyền hình Ninh Bình
@@ -179,16 +177,12 @@ https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,DNNRTV-RADIO - Báo và Truyền hình Đồng Nai
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,TNTV Tahiti Nui TayNinhTV RADIO-1 - Báo và Truyền hình Tây Ninh
-https://live.la34.com.vn/la34/radio-transmux.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,TNTV Tahiti Nui TayNinhTV RADIO-2 - Báo và Truyền hình Tây Ninh
-http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,TN-TayNinhTV RADIO-1 - Báo và Truyền hình Tây Ninh
+https://live-hq.evgcdn.net/live/2851dd3d9016ac74d84b0c4a7a659f76891/chunklist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,THĐT-RADIO - Báo và Truyền hình Đồng Tháp
-http://123.25.238.45:1935/live/thtg/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL-RADIO TRA VINH FEED - Báo và Truyền hình Vĩnh Long
-https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL RADIO VINH LONG (FM90.2MHz, 92.7 and 97.9 MHz)
-https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
+https://618b88f69e53b.streamlock.net/THDTR/thdtradio/chunklist_w1445987943.m3u8
+#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL-RADIO - Báo và Truyền hình Vĩnh Long
+https://catchup.thvli.vn/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjE2ODQ3OWJkLWRmMjYtNDUzYy1iMWMxLTVkZWI4MTBmZTdiYyIsImV4cCI6MTc3ODU0MDgyNiwidXJpIjoiL3JhZGlvIiwiaWF0IjoxNzc4NTE5MjI2fQ.aBxLfjgKMdK7Yjpe9BFknKQIrSo7RgbV8UlfXbhetzo-/radio/chunks.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,CANTHOTV-RADIO - Báo và Truyền hình TP. Cần Thơ
 https://live.canthotv.vn/live/radio/playlist.m3u8
 #EXTINF:-1 group-title="VIỆT NAM" radio=true,ATV-RADIO - Báo và Truyền hình An Giang
