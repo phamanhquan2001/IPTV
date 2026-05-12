@@ -602,7 +602,8 @@ https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/ind
 #EXTINF:-1 group-title="Vietnam Online",Khách Sạn Merry (Đà Nẵng)
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
 
-
+#EXTINF:-1 group-title="Earthquake Monitoring",TVOne Weathernews
+https://www.youtube.com/watch?v=7t3CNH_56T0
 #EXTINF:-1 group-title="Earthquake Monitoring",Bousaishare
 https://www.youtube.com/@bousaishare/live
 #EXTINF:-1 group-title="Earthquake Monitoring",JDQ
