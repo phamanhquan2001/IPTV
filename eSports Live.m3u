@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Taito HEY Akihabara Live"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Taito HEY Akihabara
+https://www.youtube.com/@Hey-hf1bz/live
+#EXTINF:-1 group-title="Taito HEY Akihabara Live"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Taito HEY Akihabara 2F
+https://www.youtube.com/@hey2f640/live
+#EXTINF:-1 group-title="Taito HEY Akihabara Live"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Taito HEY Akihabara 4F
+https://www.youtube.com/@hey3f126/live
+
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive JP / UTRK Ala-Too 24
 https://www.youtube.com/channel/UCmgf8DJrAXFnU7j3u0kklUQ/live
 #EXTINF:-1 group-title="Youtube Live"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/UTRK._TV.svg/1200px-UTRK._TV.svg.png",Blue Archive Global / UTRK Ala-Too 24
