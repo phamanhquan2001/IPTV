@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="2026 Roland Garros Live",Roland Garros Radio
+https://n08-us.rcs.revma.com/d4p0ytt6a6nwv?rj-ttl=5&rj-tok=AAABnlmEIF4AlNNX66SKY8TP1g
+#EXTINF:-1 group-title="2026 Roland Garros Live",WOWOW-LIVE
+http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (Arabic)
 https://www.twitch.tv/valorantesports_ar
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (NA)
