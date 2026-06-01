@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Live Vlog",Onigiri
+https://www.twitch.tv/onigiri
+#EXTINF:-1 group-title="Live Vlog",Rainhoe
+https://www.twitch.tv/rainhoe
+
 #EXTINF:-1 group-title="MPL-LIVE",Indonesia
 https://www.youtube.com/@MPLIndonesia/live
 #EXTINF:-1 group-title="MPL-LIVE",Philippines
