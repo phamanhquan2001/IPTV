@@ -13,11 +13,6 @@ https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/ind
 #EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách Sạn Merry (Đà Nẵng)
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
 
-#EXTINF:-1 group-title="2026 Roland Garros Live",Roland Garros Radio
-https://n08-us.rcs.revma.com/d4p0ytt6a6nwv?rj-ttl=5&rj-tok=AAABnlmEIF4AlNNX66SKY8TP1g
-#EXTINF:-1 group-title="2026 Roland Garros Live",WOWOW-LIVE
-http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
-
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (Arabic)
 https://www.twitch.tv/valorantesports_ar
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (NA)
@@ -50,6 +45,16 @@ https://www.youtube.com/channel/UC4Xuz67FNRr69ILv2b7ZRBA/live
 https://www.twitch.tv/shanks_ttv
 #EXTINF:-1 group-title="2026 VCT Masters London Live",TenZ
 https://www.youtube.com/@TenZ/live
+#EXTINF:-1 group-title="2026 VCT Masters London Live",Bomman (Mai Nam Hải)
+https://www.youtube.com/@Bomman/live
+#EXTINF:-1 group-title="2026 VCT Masters London Live",Tumi
+https://www.youtube.com/@Tumiii/live
+#EXTINF:-1 group-title="2026 VCT Masters London Live",Brim Cánh Cụt
+https://www.youtube.com/@brimcanhcut/live
+#EXTINF:-1 group-title="2026 VCT Masters London Live",FNS
+https://www.twitch.tv/gofns
+#EXTINF:-1 group-title="2026 VCT Masters London Live",Aosora Popo & Aoi Crescent
+https://www.youtube.com/@Aosorapopo/live
 #EXTINF:-1 group-title="2026 VCT Masters London Live",Live Cam from London (Abbey Crossing Road)
 https://www.youtube.com/watch?v=M3EYAY2MftI&pp=ygUQTG9uZG9uKyBMaXZlIGNhbQ%3D%3D
 #EXTINF:-1 group-title="2026 VCT Masters London Live",Live Cam from London
@@ -59,6 +64,8 @@ https://n2.cdn.jetstre.am/session/567596acf226faddae652b717cad4209/sz/streamdays
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3
 https://live-a.fptplay53.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV6 - National Sports Channel (NSC)
+https://hoiquan.dpdns.org/VTVGo/?vtv6-hd
 #EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV7
 https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV9
@@ -375,8 +382,6 @@ https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/li
 https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=9cf6080ecc3677743a98c521-177458922539991&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568261681544
 #EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #5)
 https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=291a29c427be45d83e2b8182-177458931396572&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568267973098
-#EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shenzhen (StellaSora Lore and Legends Tactician's Crown)
-https://gctxyhwc.liveplay.myqcloud.com/gc/djyqyl1_1/index.m3u8
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Zone Map Live
 https://www.youtube.com/@DDCyprus1Click/live
@@ -384,14 +389,21 @@ https://www.youtube.com/@DDCyprus1Click/live
 https://www.youtube.com/watch?v=4E-iFtUM2kk
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=11mdFpvFvqU
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera View from Mideast after US-Israel surprised joint attack on Iran
-https://www.youtube.com/watch?v=CXP_uPkf_sY
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera View from Tel Aviv after US-Israel surprised joint attack on Iran
-https://www.youtube.com/watch?v=3WEAQQvuU58
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera View from USS Geral G. Ford Ship after US-Israel surprised joint attack on Iran
-https://www.youtube.com/watch?v=84hduiQgI_E
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Flight tracker after US-Israel surprised joint attack on Iran
-https://www.youtube.com/watch?v=v9IvE572kQQ
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera View from Tel Aviv amid escalation between Israel and Iran/Lebanon
+https://www.youtube.com/watch?v=yqKjn4cMN8g
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Flight tracker amid escalation between Israeli and Iran/Lebanon
+https://www.youtube.com/watch?v=bbW4UWHqSfk
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera View from Beirut amid escalation between Israel and Iran/Lebanon
+https://www.youtube.com/watch?v=Mt8O9cPg8pY
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Chopper view from Japan amid tsunami advisory alert after strong M8.2 earthquake rattles Philippines
+https://v01.mediadelivery.st.nhk/hls/live/2010560/nhknewsreal1/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
+https://v01.mediadelivery.st.nhk/hls/live/2013673/nhknewsreal9/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
+https://v01.mediadelivery.st.nhk/hls/live/2013646/nhknewsreal6/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
+https://v01.mediadelivery.st.nhk/hls/live/2013645/nhknewsreal5/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
+https://v01.mediadelivery.st.nhk/hls/live/2013671/nhknewsreal7/hdntl=exp=1780976892~acl=%2f*~data=hdntl~hmac=9aeed95bc010d15c8e34230b50cdfb556340153145c4b9b4bcafc03768b666af/master-512k.m3u8?aka_me_session_id=AAAAAAAAAAD8jCdqAAAAACbcuYNNuvDezwDKdHKCLJD7szvZotHs4VmXDvlmRro08enYwQTHt2zmk3VrR4RGU39lZdJcydWq&aka_media_format_type=hls
+https://v01.mediadelivery.st.nhk/hls/live/2013673/nhknewsreal9/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
+https://v01.mediadelivery.st.nhk/hls/live/2095237/nhknewsreal8/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
+https://v01.mediadelivery.st.nhk/hls/live/2013674/nhknewsreal10/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
 #EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (AR)
 https://www.twitch.tv/valorantesports_ar
 #EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (NA)
