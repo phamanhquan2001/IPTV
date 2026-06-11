@@ -72,6 +72,16 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 https://live.fptplay53.net/live/media/vtv9/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
 https://live.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
+https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="vovgtmekong" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOV GT MEKONG
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="vovgtduyenhai" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", VOV GT DUYEN HAI
+https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
 http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (subch)
@@ -386,24 +396,16 @@ https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/li
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Zone Map Live
 https://www.youtube.com/@DDCyprus1Click/live
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
-https://www.youtube.com/watch?v=4E-iFtUM2kk
+https://www.youtube.com/watch?v=oxT5R6I0N6E
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=11mdFpvFvqU
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera View from Tel Aviv amid escalation between Israel and Iran/Lebanon
-https://www.youtube.com/watch?v=yqKjn4cMN8g
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Flight tracker amid escalation between Israeli and Iran/Lebanon
-https://www.youtube.com/watch?v=bbW4UWHqSfk
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera View from Beirut amid escalation between Israel and Iran/Lebanon
-https://www.youtube.com/watch?v=Mt8O9cPg8pY
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Chopper view from Japan amid tsunami advisory alert after strong M8.2 earthquake rattles Philippines
-https://v01.mediadelivery.st.nhk/hls/live/2010560/nhknewsreal1/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
-https://v01.mediadelivery.st.nhk/hls/live/2013673/nhknewsreal9/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
-https://v01.mediadelivery.st.nhk/hls/live/2013646/nhknewsreal6/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
-https://v01.mediadelivery.st.nhk/hls/live/2013645/nhknewsreal5/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
-https://v01.mediadelivery.st.nhk/hls/live/2013671/nhknewsreal7/hdntl=exp=1780976892~acl=%2f*~data=hdntl~hmac=9aeed95bc010d15c8e34230b50cdfb556340153145c4b9b4bcafc03768b666af/master-512k.m3u8?aka_me_session_id=AAAAAAAAAAD8jCdqAAAAACbcuYNNuvDezwDKdHKCLJD7szvZotHs4VmXDvlmRro08enYwQTHt2zmk3VrR4RGU39lZdJcydWq&aka_media_format_type=hls
-https://v01.mediadelivery.st.nhk/hls/live/2013673/nhknewsreal9/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
-https://v01.mediadelivery.st.nhk/hls/live/2095237/nhknewsreal8/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
-https://v01.mediadelivery.st.nhk/hls/live/2013674/nhknewsreal10/playlist.m3u8?hdnts=exp=1780890940~acl=/*~hmac=2bbf4845ddf6842824a755e136ae18417059c7ec3ec565e9bda4f135cf47dde6
+https://www.youtube.com/watch?v=4qR2gThhpT0
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Traffic from Strait of Hormuz amid standoff between US and Iran
+https://www.youtube.com/watch?v=4Dd0TlA4ZBU
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Fans Arrive at Azteca Stadium ahead of FIFA World Cup 2026 opening ceremony and first match between Mexico against South Africa
+https://www.youtube.com/watch?v=D1OObsnoATo
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Cam frok Azteca Stadium ahead of FIFA World Cup 2026 opening ceremony and first match between Mexico against South Africa
+https://www.youtube.com/watch?v=sJbj-NWTZCE
+
 #EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (AR)
 https://www.twitch.tv/valorantesports_ar
 #EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (NA)
