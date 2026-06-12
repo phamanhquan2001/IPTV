@@ -85,19 +85,17 @@ https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
 http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (subch)
-http://akariko.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
-http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
-http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
-http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
-http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
-http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Subch)
-http://akariko.netgenx.site/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",JTBC
+http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",KBS2TV
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
 #EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from New York City
 https://www.youtube.com/watch?v=VGnFLdQW39A&pp=ygUVdGltZXMgc3F1YXJlIGxpdmUgY2Ft
 #EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Atlanta
