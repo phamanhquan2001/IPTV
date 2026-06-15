@@ -1,42 +1,88 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
-https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", ĐNRT-1 - Báo và Truyền hình Đà Nẵng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=49
-#EXTINF:-1 tvg-id="danang2" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",ĐNRT-2 - Báo và Truyền hình Đà Nẵng
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=80
-#EXTINF:-1 tvg-id="danang2" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Báo Tuổi Trẻ
-https://www.youtube.com/@baotuoitre/live
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Đà Nẵng
-https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/index.m3u8
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách Sạn Merry (Đà Nẵng)
-https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Cổng Trường Nguyễn Huệ (Đà Nẵng)
-https://www.youtube.com/watch?v=sJvEFrG0wq0
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Nút Giao Thông Tây Cầu Rồng (Đà Nẵng)
-https://www.youtube.com/live/5wLzH_GrRl8?si=uCLbVfadlVbWO7O9
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Cổng Sau Bệnh Viện C (Đà Nẵng)
-https://www.youtube.com/watch?v=oif_zZFIfB4
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", Trường tiểu học Lý Tự Trọng (Đà Nẵng)
-https://www.youtube.com/watch?v=1EamsYw_Xyo
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", Trường Lý Tự Trọng hướng Khách sạn Sông Hàn (Đà Nẵng)
-https://www.youtube.com/live/NeJGBQAY-bE
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách sạn Hải Triều (Đà Nẵng)
-https://www.youtube.com/watch?v=L_eizGlcM9Q
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV6 - National Sports Channel (NSC)
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV7
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV9
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
+https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
+https://audio-lss.vov.vn/han/live/vov3/audio/manifest.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="vovgtmekong" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOV GT MEKONG
+https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="vovgtduyenhai" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", VOV GT DUYEN HAI
+https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
+#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/3wlZFX7.png" group-title="2026 World Cup Live" radio=true,RRI Pro 1
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
+#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/ckGonAq.png" group-title="2026 World Cup Live" radio=true,RRI Pro 2
+https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
+#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/ejiAlaz.png" group-title="2026 World Cup Live" radio=true,RRI Pro 3
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/dMYQ1ND.png" group-title="2026 World Cup Live" radio=true,RRI Pro 4
+http://stream-node1.rri.co.id:9025/rrijakartapro4.mp3
+#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/f1VCN9G.png" group-title="2026 World Cup Live" radio=true,RRI Pro 5
+https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Primehome)
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",JTBC
+http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",KBS2TV
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from New York City
+https://www.youtube.com/watch?v=VGnFLdQW39A&pp=ygUVdGltZXMgc3F1YXJlIGxpdmUgY2Ft
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Atlanta
+https://www.youtube.com/watch?v=7k7RTdANPqM&pp=ygUQQXRsYW50YSBsaXZlIGNhbQ%3D%3D
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Boston
+https://www.youtube.com/watch?v=p-pVYYH4ZCk&pp=ygUPQm9zdG9uIGxpdmUgY2Ft
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Houston (Downtown Skyline)
+https://www.youtube.com/watch?v=wUQc3RoLAPs&pp=ygUPRGFsbGFzIGxpdmUgY2Ft
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Dallas (FOX LOCAL NEWS)
+https://www.youtube.com/watch?v=HkfKsRa9qnE&pp=ygUPRGFsbGFzIGxpdmUgY2Ft
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Kansas City
+https://www.youtube.com/watch?v=9fzUjSTK5F8&pp=ygUUS2Fuc2FzIENpdHkgbGl2ZSBjYW0%3D
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Los Angeles
+https://www.youtube.com/watch?v=EO_1LWqsCNE
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Miami
+https://www.youtube.com/watch?v=DxZziUUr6CY&pp=ygUOTWlhbWkgbGl2ZSBjYW0%3D
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Philadelphia
+https://www.youtube.com/watch?v=0Vu5PYxdTpE&pp=ygUVUGhpbGFkZWxwaGlhIExpdmUgY2Ft
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Seattle
+https://www.youtube.com/watch?v=hV8qIEYw54U&pp=ygUQU2VhdHRsZSBMaXZlIGNhbQ%3D%3D
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from San Francisco
+https://www.youtube.com/watch?v=CXYr04BWvmc&pp=ygUWU2FuIEZyYW5jaXNjbyBMaXZlIGNhbQ%3D%3D
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Toronto
+https://www.youtube.com/watch?v=y2qNl2ocP3E&pp=ygUQVG9yb250byBMaXZlIGNhbQ%3D%3D
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Vancouver
+https://www.youtube.com/watch?v=rxyNjFKwzJA&pp=ygUSVmFuY291dmVyIExpdmUgY2Ft
+#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Mexico City
+https://www.youtube.com/watch?v=uV3wWHSvkfs
 
-#EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (Arabic)
-https://www.twitch.tv/valorantesports_ar
-#EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (NA)
-https://www.twitch.tv/valorant_americas
+#EXTINF:-1 group-title="2026 VCT Masters London Live",Valorant
+https://www.twitch.tv/valorant
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (Pacific)
 https://www.youtube.com/@VCTPacific/live
-#EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (EMEA)
-https://www.twitch.tv/valorant_emea
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (VN)
 https://www.youtube.com/@VALORANTChampionsTourVietnam/live
-#EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (EN)
-https://www.youtube.com/@ValorantEsports/live
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (JP)
 https://www.twitch.tv/valorant_jpn
 #EXTINF:-1 group-title="2026 VCT Masters London Live",VCT Valorant (ID)
@@ -72,80 +118,81 @@ https://www.youtube.com/watch?v=M3EYAY2MftI&pp=ygUQTG9uZG9uKyBMaXZlIGNhbQ%3D%3D
 #EXTINF:-1 group-title="2026 VCT Masters London Live",Live Cam from London
 https://n2.cdn.jetstre.am/session/567596acf226faddae652b717cad4209/sz/streamdays/wowza4/live/IET-SavoyPlace-577/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2
-https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3
-https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV6 - National Sports Channel (NSC)
-https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV7
-https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV9
-https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
-https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
-https://audio-lss.vov.vn/han/live/vov1/audio/haudio-eng.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
-https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="vovgtmekong" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOV GT MEKONG
-https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="vovgtduyenhai" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", VOV GT DUYEN HAI
-https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/3wlZFX7.png" group-title="2026 World Cup Live" radio=true,RRI Pro 1
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/ckGonAq.png" group-title="2026 World Cup Live" radio=true,RRI Pro 2
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/ejiAlaz.png" group-title="2026 World Cup Live" radio=true,RRI Pro 3
-https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/dMYQ1ND.png" group-title="2026 World Cup Live" radio=true,RRI Pro 4
-http://stream-node1.rri.co.id:9025/rrijakartapro4.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/f1VCN9G.png" group-title="2026 World Cup Live" radio=true,RRI Pro 5
-https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
-http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (subch)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",JTBC
-http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",KBS2TV
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from New York City
-https://www.youtube.com/watch?v=VGnFLdQW39A&pp=ygUVdGltZXMgc3F1YXJlIGxpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Atlanta
-https://www.youtube.com/watch?v=7k7RTdANPqM&pp=ygUQQXRsYW50YSBsaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Boston
-https://www.youtube.com/watch?v=p-pVYYH4ZCk&pp=ygUPQm9zdG9uIGxpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Houston (Downtown Skyline)
-https://www.youtube.com/watch?v=wUQc3RoLAPs&pp=ygUPRGFsbGFzIGxpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Dallas (FOX LOCAL NEWS)
-https://www.youtube.com/watch?v=HkfKsRa9qnE&pp=ygUPRGFsbGFzIGxpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Kansas City
-https://www.youtube.com/watch?v=9fzUjSTK5F8&pp=ygUUS2Fuc2FzIENpdHkgbGl2ZSBjYW0%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Los Angeles
-https://www.youtube.com/watch?v=EO_1LWqsCNE
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Miami
-https://www.youtube.com/watch?v=DxZziUUr6CY&pp=ygUOTWlhbWkgbGl2ZSBjYW0%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Philadelphia
-https://www.youtube.com/watch?v=0Vu5PYxdTpE&pp=ygUVUGhpbGFkZWxwaGlhIExpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Seattle
-https://www.youtube.com/watch?v=hV8qIEYw54U&pp=ygUQU2VhdHRsZSBMaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from San Francisco
-https://www.youtube.com/watch?v=CXYr04BWvmc&pp=ygUWU2FuIEZyYW5jaXNjbyBMaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Toronto
-https://www.youtube.com/watch?v=y2qNl2ocP3E&pp=ygUQVG9yb250byBMaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Vancouver
-https://www.youtube.com/watch?v=rxyNjFKwzJA&pp=ygUSVmFuY291dmVyIExpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Mexico City
-https://www.youtube.com/watch?v=uV3wWHSvkfs
+#EXTINF:-1 tvg-id="vtv1hd" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", ĐNRT-1 - Báo và Truyền hình Đà Nẵng
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=49
+#EXTINF:-1 tvg-id="danang2" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",ĐNRT-2 - Báo và Truyền hình Đà Nẵng
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=80
+#EXTINF:-1 tvg-id="danang2" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Báo Tuổi Trẻ
+https://www.youtube.com/@baotuoitre/live
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Đà Nẵng
+https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/index.m3u8
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách Sạn Merry (Đà Nẵng)
+https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Cổng Trường Nguyễn Huệ (Đà Nẵng)
+https://www.youtube.com/watch?v=sJvEFrG0wq0
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Nút Giao Thông Tây Cầu Rồng (Đà Nẵng)
+https://www.youtube.com/live/5wLzH_GrRl8?si=uCLbVfadlVbWO7O9
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Cổng Sau Bệnh Viện C (Đà Nẵng)
+https://www.youtube.com/watch?v=oif_zZFIfB4
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", Trường tiểu học Lý Tự Trọng (Đà Nẵng)
+https://www.youtube.com/watch?v=1EamsYw_Xyo
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", Trường Lý Tự Trọng hướng Khách sạn Sông Hàn (Đà Nẵng)
+https://www.youtube.com/live/NeJGBQAY-bE
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách sạn Hải Triều (Đà Nẵng)
+https://www.youtube.com/watch?v=L_eizGlcM9Q
+
+#Live Police Chases by Neverness to Everness Police Chase Show
+#EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
+https://www.youtube.com/@LivePoliceChases/live
+#EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
+https://www.youtube.com/@CarChaseChannelABC/live
+
+#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
+#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
+https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (YouTube)
+https://youtu.be/Lwbp9WfLslc
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (YouTube)
+https://youtu.be/mJdhDuweBHM
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (YouTube)
+https://youtu.be/mJdhDuweBHM
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
+https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa",Al Jazeera Mubasher 24 (1080p)
+https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
+https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
+https://v12.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=-XWVASB6lNMf148pgz3rQA&expires=1756126556&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
+#EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
+https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8zhkT2Q&expires=1756126603&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
+#EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
+https://t.freetv.fun/live/livenow-from-fox.ctv
+#EXTINF:-1 group-title="On-Site Live Channel",CourtTV
+https://www.youtube.com/@CourtTV/live
+
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Zone Map Live
+https://www.youtube.com/@DDCyprus1Click/live
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
+https://www.youtube.com/watch?v=oxT5R6I0N6E
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
+https://www.youtube.com/watch?v=4qR2gThhpT0
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Traffic from Strait of Hormuz amid standoff between US and Iran
+https://www.youtube.com/watch?v=4Dd0TlA4ZBU
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Fans Arrive at Azteca Stadium ahead of FIFA World Cup 2026 opening ceremony and first match between Mexico against South Africa
+https://www.youtube.com/watch?v=D1OObsnoATo
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Cam frok Azteca Stadium ahead of FIFA World Cup 2026 opening ceremony and first match between Mexico against South Africa
+https://www.youtube.com/watch?v=sJbj-NWTZCE
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
@@ -360,44 +407,6 @@ https://globallive.tdm.com.mo/live/rch1.live/chunklist_w1992367914.m3u8
 #EXTINF:-1 group-title="Macau On-Site from Natlan Live",Kanal 93 Natlan Sports Channel
 https://stream1.freetv.fun/04f3cb00d6d55dac1e551cb5df39872b9fb0cbb65c21345e04ca1ada30a09dcc.ctv
 
-#Live Police Chases by Neverness to Everness Police Chase Show
-#EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
-https://www.youtube.com/@LivePoliceChases/live
-#EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
-https://www.youtube.com/@CarChaseChannelABC/live
-
-#Zenless Zone Zero On-Site Stream by Hollow Special Operations Section 6 from Reuters Live
-#EXTINF:-1 group-title="On-Site Live Channel" tvg-id="IRINN2.ir",IRIB IRINN-2 (Dự Phòng)
-https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (YouTube)
-https://youtu.be/Lwbp9WfLslc
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 2 (YouTube)
-https://youtu.be/mJdhDuweBHM
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher 24 (YouTube)
-https://youtu.be/mJdhDuweBHM
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
-https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
-https://live-hls-apps-ajm-v3-fa.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa",Al Jazeera Mubasher 24 (1080p)
-https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasher24.qa",Al Jazeera Mubasher 24 (1080p)
-https://live-hls-web-ajm24-fa.getaj.net/AJM24/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
-https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraMubasherBroadcast2.qa",Al Jazeera Mubasher Broadcast 2 (1080p)
-https://live-hls-web-ajm2-fa.getaj.net/AJM2/index.m3u8
-#EXTINF:-1 group-title="On-Site Live Channel",C-SPAN
-https://v12.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8?token=-XWVASB6lNMf148pgz3rQA&expires=1756126556&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
-#EXTINF:-1 group-title="On-Site Live Channel",C-SPAN 2
-https://v12.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8?token=Ufqke7cSTPFu91b8zhkT2Q&expires=1756126603&user_id=dzJPVDB1VEJCQnNrdUJvYXVxWXJvbmRYU0hvNFMwenNXNHJCM1VBTA==
-#EXTINF:-1 group-title="On-Site Live Channel",Live Now from FOX
-https://t.freetv.fun/live/livenow-from-fox.ctv
-#EXTINF:-1 group-title="On-Site Live Channel",CourtTV
-https://www.youtube.com/@CourtTV/live
-
 #EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Seoul (PGS Live)
 https://www.youtube.com/watch?v=-JhoMGoAfFc
 #EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Berlin (VCT EMEA)
@@ -412,136 +421,6 @@ https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/li
 https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=9cf6080ecc3677743a98c521-177458922539991&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568261681544
 #EXTINF:-1 group-title="eSports On-Site Cam" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #5)
 https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=291a29c427be45d83e2b8182-177458931396572&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568267973098
-
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Zone Map Live
-https://www.youtube.com/@DDCyprus1Click/live
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
-https://www.youtube.com/watch?v=oxT5R6I0N6E
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=4qR2gThhpT0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Traffic from Strait of Hormuz amid standoff between US and Iran
-https://www.youtube.com/watch?v=4Dd0TlA4ZBU
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Fans Arrive at Azteca Stadium ahead of FIFA World Cup 2026 opening ceremony and first match between Mexico against South Africa
-https://www.youtube.com/watch?v=D1OObsnoATo
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Cam frok Azteca Stadium ahead of FIFA World Cup 2026 opening ceremony and first match between Mexico against South Africa
-https://www.youtube.com/watch?v=sJbj-NWTZCE
-
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (AR)
-https://www.twitch.tv/valorantesports_ar
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (NA)
-https://www.twitch.tv/valorant_americas
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (Pacific)
-https://www.youtube.com/@VCTPacific/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (EMEA)
-https://www.twitch.tv/valorant_emea
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (VN)
-https://www.youtube.com/@VALORANTChampionsTourVietnam/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (EN)
-https://www.youtube.com/@ValorantEsports/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (JP)
-https://www.twitch.tv/valorant_jpn
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (ID)
-https://www.youtube.com/@VALORANTEsportsIndonesia/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (BR)
-https://www.twitch.tv/valorant_br
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (CN)
-https://www.twitch.tv/valorantesports_cn
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (HK/TW)
-https://www.youtube.com/channel/UCHwd3E6n7FGP4ZSIwFpMPuw/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (KR)
-https://www.youtube.com/@ValorantEsportsKR/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (Korea Challengers)
-https://www.youtube.com/@ChallengersKorea/live
-#EXTINF:-1 group-title="Video Game eSports Live",Valorant Tiếng Việt
-https://www.youtube.com/@valoranttiengviet5/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (Americas Challengers)
-https://www.youtube.com/@VALORANTChallengersAmericas/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (North/East Challengers)
-https://www.youtube.com/@valleague_ne/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (FR Challengers)
-https://www.youtube.com/@VALORANTChallengersFr/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (South Asia)
-https://www.youtube.com/@VALORANTEsportsSA/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (DACH DE)
-https://www.youtube.com/channel/UC6BVqXGIminjUKrrSeTqcZw/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (Challengs Turkiye)
-https://www.youtube.com/@VALORANTChallengersTR/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (LATAM)
-https://www.twitch.tv/valorant_la
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (Challengers Spain)
-https://www.youtube.com/@LVPesVALORANT/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCT Valorant (TH)
-https://www.twitch.tv/valorant_th
-#EXTINF:-1 group-title="Video Game eSports Live",LCP (VN)
-https://www.youtube.com/@lolesports_vn/live
-#EXTINF:-1 group-title="Video Game eSports Live",VCS Live
-https://www.youtube.com/@vcslmht/live
-#EXTINF:-1 group-title="Video Game eSports Live",LCP Live (EN)
-https://www.youtube.com/@lolesports/live
-#EXTINF:-1 group-title="Video Game eSports Live",LCP Live (JP)
-https://www.twitch.tv/leagueoflegendsjp
-#EXTINF:-1 group-title="Video Game eSports Live",LCK Challengers Live (KR)
-https://www.youtube.com/@LCKCL/live
-#EXTINF:-1 group-title="Video Game eSports Live",LCK (Tiếng Việt)
-https://www.youtube.com/@LCKTiengViet/live
-#EXTINF:-1 group-title="Video Game eSports Live",LCK (EN)
-https://www.youtube.com/@LCKglobal/live
-#EXTINF:-1 group-title="Video Game eSports Live",LPL (EN)
-https://www.twitch.tv/lplenglish
-#EXTINF:-1 group-title="Video Game eSports Live",LTK League the K4sen Live (EN)
-https://www.youtube.com/@lolthek4sen/live
-#EXTINF:-1 group-title="Video Game eSports Live",CBLOL (PT)
-https://www.twitch.tv/cblol
-#EXTINF:-1 group-title="Video Game eSports Live",LJL (JP)
-https://www.youtube.com/@official_LJL/live
-#EXTINF:-1 group-title="Video Game eSports Live",LEC
-https://www.youtube.com/@LEC/live
-#EXTINF:-1 group-title="Video Game eSports Live",LCS
-https://www.youtube.com/@LCS/live
-#EXTINF:-1 group-title="Video Game eSports Live",PCS (HK)
-https://www.twitch.tv/lolesportstw
-#EXTINF:-1 group-title="Video Game eSports Live",LOL Wild Rift Live VN
-https://www.youtube.com/@TocChien/live
-#EXTINF:-1 group-title="Video Game eSports Live",LCP Live (LATAM)
-https://www.twitch.tv/lolesportsla
-#EXTINF:-1 group-title="Video Game eSports Live",TFT Live VN
-https://www.youtube.com/@DTCLVN/live
-#EXTINF:-1 group-title="Video Game eSports Live",TFT Live
-https://www.youtube.com/@playtft/live
-#EXTINF:-1 group-title="eSports Live",ESL Counter Strike Live
-https://www.youtube.com/@ESLCS/live
-#EXTINF:-1 group-title="eSports Live",BLAST Premier Live
-https://www.youtube.com/@BLASTPremier/live
-#EXTINF:-1 group-title="eSports Live",Liên Quân Mobile
-https://www.youtube.com/@LienQuanMobileSportsGarena/live
-#EXTINF:-1 group-title="Video Game eSports Live",RPL AOV
-https://www.youtube.com/@garenarovthai/live
-#EXTINF:-1 group-title="Video Game eSports Live",AOV TW
-https://www.youtube.com/@garenaaovtw/live
-#EXTINF:-1 group-title="Video Game eSports Live",AOV ID
-https://www.youtube.com/@garenaaovid/live
-#EXTINF:-1 group-title="Video Game eSports Live",PUBG Battlegrounds
-https://www.youtube.com/@PUBGBATTLEGROUNDSVIETNAM/live
-#EXTINF:-1 group-title="Video Game eSports Live",PUBG Mobile
-https://www.youtube.com/@PUBGMEsportsVN/live
-#EXTINF:-1 group-title="Video Game eSports Live",Free Fire (VN)
-https://www.youtube.com/@GarenaFreeFireEsportsVN/live
-#EXTINF:-1 group-title="Video Game eSports Live",Honor of Kings Live
-https://www.youtube.com/@hokglobalesports/live
-#EXTINF:-1 group-title="Video Game eSports Live",MLBB Live
-https://www.youtube.com/@MobileLegends5v5MOBA/live
-#EXTINF:-1 group-title="Video Game eSports Live",Eternal Return Live
-https://www.youtube.com/@EternalReturnGame/live
-#EXTINF:-1 group-title="Video Game eSports Live",Delta Force eSports Live (Chiến Thần Delta Force)
-https://www.youtube.com/@ChienThanDeltaForce/live
-#EXTINF:-1 group-title="Video Game eSports Live",Delta Force ID Live
-https://www.youtube.com/@garenadfid/live
-#EXTINF:-1 group-title="Video Game eSports Live",VIRESA Live
-https://www.youtube.com/channel/UCG3Y40V4X4uSRM_O6w8Taig/live
-#EXTINF:-1 group-title="Video Game eSports Live",ESL Dota 2 Live
-https://www.twitch.tv/esl_dota2
-#EXTINF:-1 group-title="Video Game eSports Live",ESL Starcraft Live
-https://www.twitch.tv/esl_sc2
 
 #EXTINF:-1 group-title="Parliament Live",Bundestags (DE)
 https://www.youtube.com/@Bundestag/live
