@@ -13,9 +13,9 @@ https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=100
 #EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
-https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w1092214635.m3u8
+https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
-https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w286024840.m3u8
+https://audio-lss.vov.vn/han/live/vov3/audio/manifest.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
 https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w353099045.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
