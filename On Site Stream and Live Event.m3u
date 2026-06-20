@@ -45,7 +45,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",KBS2TV
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
 #EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from New York City
-https://www.youtube.com/watch?v=VGnFLdQW39A&pp=ygUVdGltZXMgc3F1YXJlIGxpdmUgY2Ft
+https://www.youtube.com/watch?v=z-jYdOIKcTQ
 #EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Atlanta
 https://www.youtube.com/watch?v=7k7RTdANPqM&pp=ygUQQXRsYW50YSBsaXZlIGNhbQ%3D%3D
 #EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Boston
@@ -114,6 +114,13 @@ https://www.youtube.com/watch?v=M3EYAY2MftI&pp=ygUQTG9uZG9uKyBMaXZlIGNhbQ%3D%3D
 #EXTINF:-1 group-title="2026 VCT Masters London Live",Live Cam from London
 https://n2.cdn.jetstre.am/session/567596acf226faddae652b717cad4209/sz/streamdays/wowza4/live/IET-SavoyPlace-577/chunklist.m3u8
 
+#EXTINF:-1 group-title="2026 MSI Live",LCP (VN)
+https://www.youtube.com/@lolesports_vn/live
+#EXTINF:-1 group-title="2026 MSI Live",LCP Live (EN)
+https://www.youtube.com/@lolesports/live
+#EXTINF:-1 group-title="2026 MSI Live",LCP Live (JP)
+https://www.twitch.tv/leagueoflegendsjp
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", ĐNRT-1 - Báo và Truyền hình Đà Nẵng
@@ -122,7 +129,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=49
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=80
 #EXTINF:-1 tvg-id="danang2" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Báo Tuổi Trẻ
 https://www.youtube.com/@baotuoitre/live
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Đà Nẵng
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",
 https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/index.m3u8
 #EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách Sạn Merry (Đà Nẵng)
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
@@ -542,6 +549,36 @@ https://livevn.piepme.com/camhls/14789.1c9859765db1a5d224bc7b41fc8af740_480p/ind
 https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/index.m3u8
 #EXTINF:-1 group-title="Vietnam Online",Khách Sạn Merry (Đà Nẵng)
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
+#EXTINF:-1 group-title="Vietnam Online",Bệnh viện TP. Đà Nẵng
+https://www.youtube.com/watch?v=x8tUUv-NGXs
+#EXTINF:-1 group-title="Vietnam Online",Trang Phục Biểu Diễn Phương Trần (Đà Nẵng)
+https://www.youtube.com/watch?v=G_G8A6JU_LI
+#EXTINF:-1 group-title="Vietnam Online",Cổng Trường Nguyễn Huệ (Đà Nẵng)
+https://www.youtube.com/watch?v=sJvEFrG0wq0
+#EXTINF:-1 group-title="Vietnam Online",Nút Giao Thông Tây Cầu Rồng (Đà Nẵng)
+https://www.youtube.com/watch?v=5wLzH_GrRl8
+#EXTINF:-1 group-title="Vietnam Online",Cổng sau bệnh viện C (Đà Nẵng)
+https://www.youtube.com/watch?v=oif_zZFIfB4
+#EXTINF:-1 group-title="Vietnam Online",Trường tiểu học Lý Tự Trọng (Đà Nẵng)
+https://www.youtube.com/watch?v=1EamsYw_Xyo
+#EXTINF:-1 group-title="Vietnam Online",Trường tiểu học Lý Tự Trọng hướng về chỗ KS Sông Hàn (Đà Nẵng)
+https://www.youtube.com/watch?v=NeJGBQAY-bE
+#EXTINF:-1 group-title="Vietnam Online",KS Hải Triều (Đà Nẵng)
+https://www.youtube.com/watch?v=L_eizGlcM9Q
+#EXTINF:-1 group-title="Vietnam Online",Cầu Phú Xuân (Huế)
+https://www.youtube.com/watch?v=9nJVP7gn6Ss
+#EXTINF:-1 group-title="Vietnam Online",Cầu Đập Đá 2 (Huế)
+https://www.youtube.com/watch?v=W44VSsAvjvs
+#EXTINF:-1 group-title="Vietnam Online",Đường Nguyễn Sinh Cung (Huế)
+https://www.youtube.com/watch?v=Q33kV5ryF-M
+#EXTINF:-1 group-title="Vietnam Online",175 Bà Triệu (Huế)
+https://www.youtube.com/watch?v=qO_kKEGFkUA
+#EXTINF:-1 group-title="Vietnam Online",Cầu Gia Hội (Huế)
+https://www.youtube.com/watch?v=C0abHFhTcbU
+#EXTINF:-1 group-title="Vietnam Online",Ngã Ba Trường Chinh (Huế)
+https://www.youtube.com/watch?v=cIxh-Z9lrJ0
+#EXTINF:-1 group-title="Vietnam Online",Vincom 2 (Huế)
+https://www.youtube.com/watch?v=i4TNZD5ixl4
 
 #EXTINF:-1 group-title="Earthquake Monitoring",TVOne Weathernews
 https://www.youtube.com/watch?v=7t3CNH_56T0
