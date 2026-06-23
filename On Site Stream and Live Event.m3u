@@ -12,30 +12,12 @@ https://vtvgolive-vtv02.vtvdigital.vn/ve77rV4_iYz_Y0YOnv8o5A/1782255127/hls/vtv/
 https://vtvgolive-wc2026.vtvdigital.vn/Zxq52cqh0eOGw4w7QU0OVA/1782255201/vtv9/stream_360p.m3u8
 #EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
 https://vtvgolive-wc2026.vtvdigital.vn/rScK91PPOFjqLQN64OCN-A/1782255224/vtv10/stream_360p.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
-https://audio-lss.vov.vn/han/live/vov2/audio/manifest.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
-https://audio-lss.vov.vn/han/live/vov3/audio/manifest.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
-https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w353099045.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
-https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w710401864.m3u
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",Clean Feed by VOLTACTION
 https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",Funny Commentary Feed by Hyakumatenmabara Salome
 https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",English Feed by Takanashi Kiara and Hakos Baelz
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/3wlZFX7.png" group-title="2026 World Cup Live" radio=true,RRI Pro 1
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/ckGonAq.png" group-title="2026 World Cup Live" radio=true,RRI Pro 2
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro2.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/ejiAlaz.png" group-title="2026 World Cup Live" radio=true,RRI Pro 3
-https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/dMYQ1ND.png" group-title="2026 World Cup Live" radio=true,RRI Pro 4
-http://stream-node1.rri.co.id:9025/rrijakartapro4.mp3
-#EXTINF:-1 tvg-chno="292" tvg-id="no_epg"  tvg-logo="https://i.imgur.com/f1VCN9G.png" group-title="2026 World Cup Live" radio=true,RRI Pro 5
-https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
