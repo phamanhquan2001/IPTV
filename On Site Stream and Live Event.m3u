@@ -24,6 +24,12 @@ https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",English Feed by Takanashi Kiara and Hakos Baelz
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/chunklist_w958818828.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/chunklist_w1302542585.m3u8
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOVGT
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w559088454.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
@@ -98,6 +104,23 @@ https://www.youtube.com/watch?v=1EamsYw_Xyo
 https://www.youtube.com/live/NeJGBQAY-bE
 #EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách sạn Hải Triều (Đà Nẵng)
 https://www.youtube.com/watch?v=L_eizGlcM9Q
+
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Airport
+https://www.youtube.com/watch?v=LRgGBlcL4KU
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Chubu Centrair Airport
+https://www.youtube.com/watch?v=N1_qXtzWA30
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Skyline
+https://www.youtube.com/watch?v=X304dz1zrfU
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Skyline (West Gate)
+https://www.youtube.com/watch?v=cJd9IIu2vio
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Skyline 2
+https://www.youtube.com/watch?v=NTlNscfsymw&pp=ygUb5ZCN5Y-k5bGL44Op44Kk44OW44Kr44Oh44Op
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Hisaya Odori Park
+https://www.youtube.com/watch?v=pHFh8pbPO10
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Multiview Cam (Nagoya/Gifu/Mie)
+https://www.youtube.com/watch?v=ElmLqemMkng&pp=ygUb5ZCN5Y-k5bGL44Op44Kk44OW44Kr44Oh44Op
 
 #Live Police Chases by Neverness to Everness Police Chase Show
 #EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
