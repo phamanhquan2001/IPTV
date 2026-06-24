@@ -12,6 +12,12 @@ https://vtvgolive-vtv02.vtvdigital.vn/ve77rV4_iYz_Y0YOnv8o5A/1782255127/hls/vtv/
 https://vtvgolive-wc2026.vtvdigital.vn/Zxq52cqh0eOGw4w7QU0OVA/1782255201/vtv9/stream_360p.m3u8
 #EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
 https://vtvgolive-wc2026.vtvdigital.vn/rScK91PPOFjqLQN64OCN-A/1782255224/vtv10/stream_360p.m3u8
+#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOV2
+https://tfx06gr3uomttgr31hctwgazdoc3pcf4se4mxfis8gh3qq3zzcmuspa.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8?wsSession=835f1ff775b3e5c4df3be6dd-178226605112211&wsIPSercert=91f3df795208f395fc76a647a98ca478&wsBindIP=2&wsserid=1168278524584609170
+#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOV3
+https://tfx06gr3uomttgr31hctwgazdoc3pcf4se4mxfis8gh3qq3zzcmuspa.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8?wsSession=42ec3bed775afe1595f84959-178226620890666&wsIPSercert=91f3df795208f395fc76a647a98ca478&wsBindIP=2&wsserid=1168278531255916870
+#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOVGT
+https://tfx06gr3uomttgr31hctwgazdoc3pcf4se4mxfis8gh3qq3zzcmuspa.100ycdn.com/audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8?wsSession=835f1ff775b3e5c4df3be6dd-178226638249438&wsIPSercert=91f3df795208f395fc76a647a98ca478&wsBindIP=2&wsserid=1168278524584609170
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",Clean Feed by VOLTACTION
 https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",Funny Commentary Feed by Hyakumatenmabara Salome
