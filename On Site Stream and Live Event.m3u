@@ -1,17 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2
-https://vtvgolive-vtv02.vtvdigital.vn/kOGJerSOrYF_5urw_iSwQg/1782255081/hls/vtv/live/vtv2__vtv360p-h264/index.m3u8
+https://ace.hoiquan.click/module/IPTV/?id=vtv2&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3
-https://vtvgolive-wc2026.vtvdigital.vn/2QavszsfPo7U5KbeDLjngg/1782254964/vtv3/stream_360p.m3u8
+https://ace.hoiquan.click/module/IPTV/?id=vtv3&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV6 - National Sports Channel (NSC)
-https://vtvgolive-wc2026.vtvdigital.vn/irvHIQzzs8NVcy4okwYU9w/1782252149/vtv6/stream_360p.m3u8
+https://ace.hoiquan.click/module/IPTV/?id=vtv6&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV7
-https://vtvgolive-vtv02.vtvdigital.vn/ve77rV4_iYz_Y0YOnv8o5A/1782255127/hls/vtv/live/vtv7__vtv360p-h264/index.m3u8
+https://ace.hoiquan.click/module/IPTV/?id=vtv7&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV9
-https://vtvgolive-wc2026.vtvdigital.vn/Zxq52cqh0eOGw4w7QU0OVA/1782255201/vtv9/stream_360p.m3u8
+https://ace.hoiquan.click/module/IPTV/?id=vtv9&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
-https://vtvgolive-wc2026.vtvdigital.vn/rScK91PPOFjqLQN64OCN-A/1782255224/vtv10/stream_360p.m3u8
+https://ace.hoiquan.click/module/IPTV/?id=vtv10&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOV2
 https://tfx24gr5domt1gc41hctogezdncb1fiozk3djphssah5uf35g67tqq3zy.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8?wsSession=016c1b41069dda9743f01aa5-178244243898477&wsIPSercert=91f3df795208f395fc76a647a98ca478&wsBindIP=2&wsserid=1168240905464146513
 #EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOV3
@@ -24,6 +24,12 @@ https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",English Feed by Takanashi Kiara and Hakos Baelz
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp",Funny Commentary Feed by Umezono Juno
+https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc2
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp",Clean Feed by HOLOLIVE DEV IS FLOW GLOW
+https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
+#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp",English Feed by CCGG
+https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV3
