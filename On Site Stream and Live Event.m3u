@@ -75,6 +75,8 @@ https://www.youtube.com/watch?v=rxyNjFKwzJA&pp=ygUSVmFuY291dmVyIExpdmUgY2Ft
 #EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Mexico City
 https://www.youtube.com/watch?v=uV3wWHSvkfs
 
+#EXTINF:-1 group-title="2026 MSI Live",Live Camera from Daejeon (EXPO Hanbit Tower)
+https://www.youtube.com/watch?v=Q4XQIqYiwCI
 #EXTINF:-1 group-title="2026 MSI Live",LCP (VN)
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 group-title="2026 MSI Live",LCP Live (EN)
@@ -83,6 +85,26 @@ https://www.youtube.com/@lolesports/live
 https://www.twitch.tv/leagueoflegendsjp
 #EXTINF:-1 group-title="2026 MSI Live",BLV Hoàng Luân
 https://www.youtube.com/@HoangLuanBLV/live
+#EXTINF:-1 group-title="2026 MSI Live",Văn Tùng
+https://www.youtube.com/@VanTung/live
+#EXTINF:-1 group-title="2026 MSI Live",Đức Mạnh Melody
+https://www.youtube.com/@MelodyDucManh/live
+#EXTINF:-1 group-title="2026 MSI Live",Tsukimiya Kaede (ID)
+https://www.youtube.com/@TsukimiyaKaede/live
+#EXTINF:-1 group-title="2026 MSI Live",Caedrel (EN)
+https://www.twitch.tv/caedrel
+#EXTINF:-1 group-title="2026 MSI Live",Feviknight (KR_)
+https://www.twitch.tv/feviknight
+#EXTINF:-1 group-title="2026 MSI Live",Entty (JP)
+https://www.twitch.tv/entych
+#EXTINF:-1 group-title="2026 MSI Live",Syaruru (JP)
+https://www.twitch.tv/syaruru3
+#EXTINF:-1 group-title="2026 MSI Live",Takaya Special (JP)
+https://www.twitch.tv/takayaspecial
+#EXTINF:-1 group-title="2026 MSI Live",Raizin (JP)
+https://www.twitch.tv/alfrea
+#EXTINF:-1 group-title="2026 MSI Live",Yutapon (JP)
+https://www.twitch.tv/yutapongo
 
 #EXTINF:-1 group-title="2026 Wimbledon Live",WOWOW-LIVE
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
@@ -90,15 +112,16 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
 https://t.freetv.fun/live/eurosport-1-uhd-25fps.ctv
 #EXTINF:-1 group-title="2026 Wimbledon Live",EUROSPORTS-2
 https://t.freetv.fun/live/eurosport-2-uhd-25fps-1.ctv
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2", ĐNRT-1 - Báo và Truyền hình Đà Nẵng
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",ĐNRT-1 - Báo và Truyền hình Đà Nẵng
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=49
 #EXTINF:-1 tvg-id="danang2" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",ĐNRT-2 - Báo và Truyền hình Đà Nẵng
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=80
 #EXTINF:-1 tvg-id="danang2" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Báo Tuổi Trẻ
 https://www.youtube.com/@baotuoitre/live
-#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",
+#EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Đà Nẵng ngày nay
 https://livevn.piepme.com/camhls/14789.7341945e2076b7ec5463f16f515ec400_480p/index.m3u8
 #EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",Khách Sạn Merry (Đà Nẵng)
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_480p/index.m3u8
