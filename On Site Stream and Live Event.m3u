@@ -121,6 +121,12 @@ https://radio.wimbledon.com/hls/live/2125341/radio/court1_1.m3u8
 #EXTINF:-1 group-title="2026 Wimbledon Live",Centre Court Radio
 https://radio.wimbledon.com/hls/live/2125340/radio/centre_1.m3u8
 
+
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
+https://www.youtube.com/watch?v=OzYp4NRZlwQ
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Valorant
+
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2",ĐNRT-1 - Báo và Truyền hình Đà Nẵng
