@@ -24,12 +24,6 @@ https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",English Feed by Takanashi Kiara and Hakos Baelz
 https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/TsjjtHjSSt-Logo-BLCX_3_11zon.webp",Funny Commentary Feed by Umezono Juno
-https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc2
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp",Clean Feed by HOLOLIVE DEV IS FLOW GLOW
-https://hoiquan.dpdns.org/VTVGo/?WC-FiFa2
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260617/2026061723/owe8ceyOCM-logo.webp",English Feed by CCGG
-https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-2
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV2
 https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV3
@@ -94,7 +88,7 @@ https://www.youtube.com/@TsukimiyaKaede/live
 #EXTINF:-1 group-title="2026 MSI Live",Caedrel (EN)
 https://www.twitch.tv/caedrel
 #EXTINF:-1 group-title="2026 MSI Live",Feviknight (KR_)
-https://www.twitch.tv/feviknight
+https://www.youtube.com/@feviknight/live
 #EXTINF:-1 group-title="2026 MSI Live",Entty (JP)
 https://www.twitch.tv/entych
 #EXTINF:-1 group-title="2026 MSI Live",Syaruru (JP)
@@ -105,6 +99,8 @@ https://www.twitch.tv/takayaspecial
 https://www.twitch.tv/alfrea
 #EXTINF:-1 group-title="2026 MSI Live",Yutapon (JP)
 https://www.twitch.tv/yutapongo
+#EXTINF:-1 group-title="2026 MSI Live",Sendo Yuuhi
+https://www.youtube.com/@SendoYuuhi/live
 
 #EXTINF:-1 group-title="2026 Wimbledon Live",WOWOW-LIVE
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
@@ -125,11 +121,9 @@ https://radio.wimbledon.com/hls/live/2125340/radio/centre_1.m3u8
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Valorant (Feed A)
-https://www.youtube.com/watch?v=Ez2V7lsw0T0
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Valorant (Feed B)
-https://www.youtube.com/watch?v=KejZavw9d-c
+
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MLBB Live
-https://www.youtube.com/watch?v=E-YvHGfT8Tw
+
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="2026 Tales of Festival Danang 2026 Live" tvg-logo="https://tof.tales-ch.jp/festival2026/top/kv_logo.webp?v=2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
