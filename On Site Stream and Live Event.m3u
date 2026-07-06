@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live",Special Live Concert fron Auditorium Theater (LA) - Hololive EN 4th Concert Serendipity
-http://157.250.206.170:1234/stream/hlgg/messi/master.m3u8
-
-
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2
 https://ace.hoiquan.click/module/IPTV/?id=vtv2&accKenh=vuminhthanh1
 #EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3
@@ -73,8 +69,6 @@ https://www.youtube.com/watch?v=rxyNjFKwzJA&pp=ygUSVmFuY291dmVyIExpdmUgY2Ft
 #EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Mexico City
 https://www.youtube.com/watch?v=uV3wWHSvkfs
 
-#EXTINF:-1 group-title="2026 MSI Live",Live Camera from Daejeon (EXPO Hanbit Tower)
-https://www.youtube.com/watch?v=Q4XQIqYiwCI
 #EXTINF:-1 group-title="2026 MSI Live",LCP (VN)
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 group-title="2026 MSI Live",LCP Live (EN)
@@ -125,9 +119,7 @@ https://radio.wimbledon.com/hls/live/2125340/radio/centre_1.m3u8
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
 https://www.youtube.com/watch?v=OzYp4NRZlwQ
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Valorant (Feed A)
-https://www.youtube.com/watch?v=Pwcu-OFC9Yc
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Valorant (Feed B)
-https://www.youtube.com/watch?v=xd3noJE-OeA
+https://www.youtube.com/watch?v=U2jvIM6sinc
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MLBB Live (Mid-Season Cup 2026)
 https://www.youtube.com/watch?v=aRZZASkRfIw
 
