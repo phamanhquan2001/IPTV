@@ -2,8 +2,7 @@
 
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 Tour de France Live",JSPORTS-4
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 Tour de France Live",TG4
-https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2
@@ -126,8 +125,25 @@ https://radio.wimbledon.com/hls/live/2125340/radio/centre_1.m3u8
 https://www.youtube.com/watch?v=q8RGZkfPAMM
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Valorant (Feed A)
 https://www.youtube.com/watch?v=rzsDTqdQme4
-#EXTINF:-1 group-title="2026 eSEAports World Cup Live",MLBB Live (Mid-Season Cup 2026)
-https://www.youtube.com/watch?v=aRZZASkRfIw
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Dota 2 (Feed A)
+https://www.youtube.com/watch?v=OKtbx3NQ6M0
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Dota 2 (Feed B)
+https://www.youtube.com/watch=v9bkf_RJNQsU
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Dota 2 (Feed C)
+https://www.youtube.com/watch?=kDI7mHHvWRQ
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Valorant
+https://www.youtube.com/live/3GOXDlN1wuk
+
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",APEX Legends (VSPO! EN Kuroha Arya)
+https://www.youtube.com/@AryaKuroha/live
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",APEX Legends (REJECT)
+https://www.youtube.com/@dttodot/live
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",Valorant (FNS)
+https://twitch.tv/gofns
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",Valorant (Shanks)
+https://twitch.tv/shanks_ttv
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",Dota 2 (23DOTA TV VN)
+https://www.youtube.com/@23DotaTV/live
 
 #EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",Valorant
 https://global-media.onlive.vn/live/ewc2/master.m3u8
