@@ -74,22 +74,10 @@ https://www.youtube.com/watch?v=uV3wWHSvkfs
 
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
 https://www.youtube.com/watch?v=q8RGZkfPAMM
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Dota 2 (Feed A)
-https://www.youtube.com/watch?v=OKtbx3NQ6M0
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Dota 2 (Feed B)
-https://www.youtube.com/watch=v9bkf_RJNQsU
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Dota 2 (Feed C)
-https://www.youtube.com/watch?=kDI7mHHvWRQ
 
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",Valorant (Shanks)
-https://twitch.tv/shanks_ttv
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",Dota 2 (23DOTA TV VN)
-https://www.youtube.com/@23DotaTV/live
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",
 
-#EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",Valorant
-https://global-media.onlive.vn/live/ewc2/master.m3u8
-#EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",MLBB Live (Mid-Season Cup 2026)
-https://global-media.onlive.vn/live/esportworldcup/master.m3u8
+#EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",
 
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
