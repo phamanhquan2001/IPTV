@@ -3,125 +3,30 @@
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 Tour de France Live",JSPORTS-4
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
 
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv2-hd/KenhCoBan.png",VTV2
-https://ace.hoiquan.click/module/IPTV/?id=vtv2&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv3-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv3-hd/KenhCoBan.png",VTV3
-https://ace.hoiquan.click/module/IPTV/?id=vtv3&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV6 - National Sports Channel (NSC)
-https://ace.hoiquan.click/module/IPTV/?id=vtv6&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV7
-https://ace.hoiquan.click/module/IPTV/?id=vtv7&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv7-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv7-hd/KenhCoBan.png",VTV9
-https://ace.hoiquan.click/module/IPTV/?id=vtv9&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VTV10
-https://ace.hoiquan.click/module/IPTV/?id=vtv10&accKenh=vuminhthanh1
-#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOV2
-https://tfx24gr5domt1gc41hctogezdncb1fiozk3djphssah5uf35g67tqq3zy.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8?wsSession=016c1b41069dda9743f01aa5-178244243898477&wsIPSercert=91f3df795208f395fc76a647a98ca478&wsBindIP=2&wsserid=1168240905464146513
-#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOV3
-https://tfx24gr5domt1gc41hctogezdncb1fiozk3djphssah5uf35g67tqq3zy.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8?wsSession=e556dcf51cd08c913e0bc3c8-178244268029240&wsIPSercert=91f3df795208f395fc76a647a98ca478&wsBindIP=2&wsserid=1168240905461000729
-#EXTINF:-1 tvg-id="vtv10-hd" group-title="2026 World Cup Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/vtv10-hd/KenhCoBan.png",VOVGT
-https://tfx23gr5domt1gc41hctogezdncb1fiagaam3f35g67u8pfos67dep7zgq.100ycdn.com/play.vovgiaothong.vn/live/gthcm/playlist.m3u8?wsSession=e556dcf51cd08c913e0bc3c8-178244279019237&wsIPSercert=91f3df795208f395fc76a647a98ca478&wsBindIP=2&wsserid=1168240905461000729
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",Clean Feed by VOLTACTION
-https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",Funny Commentary Feed by Hyakumatenmabara Salome
-https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",English Feed by Takanashi Kiara and Hakos Baelz
-https://hoiquan.dpdns.org/VTVGo/?kenh-tieng-anh-1
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV2
-https://audio-lss.vov.vn/live/vov2.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV3
-https://audio-lss.vov.vn/live/vov3.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOVGT
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
-#EXTINF:-1 group-title="2026 World Cup Live" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Primehome)
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from New York City
-https://www.youtube.com/watch?v=z-jYdOIKcTQ
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Atlanta
-https://www.youtube.com/watch?v=7k7RTdANPqM&pp=ygUQQXRsYW50YSBsaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Boston
-https://www.youtube.com/watch?v=p-pVYYH4ZCk&pp=ygUPQm9zdG9uIGxpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Houston (Downtown Skyline)
-https://www.youtube.com/watch?v=wUQc3RoLAPs&pp=ygUPRGFsbGFzIGxpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Dallas (FOX LOCAL NEWS)
-https://www.youtube.com/watch?v=HkfKsRa9qnE&pp=ygUPRGFsbGFzIGxpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Kansas City
-https://www.youtube.com/watch?v=9fzUjSTK5F8&pp=ygUUS2Fuc2FzIENpdHkgbGl2ZSBjYW0%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Los Angeles
-https://www.youtube.com/watch?v=EO_1LWqsCNE
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Miami
-https://www.youtube.com/watch?v=DxZziUUr6CY&pp=ygUOTWlhbWkgbGl2ZSBjYW0%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Philadelphia
-https://www.youtube.com/watch?v=0Vu5PYxdTpE&pp=ygUVUGhpbGFkZWxwaGlhIExpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Seattle
-https://www.youtube.com/watch?v=hV8qIEYw54U&pp=ygUQU2VhdHRsZSBMaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from San Francisco
-https://www.youtube.com/watch?v=CXYr04BWvmc&pp=ygUWU2FuIEZyYW5jaXNjbyBMaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Toronto
-https://www.youtube.com/watch?v=y2qNl2ocP3E&pp=ygUQVG9yb250byBMaXZlIGNhbQ%3D%3D
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Vancouver
-https://www.youtube.com/watch?v=rxyNjFKwzJA&pp=ygUSVmFuY291dmVyIExpdmUgY2Ft
-#EXTINF:-1 group-title="2026 World Cup Live Cam" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",Live Camera from Mexico City
-https://www.youtube.com/watch?v=uV3wWHSvkfs
-
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
-https://www.youtube.com/watch?v=q8RGZkfPAMM
-#EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Day 2 (Feed A)
-https://www.youtube.com/watch?v=84wJuC5EPMg
-#EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Day 2 (Feed B)
-https://www.youtube.com/watch?v=2KlJ6BI4aLs
-#EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Day 3 (Feed A)
-https://www.youtube.com/watch?v=b2hErN11qBk
-#EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Day 3 (Feed B)
-https://www.youtube.com/watch?v=xie3NzLWwVY
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=q8RGZkfPAMM -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Playoff Days
-https://www.youtube.com/watch?v=6Cns_MlhGAQ
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=6Cns_MlhGAQ -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Finals
-https://www.youtube.com/watch?v=bW7lAK-z5qU
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Day 1 (Feed A)
-https://www.youtube.com/watch?v=rsWuS2mWagQ
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Day 1 (Feed B)
-https://www.youtube.com/watch?v=mSAXj60x5cA
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Day 2 (Feed A)
-https://www.youtube.com/watch?v=DNGQDPhr8uE
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Day 2 (Feed B)
-https://www.youtube.com/watch?v=FQBDDM158gU
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=bW7lAK-z5qU -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Playoff Days (Feed A)
-https://www.youtube.com/watch?v=_PfK4eRIN3Q
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=_PfK4eRIN3Q -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Day 3 (Feed B)
-https://www.youtube.com/watch?v=_yKXdcvPwFk
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=_yKXdcvPwFk -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Playoff Days 4
-https://www.youtube.com/watch?v=6kqfr8YruGo
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=6kqfr8YruGo -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Finals
-https://www.youtube.com/watch?v=zeWWg_cccJA
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Group Phase Day 1
-https://www.youtube.com/watch?v=0qV_PxVegMo
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Group Phase Day 2
-https://www.youtube.com/watch?v=Do8oWUiud40
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=zeWWg_cccJA -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Survival Stage
-https://www.youtube.com/watch?v=EOTzWqTM0eQ
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=EOTzWqTM0eQ -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Finals
-https://www.youtube.com/watch?v=KKUz3ckdYyw
-#EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Day 2 (Feed A)
-https://www.youtube.com/watch?v=3h58-1X2Zow
-#EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Day 2 (Feed B)
-https://www.youtube.com/watch?v=dN2ev1iSOWQ
-#EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days
-https://www.youtube.com/watch?v=d2wJwL9MKkE
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=KKUz3ckdYyw -f 480p --hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 2
-https://www.youtube.com/watch?v=3GCgmCq12eY
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=3GCgmCq12eY -hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 3
-https://www.youtube.com/watch?v=NbKa6VTG9BE
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=NbKa6VTG9BE -hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Finals
-https://www.youtube.com/watch?v=avxSeNmhm_o
+pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=avxSeNmhm_o -hls-use-mpegts -o - --quiet --no-warnings
 
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",League of Legends (BLV Hoàng Luân)
 https://www.youtube.com/@HoangLuanBLV/live
