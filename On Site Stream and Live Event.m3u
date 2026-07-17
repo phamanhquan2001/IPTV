@@ -4,29 +4,29 @@
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
 
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=q8RGZkfPAMM -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=q8RGZkfPAMM
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Playoff Days
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=6Cns_MlhGAQ -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=6Cns_MlhGAQ
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Finals
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=bW7lAK-z5qU -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=bW7lAK-z5qU
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Playoff Days (Feed A)
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=_PfK4eRIN3Q -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=_PfK4eRIN3Q
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Day 3 (Feed B)
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=_yKXdcvPwFk -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=_yKXdcvPwFk
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Playoff Days 4
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=6kqfr8YruGo -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=6kqfr8YruGo
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Finals
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=zeWWg_cccJA -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=zeWWg_cccJA
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Survival Stage
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=EOTzWqTM0eQ -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=EOTzWqTM0eQ
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Finals
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=KKUz3ckdYyw -f 480p --hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=KKUz3ckdYyw
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 2
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=3GCgmCq12eY -hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=3GCgmCq12eY -hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 3
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=NbKa6VTG9BE -hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=NbKa6VTG9BE -hls-use-mpegts -o - --quiet --no-warnings
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Finals
-pipe:///usr/bin/yt-dlp https://www.youtube.com/watch?v=avxSeNmhm_o -hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=avxSeNmhm_o -hls-use-mpegts -o - --quiet --no-warnings
 
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",League of Legends (BLV Hoàng Luân)
 https://www.youtube.com/@HoangLuanBLV/live
