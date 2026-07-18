@@ -3,30 +3,32 @@
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 Tour de France Live",JSPORTS-4
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
 
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 ASEAN Hyundai Cup Live",VTV6 - National Sports Channel (NSC)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 ASEAN Hyundai Cup Live",FPTPLAY
+https://www.youtube.com/@FPTBongdaViet/live
+#EXTINF:-1 tvg-id="vtv2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BTV-2025-new.svg/1280px-BTV-2025-new.svg.png" group-title="2026 ASEAN Hyundai Cup Live",BayonTV - bTV Новините (Cambodia)
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BTV-2025-new.svg/1280px-BTV-2025-new.svg.png" group-title="2026 ASEAN Hyundai Cup Live",BTV-NEWS - Bayon (720p)
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
 https://www.youtube.com/watch?v=q8RGZkfPAMM
-#EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Playoff Days
-https://www.youtube.com/watch?v=6Cns_MlhGAQ
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Finals
 https://www.youtube.com/watch?v=bW7lAK-z5qU
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Playoff Days (Feed A)
-https://www.youtube.com/watch?v=_PfK4eRIN3Q
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Day 3 (Feed B)
-https://www.youtube.com/watch?v=_yKXdcvPwFk
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Playoff Days 4
 https://www.youtube.com/watch?v=6kqfr8YruGo
 #EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Finals
 https://www.youtube.com/watch?v=zeWWg_cccJA
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Survival Stage
-https://www.youtube.com/watch?v=EOTzWqTM0eQ
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Finals
 https://www.youtube.com/watch?v=KKUz3ckdYyw
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 2
-https://www.youtube.com/watch?v=3GCgmCq12eY -hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=3GCgmCq12eY
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 3
-https://www.youtube.com/watch?v=NbKa6VTG9BE -hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=NbKa6VTG9BE
 #EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Finals
-https://www.youtube.com/watch?v=avxSeNmhm_o -hls-use-mpegts -o - --quiet --no-warnings
+https://www.youtube.com/watch?v=avxSeNmhm_o
 
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",League of Legends (BLV Hoàng Luân)
 https://www.youtube.com/@HoangLuanBLV/live
