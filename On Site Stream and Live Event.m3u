@@ -15,27 +15,9 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
 https://www.youtube.com/watch?v=q8RGZkfPAMM
-#EXTINF:-1 group-title="2026 eSports World Cup Live",MWI (MLBB-LIVE) - Finals
-https://www.youtube.com/watch?v=bW7lAK-z5qU
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Playoff Days 4
-https://www.youtube.com/watch?v=6kqfr8YruGo
-#EXTINF:-1 group-title="2026 eSports World Cup Live",League of Legends - Finals
-https://www.youtube.com/watch?v=zeWWg_cccJA
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Free Fire - Finals
-https://www.youtube.com/watch?v=KKUz3ckdYyw
-#EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 2
-https://www.youtube.com/watch?v=3GCgmCq12eY
-#EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Playoff Days 3
-https://www.youtube.com/watch?v=NbKa6VTG9BE
-#EXTINF:-1 group-title="2026 eSports World Cup Live",DOTA 2 - Finals
-https://www.youtube.com/watch?v=avxSeNmhm_o
 
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",League of Legends (BLV Hoàng Luân)
-https://www.youtube.com/@HoangLuanBLV/live
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",League of Legends (Feviknight)
-https://twitch.tv/feviknight
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",League of Legends (Tsukimiya Kaede)
-https://www.youtube.com/channel/UCnRyk9bhFmzSigy18pqH9dA/live
+
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",
 
 #EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",
 
