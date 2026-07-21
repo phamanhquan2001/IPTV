@@ -14,10 +14,20 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
-https://www.youtube.com/watch?v=q8RGZkfPAMM
+https://www.youtube.com/watch?v=-xzg3wujOVM
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Notre-Dame Cathedral
+https://www.youtube.com/watch?v=I2wYxnjTLWg
+#EXTINF:-1 group-title="2026 eSports World Cup Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT - Đấu Trường Chân Lý (Feed A)
+https://www.youtube.com/watch?v=SkTfg2ouM14
+#EXTINF:-1 group-title="2026 eSports World Cup Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT - Đấu Trường Chân Lý (Feed B)
+https://www.youtube.com/watch?v=6Iog0VYFAE4
 
-
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",500BROS PUBG (PUBG Battlegrounds PC)
+https://www.youtube.com/@500BROSPUBG/live
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",MLBB VIE (MSC 2026)
+https://www.youtube.com/@MobileLegendsBangBangVN/live
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT VN - Đấu Trường Chân Lý
+https://www.youtube.com/@DTCLVN/live
 
 #EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",
 
