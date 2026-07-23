@@ -3,6 +3,31 @@
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 Tour de France Live",JSPORTS-4
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
 
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Live Camera from Taipei
+https://www.youtube.com/watch?v=z_fY1pj1VBw
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Live Camera from Taipei Airport
+https://www.youtube.com/watch?v=wWEnxWA7nnY
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Hoàng Luân
+https://www.youtube.com/@HoangLuanBLV/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Văn Tùng
+https://www.youtube.com/@VanTung/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",XTV Network
+https://www.youtube.com/@XTVNetwork/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",VSPO! Sendo Yuuhi (千燈ゆうひ)
+https://www.youtube.com/@yuuhi_sendo/live
+
+
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Live Camera from Busan (VCT Pacific Stage 2 2026 Finals Host City)
+https://www.youtube.com/watch?v=Er-GpkYE2M4
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Busan Skyline (VCT Pacific Stage 2 2026 Finals Host City)
+https://www.youtube.com/watch?v=z4GfMnHa32I
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",BLV Tumi
+https://www.youtube.com/@Tumiii/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Brim Canh Cụt
+https://www.youtube.com/@BrimCanhCut/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",VSPO! Yano Kuromu
+https://www.youtube.com/@YanoKuromu/live
+
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 ASEAN Hyundai Cup Live",VTV6 - National Sports Channel (NSC)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
@@ -19,16 +44,14 @@ https://www.youtube.com/watch?v=-xzg3wujOVM
 https://www.youtube.com/watch?v=vPy-iwB686k
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Notre-Dame Cathedral
 https://www.youtube.com/watch?v=I2wYxnjTLWg
-#EXTINF:-1 group-title="2026 eSports World Cup Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT - Đấu Trường Chân Lý (Feed A)
-https://m.youtube.com/watch?v=GVbRNehExQI
-#EXTINF:-1 group-title="2026 eSports World Cup Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT - Đấu Trường Chân Lý (Feed B)
-https://m.youtube.com/watch?v=javjzTTv96E
+#EXTINF:-1 group-title="2026 eSports World Cup Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT - Đấu Trường Chân Lý
+https://www.youtube.com/watch?v=iE7FMbPKTCQ
 #EXTINF:-1 group-title="2026 eSports World Cup Live",PUBG Battlegrounds PC
-https://m.youtube.com/watch?v=Ghx76yEpcMA
+https://www.youtube.com/watch?v=AbutzedQYjw
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MLBB-LIVE (MSC 2026)
-https://m.youtube.com/watch?v=G6B15G5Xh1g
+https://www.youtube.com/watch?v=dP4q6XJA-Vg
 #EXTINF:-1 group-title="2026 eSports World Cup Live",FIFA FC Pro Online
-https://m.youtube.com/watch?v=OP0bKYZS2Dc
+https://www.youtube.com/watch?v=oi2sRyAhQMU
 
 
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",500BROS PUBG (PUBG Battlegrounds PC)
@@ -37,7 +60,8 @@ https://www.youtube.com/@500BROSPUBG/live
 https://www.youtube.com/@MobileLegendsBangBangVN/live
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT VN - Đấu Trường Chân Lý
 https://www.youtube.com/@DTCLVN/live
-
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",Đức Mạnh Melody (Stella Sora TFT)
+https://www.youtube.com/@MelodyDucManh/live
 #EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",
 
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
