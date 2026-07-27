@@ -3734,7 +3734,7 @@ https://stream.rcast.net/67902
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
 
 #EXTINF:-1  tvg-id="KoreanCentralTelevision.kp"tvg-logo="https://i.imgur.com/p02AEOF.png",Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên (KCTV)
-https://tv.intchoson.com/kctv/main_stream.m3u8
+https://kctv.koryofront.org/stream/index.m3u8
 
 #EXTINF:-1 group-title="iDOLM@STER"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/IMAS2010Logo.svg/revision/latest?cb=20220806031108",XZTV西藏卫视 (The iDOLM@STER 2005 Arcade / Truyền Hình Vệ Tinh Vùng Tây Tạng)
 https://stream1.freetv.fun/xi-cang-wei-shi-40.ctv
