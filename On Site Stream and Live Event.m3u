@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 Tour de France Live",JSPORTS-4
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
-
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Live Camera from Taipei
 https://www.youtube.com/watch?v=z_fY1pj1VBw
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Live Camera from Taipei Airport
@@ -46,22 +43,21 @@ https://www.youtube.com/watch?v=vPy-iwB686k
 https://www.youtube.com/watch?v=I2wYxnjTLWg
 #EXTINF:-1 group-title="2026 eSports World Cup Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT - Đấu Trường Chân Lý
 https://www.youtube.com/watch?v=P2ycBusCB0Y
-#EXTINF:-1 group-title="2026 eSports World Cup Live",PUBG Battlegrounds PC
-https://m.youtube.com/watch?v=vFYY36M5exg
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Overwatch OWCS MSC
+https://www.youtube.com/watch?v=mTWvrYwiyA4
 #EXTINF:-1 group-title="2026 eSports World Cup Live",MLBB-LIVE (MSC 2026)
-https://www.youtube.com/watch?v=Q-Ojg9dUgzU
-#EXTINF:-1 group-title="2026 eSports World Cup Live",FIFA FC Pro Online
-https://www.youtube.com/watch?v=311gKxil4wg
+https://www.youtube.com/watch?v=8vDJyAPSTFA
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Street Fighter 6
+https://www.youtube.com/watch?v=oO4F_OELUnA
 
 
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",500BROS PUBG (PUBG Battlegrounds PC)
-https://www.youtube.com/@500BROSPUBG/live
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",VSPO! Amayui Moka (Street Fighter 6)
+https://www.youtube.com/@Moka_Amayui/live
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",MLBB VIE (MSC 2026)
 https://www.youtube.com/@MobileLegendsBangBangVN/live
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",StellaSora TFT VN - Đấu Trường Chân Lý
-https://www.youtube.com/@DTCLVN/live
-#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live" tvg-logo="https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/stella_sora_logo.webp",Đức Mạnh Melody (Stella Sora TFT)
-https://www.youtube.com/@MelodyDucManh/live
+#EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",VSPO! Kisaragi Ren (Street Fighter 6)
+https://twitch.tv/ren_kisaragi__
+
 #EXTINF:-1 group-title="2026 eSports World Cup Live - ONLIVE",
 
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
