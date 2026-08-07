@@ -22,8 +22,16 @@ https://www.youtube.com/watch?v=z4GfMnHa32I
 https://www.youtube.com/@Tumiii/live
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Brim Canh Cụt
 https://www.youtube.com/@BrimCanhCut/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",FNS
+https://twitch.tv/gofns
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",TenZ
+https://twitch.tv/tenz
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",VSPO! Yano Kuromu
 https://www.youtube.com/@YanoKuromu/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",VSPO! Choya Hanabi
+https://www.youtube.com/@HanabiChoya/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Neoporte Asakura Shino
+https://www.youtube.com/@Shino_Asakura/live
 
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 ASEAN Hyundai Cup Live",VTV6 - National Sports Channel (NSC)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -42,19 +50,17 @@ https://www.youtube.com/watch?v=vPy-iwB686k
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Notre-Dame Cathedral
 https://www.youtube.com/watch?v=I2wYxnjTLWg
 #EXTINF:-1 group-title="2026 eSports World Cup Live",HOK-LIVE (KWC 2026)
-https://m.youtube.com/watch?v=t5Buz-BHfuge
+
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Rainbow Six Siege (Feed A)
-https://m.youtube.com/watch?v=utqsX-OEzAE
+https://www.youtube.com/watch?v=S4nYIynLRO8
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Rainbow Six Siege (Feed B)
-https://m.youtube.com/watch?v=aY-kT-3sPDc
+https://www.youtube.com/watch?v=RZIugmUn_Y4
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Tekken 8
-https://m.youtube.com/watch?v=S4PgY4Ydtiw
-#EXTINF:-1 group-title="2026 eSports World Cup Live",CoD Black Ops 7 (Feed A)
-https://m.youtube.com/watch?v=YjDOClXZDm8
-#EXTINF:-1 group-title="2026 eSports World Cup Live",CoD Black Ops 7 (Feed B)
-https://m.youtube.com/watch?v=OnD13trhrYQ
+https://www.youtube.com/watch?v=NYUWvNGxFS0
+#EXTINF:-1 group-title="2026 eSports World Cup Live",CoD Black Ops 7
+https://www.youtube.com/watch?v=VsU-lSakJJs
 #EXTINF:-1 group-title="2026 eSports World Cup Live",PUBG Mobile (PMWC 2026)
-https://m.youtube.com/watch?v=wfmlYs9Amg4
+
 
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",
 
