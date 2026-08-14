@@ -43,6 +43,10 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u
 #EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BTV-2025-new.svg/1280px-BTV-2025-new.svg.png" group-title="2026 ASEAN Hyundai Cup Live",BTV-NEWS - Bayon (720p)
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="2026 Comiket Summer",Live Camera from Kokusai-tenjijo Station / Ariake Station
+https://www.youtube.com/watch?v=JwPyf-s9eEo
+#EXTINF:-1 group-title="2026 Comiket Summer",Live Camera from Tokyo Big Sìght
+https://m.youtube.com/watch?v=1eyFoIyBddg
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
 https://www.youtube.com/watch?v=-xzg3wujOVM
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Paris Skyline
