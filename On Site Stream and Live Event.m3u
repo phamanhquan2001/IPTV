@@ -43,28 +43,16 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u
 #EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BTV-2025-new.svg/1280px-BTV-2025-new.svg.png" group-title="2026 ASEAN Hyundai Cup Live",BTV-NEWS - Bayon (720p)
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="2026 Comiket Summer",Live Camera from Kokusai-tenjijo Station / Ariake Station
-https://www.youtube.com/watch?v=JwPyf-s9eEo
-#EXTINF:-1 group-title="2026 Comiket Summer",Live Camera from Tokyo Big Sìght
-https://m.youtube.com/watch?v=1eyFoIyBddg
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Paris
 https://www.youtube.com/watch?v=-xzg3wujOVM
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Paris Skyline
 https://www.youtube.com/watch?v=vPy-iwB686k
 #EXTINF:-1 group-title="2026 eSports World Cup Live",Live camera from Notre-Dame Cathedral
 https://www.youtube.com/watch?v=I2wYxnjTLWg
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Chess (Feed A)
-https://www.youtube.com/watch?v=BvYai5HO6zA
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Chess (Feed B)
-https://www.youtube.com/watch?v=jaZrPjKuiXc
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Rocket League
-https://www.youtube.com/watch?v=P4kDjjAXnog
-#EXTINF:-1 group-title="2026 eSports World Cup Live",CS2 (Feed A)
-https://www.youtube.com/watch?v=l2guF-9uA5E
-#EXTINF:-1 group-title="2026 eSports World Cup Live",CS2 (Feed B)
-https://www.youtube.com/watch?v=WHhdhIGEnAk
-#EXTINF:-1 group-title="2026 eSports World Cup Live",Rainbow Six Siege
-https://www.youtube.com/watch?v=bFeoRJWmuXU
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Crossfire - Đột Kích Trong Tầm Ngắm (Feed A)
+https://www.youtube.com/watch?v=ErZdbRn6uic
+#EXTINF:-1 group-title="2026 eSports World Cup Live",Crossfire - Đột Kích Trong Tầm Ngắm (Feed B)
+https://www.youtube.com/watch?v=mrXSKTZ9S50
 
 #EXTINF:-1 group-title="2026 eSports World Cup Costream Feed Live",500BROS FPS
 https://www.youtube.com/@500BROSFPS/live
@@ -125,15 +113,11 @@ https://t.freetv.fun/live/livenow-from-fox.ctv
 https://www.youtube.com/@CourtTV/live
 
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",War Zone Map Live
-https://www.youtube.com/@DDCyprus1Click/live
+https://www.youtube.com/watch?v=6VgDgzgUD9w
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Middle East
-https://www.youtube.com/watch?v=oxT5R6I0N6E
+https://www.youtube.com/watch?v=AkqGOcpDvZU
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
-https://www.youtube.com/watch?v=4qR2gThhpT0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Traffic from Strait of Hormuz amid standoff between US and Iran
-https://www.youtube.com/watch?v=4Dd0TlA4ZBU
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Air quality in Canada and US amid ongoing wildfire
-https://www.youtube.com/watchmv=fHKWgsoVHd0
+https://www.youtube.com/watch?v=IcZ-7sFi1HM
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
