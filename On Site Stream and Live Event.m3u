@@ -102,7 +102,8 @@ https://www.youtube.com/watch?v=6VgDgzgUD9w
 https://www.youtube.com/watch?v=AkqGOcpDvZU
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=IcZ-7sFi1HM
-
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Special Report Live from Hololive Dreams: Cổ động viên mở hội chờ tuyển Việt Nam gặp Thái Lan ở chung kết lượt về ASEAN Cup 2026
+https://www.youtube.com/watch?v=b8qK7j90HXM
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD",I24 News English (720p)
