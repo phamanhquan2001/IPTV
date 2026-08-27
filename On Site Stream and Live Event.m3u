@@ -33,16 +33,6 @@ https://www.youtube.com/@HanabiChoya/live
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Neoporte Asakura Shino
 https://www.youtube.com/@Shino_Asakura/live
 
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 ASEAN Hyundai Cup Live",VTV6 - National Sports Channel (NSC)
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 ASEAN Hyundai Cup Live",FPTPLAY
-https://www.youtube.com/@FPTBongdaViet/live
-#EXTINF:-1 tvg-id="vtv2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BTV-2025-new.svg/1280px-BTV-2025-new.svg.png" group-title="2026 ASEAN Hyundai Cup Live",BayonTV - bTV Новините (Cambodia)
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BTV-2025-new.svg/1280px-BTV-2025-new.svg.png" group-title="2026 ASEAN Hyundai Cup Live",BTV-NEWS - Bayon (720p)
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Airport
@@ -102,8 +92,19 @@ https://www.youtube.com/watch?v=6VgDgzgUD9w
 https://www.youtube.com/watch?v=AkqGOcpDvZU
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=IcZ-7sFi1HM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Special Report Live from Hololive Dreams: Cổ động viên mở hội chờ tuyển Việt Nam gặp Thái Lan ở chung kết lượt về ASEAN Cup 2026
-https://www.youtube.com/watch?v=b8qK7j90HXM
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Special Report Live from Hololive Dreams: Ishikawa heavy rain cam as LV5 heavy rain alert in effective
+https://www.youtube.com/watch?v=iEOECtb7jGw
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Wajima (which was ravaged by a huge fire following 2024 Sea of Japan earthquake disaster) as LV5 heavy rain alert in effective
+https://www.youtube.com/watch?v=zj7tJYwFHig
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Kanazawa Trainstation as LV5 heavy rain alert in effective
+https://www.youtube.com/watch?v=JY0VPKVjmRs
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from HAB TV Station as LV5 heavy rain alert in effective
+https://www.youtube.com/watch?v=e9y2rfhbR-Q
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Suzu as LV5 heavy rain alert in effective
+https://www.youtube.com/watch?v=CgmxirNHFgI
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera from Toyama as LV5 heavy rain alert in effective
+https://www.youtube.com/watch?v=iZzGYJ6aSvQ
+
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD",I24 News English (720p)
