@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Hoàng Luân
 https://www.youtube.com/@HoangLuanBLV/live
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Văn Tùng
@@ -7,6 +9,14 @@ https://www.youtube.com/@VanTung/live
 https://www.youtube.com/@XTVNetwork/live
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",VSPO! Sendo Yuuhi (千燈ゆうひ)
 https://www.youtube.com/@yuuhi_sendo/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Los Angeles
+https://www.youtube.com/watch?v=YHWJd_DNgKY
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from San Francisco Bridge
+https://www.youtube.com/watch?v=CXYr04BWvmc
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Texas
+https://www.youtube.com/watch?v=SDK_m1_BVJ4
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Texas (Texas Skyline)
+https://www.youtube.com/watch?v=wUQc3RoLAPs
 
 #EXTINF:-1 group-title="VCT Co-Stream Feed Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #1)
 https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177458849525604&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
