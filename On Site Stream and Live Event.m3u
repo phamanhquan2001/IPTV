@@ -1,16 +1,11 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Live Camera from Taipei
-https://www.youtube.com/watch?v=z_fY1pj1VBw
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Live Camera from Taipei Airport
-https://www.youtube.com/watch?v=wWEnxWA7nnY
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Hoàng Luân
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Hoàng Luân
 https://www.youtube.com/@HoangLuanBLV/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",Văn Tùng
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Văn Tùng
 https://www.youtube.com/@VanTung/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",XTV Network
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",XTV Network
 https://www.youtube.com/@XTVNetwork/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="LCP Co-Stream Feed Live",VSPO! Sendo Yuuhi (千燈ゆうひ)
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",VSPO! Sendo Yuuhi (千燈ゆうひ)
 https://www.youtube.com/@yuuhi_sendo/live
 
 #EXTINF:-1 group-title="VCT Co-Stream Feed Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #1)
@@ -45,7 +40,7 @@ https://www.youtube.com/@Shino_Asakura/live
 #EXTINF:-1 group-title="2026 US Tennis Open Live",WOWOW-LIVE
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
 #EXTINF:-1 group-title="2026 US Tennis Open Live",US Open Radio (YT)
-https://www.youtube.com/@usopen/live
+https://www.youtube.com/watch?v=gSUaJDYtY-k
 #EXTINF:-1 group-title="2026 US Tennis Open Live",US Open Radio
 https://radio.usopen.org/hls/live/2094417/usopen/radiovision_2.m3u8
 #EXTINF:-1 group-title="2026 US Tennis Open Live",New York City Live Cam
