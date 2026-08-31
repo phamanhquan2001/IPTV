@@ -11,6 +11,8 @@ https://www.youtube.com/@XTVNetwork/live
 https://www.youtube.com/@yuuhi_sendo/live
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Los Angeles
 https://www.youtube.com/watch?v=YHWJd_DNgKY
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",LAX Airport Constriction Site
+https://www.youtube.com/watch?v=TdGXlEOxuOw
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from San Francisco Bridge
 https://www.youtube.com/watch?v=CXYr04BWvmc
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Texas
@@ -49,14 +51,30 @@ https://www.youtube.com/@Shino_Asakura/live
 
 #EXTINF:-1 group-title="2026 US Tennis Open Live",WOWOW-LIVE
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+#EXTINF:-1 group-title="2026 US Tennis Open Live",EUROSPORTS-1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno
+#EXTINF:-1 group-title="2026 US Tennis Open Live",EUROSPORTS-2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW
 #EXTINF:-1 group-title="2026 US Tennis Open Live",US Open Radio (YT)
-https://www.youtube.com/watch?v=gSUaJDYtY-k
+https://www.youtube.com/watch?v=LAfcLo0Dz3I
 #EXTINF:-1 group-title="2026 US Tennis Open Live",US Open Radio
 https://radio.usopen.org/hls/live/2094417/usopen/radiovision_2.m3u8
 #EXTINF:-1 group-title="2026 US Tennis Open Live",New York City Live Cam
 https://www.youtube.com/watch?v=VGnFLdQW39A
+#EXTINF:-1 group-title="2026 US Tennis Open Live",New York City Live Cam (Feed #2)
+https://www.youtube.com/watch?v=dD5BV_lH-0w
 #EXTINF:-1 group-title="2026 US Tennis Open Live",New York Time Square Live Cam
 https://www.youtube.com/watch?v=JQ_jwk_7OVE
+#EXTINF:-1 group-title="2026 US Tennis Open Live",Live Camera from LaGuardia Airports (NYC)
+https://www.youtube.com/watch?v=OUBslrCqREs
+#EXTINF:-1 group-title="2026 US Tennis Open Live",Live Camera from NYC Harbor
+https://www.youtube.com/watch?v=l7b5RFAkKhY
+#EXTINF:-1 group-title="2026 US Tennis Open Live",Live Camera from World Trade Centre (NYC) - The flashpoint place where September 11 2011 Terrorist Attacks happens (I was born almost a month before)
+https://www.youtube.com/watch?v=5C9oM7C2Q9k
+#EXTINF:-1 group-title="2026 US Tennis Open Live",Manhattan Skyline
+https://www.youtube.com/watch?v=2_PDaUJbfuI
+#EXTINF:-1 group-title="2026 US Tennis Open Live",Manhattan Skyline (Feed #2)
+https://www.youtube.com/watch?v=KuzVYn1Ucbg
 
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
@@ -73,7 +91,11 @@ https://www.youtube.com/watch?v=NTlNscfsymw&pp=ygUb5ZCN5Y-k5bGL44Op44Kk44OW44Kr4
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Hisaya Odori Park
 https://www.youtube.com/watch?v=pHFh8pbPO10
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Multiview Cam (Nagoya/Gifu/Mie)
-https://www.youtube.com/watch?v=ElmLqemMkng&pp=ygUb5ZCN5Y-k5bGL44Op44Kk44OW44Kr44Oh44Op
+https://www.youtube.com/watch?v=ElmLqemMkng
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Aichi Skyline Expo
+https://www.youtube.com/channel/UClrlDg6oZw3d1zR_TNTRrdw/live
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Aichi Railway
+https://www.youtube.com/channel/UCL_mZGTOGGBk1l-I2k4ABsA/live
 
 #Live Police Chases by Neverness to Everness Police Chase Show
 #EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
