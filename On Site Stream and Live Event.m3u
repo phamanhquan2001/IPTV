@@ -78,6 +78,12 @@ https://www.youtube.com/watch?v=KuzVYn1Ucbg
 
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",MBC
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SBS
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TV Chosun
+https://tving-live-o2-skcdn.tving.com/o2/v1/019db8e33fa3153d7865047a0cd4/019dd8d81815153d7865157cdbfbd4/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg4MzI4MzY1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=Wj7D7wz~VHmTtnsQez~GDV~H3nZzp56lWcVojQnue8RaJ~MfU40~90r3Cg3vVo7k-J5cKWoJUFrQKtwJ-EaVV5ofHXtpi0vwWgLxvgJS1jh4Jv1WK8Coo66xxnPvsDUX5G2YyRUF3uifotytl~WMFZx9ltra4J0L~5yFJUNyVUE1uXrLLRV~46yc8IjbFG9nS~4FK0d3tFo0zQkmg88tGDzcIC~MfwEFQZ8JLQOG2YST5ILoGIXHcqeYa4~-b5rTLupI9e9e-IivhlitgPnmWE6I~xjNiAtD~8opZgt31VkFsyrGMqWZTBwtuqTjxc-NrhAICmSN1UFcu2myHWfHjQ__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Airport
 https://www.youtube.com/watch?v=LRgGBlcL4KU
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Chubu Centrair Airport
