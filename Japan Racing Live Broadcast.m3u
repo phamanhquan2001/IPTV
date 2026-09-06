@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epg.utako.moe/jcom.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",BSグリーンチャンネル(中央競馬前レース中継・地方競馬中継)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+https://variants.streaks.jp/v5/gch/1f185cafa59741d2bed50f48b351de09/c8ccda6346f34a8cbc4c99a1c3f181df/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=v2
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",函館(函館競馬場)
 https://www.youtube.com/watch?v=s--MDmshT3I&pp=ygUY5Ye96aSo44Op44Kk44OW44Kr44Oh44Op
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",札幌(札幌競馬場)
@@ -21,6 +21,10 @@ https://www.youtube.com/watch?v=E5R5PPezu7k&pp=ygUg56aP5bKhIOODqeOCpOODluOCq-ODo
 #EXTINF:-1 group-title="URA Cam" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel.jp",福岡空港(小倉競馬場)
 https://www.youtube.com/watch?v=CzgSFUAbE9s&pp=ygUg56aP5bKhIOODqeOCpOODluOCq-ODoeODqSDlpKnnpZ4%3D
 
+#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネル (中央競馬前レース中継・地方競馬中継) (Muted)
+https://variants.streaks.jp/v5/gch/1f185cafa59741d2bed50f48b351de09/c8ccda6346f34a8cbc4c99a1c3f181df/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2guc3RyZWFrcy5qcCJ9.gT7IYcwKRel8iO-zQWZQg4RzuFdNOdq7drqvOYqgt0s&_HLS_skip=v2
+#EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネル (中央競馬前レース中継・地方競馬中継)
+https://variants.streaks.jp/v5/gch/1f185cafa59741d2bed50f48b351de09/c8ccda6346f34a8cbc4c99a1c3f181df/manifest_8_0.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=v2
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネル 2 (中央競馬パドック中継) (Muted)
 https://variants.streaks.jp/v5/gch/acbf47bbdfec4c8aa8a3bb870dec0975/38e4483e4c434bd6a08943d9c4c468ce/manifest_4.m3u8?vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS1nY2gyLnN0cmVha3MuanAifQ.iwkG2Zlz9d71wMifMZtwqC3ztgOUlukSH0VVKytfQsE&_HLS_skip=YES
 #EXTINF:-1 group-title="JRA - Main Feed" group-logo="https://www.kanazawakeiba.com/com/img/facilities/keiba_jra.png" tvg-id="GreenChannel2.jp",BSグリーンチャンネル 2 (中央競馬パドック中継) (Audio)
