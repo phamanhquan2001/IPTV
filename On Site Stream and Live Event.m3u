@@ -1,81 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Hoàng Luân
-https://www.youtube.com/@HoangLuanBLV/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Văn Tùng
-https://www.youtube.com/@VanTung/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",XTV Network
-https://www.youtube.com/@XTVNetwork/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",VSPO! Sendo Yuuhi (千燈ゆうひ)
-https://www.youtube.com/@yuuhi_sendo/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Los Angeles
-https://www.youtube.com/watch?v=YHWJd_DNgKY
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",LAX Airport Constriction Site
-https://www.youtube.com/watch?v=TdGXlEOxuOw
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from San Francisco Bridge
-https://www.youtube.com/watch?v=CXYr04BWvmc
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Texas
-https://www.youtube.com/watch?v=SDK_m1_BVJ4
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Live Camera from Texas (Texas Skyline)
-https://www.youtube.com/watch?v=wUQc3RoLAPs
-
-#EXTINF:-1 group-title="VCT Co-Stream Feed Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #1)
-https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177458849525604&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
-#EXTINF:-1 group-title="VCT Co-Stream Feed Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #2)
-https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=d56af03efa0af80555e1b323-177458873795114&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215646388502219
-#EXTINF:-1 group-title="VCT Co-Stream Feed Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #3)
-https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi4/playlist.m3u8?wsSession=291a29c427be45d83e2b8182-177458908773655&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568267973098
-#EXTINF:-1 group-title="VCT Co-Stream Feed Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #4)
-https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=9cf6080ecc3677743a98c521-177458922539991&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568261681544
-#EXTINF:-1 group-title="VCT Co-Stream Feed Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #5)
-https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=291a29c427be45d83e2b8182-177458931396572&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568267973098
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Live Camera from Busan (VCT Pacific Stage 2 2026 Finals Host City)
-https://www.youtube.com/watch?v=Er-GpkYE2M4
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Busan Skyline (VCT Pacific Stage 2 2026 Finals Host City)
-https://www.youtube.com/watch?v=z4GfMnHa32I
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",BLV Tumi
-https://www.youtube.com/@Tumiii/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Brim Canh Cụt
-https://www.youtube.com/@BrimCanhCut/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",FNS
-https://twitch.tv/gofns
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",TenZ
-https://twitch.tv/tenz
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",VSPO! Yano Kuromu
-https://www.youtube.com/@YanoKuromu/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",VSPO! Choya Hanabi
-https://www.youtube.com/@HanabiChoya/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="VCT Co-Stream Feed Live",Neoporte Asakura Shino
-https://www.youtube.com/@Shino_Asakura/live
-
-#EXTINF:-1 group-title="2026 US Tennis Open Live",WOWOW-LIVE
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
-#EXTINF:-1 group-title="2026 US Tennis Open Live",EUROSPORTS-1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933004&extension=ts&play_token=jtuDUMdLno
-#EXTINF:-1 group-title="2026 US Tennis Open Live",EUROSPORTS-2
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=933003&extension=ts&play_token=OIqiUqIbWW
-#EXTINF:-1 group-title="2026 US Tennis Open Live",US Open Radio (YT)
-https://www.youtube.com/watch?v=uhDd8TV7xpE
-#EXTINF:-1 group-title="2026 US Tennis Open Live",US Open Radio
-https://radio.usopen.org/hls/live/2094417/usopen/radiovision_6.m3u8
-#EXTINF:-1 group-title="2026 US Tennis Open Live",New York City Live Cam
-https://www.youtube.com/watch?v=VGnFLdQW39A
-#EXTINF:-1 group-title="2026 US Tennis Open Live",New York City Live Cam (Feed #2)
-https://www.youtube.com/watch?v=dD5BV_lH-0w
-#EXTINF:-1 group-title="2026 US Tennis Open Live",New York Time Square Live Cam
-https://www.youtube.com/watch?v=JQ_jwk_7OVE
-#EXTINF:-1 group-title="2026 US Tennis Open Live",Live Camera from LaGuardia Airports (NYC)
-https://www.youtube.com/watch?v=OUBslrCqREs
-#EXTINF:-1 group-title="2026 US Tennis Open Live",Live Camera from NYC Harbor
-https://www.youtube.com/watch?v=l7b5RFAkKhY
-#EXTINF:-1 group-title="2026 US Tennis Open Live",Live Camera from World Trade Centre (NYC) - The flashpoint place where September 11 2011 Terrorist Attacks happens (I was born almost a month before)
-https://www.youtube.com/watch?v=5C9oM7C2Q9k
-#EXTINF:-1 group-title="2026 US Tennis Open Live",Manhattan Skyline
-https://www.youtube.com/watch?v=2_PDaUJbfuI
-#EXTINF:-1 group-title="2026 US Tennis Open Live",Manhattan Skyline (Feed #2)
-https://www.youtube.com/watch?v=KuzVYn1Ucbg
-
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
 https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
 EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS1
@@ -110,6 +34,72 @@ https://www.youtube.com/watch?v=ElmLqemMkng
 https://www.youtube.com/channel/UClrlDg6oZw3d1zR_TNTRrdw/live
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Aichi Railway
 https://www.youtube.com/channel/UCL_mZGTOGGBk1l-I2k4ABsA/live
+
+#EXTINF:-1 group-title="Worlds 2026 Live",LOL JP
+https://www.twitch.tv/lolesportsjp
+#EXTINF:-1 group-title="Worlds 2026 Live",New York City Live Cam
+https://www.youtube.com/watch?v=VGnFLdQW39A
+#EXTINF:-1 group-title="Worlds 2026 Live",New York City Live Cam (Feed #2)
+https://www.youtube.com/watch?v=dD5BV_lH-0w
+#EXTINF:-1 group-title="Worlds 2026 Live",New York Time Square Live Cam
+https://www.youtube.com/watch?v=JQ_jwk_7OVE
+#EXTINF:-1 group-title="Worlds 2026 Live",Live Camera from LaGuardia Airports (NYC)
+https://www.youtube.com/watch?v=OUBslrCqREs
+#EXTINF:-1 group-title="Worlds 2026 Live",Live Camera from NYC Harbor
+https://www.youtube.com/watch?v=l7b5RFAkKhY
+#EXTINF:-1 group-title="Worlds 2026 Live",Live Camera from World Trade Centre (NYC) - The flashpoint place where September 11 2011 Terrorist Attacks happens (I was born almost a month before)
+https://www.youtube.com/watch?v=5C9oM7C2Q9k
+#EXTINF:-1 group-title="Worlds 2026 Live",Manhattan Skyline
+https://www.youtube.com/watch?v=2_PDaUJbfuI
+#EXTINF:-1 group-title="Worlds 2026 Live",Manhattan Skyline (Feed #2)
+https://www.youtube.com/watch?v=KuzVYn1Ucbg
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",Live Camera from Los Angeles
+https://www.youtube.com/watch?v=YHWJd_DNgKY
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",LAX Airport Constriction Site
+https://www.youtube.com/watch?v=TdGXlEOxuOw
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",Live Camera from San Francisco Bridge
+https://www.youtube.com/watch?v=CXYr04BWvmc
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",Live Camera from Texas
+https://www.youtube.com/watch?v=SDK_m1_BVJ4
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",Live Camera from Texas (Texas Skyline)
+https://www.youtube.com/watch?v=wUQc3RoLAPs
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Hoàng Luân
+https://www.youtube.com/@HoangLuanBLV/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",Văn Tùng
+https://www.youtube.com/@VanTung/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",XTV Network
+https://www.youtube.com/@XTVNetwork/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",VSPO! Sendo Yuuhi (千燈ゆうひ)
+https://www.youtube.com/@yuuhi_sendo/live
+
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #1)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi5/playlist.m3u8?wsSession=5607d1753b9dccf6a52af36a-177458849525604&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568271118875
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #2)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=d56af03efa0af80555e1b323-177458873795114&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215646388502219
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #3)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi4/playlist.m3u8?wsSession=291a29c427be45d83e2b8182-177458908773655&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568267973098
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #4)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=9cf6080ecc3677743a98c521-177458922539991&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568261681544
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #5)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=291a29c427be45d83e2b8182-177458931396572&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568267973098
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Live Camera from Busan (VCT Pacific Stage 2 2026 Finals Host City)
+https://www.youtube.com/watch?v=Er-GpkYE2M4
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Busan Skyline (VCT Pacific Stage 2 2026 Finals Host City)
+https://www.youtube.com/watch?v=z4GfMnHa32I
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",BLV Tumi
+https://www.youtube.com/@Tumiii/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Brim Canh Cụt
+https://www.youtube.com/@BrimCanhCut/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",FNS
+https://twitch.tv/gofns
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",TenZ
+https://twitch.tv/tenz
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",VSPO! Yano Kuromu
+https://www.youtube.com/@YanoKuromu/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",VSPO! Choya Hanabi
+https://www.youtube.com/@HanabiChoya/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Neoporte Asakura Shino
+https://www.youtube.com/@Shino_Asakura/live
 
 #Live Police Chases by Neverness to Everness Police Chase Show
 #EXTINF:-1 group-title="Live Police Chases" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Neverness-to-everness_cover.jpg",NTE Live Police Chases
