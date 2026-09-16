@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",National Sports Channel (NSC) - VTV6
-https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",VTV7
-https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1280?cb=20250201092935&path-prefix=vi", CCTV5
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1280?cb=20250201092935&path-prefix=vi",CCTV5
 https://cdn.qd.je/163189/cctv5
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi", CCTV5+
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi",CCTV5+
 https://cdn.qd.je/163189/cctv5p
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
-https://akariko-bck2.sankuria.sbs/stream/jp/tbs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.T1qleuJ6CMx1GQBS4AvZFkL8aV-R8E_PBOVNYqDLF-UN20to_4r-bA.GUn9q6l59RtUG3A8.DddoPo8461MtX0Er0HjeE11Oj3s4KvLnnvEXlL1KnFqy7r0q5U5Y0JNdDbA7MyZ_crk15tUfNaJrleeP1aQq1h4j0TP8UTnyH9t-QXfAP3CqfnA5.4FKmbBflyN69PKUVrIKO_A&mode=hls
+https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS1
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS2
@@ -19,7 +19,7 @@ http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SBS
 http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TV Chosun
-https://tving-live-o2-xcdn.tving.com/o2/v1/019db8e33fa3153d7865047a0cd4/019dd8d81815153d7865157cdbfbd4/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODk0MDA0NDgsInBhdGgiOiIvbzIifQ.rn7mRq2VUJbEAQlfAZsfkRJzn-ccLQQBrJEWcRwMoRY
+https://tving-live-o2-ktcdn.tving.com/o2/v1/019db8e33fa3153d7865047a0cd4/019dd8d81815153d7865157cdbfbd4/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg5NjQxMzM4fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=VyOKqatoqGhb7EdQxin6DUbzdU6tB9gvIxxUlc0OAoX0CP6boZjR1JO57vKaOLYYQ-A~ICxfyaJYrVwvDp~21y19dOjkAwzMiVz7tNzqckQpueNv4lZSpdm1RwBzUrKkzeb35IGjHXyDDgIMgvVyDAQGz60bcXJ3UFcTErQmUvoejK0mEl-G7Po607bprlfjG0V~namHS5PE0TQZCZSd2CeHi1omieSpViRJjumCGY6GewvvGvYa499~jtUy6t8ZA7XO7~If35LWfH2WB8-6pMEyAGuGsOUCbh6BJLf-Ng44ba9~oFy9ImQ1V1j0GNxdVk6qEOkPu3pYpU3YxanJjw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SPOTV-테스트
 http://124.222.153.240/kakaotv/get_channel.php?channel=spotv
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SPOTV 2-테스트
