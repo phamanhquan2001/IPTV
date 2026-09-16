@@ -10,7 +10,7 @@ https://cdn.qd.je/163189/cctv5
 https://cdn.qd.je/163189/cctv5p
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
 https://akariko-bck2.sankuria.sbs/stream/jp/tbs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.T1qleuJ6CMx1GQBS4AvZFkL8aV-R8E_PBOVNYqDLF-UN20to_4r-bA.GUn9q6l59RtUG3A8.DddoPo8461MtX0Er0HjeE11Oj3s4KvLnnvEXlL1KnFqy7r0q5U5Y0JNdDbA7MyZ_crk15tUfNaJrleeP1aQq1h4j0TP8UTnyH9t-QXfAP3CqfnA5.4FKmbBflyN69PKUVrIKO_A&mode=hls
-EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS1
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS1
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS2
 http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
