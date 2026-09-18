@@ -46,38 +46,38 @@ https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",PTV SPORTS
 https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 group-title="026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Achichi-Mela_list_thumb.png",Asian Games CH01 (Commentary Live by Aichichi Mela)
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Achichi-Mela_list_thumb.png",Asian Games CH01 (Commentary Live by Aichichi Mela)
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
 https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-#EXTINF:-1 group-title="026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Sorashina-Sopia_list_thumb.png",Asian Games CH02 (Commentary Live by Sorashina Sopia)
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Sorashina-Sopia_list_thumb.png",Asian Games CH02 (Commentary Live by Sorashina Sopia)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
 https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-#EXTINF:-1 group-title="026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Suzuna-Tsuzuri_list_thumb.png",Asian Games CH03 (Commentary Live by Tsuzuri Suzuna)
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Suzuna-Tsuzuri_list_thumb.png",Asian Games CH03 (Commentary Live by Tsuzuri Suzuna)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
 https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-#EXTINF:-1 group-title="026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Hyakuto-Kyoko_list_thumb.png",Asian Games CH04 (Commentary Live by Hyakuto Kyoko)
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Hyakuto-Kyoko_list_thumb.png",Asian Games CH04 (Commentary Live by Hyakuto Kyoko)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
 https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 group-title="026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Airani-Iofifteen_list_thumb.png",Asian Games CH05 (Commentary Live by Airani Iofifteen)
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Airani-Iofifteen_list_thumb.png",Asian Games CH05 (Commentary Live by Airani Iofifteen)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
 https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-#EXTINF:-1 group-title="026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Ayunda-Risu_list_thumb.png",Asian Games CH06 (Commentary Live by Ayunda Risu)
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Ayunda-Risu_list_thumb.png",Asian Games CH06 (Commentary Live by Ayunda Risu)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
 https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-#EXTINF:-1 group-title="026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kaela-Kovalskia_list_thumb.png",Asian Games CH07 (Commentary Live by Kaela Kovalskia)
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kaela-Kovalskia_list_thumb.png",Asian Games CH07 (Commentary Live by Kaela Kovalskia)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
