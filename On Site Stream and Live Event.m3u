@@ -6,10 +6,10 @@ https://www.twitch.tv/asiangames2026
 https://vmttv.dpdns.org/tv360/?id=vtv6-hd
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",VTV7
 https://vmttv.dpdns.org/tv360/?id=vtv7-hd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/06/Tokino-Sora_list_thumb.png",VTVGo Feed Day 1 Live (Commentary Live by Tokino Sora)
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_1080p/chunks.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/06/Hoshimachi-Suisei_list_thumb.png",VTVGo Feed Day 1 Live (Commentary Live by Hoshimachi Suisei)
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_1080p/chunks.m3u8
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/06/Tokino-Sora_list_thumb.png",VTVGo Feed Day 2 Live (Commentary Live by Tokino Sora)
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_480p/chunks.m3u8
+#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/06/Hoshimachi-Suisei_list_thumb.png",VTVGo Feed Day 2 Live (Commentary Live by Hoshimachi Suisei)
+https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_480p/chunks.m3u8
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1280?cb=20250201092935&path-prefix=vi",CCTV5
 https://cdn.qd.je/163189/cctv5
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi",CCTV5+
@@ -91,7 +91,7 @@ https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
 https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kaela-Kovalskia_list_thumb.png",TVER Feed
-https://ssai-variants.streaks.jp/v5/tver-splive-tbs/8426f12f01494b8b8e4a2887ea84a064/626dcbfeced849e9b362cf0880edbd7b/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-616-18885/f78b5025-b387-42ed-8b45-f1c7dafd7716/1.m3u8?session=f78b5025-b387-42ed-8b45-f1c7dafd7716&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoibGl2ZS10dmVyLXNwbGl2ZS10YnMuc3RyZWFrcy5qcCIsIm9mZnNldCI6OX0.u8VE0qSm-s0QA5J-qLUcOqkZo4UIp_X_AiLsh0_Fcck
+https://ssai-variants.streaks.jp/v5/tver-splive-tbs/e6411de5a93b4ec48df08302a7ed2f6e/99841754c95c4a4ca1c16a6a7dbccb59/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-616-18887/fbd948bb-c51f-41e3-a72a-1d2c924778fc/3.m3u8?session=fbd948bb-c51f-41e3-a72a-1d2c924778fc&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1zcGxpdmUtdGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjl9.EI4sCDfiEPC7-L0ce-7kecfV4OM5W7_4KwMLtiKwT58
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Airport
 https://www.youtube.com/watch?v=LRgGBlcL4KU
 #EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Chubu Centrair Airport
