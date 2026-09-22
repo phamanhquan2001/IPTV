@@ -170,10 +170,6 @@ https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/li
 https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=9cf6080ecc3677743a98c521-177458922539991&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568261681544
 #EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #5)
 https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=291a29c427be45d83e2b8182-177458931396572&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568267973098
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Live Camera from Busan (VCT Pacific Stage 2 2026 Finals Host City)
-https://www.youtube.com/watch?v=Er-GpkYE2M4
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Busan Skyline (VCT Pacific Stage 2 2026 Finals Host City)
-https://www.youtube.com/watch?v=z4GfMnHa32I
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",BLV Tumi
 https://www.youtube.com/@Tumiii/live
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Brim Canh Cụt
@@ -231,11 +227,8 @@ https://www.youtube.com/watch?v=6VgDgzgUD9w
 https://www.youtube.com/watch?v=AkqGOcpDvZU
 #EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Live Camera Feed from Ukraine
 https://www.youtube.com/watch?v=IcZ-7sFi1HM
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Special Report Live from Hololive Dreams: Russia' polling map amid contested State Duma Election Day (Feed #1)
-https://www.youtube.com/watch?v=nTIh2UN-3C0
-#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Special Report Live from Hololive Dreams: Russia' polling map amid contested State Duma Election Day (Feed #2)
-https://www.youtube.com/watch?v=fbnCAswYa9A
-
+#EXTINF:-1 group-title="On-Site Stream" tvg-logo="https://byvn.net/2LZH",Special Report Live from Hololive Dreams: Live from UN HQ in NYC for Day 1 of General Assembly Speech
+https://www.youtube.com/watch?v=bZ99XPDm1vk
 
 #EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",I24 News Arabic (720p)
 https://bcovlive-a.akamaihd.net/95116e8d79524d87bf3ac20ba04241e3/eu-central-1/5377161796001/playlist.m3u8
