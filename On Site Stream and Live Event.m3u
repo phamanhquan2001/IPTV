@@ -1,125 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",National Sports Channel (NSC) - VTV6
-https://vmttv.dpdns.org/tv360/?id=vtv6-hd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",VTV7
-https://vmttv.dpdns.org/tv360/?id=vtv7-hd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/06/Tokino-Sora_list_thumb.png",VTVGo Feed Day 2 Live (Commentary Live by Tokino Sora)
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/live/asiad_1_480p/chunks.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/06/Hoshimachi-Suisei_list_thumb.png",VTVGo Feed Day 2 Live (Commentary Live by Hoshimachi Suisei)
-https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_2_paid/live/asiad_2_480p/chunks.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1280?cb=20250201092935&path-prefix=vi",CCTV5
-https://cdn.qd.je/163189/cctv5
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi",CCTV5+
-https://cdn.qd.je/163189/cctv5p
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TBS (Host Broadcaster)
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS1
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",KBS2
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",MBC
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SBS
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TV Chosun
-https://tving-live-o2-xcdn.tving.com/o2/v1/019db8e5ba6c153d7865047a0cd7/019dd8e67247153d7865157cdbfbdc/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODk3NDQ4NTcsInBhdGgiOiIvbzIifQ.eznxG2sw9-wkB3cvWfaYyQYX7QK-qeEAWcUoYM5kGX8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SPOTV-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SPOTV 2-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Thairath 31
-http://3bb.engatetv.com:25461/hstn/line/17
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",PPTV 36
-http://3bb.engatetv.com:25461/hstn/line/21
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",NBT
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",T SPORTS 7
-https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",MCOT Channel 9
-https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",One31
-https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",MNB SPORTS
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",SUKAN-RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TDM Desportes
-https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",HOYTV
-https://hoytv-live-stream.hoy.tv/ch77/index.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",PTV SPORTS
-https://tvsen7.aynascope.net/Sports1/index.m3u8
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Achichi-Mela_list_thumb.png",Asian Games CH01 (Commentary Live by Aichichi Mela)
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Sorashina-Sopia_list_thumb.png",Asian Games CH02 (Commentary Live by Sorashina Sopia)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Suzuna-Tsuzuri_list_thumb.png",Asian Games CH03 (Commentary Live by Tsuzuri Suzuna)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2023/09/Hyakuto-Kyoko_list_thumb.png",Asian Games CH04 (Commentary Live by Hyakuto Kyoko)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Airani-Iofifteen_list_thumb.png",Asian Games CH05 (Commentary Live by Airani Iofifteen)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93dccb38f8c84d448d5a7422eb44462b:af8f1c6acedc34551a82f3bb49adfdea
-https://tglmp03.akamaized.net/out/v1/926637c1aba44cffa74adc74bf786816/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Ayunda-Risu_list_thumb.png",Asian Games CH06 (Commentary Live by Ayunda Risu)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f33acf338ec946fd921a85f870636399:a6c1a2e81fe941a9e2efd2bcad0d1532
-https://tglmp01.akamaized.net/out/v1/d43dbc5da1334ec088ed9eb5796eee7c/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kaela-Kovalskia_list_thumb.png",Asian Games CH07 (Commentary Live by Kaela Kovalskia)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=593abb95b362434f812e42e7780779b0:dd7e80e1d618d69631f21d04423dcab7
-https://tglmp02.akamaized.net/out/v1/3b1dd652def14c0d88ad4d65b8a63103/manifest.mpd
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://hololive.hololivepro.com/wp-content/uploads/2020/07/Kaela-Kovalskia_list_thumb.png",TVER Feed
-https://ssai-variants.streaks.jp/v5/tver-splive-tbs/e6411de5a93b4ec48df08302a7ed2f6e/99841754c95c4a4ca1c16a6a7dbccb59/manifest/13df2e5de86b5ff0c5c3522d82e73a5fbf55aac1/pro-mt-616-18887/fbd948bb-c51f-41e3-a72a-1d2c924778fc/3.m3u8?session=fbd948bb-c51f-41e3-a72a-1d2c924778fc&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZGdlIjoidHZlci1zcGxpdmUtdGJzLWxpdmUtY2RuLnR2ZXIuanAiLCJvZmZzZXQiOjl9.EI4sCDfiEPC7-L0ce-7kecfV4OM5W7_4KwMLtiKwT58
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Airport
-https://www.youtube.com/watch?v=LRgGBlcL4KU
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Chubu Centrair Airport
-https://www.youtube.com/watch?v=N1_qXtzWA30
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Skyline
-https://www.youtube.com/watch?v=X304dz1zrfU
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Skyline (West Gate)
-https://www.youtube.com/watch?v=cJd9IIu2vio
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Station
-https://www.youtube.com/watch?v=bEv1d0w_WJo
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Nagoya Station (Feed #2)
-https://www.youtube.com/@鉄道沿線の生活/live
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Hisaya Odori Park
-https://www.youtube.com/@trinitylive-camera/live
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Multiview Cam (Nagoya/Gifu/Mie)
-https://www.youtube.com/watch?v=ElmLqemMkng
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Aichi Skyline Expo
-https://www.youtube.com/channel/UClrlDg6oZw3d1zR_TNTRrdw/live
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Aichi Railway
-https://www.youtube.com/channel/UCL_mZGTOGGBk1l-I2k4ABsA/live
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Shizuoka Highway (Football)
-https://www.youtube.com/watch?v=6S4qvf97cbQ
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Shizuoka Highway (Football)
-https://www.youtube.com/watch?v=6_8ehEmYBYc
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Gifu (Football)
-https://www.youtube.com/watch?v=Ck9kfes-Jjw
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Tokyo (Equestrian)
-https://www.youtube.com/watch?v=dYpspgeXSaQ
-#EXTINF:-1 group-title="2026 Asian Games Aichi/Nagoya Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/2026_Asian_Games_logo.svg",Osaka
-https://www.youtube.com/watch?v=YIjxwMxWzgE
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Vietnamese
+https://www.youtube.com/@valorantchampionstourvietnam/live
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",English
+https://www.twitch.tv/valorant
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Japanese
+https://www.twitch.tv/valorant_jpn
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",French
+https://www.twitch.tv/valorant_fr
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Brazilian
+https://www.twitch.tv/valorant_br
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Korean
+https://www.youtube.com/@ValorantEsportsKR/live
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Chinese (Host Broadcasters)
+https://www.twitch.tv/valorantesports_cn
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Spanish (Latin America)
+https://www.twitch.tv/valorant_la
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Spanish
+https://www.twitch.tv/valorant_es
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Thai
+https://www.twitch.tv/valorant_th
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Turkish
+https://www.twitch.tv/valorant_tur
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #1)
+https://tfzp6gr3uomttgr31hpbafahdcmmcpf5gkmmzqczgs45upiu1ha5xpw.100ycdn.com/live-ws.kksmg.com/live/sdi4/playlist.m3u8?wsSession=5a990a7cee1048a1b5dcf335-179069079149733&wsIPSercert=97623faa6f7cf863a8277f1a90378291&wsBindIP=2&wsserid=1168059453709045959
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #2)
+https://tfzp4gr3uomttgr31hpbafaaueqjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=63cedb3cf067ff4c06f87cbd-179069131078968&wsIPSercert=97623faa6f7cf863a8277f1a90378291&wsBindIP=2&wsserid=1168059365211969658
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #3)
+https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=9cf6080ecc3677743a98c521-177458922539991&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568261681544
+#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #4)
+https://tfzs4gr3uomttgr31hpbafaaueqjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam2/playlist.m3u8?wsSession=f566b8b0a93d7923687b1cd6-179093047007637&wsIPSercert=77322fd225ff69c63f785c5e24bb11df&wsBindIP=2&wsserid=1168059365216164123
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",BLV Tumi
+https://www.youtube.com/@Tumiii/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Brim Canh Cụt
+https://www.youtube.com/@BrimCanhCut/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",FNS
+https://twitch.tv/gofns
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",TenZ
+https://twitch.tv/tenz
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Bomman (Mai Nam Hải)
+https://www.youtube.com/@Bomman/live
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Aosora Popo (TH)
+https://www.youtube.com/@aosorapopo/live
 
 #EXTINF:-1 group-title="Worlds 2026 Live",LOL JP
 https://www.twitch.tv/lolesportsjp
@@ -157,33 +79,6 @@ https://www.youtube.com/@feviknight/live
 https://www.twitch.tv/feviknight
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Co-Stream Feed Live",VSPO! Sendo Yuuhi (千燈ゆうひ)
 https://www.youtube.com/@yuuhi_sendo/live
-
-#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Vietnamese
-https://www.youtube.com/@valorantchampionstourvietnam/live
-#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",English
-https://www.twitch.tv/valorant
-#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Japanese
-https://www.twitch.tv/valorant_jpn
-#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #1)
-https://tfzp6gr3uomttgr31hpbafahdcmmcpf5gkmmzqczgs45upiu1ha5xpw.100ycdn.com/live-ws.kksmg.com/live/sdi4/playlist.m3u8?wsSession=5a990a7cee1048a1b5dcf335-179069079149733&wsIPSercert=97623faa6f7cf863a8277f1a90378291&wsBindIP=2&wsserid=1168059453709045959
-#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #2)
-https://tfzp4gr3uomttgr31hpbafaaueqjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/sdi6/playlist.m3u8?wsSession=63cedb3cf067ff4c06f87cbd-179069131078968&wsIPSercert=97623faa6f7cf863a8277f1a90378291&wsBindIP=2&wsserid=1168059365211969658
-#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #3)
-https://tfuj4gr5unmt1gc51hcjugrzdgpjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=9cf6080ecc3677743a98c521-177458922539991&wsIPSercert=9d83be5d14cae0b6303e2a1517084436&wsBindIP=2&wsserid=1168215568261681544
-#EXTINF:-1 group-title="2026 VCT Champions Shanghai Live" tvg-logo="https://byvn.net/2LZH",Shanghai (Mihoyo HQ) (Feed #4)
-https://tfzp4gr3uomttgr31hpbafaaueqjpptwzc3jpq731h45mqpssqmudp7so.100ycdn.com/live-ws.kksmg.com/live/webcam1/playlist.m3u8?wsSession=63cedb3cf067ff4c06f87cbd-179069135200568&wsIPSercert=97623faa6f7cf863a8277f1a90378291&wsBindIP=2&wsserid=1168059365211969658
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",BLV Tumi
-https://www.youtube.com/@Tumiii/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Brim Canh Cụt
-https://www.youtube.com/@BrimCanhCut/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",FNS
-https://twitch.tv/gofns
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",TenZ
-https://twitch.tv/tenz
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Bomman (Mai Nam Hải)
-https://www.youtube.com/@Bomman/live
-#EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Champions Shanghai Live",Aosora Popo (TH)
-https://www.youtube.com/@aosorapopo/live
 
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 VCT Game Changers Championship Live",Live Camera from São Paulo Airports
 https://www.youtube.com/watch?v=_l0YjLrK_ao
