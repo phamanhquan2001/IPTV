@@ -554,9 +554,9 @@ http://91.218.212.67:8000/stream
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://cdn-profiles.tunein.com/s246411/images/logog.png?t=151302" group-title="QUỐC TẾ" radio=true,Hit FM
 http://195.95.206.17/HitFM
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/KmEE8FKS6j.png" group-title="QUỐC TẾ" radio=true,Radio Rebelde
-https://icecast.teveo.cu/zrXXWK9F
+https://icecast.teveo.cu/kHKL7tWd
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/JYy3a2sgTL.jpg" group-title="QUỐC TẾ" radio=true,Radio Progreso
-https://icecast.teveo.cu/XjfW7qWN
+https://www.streamingcp.com:2000/stream/radioprogreso/;
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/B7dTgwMGWB.png" group-title="QUỐC TẾ" radio=true,Radio Reloj
 https://icecast.teveo.cu/b3jbfThq
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgGTM4xaW5frQmhEC_q_zbAN11RLCIwCtfCQ&s" group-title="QUỐC TẾ" radio=true,CMBF Radio Musical Nacional
