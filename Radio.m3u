@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Myanmar" radio=true,Myanmar Radio National Service
+https://mrtvott.com/30861a081f2beed8fdbbe889ffc0dea4---/cache/Myanma-Radio-AUD/master.m3u8
+#EXTINF:-1 group-title="Myanmar" radio=true,Mayyu FM
+https://mrtvott.com/30861a081f2beed8fdbbe889ffc0dea4---/cache/MAY-YU-RADIO-AUD/master.m3u8
+#EXTINF:-1 group-title="Myanmar" radio=true,Tha Pyay Radio
+https://mrtvott.com/30861a081f2beed8fdbbe889ffc0dea4---/cache/THA-PYAY-AUD/master.m3u8
+#EXTINF:-1 group-title="Myanmar" radio=true,Myanmar Radio International Service
+https://mrtvott.com/30861a081f2beed8fdbbe889ffc0dea4---/cache/MRI-CHANNEL-AUD/master.m3u8
+#EXTINF:-1 group-title="Myanmar" radio=true,Myanmar National Races Radio 1
+https://mrtvott.com/30861a081f2beed8fdbbe889ffc0dea4---/cache/UPP-TINETIN-AUD/master.m3u8
+#EXTINF:-1 group-title="Myanmar" radio=true,Myanmar National Races Radio 2
+https://mrtvott.com/30861a081f2beed8fdbbe889ffc0dea4---/cache/LOW-TINEYIN-AUD/master.m3u8
+#EXTINF:-1 group-title="Myanmar" radio=true,Myanmar Visual Radio
+https://mrtvott.com/30861a081f2beed8fdbbe889ffc0dea4---/cache/VoiceVisualRadio/master.m3u8
+
 #EXTINF:-1 tvg-id="KVVN" tvg-name="KVVN 1430 AM" tvg-logo="https://kvvn.net/wp-content/uploads/2021/01/KVVN-Logo.png" group-title="RẠP XIẾC BA QUE" radio=true,KVVN 1430 AM
 https://us2.maindigitalstream.com/ssl/KVVN
 #EXTINF:-1 tvg-id="KRVA" tvg-name="KRVA 1600 AM" tvg-logo="https://vva1600.com/wp-content/uploads/2021/01/KRVA-Logo.png" group-title="RẠP XIẾC BA QUE" radio=true,KRVA 1600 AM
