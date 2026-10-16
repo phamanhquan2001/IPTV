@@ -50,19 +50,19 @@ https://www.twitch.tv/riotgames
 #EXTINF:-1 group-title="Worlds 2026 Live",Vietnamese
 https://www.youtube.com/@lolesports_vn/live
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",KDAL Tower Texas Airport
-https://www.liveatc.net/play/asx/kdfw1_kdal_twr_123700.asx
+http://d.liveatc.net/kdfw1_kdal_twr_123700.mp3
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",LAX Tower (Helicopter)
-https://www.liveatc.net/play/asx/klax3n_heli.asx
+http://d.liveatc.net/klax3n_heli.mp3
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",LAX ATC (ATIS)
-https://www.liveatc.net/play/asx/klax4n_atis_arr.asx
+http://d.liveatc.net/klax4n_atis_arr.mp3
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",LaGuardia Airport ATC (ATIS)
-https://www.liveatc.net/play/asx/klga_118_atis_dep.asx
+http://d.liveatc.net/klga_118_atis_dep.mp3
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",LaGuardia Airport ATC (Tower)
-https://www.liveatc.net/play/asx/klga_twr.asx
+http://d.liveatc.net/klga_twr.mp3
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",KJFK ATC (ATIS)
-https://www.liveatc.net/play/asx/kjfk_atis.asx
+http://d.liveatc.net/kjfk_atis.mp3
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",KJFK ATC (Tower)
-https://www.liveatc.net/play/asx/kjfk_twr.asx
+http://d.liveatc.net/kjfk_twr.mp3
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",Live Camera from Los Angeles
 https://www.youtube.com/watch?v=YHWJd_DNgKY
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="Worlds 2026 Live",LAX Airport Constriction Site
