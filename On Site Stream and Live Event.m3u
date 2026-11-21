@@ -1,34 +1,20 @@
 #EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",VTV6 - National Sports Channel
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}",HTV Thể Thao
 https://vmttv.dpdns.org/tv360/?id=htv-the-thao
-#EXTINF:-1 tvg-id="htv1" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Báo và PTTH Thành Phố Hồ Chí Minh
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=190
-#EXTINF:-1 tvg-id="htv2hd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
-https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
-#EXTINF:-1 tvg-id="htv3" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Báo và PTTH Thành Phố Hồ Chí Minh
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=192
-#EXTINF:-1 tvg-id="htv4" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV4 - Báo và PTTH Thành Phố Hồ Chí Minh
+#EXTINF:-1 tvg-id="htv4" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}",HTV4 - Báo và PTTH Thành Phố Hồ Chí Minh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1 tvg-id="htv7hd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 - Báo và PTTH Thành Phố Hồ Chí Minh
-https://freem3u.xyz/api/live/play.m3u8?vid=193
-#EXTINF:-1 tvg-id="htv9hd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 - Báo và PTTH Thành Phố Hồ Chí Minh
-https://freem3u.xyz/api/live/play.m3u8?vid=194
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=13
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
-https://freem3u.xyz/api/live/play.m3u8?vid=11
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ nữ HD
-https://freem3u.xyz/api/live/play.m3u8?vid=12
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du lịch Cuộc sống HD
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}",HTVC Du lịch Cuộc sống HD
 https://freem3u.xyz/api/live/play.m3u8?vid=133
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg", HTVC Phim HD
-https://freem3u.xyz/api/live/play.m3u8?vid=15
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg", HTVC Plus HD
+#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",HTVC Plus HD
 https://freem3u.xyz/api/live/play.m3u8?vid=132
+#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Môn eSports - Liên Quân Mobile
+https://www.youtube.com/@LienQuanMobilesportsGarena/live
 
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 FIFA Men's U17 World Cup Live",Caracol Television
 http://181.78.14.26:4000/play/a00d/index.m3u8
