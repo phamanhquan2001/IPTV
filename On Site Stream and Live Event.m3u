@@ -13,24 +13,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=9
 https://freem3u.xyz/api/live/play.m3u8?vid=133
 #EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",HTVC Plus HD
 https://freem3u.xyz/api/live/play.m3u8?vid=132
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Indoor Handballs (Commentary Live by MEKPARK Unit B)
-https://www.youtube.com/watch?v=1lm_ZAqusQo
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Bodybuilding (Commentary Live by MEKPARK-ACHORA)
-https://www.youtube.com/watch?v=kEi1uaKS5yw
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Indoor Sepak Takraw (Commentary Live by DEV_IS REGLOSS)
-https://www.youtube.com/watch?v=piQuDqdIXwg
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Tug-of-War (Commentary Live by DEV_IS FLOW GLOW)
-https://www.youtube.com/watch?v=VFGSRdGjMEs
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Men's Football (Commentary Live by Hoshimachi Suisei)
-https://www.youtube.com/watch?v=0263BswF354
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Futsal (Commentary Live by Tokino Sora)
-https://www.youtube.com/watch?v=RHgUJQsCvbU
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Basketball 5x5 (Commentary Live by Sakura Miko)
-https://www.youtube.com/watch?v=6L4qxiuTDpY
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Swimming (Commentary Live by HoloAN)
-https://www.youtube.com/watch?v=GaSDZEYNp6Y
-#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",Tennis (Commentary Live by HoloX)
-https://www.youtube.com/watch?v=8IgHfFQUXzE
+#EXTINF:-1 tvg-id="htvcplushd" group-title="2026 Hololive Wacha Wacha Highschool National Sports Games Festival Live" tvg-logo="https://collabo-cafe.com/wp-content/uploads/hololive-event-wacha-wacha-gakuensai-keio-arena-2026-eyecatch.jpg",HTVTT (YouTube)
+https://www.youtube.com/@HTVTheThaoOfficial/live
 
 #EXTINF:-1 tvg-id="vtv2-hd" group-title="2026 FIFA Men's U17 World Cup Live",Caracol Television
 http://181.78.14.26:4000/play/a00d/index.m3u8
